@@ -13,11 +13,6 @@ third_nav_title: PSSG (Parents)
 
 An exciting and effective partnership between home and school
 
-![](/images/Mrs%20June%20Cheong-%20Praying%20Parents%20IC.jpg)
-![](/images/Mrs%20Mae%20Oh.jpg)
-![](/images/Mr%20Allan%20Ang.jpg)
-
-  
 
 ### Our Mission:
 
@@ -373,48 +368,51 @@ For more information, please feel free to email [plmgss.pssg@gmail.com](mailto:
     <td class="tg-sxkx">Chairperson</td>
   </tr>
   <tr>
-    <td class="tg-sxkx"><img src="https://www.plmgss.moe.edu.sg/qql/slot/u173/Partners/PSSG/2021/Mrs%20June%20Cheong-%20Praying%20Parents%20IC.jpeg" alt="Mrs June Cheong- Praying Parents IC.jpeg" width="133" height="200"><br>Mrs June Cheong</td>
+    <td class="tg-sxkx"><img src="/images/Mrs%20June%20Cheong-%20Praying%20Parents%20IC.jpg" alt="Mrs June Cheong- Praying Parents IC.jpeg" width="133" height="200"><br>Mrs June Cheong</td>
     <td class="tg-sxkx">Vice Chairperson</td>
   </tr>
   <tr>
-    <td class="tg-sxkx"><img src="https://www.plmgss.moe.edu.sg/qql/slot/u173/Partners/PSSG/2022/Mrs%20Mae%20Oh.jpg" alt="Mrs Mae Oh.jpg" width="133" height="200"><br>Mrs Mae Oh</td>
+    <td class="tg-sxkx"><img src="/images/Mrs%20Mae%20Oh.jpg" alt="Mrs Mae Oh.jpg" width="133" height="200"><br>Mrs Mae Oh</td>
     <td class="tg-sxkx">Secretary</td>
   </tr>
   <tr>
-    <td class="tg-sxkx"><img src="https://www.plmgss.moe.edu.sg/qql/slot/u173/Partners/PSSG/2022/Mr%20Allan%20Ang.jpg" alt="Mr Allan Ang.jpg" width="133" height="200"><br>Mr Allan Ang</td>
+    <td class="tg-sxkx"><img src="/images/Mr%20Allan%20Ang.jpg" alt="Mr Allan Ang.jpg" width="133" height="200"><br>Mr Allan Ang</td>
     <td class="tg-sxkx">Fathers@School IC</td>
   </tr>
   <tr>
-    <td class="tg-sxkx"><img src="https://www.plmgss.moe.edu.sg/qql/slot/u173/Partners/PSSG/2021/Mrs%20Yolanda%20Gooi-%20Member.jpg" alt="Mrs Yolanda Gooi- Member.jpg" width="133" height="200"><br>Mrs Yolanda Gooi</td>
+    <td class="tg-sxkx"><img src="/images/Mrs%20Yolanda%20Gooi-%20Member.jpg" alt="Mrs Yolanda Gooi- Member.jpg" width="133" height="200"><br>Mrs Yolanda Gooi</td>
     <td class="tg-sxkx">Praying Parents IC</td>
   </tr>
   <tr>
-    <td class="tg-sxkx"><img src="https://www.plmgss.moe.edu.sg/qql/slot/u173/Partners/PSSG/2022/Mrs%20Josephine%20Eng.jpg" alt="Mrs Josephine Eng.jpg" width="133" height="200"><br>Mrs Josephine Eng</td>
+    <td class="tg-sxkx"><img src="/images/Mrs%20Josephine%20Eng.jpg" alt="Mrs Josephine Eng.jpg" width="133" height="200"><br>Mrs Josephine Eng</td>
     <td class="tg-sxkx">Member</td>
   </tr>
   <tr>
-    <td class="tg-sxkx"><img src="https://www.plmgss.moe.edu.sg/qql/slot/u173/Partners/PSSG/2022/Mrs%20Audrey%20Heng.jpg" alt="Mrs Audrey Heng.jpg" width="133" height="200"><br>Mrs Audrey Heng</td>
+    <td class="tg-sxkx"><img src="/images/Mrs%20Audrey%20Heng.jpg" alt="Mrs Audrey Heng.jpg" width="133" height="200"><br>Mrs Audrey Heng</td>
     <td class="tg-sxkx">Member</td>
   </tr>
   <tr>
-    <td class="tg-sxkx"><img src="https://www.plmgss.moe.edu.sg/qql/slot/u173/Partners/PSSG/2017/Mrs%20Lim%20Phui%20Fong.JPG" alt="Mrs Lim Phui Fong.JPG" width="133" height="200"><br>Mrs Lim Phui Fong</td>
+    <td class="tg-sxkx"><img src="/images/Mrs%20Lim%20Phui%20Fong.jpg" alt="Mrs Lim Phui Fong.JPG" width="133" height="200"><br>Mrs Lim Phui Fong</td>
     <td class="tg-sxkx">PSSG Advisor</td>
   </tr>
   <tr>
-    <td class="tg-sxkx"><img src="https://www.plmgss.moe.edu.sg/qql/slot/u173/Partners/PSSG/2017/Mrs%20Khoo%20Ying%20Ying.JPG" alt="Mrs Khoo Ying Ying.JPG" width="133" height="200"><br>Mrs Khoo Ying Ying</td>
+    <td class="tg-sxkx"><img src="/images/Mrs%20Khoo%20Ying%20Ying.jpg" alt="Mrs Khoo Ying Ying.JPG" width="133" height="200"><br>Mrs Khoo Ying Ying</td>
     <td class="tg-sxkx">PSSG Alumni Advisor</td>
   </tr>
   <tr>
-    <td class="tg-sxkx"><img src="https://www.plmgss.moe.edu.sg/qql/slot/u173/Partners/PSSG/2018/Mrs%20Linda%20Ang.JPG" alt="Mrs Linda Ang.JPG" width="133" height="200"><br>Mrs Linda Ang</td>
+    <td class="tg-sxkx"><img src="/images/Mrs%20Linda%20Ang.jpg" alt="Mrs Linda Ang.JPG" width="133" height="200"><br>Mrs Linda Ang</td>
     <td class="tg-sxkx">PSSG Alumni Representative</td>
   </tr>
   <tr>
-    <td class="tg-sxkx"><img src="https://www.plmgss.moe.edu.sg/qql/slot/u173/Partners/PSSG/2020/Mr%20Lim%20Kok%20Khen.jpg" alt="Mr Lim Kok Khen.jpg" width="133" height="200"><br>Mr Lim Kok Khen</td>
+    <td class="tg-sxkx"><img src="/images/Mr%20Lim%20Kok%20Khen.jpg" alt="Mr Lim Kok Khen.jpg" width="133" height="200"><br>Mr Lim Kok Khen</td>
     <td class="tg-sxkx">PSSG Alumni</td>
   </tr>
   <tr>
-    <td class="tg-sxkx"><img src="https://www.plmgss.moe.edu.sg/qql/slot/u173/Partners/PSSG/2018/Mr%20Matthew%20Lee.JPG" alt="Mr Matthew Lee.JPG" width="133" height="200"><br>Mr Mathew Lee</td>
+    <td class="tg-sxkx"><img src="/images/Mr%20Matthew%20Lee.jpg" alt="Mr Matthew Lee.JPG" width="133" height="200"><br>Mr Mathew Lee</td>
     <td class="tg-sxkx">PSSG Alumni</td>
   </tr>
 </tbody>
 </table>
+
+
+  
