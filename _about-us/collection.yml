@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Agape Concert Hall.md
       - Board of Management & Chaplain/.keep
       - Board of Management & Chaplain/Our Board of Management and Chaplains.md
       - Board of Management & Chaplain/Non Financial Information.md
