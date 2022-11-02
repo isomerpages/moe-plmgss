@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - PSSG (Parents)/PSSG (Parents).md
       - PSSG (Parents)/.keep
       - Agape Concert Hall.md
       - Board of Management & Chaplain/.keep
