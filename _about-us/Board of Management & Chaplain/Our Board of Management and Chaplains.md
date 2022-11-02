@@ -24,3 +24,49 @@ third_nav_title: Board of Management & Chaplain
 <img src="/images/Mrs%20Lee%20Boon%20Siew%20(Member).jpg" style="width:40%">
 <figcaption>Mrs Lee Boon Siew</figcaption>
 </figure>
+
+<figure>
+<img src="/images/Dr%20Daniel%20Fung%20(Member).jpg" style="width:40%">
+<figcaption>Dr Daniel Fung</figcaption>
+</figure>
+
+<figure>
+<img src="/images/Rev%20Kow.jpg" style="width:40%">
+<figcaption>Rev Kow Shih Ming</figcaption>
+</figure>
+
+<figure>
+<img src="/images/Guan%20Yeow%20Kwang.jpg" style="width:40%">
+<figcaption>Mr Guan Yeow Kwang</figcaption>
+</figure>
+
+<figure>
+<img src="/images/Mrs%20Annie%20Teo%20(Member).jpg" style="width:40%">
+<figcaption>Mrs Annie Teo</figcaption>
+</figure>
+
+<figure>
+<img src="/images/Rev%20David%20Koh.jpg" style="width:40%">
+<figcaption>Rev David Koh</figcaption>
+</figure>
+
+### Secretary
+
+<figure>
+<img src="/images/Ms%20Ng%20bom.jpg" style="width:40%">
+<figcaption>Ms Amy Ng</figcaption>
+</figure>
+
+### Assistant Secretary
+
+
+<figure>
+<img src="/images/Mrs%20Joyce%20Ng%20bom.jpg" style="width:40%">
+<figcaption>Mrs Joyce Ang</figcaption>
+</figure>
+
+### Auditor
+
+<center>SH Tang & Associates LLP</center
+
+
