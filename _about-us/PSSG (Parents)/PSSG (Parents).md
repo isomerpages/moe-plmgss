@@ -318,3 +318,20 @@ Our objectives:
 
 <img src="/images/pssg02.jpg" 
      style="width:50%">
+		 
+Launched in Oct 2010, the PSSG Alumni aims to provide a platform for parents whose daughters have graduated from PL to maintain close link with the school and each other.
+
+The PSSG Alumni do this by:
+
+1. Serving as parent-volunteers in various ways as and when needed
+
+2. Sharing as friends/mentors experiences and resources with parents whose daughters are leaving or have left PL for post-secondary education. 
+
+  
+
+### PSSG Membership drive  
+
+
+[PSSG publicity and message from 2022 Chairperson]([](/files/2022%20PSSG%20Welcome.pdf))
+
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/658803275?h=847fc60b2c" width="640" height="360" frameborder="0" allowfullscreen></iframe>
