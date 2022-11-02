@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Our School/Our 4 Strategic Thrusts.md
       - Our School/Our Desired Outcomes of Education.md
       - Our School/Our Philosophy.md
       - Our School/Our Mission, Vision & Values.md
