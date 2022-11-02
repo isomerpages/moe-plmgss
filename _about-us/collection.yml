@@ -2,18 +2,18 @@ collections:
   about-us:
     output: true
     order:
-      - Our School/Our School Prayer.md
-      - Our School/Our Cheer.md
-      - Our School/Our Songs.md
-      - Our School/Our Houses.md
-      - Our School/Our Corporate Video.md
-      - Our School/Our School Magazines.md
-      - Our School/Our Campus.md
-      - Our School/Our 4 Strategic Thrusts.md
-      - Our School/Our Desired Outcomes of Education.md
-      - Our School/Our Philosophy.md
-      - Our School/Our Mission, Vision & Values.md
-      - Our School/Motto & Crest.md
-      - Our School/Our Heritage.md
       - Our School/.keep
+      - Our School/Our Heritage.md
+      - Our School/Motto & Crest.md
+      - Our School/Our Mission, Vision & Values.md
+      - Our School/Our Philosophy.md
+      - Our School/Our Desired Outcomes of Education.md
+      - Our School/Our 4 Strategic Thrusts.md
+      - Our School/Our Campus.md
+      - Our School/Our School Magazines.md
+      - Our School/Our Corporate Video.md
+      - Our School/Our Houses.md
+      - Our School/Our Songs.md
+      - Our School/Our Cheer.md
+      - Our School/Our School Prayer.md
       - Our Principal.md
