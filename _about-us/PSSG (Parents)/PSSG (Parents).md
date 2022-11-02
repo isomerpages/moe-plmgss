@@ -5,8 +5,7 @@ description: ""
 third_nav_title: PSSG (Parents)
 ---
 ### PL Parent-School Support Group (PSSG)  
-<img src="/images/pssg01.jpg" 
-     style="width:50%">
+<img style="width:50%" src="/images/pssg01.jpg">
 		 
 		 
 ### Our Vision:
@@ -16,9 +15,9 @@ An exciting and effective partnership between home and school
 
 ### Our Mission:
 
-To **LINK** up all parents to achieve the school’s mission.
+To&nbsp;**LINK**&nbsp;up all parents to achieve the school’s mission.
 
-(**LINK** – **L**inking **I**ntentionally through **N**etworking and **K**oinonia)
+(**LINK**&nbsp;–&nbsp;**L**inking&nbsp;**I**ntentionally through&nbsp;**N**etworking and&nbsp;**K**oinonia)
 
   
 
@@ -127,7 +126,7 @@ To **LINK** up all parents to achieve the school’s mission.
   <tr>
     <td class="tg-sxkx">4.1</td>
     <td class="tg-sxkx">Sec 1 PMP (online)</td>
-    <td class="tg-sxkx" rowspan="2">6 Jan (Thu)</td>
+    <td rowspan="2" class="tg-sxkx">6 Jan (Thu)</td>
   </tr>
   <tr>
     <td class="tg-sxkx">4.2</td>
@@ -136,7 +135,7 @@ To **LINK** up all parents to achieve the school’s mission.
   <tr>
     <td class="tg-sxkx">4.3</td>
     <td class="tg-sxkx">Sec 3 PMP (online)</td>
-    <td class="tg-sxkx" rowspan="2">7 Jan (Fri)</td>
+    <td rowspan="2" class="tg-sxkx">7 Jan (Fri)</td>
   </tr>
   <tr>
     <td class="tg-sxkx">4.4</td>
@@ -240,7 +239,7 @@ To **LINK** up all parents to achieve the school’s mission.
 </tbody>
 </table>
 
-*Guiding & Empowering students for Affiliation and Resilience to Unlock their Potential (GEAR-UP) Programme (mentoring and interest based activities for high support students, Wednesdays, 3-5 pm)  
+*Guiding &amp; Empowering students for Affiliation and Resilience to Unlock their Potential (GEAR-UP) Programme (mentoring and interest based activities for high support students, Wednesdays, 3-5 pm)  
   
 **Our Weekly/Monthly Activities (during school term)**
 
@@ -248,7 +247,7 @@ To **LINK** up all parents to achieve the school’s mission.
 Praying Parents@PL meets every Monday morning, via Zoom at 8am for a time of prayer and fellowship (7.30 am at SFE room, if onsite). If you have a desire to uphold the school in prayer, join the Praying Parents!  
       
     
-2.  **Fathers@School** [Usually Third Wed of Month, during School Term, 8 – 9 am via Zoom, (7.30 - 8.30am, if onsite)]
+2.  **Fathers@School**&nbsp;[Usually Third Wed of Month, during School Term, 8 – 9 am via Zoom, (7.30 - 8.30am, if onsite)]
       
 Our objectives:  
 * To know other fathers in the school  
@@ -315,8 +314,7 @@ Our objectives:
 
 ### PSSG Alumni
 
-<img src="/images/pssg02.jpg" 
-     style="width:50%">
+<img style="width:50%" src="/images/pssg02.jpg">
 		 
 Launched in Oct 2010, the PSSG Alumni aims to provide a platform for parents whose daughters have graduated from PL to maintain close link with the school and each other.
 
@@ -324,7 +322,7 @@ The PSSG Alumni do this by:
 
 1. Serving as parent-volunteers in various ways as and when needed
 
-2. Sharing as friends/mentors experiences and resources with parents whose daughters are leaving or have left PL for post-secondary education. 
+2. Sharing as friends/mentors experiences and resources with parents whose daughters are leaving or have left PL for post-secondary education.&nbsp;
 
   
 
@@ -333,16 +331,16 @@ The PSSG Alumni do this by:
 
 [PSSG publicity and message from 2022 Chairperson]([](/files/2022%20PSSG%20Welcome.pdf))
 
-<iframe title="vimeo-player" src="https://player.vimeo.com/video/658803275?h=847fc60b2c" width="640" height="360" frameborder="0" allowfullscreen></iframe>
+<iframe allowfullscreen="" frameborder="0" height="360" width="640" src="https://player.vimeo.com/video/658803275?h=847fc60b2c" title="vimeo-player"></iframe>
 
 Join us to be a part of the PL’s extended family:  
 
-1.  Click on the link PSSG Membership 2022 [https://go.gov.sg/plpssg2022](https://go.gov.sg/plpssg2022) to register.
+1.  Click on the link PSSG Membership 2022&nbsp;[https://go.gov.sg/plpssg2022](https://go.gov.sg/plpssg2022)&nbsp;to register.
 2.  The nominal fee of $10 per family upon application of membership has been waived for 2022 in view of the COVID situation.  
     
 
   
-For more information, please feel free to email [plmgss.pssg@gmail.com](mailto:plmgss.pssg@gmail.com)
+For more information, please feel free to email&nbsp;[plmgss.pssg@gmail.com](mailto:plmgss.pssg@gmail.com)
 
 ### PSSG Executive Committee Members 2022
 
@@ -364,55 +362,77 @@ For more information, please feel free to email [plmgss.pssg@gmail.com](mailto:
 </thead>
 <tbody>
   <tr>
-    <td class="tg-sxkx"><img src="/images/Mr%20Ivan%20Ngoo-%20Member.jpg" alt="Mr Ivan Ngoo- Member.jpg" width="133" height="200"><br>Mr Ivan Ngoo<br></td>
+    <td class="tg-sxkx"><img height="200" width="133" alt="Mr Ivan Ngoo- Member.jpg" src="/images/Mr%20Ivan%20Ngoo-%20Member.jpg"><br>Mr Ivan Ngoo<br></td>
     <td class="tg-sxkx">Chairperson</td>
   </tr>
   <tr>
-    <td class="tg-sxkx"><img src="/images/Mrs%20June%20Cheong-%20Praying%20Parents%20IC.jpg" alt="Mrs June Cheong- Praying Parents IC.jpeg" width="133" height="200"><br>Mrs June Cheong</td>
+    <td class="tg-sxkx"><img height="200" width="133" alt="Mrs June Cheong- Praying Parents IC.jpeg" src="/images/Mrs%20June%20Cheong-%20Praying%20Parents%20IC.jpg"><br>Mrs June Cheong</td>
     <td class="tg-sxkx">Vice Chairperson</td>
   </tr>
   <tr>
-    <td class="tg-sxkx"><img src="/images/Mrs%20Mae%20Oh.jpg" alt="Mrs Mae Oh.jpg" width="133" height="200"><br>Mrs Mae Oh</td>
+    <td class="tg-sxkx"><img height="200" width="133" alt="Mrs Mae Oh.jpg" src="/images/Mrs%20Mae%20Oh.jpg"><br>Mrs Mae Oh</td>
     <td class="tg-sxkx">Secretary</td>
   </tr>
   <tr>
-    <td class="tg-sxkx"><img src="/images/Mr%20Allan%20Ang.jpg" alt="Mr Allan Ang.jpg" width="133" height="200"><br>Mr Allan Ang</td>
+    <td class="tg-sxkx"><img height="200" width="133" alt="Mr Allan Ang.jpg" src="/images/Mr%20Allan%20Ang.jpg"><br>Mr Allan Ang</td>
     <td class="tg-sxkx">Fathers@School IC</td>
   </tr>
   <tr>
-    <td class="tg-sxkx"><img src="/images/Mrs%20Yolanda%20Gooi-%20Member.jpg" alt="Mrs Yolanda Gooi- Member.jpg" width="133" height="200"><br>Mrs Yolanda Gooi</td>
+    <td class="tg-sxkx"><img height="200" width="133" alt="Mrs Yolanda Gooi- Member.jpg" src="/images/Mrs%20Yolanda%20Gooi-%20Member.jpg"><br>Mrs Yolanda Gooi</td>
     <td class="tg-sxkx">Praying Parents IC</td>
   </tr>
   <tr>
-    <td class="tg-sxkx"><img src="/images/Mrs%20Josephine%20Eng.jpg" alt="Mrs Josephine Eng.jpg" width="133" height="200"><br>Mrs Josephine Eng</td>
+    <td class="tg-sxkx"><img height="200" width="133" alt="Mrs Josephine Eng.jpg" src="/images/Mrs%20Josephine%20Eng.jpg"><br>Mrs Josephine Eng</td>
     <td class="tg-sxkx">Member</td>
   </tr>
   <tr>
-    <td class="tg-sxkx"><img src="/images/Mrs%20Audrey%20Heng.jpg" alt="Mrs Audrey Heng.jpg" width="133" height="200"><br>Mrs Audrey Heng</td>
+    <td class="tg-sxkx"><img height="200" width="133" alt="Mrs Audrey Heng.jpg" src="/images/Mrs%20Audrey%20Heng.jpg"><br>Mrs Audrey Heng</td>
     <td class="tg-sxkx">Member</td>
   </tr>
   <tr>
-    <td class="tg-sxkx"><img src="/images/Mrs%20Lim%20Phui%20Fong.jpg" alt="Mrs Lim Phui Fong.JPG" width="133" height="200"><br>Mrs Lim Phui Fong</td>
+    <td class="tg-sxkx"><img height="200" width="133" alt="Mrs Lim Phui Fong.JPG" src="/images/Mrs%20Lim%20Phui%20Fong.jpg"><br>Mrs Lim Phui Fong</td>
     <td class="tg-sxkx">PSSG Advisor</td>
   </tr>
   <tr>
-    <td class="tg-sxkx"><img src="/images/Mrs%20Khoo%20Ying%20Ying.jpg" alt="Mrs Khoo Ying Ying.JPG" width="133" height="200"><br>Mrs Khoo Ying Ying</td>
+    <td class="tg-sxkx"><img height="200" width="133" alt="Mrs Khoo Ying Ying.JPG" src="/images/Mrs%20Khoo%20Ying%20Ying.jpg"><br>Mrs Khoo Ying Ying</td>
     <td class="tg-sxkx">PSSG Alumni Advisor</td>
   </tr>
   <tr>
-    <td class="tg-sxkx"><img src="/images/Mrs%20Linda%20Ang.jpg" alt="Mrs Linda Ang.JPG" width="133" height="200"><br>Mrs Linda Ang</td>
+    <td class="tg-sxkx"><img height="200" width="133" alt="Mrs Linda Ang.JPG" src="/images/Mrs%20Linda%20Ang.jpg"><br>Mrs Linda Ang</td>
     <td class="tg-sxkx">PSSG Alumni Representative</td>
   </tr>
   <tr>
-    <td class="tg-sxkx"><img src="/images/Mr%20Lim%20Kok%20Khen.jpg" alt="Mr Lim Kok Khen.jpg" width="133" height="200"><br>Mr Lim Kok Khen</td>
+    <td class="tg-sxkx"><img height="200" width="133" alt="Mr Lim Kok Khen.jpg" src="/images/Mr%20Lim%20Kok%20Khen.jpg"><br>Mr Lim Kok Khen</td>
     <td class="tg-sxkx">PSSG Alumni</td>
   </tr>
   <tr>
-    <td class="tg-sxkx"><img src="/images/Mr%20Matthew%20Lee.jpg" alt="Mr Matthew Lee.JPG" width="133" height="200"><br>Mr Mathew Lee</td>
+    <td class="tg-sxkx"><img height="200" width="133" alt="Mr Matthew Lee.JPG" src="/images/Mr%20Matthew%20Lee.jpg"><br>Mr Mathew Lee</td>
     <td class="tg-sxkx">PSSG Alumni</td>
   </tr>
 </tbody>
 </table>
 
+### Photos of events in 2021
 
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQuE4NO-a5VTuuuNWifbrINLMEOya78RSETXvqQGwORv5NRj_7eUKGM6eaBfxY8eRNjS-JV5TCp70n7/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+
+### ### Resources for Parents
+
+Please click on links to view useful information for parents to support your children through secondary and post-secondary schooling years.  
   
+
+*   [ICT in Schools: To Use or Not to Use?](https://schoolbag.sg/story/ict-in-schools-to-use-or-not-to-use)  
+    
+*   [When sibling rivalry causes problematic behaviour…](https://schoolbag.sg/story/when-sibling-rivalry-causes-problematic-behaviour)  
+    
+*   [When family problems affect children in school](https://schoolbag.sg/story/when-family-problems-affect-children-in-school#.VYtChqad47O)  
+    
+*   [Are you a Saviour Mum or Dad?](https://schoolbag.sg/story/are-you-a-saviour-mum-or-dad)  
+    
+*   [Communicating with schools through Parent Support Groups](https://www.schoolbag.sg/story/communicating-with-schools-through-parent-support-groups)  
+    
+*   [Speech by Mr Heng Swee Keat, Minister for Education, at the MOE ExCEL Parent Support Group Conference 2014, at Suntec Convention Centre on 12 April 2014](https://ccesinspire.blogspot.sg/2014/04/parent-support-group-psg-conference-12.html)  
+    
+*   [New Website for Parents and Resource Pack for Schools on Home-School-Community Partnership](https://www.moe.gov.sg/news/press-releases/new-website-for-parents-and-resource-pack-for-schools-on-home-school-community-partnership)  
+    
+*   [The Home-School Team: An Emphasis on Parent Involvement.](https://www.edutopia.org/home-school-team)
