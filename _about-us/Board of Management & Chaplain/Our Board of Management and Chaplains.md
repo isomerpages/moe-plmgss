@@ -67,6 +67,4 @@ third_nav_title: Board of Management & Chaplain
 
 ### Auditor
 
-<center>SH Tang & Associates LLP</center
-
-
+<center>SH Tang & Associates LLP</center>
