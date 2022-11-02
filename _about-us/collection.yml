@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Our School/Our School Prayer.md
       - Our School/Our Cheer.md
       - Our School/Our Songs.md
       - Our School/Our Houses.md
