@@ -335,3 +335,14 @@ The PSSG Alumni do this by:
 [PSSG publicity and message from 2022 Chairperson]([](/files/2022%20PSSG%20Welcome.pdf))
 
 <iframe title="vimeo-player" src="https://player.vimeo.com/video/658803275?h=847fc60b2c" width="640" height="360" frameborder="0" allowfullscreen></iframe>
+
+Join us to be a part of the PL’s extended family:  
+
+1.  Click on the link PSSG Membership 2022 [https://go.gov.sg/plpssg2022](https://go.gov.sg/plpssg2022) to register.
+2.  The nominal fee of $10 per family upon application of membership has been waived for 2022 in view of the COVID situation.  
+    
+
+  
+For more information, please feel free to email [plmgss.pssg@gmail.com](mailto:plmgss.pssg@gmail.com)
+
+### PSSG Executive Committee Members 2022
