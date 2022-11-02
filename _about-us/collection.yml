@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Our School/Our Houses.md
       - Our School/Our Corporate Video.md
       - Our School/Our School Magazines.md
       - Our School/Our Campus.md
