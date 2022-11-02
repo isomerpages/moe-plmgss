@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Our School/Motto & Crest.md
       - Our School/Our Heritage.md
       - Our School/.keep
       - Our Principal.md
