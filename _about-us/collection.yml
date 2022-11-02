@@ -2,9 +2,9 @@ collections:
   about-us:
     output: true
     order:
-      - Board of Management & Chaplain/Non Financial Information.md
-      - Board of Management & Chaplain/Our Board of Management and Chaplains.md
       - Board of Management & Chaplain/.keep
+      - Board of Management & Chaplain/Our Board of Management and Chaplains.md
+      - Board of Management & Chaplain/Non Financial Information.md
       - Published News.md
       - Year and Monthly Themes.md
       - Our Staff/Our Staff.md
