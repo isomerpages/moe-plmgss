@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Board of Management & Chaplain/.keep
       - Published News.md
       - Year and Monthly Themes.md
       - Our Staff/Our Staff.md
