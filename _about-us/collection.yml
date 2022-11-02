@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Published News.md
       - Year and Monthly Themes.md
       - Our Staff/Our Staff.md
       - Our Staff/.keep
