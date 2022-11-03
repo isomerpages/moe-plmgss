@@ -2,6 +2,7 @@ collections:
   instructional-programmes:
     output: true
     order:
+      - IP Overview/Homework Policy.md
       - IP Overview/Enhanced Enrichment.md
       - IP Overview/ACE (Math & Science).md
       - IP Overview/PL21.md
