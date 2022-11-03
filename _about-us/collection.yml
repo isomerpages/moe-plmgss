@@ -2,12 +2,12 @@ collections:
   about-us:
     output: true
     order:
-      - School Admission/International Students.md
-      - School Admission/Returning Singaporeans.md
-      - School Admission/Direct School Admission (DSA SEC).md
-      - School Admission/Local Students School Transfer for Secondary 2 or 3.md
-      - School Admission/Local Students Secondary One (S1) Posting.md
       - School Admission/.keep
+      - School Admission/Local Students Secondary One (S1) Posting.md
+      - School Admission/Local Students School Transfer for Secondary 2 or 3.md
+      - School Admission/Direct School Admission (DSA SEC).md
+      - School Admission/Returning Singaporeans.md
+      - School Admission/International Students.md
       - Alumni/.keep
       - Alumni/Alumni.md
       - Alumni/Founder's Day Dinner Comm.md
