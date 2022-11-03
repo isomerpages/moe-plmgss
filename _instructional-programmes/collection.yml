@@ -2,6 +2,7 @@ collections:
   instructional-programmes:
     output: true
     order:
+      - Humanities/Subjects Offered.md
       - Humanities/Humanities.md
       - Humanities/.keep
       - Science/Photo Gallery.md
