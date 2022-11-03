@@ -2,6 +2,7 @@ collections:
   instructional-programmes:
     output: true
     order:
+      - Aesthetics/Curriculum.md
       - Aesthetics/Aesthetics.md
       - Aesthetics/.keep
       - Design and Technology/Design and Technology.md
