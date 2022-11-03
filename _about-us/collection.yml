@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Alumni/Alumni.md
       - Alumni/.keep
       - PSSG (Parents)/.keep
       - PSSG (Parents)/PSSG (Parents).md
