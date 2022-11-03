@@ -2,6 +2,7 @@ collections:
   instructional-programmes:
     output: true
     order:
+      - Mathematics/.keep
       - English/.keep
       - English/English.md
       - English/Curriculum.md
