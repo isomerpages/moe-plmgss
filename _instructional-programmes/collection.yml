@@ -2,10 +2,10 @@ collections:
   instructional-programmes:
     output: true
     order:
-      - English/Photo Gallery.md
-      - English/Curriculum.md
-      - English/English.md
       - English/.keep
+      - English/English.md
+      - English/Curriculum.md
+      - English/Photo Gallery.md
       - IP Overview/.keep
       - IP Overview/IP Overview.md
       - IP Overview/Assessment.md
