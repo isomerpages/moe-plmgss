@@ -387,3 +387,63 @@ Students are free to carry out their research after the scheduled ACE sessions.
 </table>
 
 ### Our Research Publications/ Presentations (Science)
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-a4yv{background-color:#DDD;color:#666;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-ncov{background-color:#FFF;color:#454545;text-align:center;vertical-align:middle}
+.tg .tg-81dz{background-color:#FFF;color:#454545;text-align:center;text-decoration:underline;vertical-align:top}
+.tg .tg-feqv{background-color:#DDD;color:#666;font-weight:bold;text-align:center;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-feqv"><span style="color:#666;background-color:#DDD">Year</span></th>
+    <th class="tg-a4yv">Area<br></th>
+    <th class="tg-a4yv">Name of Research Project<br></th>
+    <th class="tg-a4yv">Presented at<br></th>
+    <th class="tg-feqv"><span style="color:#666;background-color:#DDD">Award</span><br><span style="color:#666;background-color:#DDD">(if any)</span><br></th>
+    <th class="tg-feqv"><span style="color:#666;background-color:#DDD">Name &amp; Class of Student Researchers</span><br></th>
+    <th class="tg-feqv"><span style="color:#666;background-color:#DDD">Name(s) of Teacher Mentor</span><br></th>
+    <th class="tg-feqv"><span style="color:#666;background-color:#DDD">Presentation / Research Paper</span><br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-ncov">2016<br></td>
+    <td class="tg-ncov">Science<br></td>
+    <td class="tg-ncov">To investigate the cleaning power of hydrogen peroxide and sodium carbonate<br></td>
+    <td class="tg-ncov">East Zone A*STAR Science Fair<br></td>
+    <td class="tg-ncov">Merit<br></td>
+    <td class="tg-ncov">Janice Khoo Shi Ann (2.2)<br><br>Gladys Cheng Le Min (2.2)<br><br>Tan Hui Xian Eleyna (2.1)<br></td>
+    <td class="tg-ncov">Mrs Joyce Chong<br><br>Ms Heng Ci Pei<br><br>Mr Alex Chiam<br><br>Ms Bai Zhaozhi<br></td>
+    <td class="tg-81dz"><a href="/files/To%20Investigate%20the%20Cleaning%20Power%20of%20Hydrogen%20Peroxide%20and%20Sodium%20Carbonate.pdf"><span style="text-decoration:underline;color:#454545">To Investigate the Cleaning Power of Hydrogen Peroxide and Sodium Carbonate.pdf</span></a><br></td>
+  </tr>
+  <tr>
+    <td class="tg-ncov">2016<br></td>
+    <td class="tg-ncov">Science<br></td>
+    <td class="tg-ncov"> To Investigate the effect of consumable solutions on the rate of oxidation in fruits</td>
+    <td class="tg-ncov">East Zone A*STAR Science Fair</td>
+    <td class="tg-ncov">-<br></td>
+    <td class="tg-ncov">Wong Zhi Qian, Gwendolyn (2.2)<br><br>Jolene Lake (2.2)<br><br>Lim Ling Shean, Megan (2.2)<br><br>Tan E-Ning Alynna (2.2)<br></td>
+    <td class="tg-ncov">Mrs Joyce Chong<br><br>Ms Heng Ci Pei<br><br>Mr Alex Chiam<br><br>Ms Bai Zhaozhi<br></td>
+    <td class="tg-81dz"><a href="/files/To%20Investigate%20the%20effect%20of%20consumable%20solutions%20on%20the%20rate%20of%20Oxidation%20in%20fruits%20V2.pdf"><span style="text-decoration:underline;color:#454545">To Investigate the effect of consumable solutions on the rate of Oxidation in fruits V2.pdf</span></a><br></td>
+  </tr>
+  <tr>
+    <td class="tg-ncov"> 2016</td>
+    <td class="tg-ncov"> Science</td>
+    <td class="tg-ncov">To Investigate which phone app emits the most light and its effect on the eyes<br></td>
+    <td class="tg-ncov"> East Zone A*STAR Science Fair</td>
+    <td class="tg-ncov">-<br></td>
+    <td class="tg-ncov">Teo Shin Ro (2.2)<br><br>Wee Sze Hui, Charissa (2.2)<br><br>Ang Kah Ying (2.2)<br></td>
+    <td class="tg-ncov">Mrs Joyce Chong<br><br>Ms Heng Ci Pei<br><br>Mr Alex Chiam<br><br>Ms Bai Zhaozhi<br></td>
+    <td class="tg-81dz"><a href="/files/To%20Investigate%20Which%20Phone%20App%20Emits%20The%20Most%20Light%20And%20Its%20Effect%20On%20The%20Eyes.pdf"><span style="text-decoration:underline;color:#454545">To Investigate Which Phone App Emits The Most Light And Its Effect On The Eyes.pdf</span></a> </td>
+  </tr>
+</tbody>
+</table>
+
+
