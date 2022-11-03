@@ -342,7 +342,7 @@ Students are free to carry out their research after the scheduled ACE sessions.
     <td class="tg-sxkx">Bronze</td>
     <td class="tg-sxkx">Goh Zi Jia (4.1)<br>Hoang Viet Giang Huong (4.1)<br>Jeslyn Ch’ng Tze Yin (4.1)<br>Nguyen My Binh An (4.1)</td>
     <td class="tg-sxkx">Mr Wong Khai Yu</td>
-    <td class="tg-81dz"><a href="https://www.plmgss.moe.edu.sg/qql/slot/u173/Programme/Instructional%20Programme/Extended%20Curriculum/2020%20SMPF%20-%20Vivianis%20Theorem%20and%20Related%20Problems.pdf"><span style="text-decoration:underline;color:#454545">2020 SMPF - Vivianis Theorem and Related Problems.pdf</span></a> <br></td>
+    <td class="tg-81dz"><a href="/files/2020%20SMPF%20-%20Vivianis%20Theorem%20and%20Related%20Problems.pdf"><span style="text-decoration:underline;color:#454545">2020 SMPF - Vivianis Theorem and Related Problems.pdf</span></a> <br></td>
   </tr>
   <tr>
     <td class="tg-sxkx">2020</td>
@@ -352,7 +352,7 @@ Students are free to carry out their research after the scheduled ACE sessions.
     <td class="tg-sxkx">Honourable Mentioned</td>
     <td class="tg-sxkx">Aninda Metta Citta (4.1)<br>Catherine Natasya Subroto (4.1)<br>Choo Yun Yi (4.1)<br>Katherine Stephanie (4.1)</td>
     <td class="tg-sxkx">Mr Wong Khai Yu</td>
-    <td class="tg-81dz"><a href="https://www.plmgss.moe.edu.sg/qql/slot/u173/Programme/Instructional%20Programme/Extended%20Curriculum/2020%20SMPF%20-%20The%20Boomerang%20Theorem.pdf"><span style="text-decoration:underline;color:#454545">2020 SMPF - The Boomerang Theorem.pdf</span></a> <br></td>
+    <td class="tg-81dz"><a href="/files/2020%20SMPF%20-%20The%20Boomerang%20Theorem.pdf"><span style="text-decoration:underline;color:#454545">2020 SMPF - The Boomerang Theorem.pdf</span></a> <br></td>
   </tr>
   <tr>
     <td class="tg-sxkx">2020</td>
@@ -362,7 +362,7 @@ Students are free to carry out their research after the scheduled ACE sessions.
     <td class="tg-sxkx">Honourable Mentioned</td>
     <td class="tg-sxkx">CHENG KEE ERN JADYN (S2)<br>LYNETTE SAW SZE CHE TAN (S2)<br> MEI YAN RAYNA (S2)</td>
     <td class="tg-sxkx">Mr Divakaran</td>
-    <td class="tg-81dz"><a href="https://www.plmgss.moe.edu.sg/qql/slot/u173/Programme/Instructional%20Programme/Extended%20Curriculum/2020%20SMPF%20-%20The%20Math%20behind%20Parallel%20Parking.pdf"><span style="text-decoration:underline;color:#454545">2020 SMPF - The Math behind Parallel Parking.pdf</span></a> <br></td>
+    <td class="tg-81dz"><a href="/files/2020%20SMPF%20-%20The%20Math%20behind%20Parallel%20Parking.pdf"><span style="text-decoration:underline;color:#454545">2020 SMPF - The Math behind Parallel Parking.pdf</span></a> <br></td>
   </tr>
   <tr>
     <td class="tg-sxkx">2021</td>
@@ -372,7 +372,7 @@ Students are free to carry out their research after the scheduled ACE sessions.
     <td class="tg-sxkx">Bronze</td>
     <td class="tg-sxkx">Soong Zi Yu (4.1)<br>Tan Jue Ming (4.1)<br>Wong Zi Qi (4.1)</td>
     <td class="tg-sxkx">Ms Kok Lai Fong</td>
-    <td class="tg-81dz"><a href="https://www.plmgss.moe.edu.sg/qql/slot/u173/Programme/Instructional%20Programme/Extended%20Curriculum/2021%20SMPF%20-%20The%20Extension%20of%20De%20Guas%20Theorem.pdf"><span style="text-decoration:underline;color:#454545">2021 SMPF - The Extension of De Guas Theorem.pdf</span></a> <br></td>
+    <td class="tg-81dz"><a href="/files/2021%20SMPF%20-%20The%20Extension%20of%20De%20Guas%20Theorem.pdf"><span style="text-decoration:underline;color:#454545">2021 SMPF - The Extension of De Guas Theorem.pdf</span></a> <br></td>
   </tr>
   <tr>
     <td class="tg-sxkx">2021</td>
@@ -382,8 +382,7 @@ Students are free to carry out their research after the scheduled ACE sessions.
     <td class="tg-sxkx">Honourable Mentioned</td>
     <td class="tg-sxkx">Dana Evangeline Ong (S2)<br>Lim Jia Yi Esther (S2)<br>Ng Jia Xin (S2)<br> Kok Pei En Sharlyn (S2)</td>
     <td class="tg-sxkx">Mr Divakaran</td>
-    <td class="tg-sxkx"> <a href="https://www.plmgss.moe.edu.sg/qql/slot/u173/Programme/Instructional%20Programme/Extended%20Curriculum/2021%20SMPF%20-%20The%20wonders%20of%20Hagas%20Theorem.pdf"><span style="text-decoration:underline;color:#454545">2021 SMPF - The wonders of Hagas Theorem.pdf</span></a></td>
+    <td class="tg-sxkx"> <a href="/files/2021%20SMPF%20-%20The%20wonders%20of%20Hagas%20Theorem.pdf"><span style="text-decoration:underline;color:#454545">2021 SMPF - The wonders of Hagas Theorem.pdf</span></a></td>
   </tr>
 </tbody>
 </table>
-
