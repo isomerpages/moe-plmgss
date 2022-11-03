@@ -4,11 +4,6 @@ permalink: /instructional-programmes/ip-overview/ace-math-n-science/
 description: ""
 third_nav_title: IP Overview
 ---
-[](/files/2011%20SMPF%20-%20Extreme%20Streaming.pdf)
-[](/files/2013%20SMPF%20-%20Napolean%20Theorem%20Addict.pdf)
-[](/files/2013%20Maths%20Essay%20Competition%20-%20Rate%20of%20Fluid%20Through%20Porous%20Media.pdf)
-[](/files/2016%20SMPF%20-%20I%20Am%20Not%20Small.pdf)
-[](/files/2016%20SMPF%20-%20Selfie%20Syndrome.pdf)
 
 ### Rationale of the Programme
 
@@ -187,7 +182,7 @@ Students are free to carry out their research after the scheduled ACE sessions.
     <td class="tg-sxkx"> Bronze</td>
     <td class="tg-sxkx">Leong Yee Hwei Ashley (S3)<br>Wan Ching Ee Joyce (S3)<br>Yeo Xin He Burindy (S3)</td>
     <td class="tg-sxkx">Ms Kok Lai Fong</td>
-    <td class="tg-sxkx"> <a href="https://www.plmgss.moe.edu.sg/qql/slot/u173/Programme/Instructional%20Programme/Extended%20Curriculum/2011%20SMPF%20-%20Extreme%20Streaming.pdf"><span style="text-decoration:underline;color:#454545">2011 SMPF - Extreme Streaming.pdf</span></a></td>
+    <td class="tg-sxkx"> <a href="/files/2011%20SMPF%20-%20Extreme%20Streaming.pdf"><span style="text-decoration:underline;color:#454545">2011 SMPF - Extreme Streaming.pdf</span></a></td>
   </tr>
   <tr>
     <td class="tg-sxkx">2012</td>
@@ -207,7 +202,7 @@ Students are free to carry out their research after the scheduled ACE sessions.
     <td class="tg-sxkx">Honourable Mention</td>
     <td class="tg-sxkx">Feng Yini (S4)<br>Wu Wenyang (S4)<br>Xu Mingxin (S4)<br>Wang Jingqi (S4)</td>
     <td class="tg-sxkx">Ms Kok Lai Fong</td>
-    <td class="tg-81dz"><a href="https://www.plmgss.moe.edu.sg/qql/slot/u173/Programme/Instructional%20Programme/Extended%20Curriculum/2013%20SMPF%20-%20Napolean%20Theorem%20Addict.pdf"><span style="text-decoration:underline;color:#454545">2013 SMPF - Napolean Theorem Addict.pdf</span></a> </td>
+    <td class="tg-81dz"><a href="/files/2013%20SMPF%20-%20Napolean%20Theorem%20Addict.pdf"><span style="text-decoration:underline;color:#454545">2013 SMPF - Napolean Theorem Addict.pdf</span></a> </td>
   </tr>
   <tr>
     <td class="tg-sxkx">2013</td>
@@ -217,7 +212,7 @@ Students are free to carry out their research after the scheduled ACE sessions.
     <td class="tg-sxkx">3rd Prize</td>
     <td class="tg-sxkx">Kiong Min Yi, Kimberly (S4)<br>Yip Juen Chen, Nicole (S4)<br>Xu Mingxin (S4)</td>
     <td class="tg-sxkx">Ms Kok Lai Fong</td>
-    <td class="tg-81dz"><a href="https://www.plmgss.moe.edu.sg/qql/slot/u173/Programme/Instructional%20Programme/Extended%20Curriculum/2013%20Maths%20Essay%20Competition%20-%20Rate%20of%20Fluid%20Through%20Porous%20Media.pdf"><span style="text-decoration:underline;color:#454545">2013 Maths Essay Competition - Rate of Fluid Through Porous Media.pdf</span></a> </td>
+    <td class="tg-81dz"><a href="/files/2013%20Maths%20Essay%20Competition%20-%20Rate%20of%20Fluid%20Through%20Porous%20Media.pdf"><span style="text-decoration:underline;color:#454545">2013 Maths Essay Competition - Rate of Fluid Through Porous Media.pdf</span></a> </td>
   </tr>
   <tr>
     <td class="tg-sxkx">2014</td>
@@ -257,7 +252,7 @@ Students are free to carry out their research after the scheduled ACE sessions.
     <td class="tg-sxkx">Honourable Mention</td>
     <td class="tg-sxkx">Cheyenne Jan Lee (S4)<br>Nicolette Lau Jia Wen (S4)<br>Sim Lee Ting (S4)<br>Liang Jing (S4)</td>
     <td class="tg-sxkx">Ms Kok Lai Fong</td>
-    <td class="tg-81dz"><a href="https://www.plmgss.moe.edu.sg/qql/slot/u173/Programme/Instructional%20Programme/Extended%20Curriculum/2016%20SMPF%20-%20I%20Am%20Not%20Small.pdf"><span style="text-decoration:underline;color:#454545">2016 SMPF - I Am Not Small.pdf</span></a> </td>
+    <td class="tg-81dz"><a href="/files/2016%20SMPF%20-%20I%20Am%20Not%20Small.pdf"><span style="text-decoration:underline;color:#454545">2016 SMPF - I Am Not Small.pdf</span></a> </td>
   </tr>
   <tr>
     <td class="tg-sxkx">2016</td>
@@ -267,7 +262,7 @@ Students are free to carry out their research after the scheduled ACE sessions.
     <td class="tg-sxkx">Honourable Mention</td>
     <td class="tg-sxkx">Naomi Faustina Limarno (S4)<br>Wong Min Hui (S4)<br>Angela Tan Jia Yi (S4)<br>Shuan Ye Ru Nicole (S4)</td>
     <td class="tg-sxkx">Ms Kok Lai Fong</td>
-    <td class="tg-81dz"><a href="https://www.plmgss.moe.edu.sg/qql/slot/u173/Programme/Instructional%20Programme/Extended%20Curriculum/2016%20SMPF%20-%20Selfie%20Syndrome.pdf"><span style="text-decoration:underline;color:#454545">2016 SMPF - Selfie Syndrome.pdf</span></a> </td>
+    <td class="tg-81dz"><a href="/files/2016%20SMPF%20-%20Selfie%20Syndrome.pdf"><span style="text-decoration:underline;color:#454545">2016 SMPF - Selfie Syndrome.pdf</span></a> </td>
   </tr>
   <tr>
     <td class="tg-sxkx">2016</td>
@@ -287,7 +282,7 @@ Students are free to carry out their research after the scheduled ACE sessions.
     <td class="tg-ncov"> Silver + Excellent Presentation Award</td>
     <td class="tg-ncov">TAN PENG YING (S4A1)<br><br>MA PRIYAATHARSINI (S4A2)<br><br>SHARLENE TOU (S4A2)<br><br>GENEVIEVE CHIN WAN QI (S4A3)<br></td>
     <td class="tg-ncov">Ms Kok Lai Fong<br></td>
-    <td class="tg-ncov"> <a href="https://www.plmgss.moe.edu.sg/qql/slot/u173/Programme/Instructional%20Programme/Extended%20Curriculum/2017%20SMPF%20-%20Kakeya%20Needle%20Problem.pdf"><span style="text-decoration:underline;color:#454545">2017 SMPF - Kakeya Needle Problem.pdf</span></a></td>
+    <td class="tg-ncov"> <a href="/files/2017%20SMPF%20-%20Kakeya%20Needle%20Problem.pdf"><span style="text-decoration:underline;color:#454545">2017 SMPF - Kakeya Needle Problem.pdf</span></a></td>
   </tr>
   <tr>
     <td class="tg-ncov">2018</td>
@@ -307,7 +302,7 @@ Students are free to carry out their research after the scheduled ACE sessions.
     <td class="tg-ncov">Honourable Mention</td>
     <td class="tg-ncov"> Regina Limanta (4.1)<br><br>Renee Chiam Sin Yuen (4.2)<br><br>Lam Gi Ching Faith (4.3)<br><br>Sun Jia Yee Joyce (4.3)</td>
     <td class="tg-ncov"> Ms Kok Lai Fong</td>
-    <td class="tg-81dz"><a href="https://www.plmgss.moe.edu.sg/qql/slot/u173/Programme/Instructional%20Programme/Extended%20Curriculum/2018%20SMPF%20-%20Inscribed%20Square%20Problem.pdf"><span style="text-decoration:underline;color:#454545">2018 SMPF - Inscribed Square Problem.pdf</span></a> <br></td>
+    <td class="tg-81dz"><a href="/files/2018%20SMPF%20-%20Inscribed%20Square%20Problem.pdf"><span style="text-decoration:underline;color:#454545">2018 SMPF - Inscribed Square Problem.pdf</span></a> <br></td>
   </tr>
   <tr>
     <td class="tg-ncov">2019<br></td>
@@ -317,7 +312,7 @@ Students are free to carry out their research after the scheduled ACE sessions.
     <td class="tg-ncov">Honourable Mention<br></td>
     <td class="tg-ncov">Amatatsu Yuko (S2)<br><br>Clarice Lee (S2)<br><br>Elizabeth Lim (S2)<br><br>Mandy Lim (S2)<br></td>
     <td class="tg-ncov">Mr Wong Khai Yu<br></td>
-    <td class="tg-81dz"><a href="https://www.plmgss.moe.edu.sg/qql/slot/u173/Programme/Instructional%20Programme/Extended%20Curriculum/2019%20SMPF%20-%20The%20Doomsday%20Clock.pdf"><span style="text-decoration:underline;color:#454545">2019 SMPF - The Doomsday Clock.pdf</span></a> <br></td>
+    <td class="tg-81dz"><a href="/files/2019%20SMPF%20-%20The%20Doomsday%20Clock.pdf"><span style="text-decoration:underline;color:#454545">2019 SMPF - The Doomsday Clock.pdf</span></a> <br></td>
   </tr>
   <tr>
     <td class="tg-ncov">2019<br></td>
@@ -327,7 +322,7 @@ Students are free to carry out their research after the scheduled ACE sessions.
     <td class="tg-ncov">Honourable Mention</td>
     <td class="tg-ncov">Frizta Edius (4.1)<br><br>Vina Setiawaty (4.1)<br></td>
     <td class="tg-ncov">Ms Kok Lai Fong<br></td>
-    <td class="tg-81dz"><a href="https://www.plmgss.moe.edu.sg/qql/slot/u173/Programme/Instructional%20Programme/Extended%20Curriculum/2019%20SMPF%20-%20Expansion%20of%20Finsler-Hadwiger%20Theorem.pdf"><span style="text-decoration:underline;color:#454545">2019 SMPF - Expansion of Finsler-Hadwiger Theorem.pdf</span></a> <br></td>
+    <td class="tg-81dz"><a href="/files/2019%20SMPF%20-%20Expansion%20of%20Finsler-Hadwiger%20Theorem.pdf"><span style="text-decoration:underline;color:#454545">2019 SMPF - Expansion of Finsler-Hadwiger Theorem.pdf</span></a> <br></td>
   </tr>
   <tr>
     <td class="tg-ncov">2019<br></td>
@@ -337,7 +332,7 @@ Students are free to carry out their research after the scheduled ACE sessions.
     <td class="tg-ncov">Honourable Mention<br></td>
     <td class="tg-ncov">Bianca Diva (4.1)<br><br>Katrina Arifin (4.1)<br><br>Kezia Aprilia Sanjaya (4.1)<br></td>
     <td class="tg-ncov">Ms Kok Lai Fong<br></td>
-    <td class="tg-81dz"><a href="https://www.plmgss.moe.edu.sg/qql/slot/u173/Programme/Instructional%20Programme/Extended%20Curriculum/2019%20SMPF%20-%20Application%20of%20Nine%20Point%20Circle%20Theorem.pdf"><span style="text-decoration:underline;color:#454545">2019 SMPF - Application of Nine Point Circle Theorem.pdf</span></a> <br></td>
+    <td class="tg-81dz"><a href="/files/2019%20SMPF%20-%20Application%20of%20Nine%20Point%20Circle%20Theorem.pdf"><span style="text-decoration:underline;color:#454545">2019 SMPF - Application of Nine Point Circle Theorem.pdf</span></a> <br></td>
   </tr>
   <tr>
     <td class="tg-sxkx">2020</td>
@@ -391,3 +386,4 @@ Students are free to carry out their research after the scheduled ACE sessions.
   </tr>
 </tbody>
 </table>
+
