@@ -2,12 +2,12 @@ collections:
   instructional-programmes:
     output: true
     order:
-      - Aesthetics/Music.md
-      - Aesthetics/Nutrition Food Science.md
-      - Aesthetics/Art.md
-      - Aesthetics/Curriculum.md
-      - Aesthetics/Aesthetics.md
       - Aesthetics/.keep
+      - Aesthetics/Aesthetics.md
+      - Aesthetics/Curriculum.md
+      - Aesthetics/Art.md
+      - Aesthetics/Nutrition Food Science.md
+      - Aesthetics/Music.md
       - Design and Technology/Design and Technology.md
       - Design and Technology/.keep
       - Mother Tongue/Curriculum.md
