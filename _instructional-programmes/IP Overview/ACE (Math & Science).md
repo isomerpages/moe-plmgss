@@ -445,3 +445,156 @@ Students are free to carry out their research after the scheduled ACE sessions.
   </tr>
 </tbody>
 </table>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-baqh{text-align:center;vertical-align:top}
+.tg .tg-amwm{font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-gcvc{color:#454545;text-align:center;text-decoration:underline;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-amwm">Year</th>
+    <th class="tg-amwm">Area</th>
+    <th class="tg-amwm">Name of Research Project</th>
+    <th class="tg-amwm">Presented at</th>
+    <th class="tg-amwm">Award(if any)</th>
+    <th class="tg-amwm">Name &amp; Class of Student Researchers</th>
+    <th class="tg-amwm">Name(s) of Teacher Mentor</th>
+    <th class="tg-amwm">Presentation / Research Paper</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-baqh" rowspan="3"><br>2017</td>
+    <td class="tg-baqh" rowspan="3"><br>Science</td>
+    <td class="tg-baqh">To investigate the effect of heavy metal ions on catalase in liver on the breaking down of hydrogen peroxide</td>
+    <td class="tg-baqh" rowspan="3"><br>East Zone A*STAR Science Fair</td>
+    <td class="tg-baqh"> <br> <br> <br>    Silver</td>
+    <td class="tg-baqh">Isabel Chin,<br>Elena Povazane,<br>Mercia Yoong,<br>Amanda Grace<br> </td>
+    <td class="tg-baqh" rowspan="3"><br>Ms Tang Siao Shi<br> <br>Mrs Joyce Chong<br> </td>
+    <td class="tg-baqh"><a href="/files/Liver%20Catalase.pdf"><span style="text-decoration:underline;color:#454545">Liver Catalase.pdf</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">To investigate the effectiveness of citric juice mixed with vinegar in removing nail polish<br> </td>
+    <td class="tg-baqh"> <br>----</td>
+    <td class="tg-baqh">Deanna Ridzuan, Cazra Gaznavi, Sridharan Srimitha</td>
+    <td class="tg-gcvc"><a href="/files/Nail%20polish%20remover.pdf"><span style="text-decoration:underline;color:#454545">Nail polish remover.pdf</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">To investigate the effect of different types of salt on the speed of a saltwater fuel cell car<br> </td>
+    <td class="tg-baqh"> <br> <br>----</td>
+    <td class="tg-baqh">Elisa Chew,<br>Jerika Koh,<br>Lim Zhi Xin,<br>Shanon Law</td>
+    <td class="tg-gcvc"><a href="/files/Saltwater%20fuel%20cell%20car.pdf"><span style="text-decoration:underline;color:#454545">Saltwater fuel cell car.pdf</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-baqh" rowspan="4"><br>2018</td>
+    <td class="tg-baqh" rowspan="4"><br>Science</td>
+    <td class="tg-baqh">To investigate which is the most effective soap in preventing fogging of the spectacles</td>
+    <td class="tg-baqh" rowspan="4"><br>East Zone A*STAR Science Fair</td>
+    <td class="tg-baqh"> <br> <br> <br>   Bronze</td>
+    <td class="tg-baqh">Alycia Valerie Ng Shi Ying, Charlene Tan Shi Jia,<br>Joelle Lee Xin Hui,<br>Rebecca Lee Shen</td>
+    <td class="tg-baqh" rowspan="4"><br>Ms Tang Siao Shi<br> <br>Mrs Joyce Chong<br> </td>
+    <td class="tg-gcvc"><a href="/files/Spectacles.pdf"><span style="text-decoration:underline;color:#454545">Spectacles.pdf</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">To investigate the effectiveness of removal of stain on cloth using a plethora of<br>natural cleaning agents</td>
+    <td class="tg-baqh"> <br> <br>---</td>
+    <td class="tg-baqh">Ng Praise Gigatt,  Kwong Tsz Hang Samantha,<br>Seah Hui Xin Joey</td>
+    <td class="tg-gcvc"><a href="/files/Cleaning%20agent.pdf"><span style="text-decoration:underline;color:#454545">Cleaning agent.pdf</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">To investigate which is the best<br>recyclable material to insulate noise</td>
+    <td class="tg-baqh"> <br>---</td>
+    <td class="tg-baqh">Calista Yong, Charis Tan, Naomi Long,<br>Ong Hui Jing</td>
+    <td class="tg-gcvc"><a href="/files/Noise%20absorber.pdf"><span style="text-decoration:underline;color:#454545">Noise absorber.pdf</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">To Investigate The Effect Of Different Substances on the amount Of Vitamin C in Orange Juice<br> </td>
+    <td class="tg-baqh"> <br> <br>---</td>
+    <td class="tg-baqh">Jodie Ong,<br>Wong Rui Lin, Yeo LeAnn<br> </td>
+    <td class="tg-gcvc"><a href="/files/Vitamin%20C.pdf"><span style="text-decoration:underline;color:#454545">Vitamin C.pdf</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-baqh" rowspan="4"><br>2019</td>
+    <td class="tg-baqh" rowspan="4"><br>Science</td>
+    <td class="tg-baqh">Effect of Different brands of hair dye on hair strength</td>
+    <td class="tg-baqh" rowspan="4"> <br>East Zone A*STAR Science Fair</td>
+    <td class="tg-baqh"> <br> <br>Silver</td>
+    <td class="tg-baqh">Charis Tan Shu Ying,<br>Lee Xinling, Tong Hui Ting Celeste, Kwang Rui En</td>
+    <td class="tg-baqh" rowspan="4"><br>Ms Tang Siao Shi<br> <br>Mrs Joyce Chong<br> <br>Ms Ho Lian Ya<br> <br>Ms Eileen Quek</td>
+    <td class="tg-gcvc"><a href="/files/Effect%20of%20different%20brands%20of%20hair%20dye%20on%20hair%20strength.pdf"><span style="text-decoration:underline;color:#454545">Effect of different brands of hair dye on hair strength.pdf</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">To investigate the removal of heavy metal ions by different<br>adsorbents</td>
+    <td class="tg-baqh"> <br>---</td>
+    <td class="tg-baqh">Megan Seow, Jael Leong, Isabel Lim</td>
+    <td class="tg-gcvc"><a href="/files/Removal%20of%20Heavy%20Metal%20Ions%20by%20Different%20Adsorbents.pdf"><span style="text-decoration:underline;color:#454545">Removal of Heavy Metal Ions by Different Adsorbents.pdf</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">To find out if increasing the number of concave mirrors<br>increases the efficiency of the solar panel</td>
+    <td class="tg-baqh"> <br> <br>---</td>
+    <td class="tg-baqh">Kristine Sum, Phoebe Chan, Yap Hui Xin Phylicia Ng</td>
+    <td class="tg-gcvc"><a href="/files/Effect%20of%20concave%20mirrors%20on%20efficiency%20of%20Solar%20panel.pdf"><span style="text-decoration:underline;color:#454545">Effect of concave mirrors on efficiency of Solar panel.pdf</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">To investigate which citrus fruit peel enables a plant to<br>grow best</td>
+    <td class="tg-baqh"> <br> <br>---</td>
+    <td class="tg-baqh">Maysa Ng,<br>Jodi Lee,<br>Megan Tan</td>
+    <td class="tg-gcvc"><a href="/files/Effect%20of%20citrus%20fruit%20peels%20on%20Plant%20Growth.pdf"><span style="text-decoration:underline;color:#454545">Effect of citrus fruit peels on Plant Growth.pdf</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">2020</td>
+    <td class="tg-baqh">Science</td>
+    <td class="tg-baqh">Water Droplets Levitating?</td>
+    <td class="tg-baqh">International SCI-Teens Challenge</td>
+    <td class="tg-baqh">Bronze</td>
+    <td class="tg-baqh">Denise Peh</td>
+    <td class="tg-baqh">Mr Chai Wee Jie<br> <br>Mrs Joyce Chong</td>
+    <td class="tg-baqh"> <br> <br>----</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">2021</td>
+    <td class="tg-baqh">Science</td>
+    <td class="tg-baqh">A SHOCKING Lemon-stration</td>
+    <td class="tg-baqh">International SCI-Teens Challenge</td>
+    <td class="tg-baqh">Bronze</td>
+    <td class="tg-baqh">Chang Zi Qing<br>Carissa Tan Jia Xin</td>
+    <td class="tg-baqh">Mr Chai Wee Jie<br> <br> </td>
+    <td class="tg-baqh">---</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh" rowspan="4"><br>2021</td>
+    <td class="tg-baqh" rowspan="4"><br>Science</td>
+    <td class="tg-baqh">What kind of Bioplastic is Stronger?</td>
+    <td class="tg-baqh" rowspan="4"><br>East Zone A*STAR Science Fair</td>
+    <td class="tg-baqh">Bronze</td>
+    <td class="tg-baqh">Zhu Yini,<br>Natalie Yang,<br>Charlotte Chia, Carissa Tan</td>
+    <td class="tg-baqh" rowspan="4"><br>Mr Chai Wee Jie<br> <br>Mrs Joyce Chong</td>
+    <td class="tg-gcvc"><a href="/files/Quad%20Chart%20-%20Bioplastic.pdf"><span style="text-decoration:underline;color:#454545">Quad Chart - Bioplastic.pdf</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">Effects of Hand Sanitizers on Skin Moisture</td>
+    <td class="tg-baqh"> <br> <br>-----</td>
+    <td class="tg-baqh">Bernice Boh, Cham En Qi, Kwang Rui Tong Lim Yann Qi</td>
+    <td class="tg-gcvc"><a href="/files/Quad%20chart%20-%20hand%20sanitiser.pdf"><span style="text-decoration:underline;color:#454545">Quad chart - hand sanitiser.pdf</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">Are Beeswax Candles a Better Alternative to Paraffin Candles?</td>
+    <td class="tg-baqh"> <br> <br>----</td>
+    <td class="tg-baqh">Isobel Tan Wen Xuan,<br>Lee Yue Hua Murphy,<br>Tay Rei Jing Hannah,<br>Teo Yew Kee</td>
+    <td class="tg-gcvc"><a href="/files/Quad%20Chart%20Candle.pdf"><span style="text-decoration:underline;color:#454545">Quad Chart Candle.pdf</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">How constant photosynthesis affects plant growth</td>
+    <td class="tg-baqh"> <br>----</td>
+    <td class="tg-baqh">Azelya Nadya, Kaitlyn Sia, Sarah Chan, Megan Tan</td>
+    <td class="tg-gcvc"><a href="/files/Quad%20Chart-%20Plant.pdf"><span style="text-decoration:underline;color:#454545">Quad Chart- Plant.pdf</span></a></td>
+  </tr>
+</tbody>
+</table>
