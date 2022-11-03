@@ -445,5 +445,3 @@ Students are free to carry out their research after the scheduled ACE sessions.
   </tr>
 </tbody>
 </table>
-
-
