@@ -4,7 +4,6 @@ permalink: /instructional-programmes/ip-overview/ace-math-n-science/
 description: ""
 third_nav_title: IP Overview
 ---
-
 ### Rationale of the Programme
 
 The Accelerated and Enhanced learning programme, ACE (Maths & Science) is a 2 -year programme that provides students, who have an aptitude in Mathematics & Science, with learning experiences that extend and deepen their interest and passion in the subjects. The ACE programme aims to engage learners through acquiring knowledge and skills beyond the MOE curriculum. Students are engaged in collaborative research projects with external educational institutions. They also participate in overseas twinning programmes and learning journeys. 
@@ -386,3 +385,5 @@ Students are free to carry out their research after the scheduled ACE sessions.
   </tr>
 </tbody>
 </table>
+
+### Our Research Publications/ Presentations (Science)
