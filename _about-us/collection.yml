@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Alumni/PLLites giving back to our alma mater.md
       - Alumni/Alumni Website.md
       - Alumni/Founder's Day Dinner Comm.md
       - Alumni/Alumni.md
