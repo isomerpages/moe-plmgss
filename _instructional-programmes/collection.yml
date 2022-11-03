@@ -2,6 +2,7 @@ collections:
   instructional-programmes:
     output: true
     order:
+      - Design and Technology/.keep
       - Mother Tongue/Curriculum.md
       - Mother Tongue/Mother Tongue.md
       - Mother Tongue/.keep
