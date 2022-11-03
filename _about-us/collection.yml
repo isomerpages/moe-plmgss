@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - PSSG (Parents)/Highlights for 2019.md
       - PSSG (Parents)/Highlights for 2020.md
       - PSSG (Parents)/PSSG (Parents).md
       - PSSG (Parents)/.keep
