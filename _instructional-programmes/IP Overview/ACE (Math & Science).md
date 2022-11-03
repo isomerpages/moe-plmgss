@@ -9,6 +9,7 @@ third_nav_title: IP Overview
 [](/files/2013%20Maths%20Essay%20Competition%20-%20Rate%20of%20Fluid%20Through%20Porous%20Media.pdf)
 [](/files/2016%20SMPF%20-%20I%20Am%20Not%20Small.pdf)
 [](/files/2016%20SMPF%20-%20Selfie%20Syndrome.pdf)
+
 ### Rationale of the Programme
 
 The Accelerated and Enhanced learning programme, ACE (Maths & Science) is a 2 -year programme that provides students, who have an aptitude in Mathematics & Science, with learning experiences that extend and deepen their interest and passion in the subjects. The ACE programme aims to engage learners through acquiring knowledge and skills beyond the MOE curriculum. Students are engaged in collaborative research projects with external educational institutions. They also participate in overseas twinning programmes and learning journeys. 
