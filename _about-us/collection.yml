@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Alumni/Alumni Website.md
       - Alumni/Founder's Day Dinner Comm.md
       - Alumni/Alumni.md
       - Alumni/.keep
