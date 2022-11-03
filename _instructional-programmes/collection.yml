@@ -2,13 +2,13 @@ collections:
   instructional-programmes:
     output: true
     order:
-      - Aesthetics/East Zone Centre of Excellence (Creative Arts).md
       - Aesthetics/.keep
       - Aesthetics/Aesthetics.md
       - Aesthetics/Curriculum.md
       - Aesthetics/Art.md
       - Aesthetics/Nutrition Food Science.md
       - Aesthetics/Music.md
+      - Aesthetics/East Zone Centre of Excellence (Creative Arts).md
       - Design and Technology/Design and Technology.md
       - Design and Technology/.keep
       - Mother Tongue/Curriculum.md
