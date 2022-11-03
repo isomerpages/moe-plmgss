@@ -2,4 +2,5 @@ collections:
   instructional-programmes:
     output: true
     order:
+      - IP Overview/IP Overview.md
       - IP Overview/.keep
