@@ -2,10 +2,10 @@ collections:
   instructional-programmes:
     output: true
     order:
-      - Mathematics/Photo Gallery.md
-      - Mathematics/Curriculum.md
-      - Mathematics/Mathematics.md
       - Mathematics/.keep
+      - Mathematics/Mathematics.md
+      - Mathematics/Curriculum.md
+      - Mathematics/Photo Gallery.md
       - English/.keep
       - English/English.md
       - English/Curriculum.md
