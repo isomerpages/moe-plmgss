@@ -1,4 +1,5 @@
 collections:
   co-curricular-programmes:
     output: true
-    order: []
+    order:
+      - Sexuality Education.md
