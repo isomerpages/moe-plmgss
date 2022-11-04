@@ -36,3 +36,50 @@ More specifically,
 [2022 CCA Schedule and Venues.pdf](/files/2022%20CCA%20Schedule%20and%20Venues.pdf)
 
 [LEAPS 2.0 Overview.pdf](/files/LEAPS%202%20Overview.pdf)
+
+CCA consist of the following Core Activities & Interest Groups:
+
+**a. Sports & Games**
+
+*   [School Badminton Team](https://staging.d31lf6q9623hn3.amplifyapp.com/co-curricular-programmes/sports-and-games/school-badminton-team)
+*   [School Netball Team](https://staging.d31lf6q9623hn3.amplifyapp.com/co-curricular-programmes/sports-and-games/school-netball-team)
+*   [School Rhythmic Gymnastics Team](https://staging.d31lf6q9623hn3.amplifyapp.com/co-curricular-programmes/sports-and-games/school-rhythmic-gymnastics-team)
+*   [School Swimming Team](https://staging.d31lf6q9623hn3.amplifyapp.com/co-curricular-programmes/sports-and-games/school-swimming-team)
+*   [School Table Tennis Team](https://staging.d31lf6q9623hn3.amplifyapp.com/co-curricular-programmes/sports-and-games/school-table-tennis-team)
+*   [School Track and Field Team](https://staging.d31lf6q9623hn3.amplifyapp.com/co-curricular-programmes/sports-and-games/school-track-and-field-team)
+*   [School Volleyball Team](https://staging.d31lf6q9623hn3.amplifyapp.com/co-curricular-programmes/sports-and-games/school-volleyball-team)
+
+  
+
+**b. Uniformed Youth Organisations**
+
+*   [Girls' Brigade](https://staging.d31lf6q9623hn3.amplifyapp.com/co-curricular-programmes/uniform-groups/girls-brigade)
+*   [National Police Cadet Corps](https://staging.d31lf6q9623hn3.amplifyapp.com/co-curricular-programmes/uniform-groups/national-police-cadet-corps)
+*   [St John Brigade](https://staging.d31lf6q9623hn3.amplifyapp.com/co-curricular-programmes/uniform-groups/st-john-brigade)
+
+  
+
+**c. Performing Arts**
+
+*   [Chinese Drama (D'Arts)](https://staging.d31lf6q9623hn3.amplifyapp.com/co-curricular-programmes/performing-arts/chinese-drama-darts)  
+    
+*   [Choir](https://staging.d31lf6q9623hn3.amplifyapp.com/co-curricular-programmes/performing-arts/choir)  
+    
+*   [Concert Band](https://staging.d31lf6q9623hn3.amplifyapp.com/co-curricular-programmes/performing-arts/concert-band)
+*   [English Drama](https://staging.d31lf6q9623hn3.amplifyapp.com/co-curricular-programmes/performing-arts/english-drama)
+*   [Modern Dance](https://staging.d31lf6q9623hn3.amplifyapp.com/co-curricular-programmes/performing-arts/modern-dance)
+*   [Guitar Ensemble](https://staging.d31lf6q9623hn3.amplifyapp.com/co-curricular-programmes/performing-arts/guitar-ensemble)
+*   [Guzheng Ensemble](https://staging.d31lf6q9623hn3.amplifyapp.com/co-curricular-programmes/performing-arts/guzheng-ensemble)
+*   [Handbell Ensemble](https://staging.d31lf6q9623hn3.amplifyapp.com/co-curricular-programmes/performing-arts/handbell-ensemble)
+*   [Harp Ensemble](https://staging.d31lf6q9623hn3.amplifyapp.com/co-curricular-programmes/performing-arts/harp-ensemble)
+
+  
+
+**d. Clubs & Societies**
+
+*   [English Language, Drama and Debating](https://staging.d31lf6q9623hn3.amplifyapp.com/co-curricular-programmes/clubs-and-societies/english-language-drama-and-debating)  
+    
+*   [Infocomm Technology (Media Production)](https://staging.d31lf6q9623hn3.amplifyapp.com/co-curricular-programmes/clubs-and-societies/infocomm-technology-media-production)
+*   [International Chess](https://staging.d31lf6q9623hn3.amplifyapp.com/co-curricular-programmes/clubs-and-societies/international-chess)  
+    
+*   [Photography Club](https://staging.d31lf6q9623hn3.amplifyapp.com/co-curricular-programmes/clubs-and-societies/photography-club)
