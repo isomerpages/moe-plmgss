@@ -2,16 +2,16 @@ collections:
   co-curricular-programmes:
     output: true
     order:
-      - Performing Arts/Harp Ensemble.md
-      - Performing Arts/Handbell Ensemble.md
-      - Performing Arts/Guzheng Ensemble.md
-      - Performing Arts/Guitar Ensemble.md
-      - Performing Arts/English Drama.md
-      - Performing Arts/Modern Dance.md
-      - Performing Arts/Concert Band.md
-      - Performing Arts/Choir.md
-      - Performing Arts/Chinese Drama (D'Arts).md
       - Performing Arts/.keep
+      - Performing Arts/Chinese Drama (D'Arts).md
+      - Performing Arts/Choir.md
+      - Performing Arts/Concert Band.md
+      - Performing Arts/Modern Dance.md
+      - Performing Arts/English Drama.md
+      - Performing Arts/Guitar Ensemble.md
+      - Performing Arts/Guzheng Ensemble.md
+      - Performing Arts/Handbell Ensemble.md
+      - Performing Arts/Harp Ensemble.md
       - Sports & Games/.keep
       - Sports & Games/School Badminton Team.md
       - Sports & Games/School Netball Team.md
