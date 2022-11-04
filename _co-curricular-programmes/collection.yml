@@ -2,6 +2,7 @@ collections:
   co-curricular-programmes:
     output: true
     order:
+      - Uniformed Groups/Girls' Brigade.md
       - Uniformed Groups/.keep
       - Clubs and Societies/.keep
       - Clubs and Societies/English Language, Drama and Debating.md
