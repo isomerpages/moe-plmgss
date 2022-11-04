@@ -2,6 +2,7 @@ collections:
   co-curricular-programmes:
     output: true
     order:
+      - Clubs and Societies/International Chess.md
       - Clubs and Societies/Infocomm Technology (Media Production).md
       - Clubs and Societies/English Language, Drama and Debating.md
       - Clubs and Societies/.keep
