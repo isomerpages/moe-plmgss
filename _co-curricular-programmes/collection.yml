@@ -2,6 +2,7 @@ collections:
   co-curricular-programmes:
     output: true
     order:
+      - Sports & Games/School Track and Field Team.md
       - Sports & Games/School Table Tennis Team.md
       - Sports & Games/School Swimming Team.md
       - Sports & Games/School Rhythmic Gymnastics Team.md
