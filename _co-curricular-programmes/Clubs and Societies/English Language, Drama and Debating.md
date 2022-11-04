@@ -6,7 +6,7 @@ third_nav_title: Clubs and Societies
 ---
 PL Debate offers students, who are looking for intellectual and oratorical challenges, a plethora of opportunities to engage in riveting discussions that will stretch their imagination, challenge their opinions and broaden their perspectives on critical issues. Through these, students’ research and presentation skills will certainly be improved as well. We take part in numerous debate competitions including Singapore Secondary Schools Debating Championships (Division I), Raffles Debate Academy and Thoburn Cup. Through such platforms, our debaters get to meet like-minded people who are passionate about examining the rigour of arguments and higher order thinking skills.  
   
-This year (2021), due to the safe-distancing measures taken to combat COVID-19, the Debate Club conducted training sessions via the online platform, Zoom. This is to ensure that our students can continue to hone their debating skills.    
+This year (2021), due to the safe-distancing measures taken to combat COVID-19, the Debate Club conducted training sessions via the online platform, Zoom. This is to ensure that our students can continue to hone their debating skills. &nbsp;  
   
 **Vision**  
 An outstanding club producing women with fine debating skills and passion for verbal discourse and lifelong learning.  
@@ -71,3 +71,5 @@ Mrs Neoh Terh Ling
 
 Training Schedule (adjusted to adhere to safe-distancing measurements)  <br>
 Tuesdays and Fridays from 4.30 to 6 pm via Zoom
+
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTDUhW7zb4cubmUToK71soWv-KOxn0j5lJK6029vTCC7_pExFhQCDngo-44Q8YTfkdYLQCWSasG1LFN/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
