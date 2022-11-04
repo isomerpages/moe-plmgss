@@ -2,5 +2,6 @@ collections:
   co-curricular-programmes:
     output: true
     order:
+      - Clubs and Societies/.keep
       - PLCM (PL Christian Ministry).md
       - Sexuality Education.md
