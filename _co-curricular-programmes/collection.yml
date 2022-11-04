@@ -2,6 +2,7 @@ collections:
   co-curricular-programmes:
     output: true
     order:
+      - Performing Arts/Modern Dance.md
       - Performing Arts/Concert Band.md
       - Performing Arts/Choir.md
       - Performing Arts/Chinese Drama (D'Arts).md
