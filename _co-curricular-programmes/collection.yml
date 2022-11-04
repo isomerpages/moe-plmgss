@@ -2,14 +2,14 @@ collections:
   co-curricular-programmes:
     output: true
     order:
-      - Sports & Games/School Volleyball Team.md
-      - Sports & Games/School Track and Field Team.md
-      - Sports & Games/School Table Tennis Team.md
-      - Sports & Games/School Swimming Team.md
-      - Sports & Games/School Rhythmic Gymnastics Team.md
-      - Sports & Games/School Netball Team.md
-      - Sports & Games/School Badminton Team.md
       - Sports & Games/.keep
+      - Sports & Games/School Badminton Team.md
+      - Sports & Games/School Netball Team.md
+      - Sports & Games/School Rhythmic Gymnastics Team.md
+      - Sports & Games/School Swimming Team.md
+      - Sports & Games/School Table Tennis Team.md
+      - Sports & Games/School Track and Field Team.md
+      - Sports & Games/School Volleyball Team.md
       - Uniformed Groups/St John Brigade.md
       - Uniformed Groups/National Police Cadet Corps.md
       - Uniformed Groups/Girls' Brigade.md
