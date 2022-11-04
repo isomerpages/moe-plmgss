@@ -16,7 +16,7 @@ The interest group aims to produce members of character and confidence with a pa
   
 **Achievements in 2020**  <br>
 61th National Inter-School Team Chess Championships  
-Secondary Girls Open: National 3rd,  East Zone 1st  
+Secondary Girls Open: National 3rd,&nbsp; East Zone 1st  
 - Faith Teo (4.2)  
 - Putri Viviana Ellysha Binti Mohamad Sulihman (4.6)  
 - Wong Mabel (4.7)  
@@ -33,3 +33,5 @@ Mdm Shi Fudi
   
 **Training Sessions**  <br>
 Chess sets are available for loan in the school Library. Students may go to the library to hone their skills with like-minded friends.
+
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQyH2wGaFWjGzUnjLFmE6bjAK3kKJ4PT1klwzc2-iMcGiphqFAVL0OK7c_ppLqTxU4M71NuYws8OUZC/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
