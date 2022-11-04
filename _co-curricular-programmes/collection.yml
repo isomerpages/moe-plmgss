@@ -2,6 +2,7 @@ collections:
   co-curricular-programmes:
     output: true
     order:
+      - Uniformed Groups/National Police Cadet Corps.md
       - Uniformed Groups/Girls' Brigade.md
       - Uniformed Groups/.keep
       - Clubs and Societies/.keep
