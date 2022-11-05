@@ -118,3 +118,22 @@ Valedictorian Speech by Hannah Quek on PLMGS 101st Founder's Day Service
 ### 2016 Lee Kuan Yew Award for Outstanding Normal Course
 
 <img style="width:65%" src="/images/lky_outstanding.jpg">
+
+We are very proud of Saraniya d/o Panichelvam (Sec 4D1, 2015) who was awarded the Lee Kuan Yew Award for Outstanding Normal Course.  
+  
+Saraniya was an enthusiastic and proactive learner and always did her best to improve herself further. As a class leader, she was able to solve problems with her classmates in a sensitive, diplomatic and patient manner.  
+  
+She was also an unassuming and down-to-earth student who showed great humility. As a member of the Media and Information Technology Club, she worked quietly and steadily in the background to support many of the school events. Saraniya was an active participant in various Values in Action Progammes. Her caring nature towards others was shown in her involvement in various Service Learning projects and projects like the I Love Nature project by National Parks and the I Love Environment project at Pulau Ubin.
+
+### 2014 Lee Kuan Yew Award for Outstanding Normal Course
+
+![](/images/MOE%20Award%202014c.jpg)
+
+Awardee: Mavis Saw Kai Lin
+
+### 2007 Lee Kuan Yew Award for All-Round Excellence
+
+![](/images/MOE%20Award%202007b.png)
+
+Awardee: Rachel Destinee Lee
+
