@@ -5,6 +5,7 @@ description: ""
 ---
 ### Year: 2022
 
+
 **Congratulations to our Alumni PL-Lites who have done well in their various institutions in 2022!**
 
 <style type="text/css">
@@ -588,3 +589,263 @@ description: ""
 </tbody>
 </table>
 
+### Year: 2018
+
+**_Congratulations to our former PL-Lites who have done well in their various institutions in 2018!_**
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-sxkx{background-color:#FFF;color:#454545;text-align:center;vertical-align:top}
+.tg .tg-ncov{background-color:#FFF;color:#454545;text-align:center;vertical-align:middle}
+.tg .tg-2fwu{background-color:#FFF;color:#454545;font-weight:bold;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-2fwu">S/Nos</th>
+    <th class="tg-2fwu">Name of Alumni PL-Lites</th>
+    <th class="tg-2fwu">Awards / Achievements</th>
+    <th class="tg-2fwu">Name of Organisations</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-sxkx">1</td>
+    <td class="tg-sxkx">Megan Nicole Liew Ying <br>(4A3, 2016)</td>
+    <td class="tg-sxkx">MOE Humanities Scholarship</td>
+    <td class="tg-sxkx">ACJC</td>
+  </tr>
+  <tr>
+    <td class="tg-sxkx">2</td>
+    <td class="tg-sxkx"><img src="/images/2018-2.png" alt="2018-2.png" width="172" height="250"><br>Neo Jean Ee (4A3, 2016)</td>
+    <td class="tg-sxkx">SP Engineering Scholar<br>Diploma in Chemical Engineering</td>
+    <td class="tg-sxkx">Singapore Polytechnic</td>
+  </tr>
+  <tr>
+    <td class="tg-sxkx">3</td>
+    <td class="tg-sxkx">Chan Tong Tricia (4A2, 2016)</td>
+    <td class="tg-sxkx">SP Scholar<br>Diploma in Nutrition, Health and Wellness</td>
+    <td class="tg-sxkx">Singapore Polytechnic</td>
+  </tr>
+  <tr>
+    <td class="tg-ncov">4</td>
+    <td class="tg-sxkx"><span style="color:black">Koh Xi Er Angel (</span>4A3, 2015)</td>
+    <td class="tg-sxkx"><br>Ex<span style="color:black">cellent results in GCE-A Level examination</span>s 2017<br>5 <span style="color:black">distinctions</span></td>
+    <td class="tg-sxkx">Nanyang <span style="color:black">Junior College</span></td>
+  </tr>
+  <tr>
+    <td class="tg-ncov">5</td>
+    <td class="tg-ncov"> <span style="color:black">Lad Komal Bhupendra</span><br>(4A1, 2015)</td>
+    <td class="tg-sxkx"><br><span style="color:black">Excellent results in GCE-A Level examinations 2017 </span><br><br><span style="color:black">6 distinctions</span><br></td>
+    <td class="tg-ncov"> Nanyang <span style="color:black">Junior College</span></td>
+  </tr>
+  <tr>
+    <td class="tg-ncov">6</td>
+    <td class="tg-ncov"> <span style="color:black">Chia Qi En Joy</span> (4A1, 2015)</td>
+    <td class="tg-sxkx"><br><br>Excellent results in GCE-A Level examinations 2017<br><br><span style="color:black">6 distinctions</span></td>
+    <td class="tg-ncov"> Nanyang <span style="color:black">Junior College</span></td>
+  </tr>
+  <tr>
+    <td class="tg-ncov">7</td>
+    <td class="tg-sxkx"><span style="color:black">Anastasia Patricks</span> (4A1, 2015)</td>
+    <td class="tg-sxkx"><br><span style="color:black">Excellent results in GCE-A Level examinations 2017</span><br><br><span style="color:black">5 distinctions</span></td>
+    <td class="tg-sxkx"><br><span style="color:black">Anderson Junior College</span></td>
+  </tr>
+  <tr>
+    <td class="tg-ncov">8</td>
+    <td class="tg-sxkx"><span style="color:black">Tay Suet Fern, Katherine</span><br>(4C1b, 2013)</td>
+    <td class="tg-sxkx">Sembcorp Industries Gold Medal&amp; Prize<br><br>Diploma with Merit<br>Bedmar &amp; Shi Priize<br>DCA Architects Prize<br>Mapletree Prize</td>
+    <td class="tg-sxkx">Ngee Ann Polytechnic</td>
+  </tr>
+  <tr>
+    <td class="tg-ncov">9</td>
+    <td class="tg-sxkx"><span style="color:black">Amanda Leo Min</span> (4A4, 2015)</td>
+    <td class="tg-sxkx">Ex<span style="color:black">cellent results in GCE-A Level examination</span>s 2017<br><br>6 <span style="color:black">distinctions</span><br><span style="color:black">Ministry of Education English Language Elective Scholarship</span></td>
+    <td class="tg-sxkx">Anglo-Chinese Junior College</td>
+  </tr>
+  <tr>
+    <td class="tg-ncov">10</td>
+    <td class="tg-ncov"> <span style="color:black">Reena Premchand Primalani</span><br>(4A2, 2015)</td>
+    <td class="tg-sxkx">Ex<span style="color:black">cellent results in GCE-A Level examination</span>s 2017<br><br>6 <span style="color:black">distinctions</span></td>
+    <td class="tg-sxkx">Anglo-Chinese Junior College</td>
+  </tr>
+  <tr>
+    <td class="tg-ncov">11</td>
+    <td class="tg-sxkx"><span style="color:black">Poh Ying Hui Doreen</span> (4A4, 2015)</td>
+    <td class="tg-sxkx">Ex<span style="color:black">cellent results in GCE-A Level examination</span>s 2017<br><br><span style="color:black">5 distinctions</span></td>
+    <td class="tg-sxkx">Anglo-Chinese Junior College</td>
+  </tr>
+  <tr>
+    <td class="tg-ncov">12</td>
+    <td class="tg-ncov"> Ong Jia Lyn Jacyline (5A1, 2014)</td>
+    <td class="tg-ncov">Diploma In Business Administration<br>(Silver Medalist)<br><br>Mandom Corporation Silver Medal <br></td>
+    <td class="tg-ncov"> Singapore Polytechnic</td>
+  </tr>
+  <tr>
+    <td class="tg-ncov">13</td>
+    <td class="tg-ncov">Lee Xuan Ying (4A2, 2014)</td>
+    <td class="tg-ncov">Diploma In Nutrition, Health &amp; Wellness (Course Medalist)<br><br>Singapore Food Manufacturers' Association Gold Medal<br><br>Diploma With Merit<br></td>
+    <td class="tg-ncov"> Singapore Polytechnic</td>
+  </tr>
+  <tr>
+    <td class="tg-ncov">14<br></td>
+    <td class="tg-ncov">Goh Rui Ping Samantha (5A2, 2011)</td>
+    <td class="tg-ncov">Diploma In Maritime Business<br>(Silver Medalist)<br><br>SingTel Maritime Satellite Silver Medal<br><br>PSA Corporation Prize<br><br>Diploma With Merit</td>
+    <td class="tg-ncov">Singapore Polytechnic</td>
+  </tr>
+  <tr>
+    <td class="tg-ncov">15<br></td>
+    <td class="tg-ncov">Ang Pei Shan, Emily (4B3, 2014)</td>
+    <td class="tg-sxkx"><span style="color:black">Diploma in Health Management and Promotion with Merit</span> (Top 10% for each graduating course cohort)<br></td>
+    <td class="tg-ncov">Republic Polytechnic</td>
+  </tr>
+  <tr>
+    <td class="tg-ncov">16<br></td>
+    <td class="tg-ncov">Melody Chiam Jiale (4A1, 2014)</td>
+    <td class="tg-sxkx"><span style="color:black">Diploma in Sports and Exercise Sciences with Merit</span> (Top 10% for each graduating course cohort)</td>
+    <td class="tg-ncov">Republic Polytechnic</td>
+  </tr>
+  <tr>
+    <td class="tg-ncov">17<br></td>
+    <td class="tg-sxkx"><img src="/images/2018%20-%20PHOEBE%20TAN%20KIT.jpg" alt="2018 - PHOEBE TAN KIT.jpg" width="170" height="260"><br>Phoebe Tan Kit (4C1, 2016)<br></td>
+    <td class="tg-ncov">Director’s Honour Roll<br>Entered SP through Polytechnic<br>Foundation Programme (PFP) after<br>GCE ‘N’ Levels at PL</td>
+    <td class="tg-ncov">Singapore Polytechnic</td>
+  </tr>
+  <tr>
+    <td class="tg-ncov">18<br></td>
+    <td class="tg-sxkx"><img src="/images/2018-Samantha.png" alt="2018-Samantha.png" width="134" height="167"><br>Goh Rui Ping Samantha (5A2, 2011)</td>
+    <td class="tg-ncov">Silver Medallist 2018, Diploma in Maritime Business, Singapore Maritime Academy<br>SingTel Maritime Satellite Silver Medal<br>PSA Corporation Prize</td>
+    <td class="tg-ncov">Singapore Polytechnic</td>
+  </tr>
+  <tr>
+    <td class="tg-ncov">19<br></td>
+    <td class="tg-sxkx"><img src="/images/2018-JACYLINE.png" alt="2018-JACYLINE.png" width="142" height="181"><br>Ong Jia Lyn, Jacyline (5A1, 2014)</td>
+    <td class="tg-ncov">Silver Medallist 2018, Diploma in Business Administration, SP Business School<br>Mandom Corporation Silver Medal</td>
+    <td class="tg-ncov">Singapore Polytechnic</td>
+  </tr>
+  <tr>
+    <td class="tg-ncov">20<br></td>
+    <td class="tg-ncov">Lee Xuan Yin (4A2, 2014)</td>
+    <td class="tg-ncov">Gold Medallist 2018, Diploma in Nutrition, Health and Wellness, School of Chemical And Life Sciences<br>Singapore Food Manufacturers' Association Gold Medal</td>
+    <td class="tg-ncov">Singapore Polytechnic</td>
+  </tr>
+  <tr>
+    <td class="tg-ncov">21<br></td>
+    <td class="tg-sxkx"><img src="/images/2018-Amanda%20Lai%20Ting%20Yu.png" alt="2018-Amanda Lai Ting Yu.png" width="163" height="232"><br>Amanda Lai Ting Yu (4A4, 2015)</td>
+    <td class="tg-ncov">Top Student with at least 85 A-level points in GCE A-Level Exams 2017</td>
+    <td class="tg-ncov">Yishun Junior College</td>
+  </tr>
+  <tr>
+    <td class="tg-ncov">22<br></td>
+    <td class="tg-sxkx"><img src="/images/2018-Natalie%20Seet%20Yong%20Woon.png" alt="2018-Natalie Seet Yong Woon.png" width="158" height="222"><br>Natalie Seet Yong Woon (4B2, 2014)</td>
+    <td class="tg-ncov">Top Student with at least 80 A-level points in GCE A-Level Exams 2017</td>
+    <td class="tg-ncov">Yishun Junior College</td>
+  </tr>
+  <tr>
+    <td class="tg-ncov">23<br></td>
+    <td class="tg-sxkx">Loraine Lee Yen (4B1, 2014)</td>
+    <td class="tg-sxkx">MediaCorp OOH Media Course Silver Medal, Diploma in Marketing</td>
+    <td class="tg-sxkx">Temasek Polytechnic</td>
+  </tr>
+  <tr>
+    <td class="tg-ncov">24<br></td>
+    <td class="tg-sxkx">Eunice (4B2, 2014)</td>
+    <td class="tg-ncov">Subway @ Temasek Poly Major Project Prize, Diploma in Retail Management<br></td>
+    <td class="tg-ncov"> Temasek Polytechnic</td>
+  </tr>
+  <tr>
+    <td class="tg-ncov">25<br></td>
+    <td class="tg-ncov"> Heng Shu Ling Estelle<br>(4B2, 2014)</td>
+    <td class="tg-ncov">Changi General Hospital Course Gold Medal,  Diploma in Gerontological Management Studies<br></td>
+    <td class="tg-ncov"> Temasek Polytechnic</td>
+  </tr>
+  <tr>
+    <td class="tg-ncov">26<br></td>
+    <td class="tg-sxkx">Eng Jia Yi, Tricia (4A2, 2014)</td>
+    <td class="tg-ncov">IMDA Excellence Award<br>SAS Institute Course Gold Medal<br>The Great Eastern Life Assurance Project Prize, The Great Eastern Life Assurance Special Industry Prize, SAS Institute Prize<br></td>
+    <td class="tg-ncov"> Temasek Polytechnic</td>
+  </tr>
+  <tr>
+    <td class="tg-ncov">27<br></td>
+    <td class="tg-sxkx">Carissa Teng Ke En (4A2, 2014)</td>
+    <td class="tg-sxkx">PCS Security Project Prize<span style="color:#1F497D">,</span> Diploma in Digital Forensics</td>
+    <td class="tg-ncov"> Temasek Polytechnic</td>
+  </tr>
+  <tr>
+    <td class="tg-ncov">28<br></td>
+    <td class="tg-sxkx">Poh Qi Ling (4A3, 2014)</td>
+    <td class="tg-ncov">MOE Teaching Award<br></td>
+    <td class="tg-ncov">MOE<br></td>
+  </tr>
+  <tr>
+    <td class="tg-ncov">29<br></td>
+    <td class="tg-sxkx"><span style="color:black">Tan Le-En Deborah (4A2, 2017)</span></td>
+    <td class="tg-sxkx"><span style="color:black">MOE Humanities Scholarship</span></td>
+    <td class="tg-sxkx"><span style="color:black">ACS (I)</span></td>
+  </tr>
+  <tr>
+    <td class="tg-ncov">30<br></td>
+    <td class="tg-ncov">Ng Nian Zi (4A1, 2014)</td>
+    <td class="tg-ncov"> Diploma in Tourism &amp; Resort Management<br>Diploma with Merit 2018<br>(Top 10% of the graduates in each cohort)<br>Royal Caribbean Cruises Prize 2018<br>Diploma Plus: Certificate in Korean 2018</td>
+    <td class="tg-ncov">Ngee Ann Polytechnic <br></td>
+  </tr>
+  <tr>
+    <td class="tg-ncov">31<br></td>
+    <td class="tg-ncov">Poh Qi Ling (4A3, 2014)</td>
+    <td class="tg-ncov">Diploma in Optometry<br>Diploma with Merit 2018 (Top 10% of the graduates in each cohort)<br>FreshKon Prize 2018<br>Hoya Lens Prize 2018<br>Singapore Optometric Association Prize 2018<br></td>
+    <td class="tg-ncov">Ngee Ann Polytechnic <br></td>
+  </tr>
+  <tr>
+    <td class="tg-ncov">32<br></td>
+    <td class="tg-ncov">Foo Shuan Hui, Joanne Faith<br>(4A3, 2014)</td>
+    <td class="tg-ncov">Diploma in Child Psychology &amp; Early Education<br>Diploma with Merit 2018 (Top 10% of the graduates in each cohort)<br><br>Thye Hua Kwan Moral Charities Prize 2018<br></td>
+    <td class="tg-ncov"> Ngee Ann Polytechnic<br></td>
+  </tr>
+  <tr>
+    <td class="tg-ncov">33<br></td>
+    <td class="tg-ncov"> Ruth Sit Mei Chen (5A1, 2014)</td>
+    <td class="tg-ncov">Diploma in Early Childhood Education<br>Diploma with Merit 2018 (Top 10% of the graduates in each cohort)<br></td>
+    <td class="tg-ncov"> Ngee Ann Polytechnic<br></td>
+  </tr>
+  <tr>
+    <td class="tg-ncov">34<br></td>
+    <td class="tg-ncov">Ng Yu Qi (4B1, 2014)</td>
+    <td class="tg-ncov">Diploma in Mass Communication<br>Grey Group Pte Ltd Prize 2018<br></td>
+    <td class="tg-ncov"> Ngee Ann Polytechnic<br></td>
+  </tr>
+  <tr>
+    <td class="tg-ncov">35<br></td>
+    <td class="tg-sxkx">Ruth Koh Jia En (4A1, 2014)</td>
+    <td class="tg-ncov">Diploma in Biomedical Science<br>SPD Scientific Prize<br></td>
+    <td class="tg-ncov"> Ngee Ann Polytechnic</td>
+  </tr>
+  <tr>
+    <td class="tg-ncov">36<br></td>
+    <td class="tg-sxkx"><img src="/images/lingyin.jpg" alt="lingyin.jpg" width="199" height="149"><br>Ling Yin<br>(4A1, 2017)</td>
+    <td class="tg-sxkx">Lee Kuan Yew All-Round<br>Excellence Award</td>
+    <td class="tg-ncov">MOE<br></td>
+  </tr>
+  <tr>
+    <td class="tg-ncov">37<br></td>
+    <td class="tg-sxkx"><img src="/images/Fathima%20Raiza%20Rifky.jpg" alt="Fathima Raiza Rifky.jpg" width="207" height="138"><br>Fathima Raiza Rifky<br>(4A3, 2017)</td>
+    <td class="tg-ncov">Anugerah Belia Cemerlang<br>MENDAKI Award<br>(<a href="https://www.mendaki.org.sg/mendaki/programmes/educational-assistance/scholarships-n-bursaries"><span style="text-decoration:underline;color:#454545">MENDAKI Youth Promise Awards</span></a>)<br></td>
+    <td class="tg-ncov"> Mendaki</td>
+  </tr>
+  <tr>
+    <td class="tg-ncov">38</td>
+    <td class="tg-ncov">Jaslyn Goh Jie Lin (4B2, 2014)<br></td>
+    <td class="tg-ncov">Temasek Polytechnic Freshmen Scholarship<br></td>
+    <td class="tg-ncov">Temasek Polytechnic<br></td>
+  </tr>
+  <tr>
+    <td class="tg-ncov">39</td>
+    <td class="tg-ncov">Tay Xin Ci <span style="background-color:#FFF">(4A2, 2014)</span><br></td>
+    <td class="tg-ncov"> Singapore-industry Scholarship,<br>Electrical Engineering<br></td>
+    <td class="tg-ncov"> NUS</td>
+  </tr>
+</tbody>
+</table>
