@@ -2,4 +2,5 @@ collections:
   accolades:
     output: true
     order:
+      - Alumni Achievements.md
       - MOE Special Awards.md
