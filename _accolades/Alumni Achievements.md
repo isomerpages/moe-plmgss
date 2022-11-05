@@ -1761,3 +1761,753 @@ description: ""
 ### Year: 2013
 
 **_Congratulations to our former PL-Lites who have done well in their various institutions in 2013!_**
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-sxkx{background-color:#FFF;color:#454545;text-align:center;vertical-align:top}
+.tg .tg-2fwu{background-color:#FFF;color:#454545;font-weight:bold;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-2fwu">S/Nos</th>
+    <th class="tg-2fwu">Name of Alumni PL-Lites</th>
+    <th class="tg-2fwu">Awards / Achievements</th>
+    <th class="tg-2fwu">Name of Organisations</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-sxkx">1</td>
+    <td class="tg-sxkx">Boey Theng Hiang<br>(4A1, 2010)</td>
+    <td class="tg-sxkx">4 distinctions at GCE A-Level Exam</td>
+    <td class="tg-sxkx">Nanyang Junior College</td>
+  </tr>
+  <tr>
+    <td class="tg-sxkx">2</td>
+    <td class="tg-sxkx">Elizabeth Jocelyn (4A1, 2010)</td>
+    <td class="tg-sxkx">5 distinctions at GCE A-Level Exam</td>
+    <td class="tg-sxkx">Nanyang Junior College</td>
+  </tr>
+  <tr>
+    <td class="tg-sxkx">3</td>
+    <td class="tg-sxkx">Goh Ee Lin (4A2, 2010)</td>
+    <td class="tg-sxkx">5 distinctions at GCE A-Level Exam</td>
+    <td class="tg-sxkx">Nanyang Junior College</td>
+  </tr>
+  <tr>
+    <td class="tg-sxkx">4</td>
+    <td class="tg-sxkx">Vivian Kueh (4A2, 2010)</td>
+    <td class="tg-sxkx">5 distinctions at GCE A-Level Exam</td>
+    <td class="tg-sxkx">Nanyang Junior College</td>
+  </tr>
+  <tr>
+    <td class="tg-sxkx">5</td>
+    <td class="tg-sxkx">Teo Li Xin Pearlyn (4E1, 2010)</td>
+    <td class="tg-sxkx">Course Medals (National ITE Certificate in Community Care &amp; Social Services)</td>
+    <td class="tg-sxkx">ITE</td>
+  </tr>
+  <tr>
+    <td class="tg-sxkx">6</td>
+    <td class="tg-sxkx">Waverly Lim Jia Hui<br>(4E1, 2010)</td>
+    <td class="tg-sxkx">Course Medals (National ITE Certificate in Product Design)</td>
+    <td class="tg-sxkx">ITE</td>
+  </tr>
+  <tr>
+    <td class="tg-sxkx">7</td>
+    <td class="tg-sxkx">Mok Wan Lin Clarice<br>(4A2, 2010)</td>
+    <td class="tg-sxkx">6 distinctions at GCE A-Level Exam</td>
+    <td class="tg-sxkx">Anderson Junior College</td>
+  </tr>
+  <tr>
+    <td class="tg-sxkx">8</td>
+    <td class="tg-sxkx">Yip Xiuying Deanna<br>(4A1, 2010)</td>
+    <td class="tg-sxkx">5 distinctions at GCE A-Level Exam</td>
+    <td class="tg-sxkx">Anderson Junior College</td>
+  </tr>
+  <tr>
+    <td class="tg-sxkx">9</td>
+    <td class="tg-sxkx">Sarah Ng Ee Ying (4A3, 2010)</td>
+    <td class="tg-sxkx">Subject Prize Winner</td>
+    <td class="tg-sxkx">Catholic Junior College</td>
+  </tr>
+  <tr>
+    <td class="tg-sxkx">10</td>
+    <td class="tg-sxkx">Seetoh Wai Yeng, Stella<br>(4A3, 2012)</td>
+    <td class="tg-sxkx">Temasek Polytechnic Scholarship</td>
+    <td class="tg-sxkx">Temasek Polytechnic</td>
+  </tr>
+  <tr>
+    <td class="tg-sxkx">11</td>
+    <td class="tg-sxkx">Niki Teo Wei Lin (4B2, 2012)</td>
+    <td class="tg-sxkx">SP Arts &amp; Music Scholarship</td>
+    <td class="tg-sxkx">Singapore Polytechnic</td>
+  </tr>
+  <tr>
+    <td class="tg-sxkx">12</td>
+    <td class="tg-sxkx">Olivia Ng Su Ying (4A2,2009)</td>
+    <td class="tg-sxkx">OSIM Silver Medal &amp; Prize Diploma with Merit YCH Group Prize</td>
+    <td class="tg-sxkx">Ngee Ann Polytechnic</td>
+  </tr>
+  <tr>
+    <td class="tg-sxkx">13</td>
+    <td class="tg-sxkx">Clara Lim Hui Xin (4A2,2009)</td>
+    <td class="tg-sxkx">Diploma with Merit Cathay Organisation Film Prize</td>
+    <td class="tg-sxkx">Ngee Ann Polytechnic</td>
+  </tr>
+  <tr>
+    <td class="tg-sxkx">14</td>
+    <td class="tg-sxkx">Isabel Tang Shu Yuan (4B1,2009)</td>
+    <td class="tg-sxkx">Diploma with Merit</td>
+    <td class="tg-sxkx">Ngee Ann Polytechnic</td>
+  </tr>
+  <tr>
+    <td class="tg-sxkx">15</td>
+    <td class="tg-sxkx">Amanda Teo Hui Min (4B2,2009)</td>
+    <td class="tg-sxkx">Equip Medical Prize</td>
+    <td class="tg-sxkx">Ngee Ann Polytechnic</td>
+  </tr>
+  <tr>
+    <td class="tg-sxkx">16</td>
+    <td class="tg-sxkx">Kan Mei-Li Sherilyn (4C1,2009)</td>
+    <td class="tg-sxkx">Diploma with Merit</td>
+    <td class="tg-sxkx">Republic Polytechnic</td>
+  </tr>
+  <tr>
+    <td class="tg-sxkx">17</td>
+    <td class="tg-sxkx">Chanel Tan En Ting (4A2,2011)</td>
+    <td class="tg-sxkx">Temasek Polytechnic Scholarship</td>
+    <td class="tg-sxkx">Temasek Polytechnic</td>
+  </tr>
+  <tr>
+    <td class="tg-sxkx">18</td>
+    <td class="tg-sxkx">Grace Tau Wen Ting (4A2,2011)</td>
+    <td class="tg-sxkx">Temasek Polytechnic Scholarship</td>
+    <td class="tg-sxkx">Temasek Polytechnic</td>
+  </tr>
+  <tr>
+    <td class="tg-sxkx">19</td>
+    <td class="tg-sxkx">Lee Si Ya Jean Jezreel (5A1,2010)</td>
+    <td class="tg-sxkx">Diploma Prize</td>
+    <td class="tg-sxkx">Republic Polytechnic</td>
+  </tr>
+  <tr>
+    <td class="tg-sxkx">20</td>
+    <td class="tg-sxkx">Lai Yanqi Wendy (4B2,2011)</td>
+    <td class="tg-sxkx">Sennheiser Scholarship, Diploma Prize, and Module Prize</td>
+    <td class="tg-sxkx">Republic Polytechnic</td>
+  </tr>
+  <tr>
+    <td class="tg-sxkx">21</td>
+    <td class="tg-sxkx">Ng Xin Yi, Grace (4A3, 2009)</td>
+    <td class="tg-sxkx">Director's List (School of Business Management)</td>
+    <td class="tg-sxkx">Nanyang Polytechnic</td>
+  </tr>
+  <tr>
+    <td class="tg-sxkx">22</td>
+    <td class="tg-sxkx">Tan Xuan Ying, Lynette (4A2,2011)</td>
+    <td class="tg-sxkx">Director's List (School of Business Management)</td>
+    <td class="tg-sxkx">Nanyang Polytechnic</td>
+  </tr>
+  <tr>
+    <td class="tg-sxkx">23</td>
+    <td class="tg-sxkx">Seah Hui Ying (4A1, 2009)</td>
+    <td class="tg-sxkx">Director's List (School of Business Management)</td>
+    <td class="tg-sxkx">Nanyang Polytechnic</td>
+  </tr>
+  <tr>
+    <td class="tg-sxkx">24</td>
+    <td class="tg-sxkx">Aphimongkhonlert Lalita<br>(4B1, 2010)</td>
+    <td class="tg-sxkx">Director's List (School of Business Management)</td>
+    <td class="tg-sxkx">Nanyang Polytechnic</td>
+  </tr>
+  <tr>
+    <td class="tg-sxkx">25</td>
+    <td class="tg-sxkx">Leong Enhui, Julia<br>(4B1, 2010)</td>
+    <td class="tg-sxkx">Director's List (School of Business Management)</td>
+    <td class="tg-sxkx">Nanyang Polytechnic</td>
+  </tr>
+  <tr>
+    <td class="tg-sxkx">26</td>
+    <td class="tg-sxkx">Lim Yin Kai (4A4,2011)</td>
+    <td class="tg-sxkx">Director's List (School of Business Management)</td>
+    <td class="tg-sxkx">Nanyang Polytechnic</td>
+  </tr>
+  <tr>
+    <td class="tg-sxkx">27</td>
+    <td class="tg-sxkx">Vanessa Kang Yun Yi<br>(4B3, 2011)</td>
+    <td class="tg-sxkx">Director's List (School of Business Management)</td>
+    <td class="tg-sxkx">Nanyang Polytechnic</td>
+  </tr>
+  <tr>
+    <td class="tg-sxkx">28</td>
+    <td class="tg-sxkx">Kan Mei-Li Sherilyn<br>(4C1, 2009)</td>
+    <td class="tg-sxkx">Diploma in New Media with Merit</td>
+    <td class="tg-sxkx">Republic Polyetchnic</td>
+  </tr>
+  <tr>
+    <td class="tg-sxkx">29</td>
+    <td class="tg-sxkx">Mavis Saw Kai Lin<br>(4D1, 2013)</td>
+    <td class="tg-sxkx">Lee Kuan Kuan Yew Award for Outstanding Normal Course Students (Normal Technical)</td>
+    <td class="tg-sxkx">MOE</td>
+  </tr>
+</tbody>
+</table>
+
+
+### Year: 2012
+
+**_Congratulations to our former PL-Lites who have done well in their various institutions in 2012!_**
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-sxkx{background-color:#FFF;color:#454545;text-align:center;vertical-align:top}
+.tg .tg-2fwu{background-color:#FFF;color:#454545;font-weight:bold;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-2fwu">S/Nos</th>
+    <th class="tg-2fwu">Name of Alumni PL-Lites</th>
+    <th class="tg-2fwu">Awards / Achievements</th>
+    <th class="tg-2fwu">Name of Organisations</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-sxkx">1</td>
+    <td class="tg-sxkx">Kan Mei-Li Sherilyn (4C1, 2009)</td>
+    <td class="tg-sxkx">Diploma Merit Award (Top 10%)</td>
+    <td class="tg-sxkx">Republic Polytechnic</td>
+  </tr>
+  <tr>
+    <td class="tg-sxkx">2</td>
+    <td class="tg-sxkx">Leong Enhui, Julia (4B1, 2010)</td>
+    <td class="tg-sxkx">Director List</td>
+    <td class="tg-sxkx">Nanyang Polytechnic</td>
+  </tr>
+  <tr>
+    <td class="tg-sxkx">3</td>
+    <td class="tg-sxkx">Esther Wong Rui Li (4B1, 2007)</td>
+    <td class="tg-sxkx">Director List</td>
+    <td class="tg-sxkx">Nanyang Polytechnic</td>
+  </tr>
+  <tr>
+    <td class="tg-sxkx">4</td>
+    <td class="tg-sxkx">Go Hui Shan (4A2, 2010)</td>
+    <td class="tg-sxkx">Diploma in IT (Top 20% )</td>
+    <td class="tg-sxkx">Temasek Polytechnic</td>
+  </tr>
+  <tr>
+    <td class="tg-sxkx">5</td>
+    <td class="tg-sxkx">Lim Mei Xi (4A2, 2010)</td>
+    <td class="tg-sxkx">Diploma in Computer Engineering (Top 20%)</td>
+    <td class="tg-sxkx">Temasek Polytechnic</td>
+  </tr>
+  <tr>
+    <td class="tg-sxkx">6</td>
+    <td class="tg-sxkx">Lim Yong Le(4B2, 2010)</td>
+    <td class="tg-sxkx">Diploma in Mechatronics (Top 20%)</td>
+    <td class="tg-sxkx">Temasek Polytechnic</td>
+  </tr>
+  <tr>
+    <td class="tg-sxkx">7</td>
+    <td class="tg-sxkx">Soon Min Hui Crysandra (4A3,2010)</td>
+    <td class="tg-sxkx">Diploma in Psychology Studies (Top 20%)</td>
+    <td class="tg-sxkx">Temasek Polytechnic</td>
+  </tr>
+  <tr>
+    <td class="tg-sxkx">8</td>
+    <td class="tg-sxkx">Tan Pei Ying (5A1,2010)</td>
+    <td class="tg-sxkx">Diploma in Business (Top 20%)</td>
+    <td class="tg-sxkx">Temasek Polytechnic</td>
+  </tr>
+  <tr>
+    <td class="tg-sxkx">9</td>
+    <td class="tg-sxkx">Tan Shi Min (4A3,2010)</td>
+    <td class="tg-sxkx">Diploma in Hospitality &amp; Tourism Management (Top 20%)</td>
+    <td class="tg-sxkx">Temasek Polytechnic</td>
+  </tr>
+  <tr>
+    <td class="tg-sxkx">10</td>
+    <td class="tg-sxkx">Vanessar Yap Shu Qin (4B1,2010)</td>
+    <td class="tg-sxkx">Diploma in Business Process &amp; System Engineering (Top 20%)</td>
+    <td class="tg-sxkx">Temasek Polytechnic</td>
+  </tr>
+  <tr>
+    <td class="tg-sxkx">11</td>
+    <td class="tg-sxkx">Wong Pei Qi Caselyn (5A1,2010)</td>
+    <td class="tg-sxkx">Diploma in Accounting &amp; Finance (Top 20%)</td>
+    <td class="tg-sxkx">Temasek Polytechnic</td>
+  </tr>
+  <tr>
+    <td class="tg-sxkx">12</td>
+    <td class="tg-sxkx">Yang Yingjia (4A3,2010)</td>
+    <td class="tg-sxkx">Diploma in Psychology Studies (Top 20%)</td>
+    <td class="tg-sxkx">Temasek Polytechnic</td>
+  </tr>
+  <tr>
+    <td class="tg-sxkx">13</td>
+    <td class="tg-sxkx">Yeong Xue Ling (4B2,2010)</td>
+    <td class="tg-sxkx">Diploma in Business (Top 20%)</td>
+    <td class="tg-sxkx">Temasek Polytechnic</td>
+  </tr>
+  <tr>
+    <td class="tg-sxkx">14</td>
+    <td class="tg-sxkx">Christina Gunawan (4B1,2009)</td>
+    <td class="tg-sxkx">Diploma in Communications &amp; Media Management (Top 20%)</td>
+    <td class="tg-sxkx">Temasek Polytechnic</td>
+  </tr>
+  <tr>
+    <td class="tg-sxkx">15</td>
+    <td class="tg-sxkx">Hoon Hui Qing Jaime (4A3,2009)</td>
+    <td class="tg-sxkx">Diploma in Leisure &amp; Resort Management (Top 20%)</td>
+    <td class="tg-sxkx">Temasek Polytechnic</td>
+  </tr>
+  <tr>
+    <td class="tg-sxkx">16</td>
+    <td class="tg-sxkx">Juanita Domingo Ignaties (4C1,2009)</td>
+    <td class="tg-sxkx">Diploma in Leisure &amp; Resort Management (Top 20%)</td>
+    <td class="tg-sxkx">Temasek Polytechnic</td>
+  </tr>
+  <tr>
+    <td class="tg-sxkx">17</td>
+    <td class="tg-sxkx">Kia Jie Xi (4A3,2009)</td>
+    <td class="tg-sxkx">Diploma in Culinary &amp; Catering Management (Top 20%)</td>
+    <td class="tg-sxkx">Temasek Polytechnic</td>
+  </tr>
+  <tr>
+    <td class="tg-sxkx">18</td>
+    <td class="tg-sxkx">Lim Jia Qun (5A1,2009)</td>
+    <td class="tg-sxkx">Diploma in Interactive &amp; Media Informatics (Top 20%)</td>
+    <td class="tg-sxkx">Temasek Polytechnic</td>
+  </tr>
+  <tr>
+    <td class="tg-sxkx">19</td>
+    <td class="tg-sxkx">Penelope Mary Toh Xiao Yun (4C1,2009)</td>
+    <td class="tg-sxkx">Diploma in Hospitality &amp; Tourism Management (Top 20%)</td>
+    <td class="tg-sxkx">Temasek Polytechnic</td>
+  </tr>
+  <tr>
+    <td class="tg-sxkx">20</td>
+    <td class="tg-sxkx">Santhiyaa Ayathorai (4B2,2009)</td>
+    <td class="tg-sxkx">Diploma in Applied Food Science &amp; Nutrition (Top 20%)</td>
+    <td class="tg-sxkx">Temasek Polytechnic</td>
+  </tr>
+  <tr>
+    <td class="tg-sxkx">21</td>
+    <td class="tg-sxkx">Seah Qiu Lin Alicia (5A2,2009)</td>
+    <td class="tg-sxkx">Diploma in Integrated Facility Management</td>
+    <td class="tg-sxkx">Temasek Polytechnic</td>
+  </tr>
+  <tr>
+    <td class="tg-sxkx">22</td>
+    <td class="tg-sxkx">Sheryl Tan Weilin (4B1,2009)</td>
+    <td class="tg-sxkx">Diploma in Communications &amp; Media Management</td>
+    <td class="tg-sxkx">Temasek Polytechnic</td>
+  </tr>
+  <tr>
+    <td class="tg-sxkx">23</td>
+    <td class="tg-sxkx">Tay Shu Ying (4B2,2009)</td>
+    <td class="tg-sxkx">Diploma in Gerontological Management Studies (Top 20%)</td>
+    <td class="tg-sxkx">Temasek Polytechnic</td>
+  </tr>
+  <tr>
+    <td class="tg-sxkx">24</td>
+    <td class="tg-sxkx">Thian Si Ying Jolyn (5A2,2009)</td>
+    <td class="tg-sxkx">Diploma in Law &amp; Management (Top 20%)</td>
+    <td class="tg-sxkx">Temasek Polytechnic</td>
+  </tr>
+  <tr>
+    <td class="tg-sxkx">25</td>
+    <td class="tg-sxkx">Alyn Lee Xiao Si (4A2,2008)</td>
+    <td class="tg-sxkx">Diploma in Hospitality &amp; Tourism Management (Top 20%)</td>
+    <td class="tg-sxkx">Temasek Polytechnic</td>
+  </tr>
+  <tr>
+    <td class="tg-sxkx">26</td>
+    <td class="tg-sxkx">Ang Li Ting Demelza (5A1,2008)</td>
+    <td class="tg-sxkx">Diploma in Hospitality &amp; Tourism Management (Top 20%)</td>
+    <td class="tg-sxkx">Temasek Polytechnic</td>
+  </tr>
+  <tr>
+    <td class="tg-sxkx">27</td>
+    <td class="tg-sxkx">Ang Pei Shi Joey (4C1,2008)</td>
+    <td class="tg-sxkx">Diploma in Business (Top 20%)</td>
+    <td class="tg-sxkx">Temasek Polytechnic</td>
+  </tr>
+  <tr>
+    <td class="tg-sxkx">28</td>
+    <td class="tg-sxkx">Chen SiPei (4A2,2008)</td>
+    <td class="tg-sxkx">Diploma in Visual Communication (Top 20%)</td>
+    <td class="tg-sxkx">Temasek Polytechnic</td>
+  </tr>
+  <tr>
+    <td class="tg-sxkx">29</td>
+    <td class="tg-sxkx">Chiam Ying Zhen Pearlyn (4B1,2008)</td>
+    <td class="tg-sxkx">Diploma in Visual Communication (Top 20%)</td>
+    <td class="tg-sxkx">Temasek Polytechnic</td>
+  </tr>
+  <tr>
+    <td class="tg-sxkx">30</td>
+    <td class="tg-sxkx">Janice Yoong Yuan Ling (4B2,2009)</td>
+    <td class="tg-sxkx">Diploma in Aerospace Engineering (Top 20%)</td>
+    <td class="tg-sxkx">Temasek Polytechnic</td>
+  </tr>
+  <tr>
+    <td class="tg-sxkx">31</td>
+    <td class="tg-sxkx">Jewel Lum Li Jie (4C1,2008)</td>
+    <td class="tg-sxkx">Diploma in Culinary &amp; Catering Management (Top 20%)</td>
+    <td class="tg-sxkx">Temasek Polytechnic</td>
+  </tr>
+  <tr>
+    <td class="tg-sxkx">32</td>
+    <td class="tg-sxkx">Joelle Ong Li En (4C1,2008)</td>
+    <td class="tg-sxkx">Diploma in Biotechnology (Top 20%)</td>
+    <td class="tg-sxkx">Temasek Polytechnic</td>
+  </tr>
+  <tr>
+    <td class="tg-sxkx">33</td>
+    <td class="tg-sxkx">Lee Son Fei Sandy (4A3,2008)</td>
+    <td class="tg-sxkx">Diploma in Applied Food Science &amp; Nutrition (Top 20%)</td>
+    <td class="tg-sxkx">Temasek Polytechnic</td>
+  </tr>
+  <tr>
+    <td class="tg-sxkx">34</td>
+    <td class="tg-sxkx">Tan Cihui (4A1, 2005)</td>
+    <td class="tg-sxkx">SMU &amp;ndash; PT Grace Lee Accountancy Scholarship</td>
+    <td class="tg-sxkx">Victoria Junior College</td>
+  </tr>
+  <tr>
+    <td class="tg-sxkx">35</td>
+    <td class="tg-sxkx">Ue Ying En Pearly (4A2 , 2005)</td>
+    <td class="tg-sxkx">Temasek Foundation &amp;ndash; SMU LEaRN Scholarship</td>
+    <td class="tg-sxkx">Victoria Junior College</td>
+  </tr>
+  <tr>
+    <td class="tg-sxkx">36</td>
+    <td class="tg-sxkx">Lauren Lindsey John (4A1 , 2007)</td>
+    <td class="tg-sxkx">SMU Scholarship</td>
+    <td class="tg-sxkx">Victoria Junior College</td>
+  </tr>
+  <tr>
+    <td class="tg-sxkx">37</td>
+    <td class="tg-sxkx">Chan Li Min Carolyn (4A1 , 2008)</td>
+    <td class="tg-sxkx">NUS Kent Ridge Undergraduate (Merit) Scholarship</td>
+    <td class="tg-sxkx">Victoria Junior College</td>
+  </tr>
+  <tr>
+    <td class="tg-sxkx">38</td>
+    <td class="tg-sxkx">Phua Su Ann (4A1, 2009)</td>
+    <td class="tg-sxkx">5 distinctions at the 2011 GCE 'A' Level Examinations</td>
+    <td class="tg-sxkx">Tampines Junior College</td>
+  </tr>
+  <tr>
+    <td class="tg-sxkx">39</td>
+    <td class="tg-sxkx">Tan Li Hong (4A3, 2009)</td>
+    <td class="tg-sxkx">4 distinctions at the 2011 GCE 'A' Level Examinations</td>
+    <td class="tg-sxkx">Nanyang Junior College</td>
+  </tr>
+  <tr>
+    <td class="tg-sxkx">40</td>
+    <td class="tg-sxkx">Chew Yin Hui Esther (4A3, 2009)</td>
+    <td class="tg-sxkx">4 distinctions at the 2011 GCE 'A' Level Examinations</td>
+    <td class="tg-sxkx">Nanyang Junior College</td>
+  </tr>
+  <tr>
+    <td class="tg-sxkx">41</td>
+    <td class="tg-sxkx">Cheryl Chong Su Rui (4E1,2009)</td>
+    <td class="tg-sxkx">Gold Medal Award, Diploma with Merit and Module Award</td>
+    <td class="tg-sxkx">Republic Polytechnic</td>
+  </tr>
+  <tr>
+    <td class="tg-sxkx">42</td>
+    <td class="tg-sxkx">Jessica Kim Tendi (4B1,2008)</td>
+    <td class="tg-sxkx">Diploma with Merit and Module Award</td>
+    <td class="tg-sxkx">Republic Polytechnic</td>
+  </tr>
+  <tr>
+    <td class="tg-sxkx">43</td>
+    <td class="tg-sxkx">Lo Poey San (4C1,2008)</td>
+    <td class="tg-sxkx">Diploma wi th Merit</td>
+    <td class="tg-sxkx">Republic Polytechnic</td>
+  </tr>
+  <tr>
+    <td class="tg-sxkx">44</td>
+    <td class="tg-sxkx">Peh Jiale (4A2,2008)</td>
+    <td class="tg-sxkx">CEMS Prize Diploma with Merit</td>
+    <td class="tg-sxkx">Singapore Polytechnic</td>
+  </tr>
+  <tr>
+    <td class="tg-sxkx">45</td>
+    <td class="tg-sxkx">Yang YingJia (4A3,2010)</td>
+    <td class="tg-sxkx">Temasek Polytechnic Scholarships</td>
+    <td class="tg-sxkx">Temasek Polytechnic</td>
+  </tr>
+  <tr>
+    <td class="tg-sxkx">46</td>
+    <td class="tg-sxkx">Chanel Tan En Ting (4A2,2011)</td>
+    <td class="tg-sxkx">Temasek Polytechnic Scholarships</td>
+    <td class="tg-sxkx">Temasek Polytechnic</td>
+  </tr>
+  <tr>
+    <td class="tg-sxkx">47</td>
+    <td class="tg-sxkx">Grace Tau Wen Ting (4A3,2011)</td>
+    <td class="tg-sxkx">Temasek Polytechnic Scholarships</td>
+    <td class="tg-sxkx">Temasek Polytechnic</td>
+  </tr>
+  <tr>
+    <td class="tg-sxkx">48</td>
+    <td class="tg-sxkx">Nicole Chin Yoon Foon (4A3,2011)</td>
+    <td class="tg-sxkx">Temasek Polytechnic Scholarships</td>
+    <td class="tg-sxkx">Temasek Polytechinic</td>
+  </tr>
+  <tr>
+    <td class="tg-sxkx">49</td>
+    <td class="tg-sxkx">Teo Yan Yi (4B2,2011)</td>
+    <td class="tg-sxkx">Temasek Polytechnic Scholarships</td>
+    <td class="tg-sxkx">Temasek Polytechnic</td>
+  </tr>
+  <tr>
+    <td class="tg-sxkx">50</td>
+    <td class="tg-sxkx">Tan Xue Lin (4A2,2008)</td>
+    <td class="tg-sxkx">ABB Gold Medal &amp; Prize Diploma with Merit Enkon Internatiional Prize Fluke South East Asia Prize Schneider Electric Prize Senoko Energy Prize</td>
+    <td class="tg-sxkx">Ngee Ann Polytechnic</td>
+  </tr>
+  <tr>
+    <td class="tg-sxkx">51</td>
+    <td class="tg-sxkx">Olivia Ng Li Wen (4A2,2008)</td>
+    <td class="tg-sxkx">Diploma with Merit Batey Ads Prize</td>
+    <td class="tg-sxkx">Ngee Ann Polytechnic</td>
+  </tr>
+  <tr>
+    <td class="tg-sxkx">52</td>
+    <td class="tg-sxkx">Pamela Tan Jia Hui (4A2,2008)</td>
+    <td class="tg-sxkx">Diploma with Merit</td>
+    <td class="tg-sxkx">Ngee Ann Polytechnic</td>
+  </tr>
+  <tr>
+    <td class="tg-sxkx">53</td>
+    <td class="tg-sxkx">Lynette Tan Jie Qi (4A3, 2008)</td>
+    <td class="tg-sxkx">Diploma with Merit</td>
+    <td class="tg-sxkx">Ngee Ann Polytechnic</td>
+  </tr>
+  <tr>
+    <td class="tg-sxkx">54</td>
+    <td class="tg-sxkx">Tan Shi Qi (4B2,2008)</td>
+    <td class="tg-sxkx">Diploma with Merit</td>
+    <td class="tg-sxkx">Ngee Ann Polytechnic</td>
+  </tr>
+  <tr>
+    <td class="tg-sxkx">55</td>
+    <td class="tg-sxkx">Adeline Khor Pei Ling (4A2, 2009)</td>
+    <td class="tg-sxkx">Jacob Ballas Scholars Award</td>
+    <td class="tg-sxkx">St Andrew's JC</td>
+  </tr>
+  <tr>
+    <td class="tg-sxkx">56</td>
+    <td class="tg-sxkx">Samantha Wee Shu En (4A1, 2009)</td>
+    <td class="tg-sxkx">MOE Teaching Award</td>
+    <td class="tg-sxkx">MOE, Singapore</td>
+  </tr>
+  <tr>
+    <td class="tg-sxkx">57</td>
+    <td class="tg-sxkx">Tham Wan Xin (4A1, 2009)</td>
+    <td class="tg-sxkx">MOE Teaching Scholarship (Overseas)</td>
+    <td class="tg-sxkx">MOE, Singapore</td>
+  </tr>
+  <tr>
+    <td class="tg-sxkx">58</td>
+    <td class="tg-sxkx">Elizabeth Wong Jia Man (4A3, 2008)</td>
+    <td class="tg-sxkx">Diploma in Supply Chain Management with Merit</td>
+    <td class="tg-sxkx">Republic Polytechnic</td>
+  </tr>
+  <tr>
+    <td class="tg-sxkx">59</td>
+    <td class="tg-sxkx">Lo Poey San (4C1, 2008)</td>
+    <td class="tg-sxkx">Diploma in Pharmaceutical Sciences with Merit</td>
+    <td class="tg-sxkx">Republic Polytechnic</td>
+  </tr>
+  <tr>
+    <td class="tg-sxkx">60</td>
+    <td class="tg-sxkx">Jessica Kim Tendi (4B1, 2008)</td>
+    <td class="tg-sxkx">Module Prize, Diploma in Materials Science with Merit</td>
+    <td class="tg-sxkx">Republic Polytechnic</td>
+  </tr>
+</tbody>
+</table>
+
+### Year: 2011
+
+**_Congratulations to our former PL-Lites who have done well in their various institutions in 2011!_**
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-sxkx{background-color:#FFF;color:#454545;text-align:center;vertical-align:top}
+.tg .tg-2fwu{background-color:#FFF;color:#454545;font-weight:bold;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-2fwu">S/Nos</th>
+    <th class="tg-2fwu">Name of Alumni PL-Lites</th>
+    <th class="tg-2fwu">Awards / Achievements</th>
+    <th class="tg-2fwu">Name of Organisations</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-sxkx">1</td>
+    <td class="tg-sxkx">Rachel Lim Yun Shi (4B1, 2007)</td>
+    <td class="tg-sxkx">Diploma in Hotel and Hospitality Management with Merit.</td>
+    <td class="tg-sxkx">Republic Polytechnic</td>
+  </tr>
+  <tr>
+    <td class="tg-sxkx">2</td>
+    <td class="tg-sxkx">Grace Tien (5A1, 2007)</td>
+    <td class="tg-sxkx">OCBC Bank Bronze Medal in conjunction with the Diploma in Business Informatics.</td>
+    <td class="tg-sxkx">Nanyang Polytechnic</td>
+  </tr>
+  <tr>
+    <td class="tg-sxkx">3</td>
+    <td class="tg-sxkx">Rachael Juliana Quah Shu-En (4A1, 2008)</td>
+    <td class="tg-sxkx">Singapore Government Scholarship (Open)</td>
+    <td class="tg-sxkx">Public Service Commission</td>
+  </tr>
+  <tr>
+    <td class="tg-sxkx">4</td>
+    <td class="tg-sxkx">Charis Low Jia Ying (4A1, 2008)</td>
+    <td class="tg-sxkx">Singapore Government Scholarship (Open)</td>
+    <td class="tg-sxkx">Public Service Commission</td>
+  </tr>
+  <tr>
+    <td class="tg-sxkx">5</td>
+    <td class="tg-sxkx">Tien Li Maine Grace (5A1, 2007)</td>
+    <td class="tg-sxkx">Diploma in Business Informatics: OCBC Bank Bronze Medal.</td>
+    <td class="tg-sxkx">Nanyang Polytechnic</td>
+  </tr>
+  <tr>
+    <td class="tg-sxkx">6</td>
+    <td class="tg-sxkx">Low Yan Lin (4A1, 2008)</td>
+    <td class="tg-sxkx">5 distinctions at the 2010 GCE 'A' Level Examinations.</td>
+    <td class="tg-sxkx">Temasek Junior College</td>
+  </tr>
+  <tr>
+    <td class="tg-sxkx">7</td>
+    <td class="tg-sxkx">Esther Wong Rui Li (4B1, 2007)</td>
+    <td class="tg-sxkx">Director's List as one of the top students in the School of Business Management</td>
+    <td class="tg-sxkx">Nanyang Polytechnic.</td>
+  </tr>
+  <tr>
+    <td class="tg-sxkx">8</td>
+    <td class="tg-sxkx">Kan Mei-Li Sherilyn (4C1, 2009)</td>
+    <td class="tg-sxkx">Diploma in New Media (Module Award)</td>
+    <td class="tg-sxkx">Republic Polytechnic</td>
+  </tr>
+  <tr>
+    <td class="tg-sxkx">9</td>
+    <td class="tg-sxkx">Lo Poey San (4C1, 2008)</td>
+    <td class="tg-sxkx">Diploma in Pharmaceutical Sciences (Merit Award)</td>
+    <td class="tg-sxkx">Republic Polytechnic</td>
+  </tr>
+</tbody>
+</table>
+
+### Year: 2010
+
+
+**_Congratulations to our former PL-Lites who have done well in their various institutions in 2010!_**
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-baqh{text-align:center;vertical-align:top}
+.tg .tg-amwm{font-weight:bold;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-amwm">S/Nos</th>
+    <th class="tg-amwm">Name of Alumni PL-Lites</th>
+    <th class="tg-amwm">Awards / Achievements</th>
+    <th class="tg-amwm">Name of Organisations</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-baqh">1</td>
+    <td class="tg-baqh">Tien Li Maine Grace(4A1, 2007)</td>
+    <td class="tg-baqh">Director's List of Nanyang Polytechnic (2010): Diploma in Business Informatics</td>
+    <td class="tg-baqh">Nanyang Polytechnic</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">2</td>
+    <td class="tg-baqh">Seah Shi Ying(5A2, 2009)</td>
+    <td class="tg-baqh">Director's List of Nanyang Polytechnic (2010): Diploma in Business Enterprise IT</td>
+    <td class="tg-baqh">Nanyang Polytechnic</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">3</td>
+    <td class="tg-baqh">Tan Wan Ling Jesslyn (4B1, 2009)</td>
+    <td class="tg-baqh">Director's List of Nanyang Polytechnic (2010): Diploma in Business Enterprise IT</td>
+    <td class="tg-baqh">Nanyang Polytechnic</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">4</td>
+    <td class="tg-baqh">Cheryl Chong(4E1, 2009)</td>
+    <td class="tg-baqh">Lee Kuan Yew Award for Outstanding Normal Course StudentsAward</td>
+    <td class="tg-baqh">Ministry Of Education</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">5</td>
+    <td class="tg-baqh">Choo En Mei Alexia (4B2, 2007) Ong Yew Yi Eve (4A3, 2007)</td>
+    <td class="tg-baqh">Jacob Ballas Awards</td>
+    <td class="tg-baqh">St Andrew's JC</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">6</td>
+    <td class="tg-baqh">Ong Yew Yi Eve (4A3, 2007)</td>
+    <td class="tg-baqh">Teaching Scholarship (Local)</td>
+    <td class="tg-baqh">Ministry of Educatiion</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">7</td>
+    <td class="tg-baqh">Guo Yixiu (4C1, 2005)</td>
+    <td class="tg-baqh">Teaching Scholarship (Local)</td>
+    <td class="tg-baqh">Ministry of Educatiion</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">8</td>
+    <td class="tg-baqh">Chua Yun Zhi, Diane (4A1, 2004)</td>
+    <td class="tg-baqh">Teaching Award</td>
+    <td class="tg-baqh">Ministry of Educatiion</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">9</td>
+    <td class="tg-baqh">Santi Lin Supramaniam (4A3, 2007)</td>
+    <td class="tg-baqh">Teaching Award</td>
+    <td class="tg-baqh">Ministry of Educatiion</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">10</td>
+    <td class="tg-baqh">Lee Hui Yi Jaclyn (4a1, 2006)</td>
+    <td class="tg-baqh">Undergraduate scholarship</td>
+    <td class="tg-baqh">Singapore Management University</td>
+  </tr>
+</tbody>
+</table>
