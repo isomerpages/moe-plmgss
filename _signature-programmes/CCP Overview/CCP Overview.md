@@ -96,4 +96,5 @@ The International Students Integration Committee looks into promoting social int
 •    creating opportunities for local students and international students to foster mutual trust and friendships based on shared interests, experiences and common values.  
   
 <small>1 Reference: Jim Kouzes and Barry Posner’s Student Leadership Model: The Five Practices of Exemplary Leadership</small>
+
 [http://www.studentleadershipchallenge.com/resource/resource-article-first-steps.aspx](http://www.studentleadershipchallenge.com/resource/resource-article-first-steps.aspx)
