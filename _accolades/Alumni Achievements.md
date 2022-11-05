@@ -29,10 +29,9 @@ description: ""
 <tbody>
   <tr>
     <td class="tg-sxkx">1</td>
-    <td class="tg-sxkx"><br><img src="/images/2022-01-faith.jpg" alt="2022-01-faith.jpg" width="181" height="228">#Chng Shing Yee, Faith<br>(Class of 2020)</td>
+    <td class="tg-sxkx"><br><img src="/images/2022-01-faith.jpg" alt="2022-01-faith.jpg" width="181" height="228">Chng Shing Yee, Faith<br>(Class of 2020)</td>
     <td class="tg-81dz">Diploma in Biomedical Engineering<br>Temasek Polytechnic Scholarship (Engineering)<br></td>
     <td class="tg-sxkx"><span style="color:#454545">Temasek Polytechnic</span></td>
   </tr>
 </tbody>
 </table>
-
