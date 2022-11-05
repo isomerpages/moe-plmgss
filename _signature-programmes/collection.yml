@@ -2,4 +2,5 @@ collections:
   signature-programmes:
     output: true
     order:
+      - CCP Overview/CCP Overview.md
       - CCP Overview/.keep
