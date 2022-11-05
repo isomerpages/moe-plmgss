@@ -2,5 +2,6 @@ collections:
   accolades:
     output: true
     order:
+      - National Examinations/.keep
       - Alumni Achievements.md
       - MOE Special Awards.md
