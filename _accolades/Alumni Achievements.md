@@ -479,19 +479,19 @@ description: ""
   </tr>
   <tr>
     <td class="tg-ncov">9</td>
-    <td class="tg-sxkx"><img src="https://www.plmgss.moe.edu.sg/qql/slot/u173/Accolades/Alumni%20Achievements/2019-joy%20wong.jpg" alt="2019-joy wong.jpg" width="215" height="294"><br>Wong Shiqi, Joy<br>(Class of 2015)</td>
+    <td class="tg-sxkx"><img src="/images/2019-joy%20wong.jpg" alt="2019-joy wong.jpg" width="215" height="294"><br>Wong Shiqi, Joy<br>(Class of 2015)</td>
     <td class="tg-81dz">Diploma in Digital Game Art &amp; Design,<br>School of Interactive &amp; Digital Media<br><br>Lee Hsien Loong Award<br><br>Song Interaction Entertainment Singapore Gold Medal<br><br>Sone Interactive Entertainment Singapore Award for Outstanding Project Work</td>
     <td class="tg-ncov">Nanyang Polytechnic<br></td>
   </tr>
   <tr>
     <td class="tg-ncov">10</td>
-    <td class="tg-sxkx"><img src="https://www.plmgss.moe.edu.sg/qql/slot/u173/Accolades/Alumni%20Achievements/2019-angel_ng.jpg" alt="2019-angel_ng.jpg" width="214" height="300"><br>Angel Ng Hwee Hiang<br>(Graduated in 2015)</td>
+    <td class="tg-sxkx"><img src="/images/2019-angel_ng.jpg" alt="2019-angel_ng.jpg" width="214" height="300"><br>Angel Ng Hwee Hiang<br>(Graduated in 2015)</td>
     <td class="tg-81dz">Diploma in Interaction Design<br>School of Interactive &amp; Digital Media<br><br>Huge.Sg Gold Medal<br><br>Huge.Sg Award for Outstanding Project Work<br></td>
     <td class="tg-ncov"> Nanyang Polytechnic</td>
   </tr>
   <tr>
     <td class="tg-ncov">11<br></td>
-    <td class="tg-sxkx"><img src="https://www.plmgss.moe.edu.sg/qql/slot/u173/Accolades/Alumni%20Achievements/2019_jiasia_jie_xin.jpeg" alt="2019_jiasia_jie_xin.jpeg" width="214" height="292"><br><span style="color:#454545">Jasia Jie Xin Shamdasani</span><br><span style="color:#454545">(Class of 2015)</span></td>
+    <td class="tg-sxkx"><img src="/images/2019_jiasia_jie_xin.jpg" alt="2019_jiasia_jie_xin.jpeg" width="214" height="292"><br><span style="color:#454545">Jasia Jie Xin Shamdasani</span><br><span style="color:#454545">(Class of 2015)</span></td>
     <td class="tg-81dz"> Diploma in Mass Communications with Merit<br>(Top 10% of cohort)<br><span style="color:#454545">Diploma Plus Certificate in International Business</span></td>
     <td class="tg-ncov">Republic Polytechnic<br></td>
   </tr>
@@ -575,7 +575,7 @@ description: ""
   </tr>
   <tr>
     <td class="tg-ncov">25<br></td>
-    <td class="tg-sxkx"><img src="https://www.plmgss.moe.edu.sg/qql/slot/u173/Accolades/Alumni%20Achievements/2019-yu_hao_lin.jpg" alt="2019-yu_hao_lin.jpg" width="352" height="304"><br>Yu Hao Lin<br>(Class of 2018)</td>
+    <td class="tg-sxkx"><img src="/images/2019-yu_hao_lin.jpg" alt="2019-yu_hao_lin.jpg" width="352" height="304"><br>Yu Hao Lin<br>(Class of 2018)</td>
     <td class="tg-81dz">MOE Special Awards 2019  <br>Prime Minister’s Book Prize<br></td>
     <td class="tg-ncov">MOE<br></td>
   </tr>
@@ -587,3 +587,4 @@ description: ""
   </tr>
 </tbody>
 </table>
+
