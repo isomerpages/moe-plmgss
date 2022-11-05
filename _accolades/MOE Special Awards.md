@@ -136,4 +136,3 @@ Awardee: Mavis Saw Kai Lin
 ![](/images/MOE%20Award%202007b.png)
 
 Awardee: Rachel Destinee Lee
-
