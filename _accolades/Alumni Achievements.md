@@ -1110,3 +1110,167 @@ description: ""
 </tbody>
 </table>
 
+### Year: 2016
+
+**_Congratulations to our former PL-Lites who have done well in their various institutions in 2016!_**
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-baqh{text-align:center;vertical-align:top}
+.tg .tg-amwm{font-weight:bold;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-amwm">S/Nos</th>
+    <th class="tg-amwm">Name of Alumni PL-Lites</th>
+    <th class="tg-amwm">Awards / Achievements</th>
+    <th class="tg-amwm">Name of Organisations</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-baqh">1</td>
+    <td class="tg-baqh">Vanessa Kang Yun Yi (4B3, 2011)</td>
+    <td class="tg-baqh">Singapore Airlines Gold Medal</td>
+    <td class="tg-baqh">Nanyang Polytechnic</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">2</td>
+    <td class="tg-baqh">Lim Yin Kai (4A4, 2011)</td>
+    <td class="tg-baqh">UOB Asset Management Ltd Bronze Medal</td>
+    <td class="tg-baqh">Nanyang Polytechnic</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">3</td>
+    <td class="tg-baqh">Maria Sofia Alava Limpo (4A2, 2012)</td>
+    <td class="tg-baqh">Kings College Experience Global Award</td>
+    <td class="tg-baqh">King’s College London</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">4</td>
+    <td class="tg-baqh">Xu Mingxin (4A2, 2015)</td>
+    <td class="tg-baqh">Excellent University Admission Score (UAS)</td>
+    <td class="tg-baqh">Raffles Institution</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">5</td>
+    <td class="tg-baqh">Chong Yan Wen (4A1, 2015)</td>
+    <td class="tg-baqh">Excellent University Admission Score (UAS)</td>
+    <td class="tg-baqh">Raffles Institution</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">6</td>
+    <td class="tg-baqh">Bai Yingzhi (4A2, 2013)</td>
+    <td class="tg-baqh">6 Distinctions in the 2015 GCE A-Level Examination</td>
+    <td class="tg-baqh">St Andrew’s Junior College</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">7</td>
+    <td class="tg-baqh"><img src="/images/2016-7.png" alt="2016-7.png" width="229" height="315"><br>Waverly Lim Jia Hui (4E1, 2010)</td>
+    <td class="tg-baqh">Schwan-STABILO Bronze Medal</td>
+    <td class="tg-baqh">Nanyang Polytechnic</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">8</td>
+    <td class="tg-baqh">Tan Si Ning, Hazel (4A2, 2012)</td>
+    <td class="tg-baqh">Mapletree Silver Medal</td>
+    <td class="tg-baqh">Nanyang Polytechnic</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">9</td>
+    <td class="tg-baqh"><img src="/images/2016-9.png" alt="2016-9.png" width="257" height="362"><br>Phua Li Ann (4B1, 2012)</td>
+    <td class="tg-baqh">OCBC Award for Best Performance in the Internship Programme</td>
+    <td class="tg-baqh">Nanyang Polytechnic</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">10</td>
+    <td class="tg-baqh"><img src="/images/2016-10.png" alt="2016-10.png" width="264" height="373"><br>Eunice Tham Zhi En (4B1, 2012)</td>
+    <td class="tg-baqh">Q &amp; M Dental Group (Singapore) Limited Silver Medal</td>
+    <td class="tg-baqh">Nanyang Polytechnic</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">11</td>
+    <td class="tg-baqh"><img src="/images/2016-11.png" alt="2016-11.png" width="252" height="359"><br>Tan Yen Ting, Lavine (4A3, 2012)</td>
+    <td class="tg-baqh">AstraZeneca Silver Medal</td>
+    <td class="tg-baqh">Nanyang Polytechnic</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">12</td>
+    <td class="tg-baqh">Jean Lim Le Hui (4A2, 2013)</td>
+    <td class="tg-baqh">MOE Teaching Award</td>
+    <td class="tg-baqh">MOE</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">13</td>
+    <td class="tg-baqh">Hoi Min Shan (4D1, 2013)</td>
+    <td class="tg-baqh">National ITE Certificate in Chemical Process Technology (Pharmaceuticals) Course Medal</td>
+    <td class="tg-baqh">ITE</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">14</td>
+    <td class="tg-baqh">Saraniya D/O Panichelvam (4D1, 2015)</td>
+    <td class="tg-baqh">Honoured at the Special Awards Presentation (SAP) Ceremony 2016</td>
+    <td class="tg-baqh">MOE</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">15</td>
+    <td class="tg-baqh">Radiant Chua Min Hui (4A3, 2012)</td>
+    <td class="tg-baqh">BBC Worldwide Silver Medal &amp; Prize Diploma with Merit</td>
+    <td class="tg-baqh">Ngee Ann Polytechnic</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">16</td>
+    <td class="tg-baqh">Leong Mun Syn Lisa (4A1, 2012)</td>
+    <td class="tg-baqh">Diploma with Merit <br>Diploma Plus : Certificates in Business and Korean</td>
+    <td class="tg-baqh">Ngee Ann Polytechnic</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">17</td>
+    <td class="tg-baqh">Mok Sah Li, Sally (4A2, 2012)</td>
+    <td class="tg-baqh">Diploma with Merit <br>Diploma Plus : Certificate in Japanese</td>
+    <td class="tg-baqh">Ngee Ann Polytechnic</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">18</td>
+    <td class="tg-baqh">Lee Yan Na, Juliana (4B3, 2012)</td>
+    <td class="tg-baqh">Diploma with Merit</td>
+    <td class="tg-baqh">Ngee Ann Polytechnic</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">19</td>
+    <td class="tg-baqh">Geena Hui Su Qin (4B1, 2012)</td>
+    <td class="tg-baqh">Acorn Prize Diploma Plus: Certificate in Business</td>
+    <td class="tg-baqh">Ngee Ann Polytechnic</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">20</td>
+    <td class="tg-baqh">Lim Jia Le, Jolene (4B3, 2012)</td>
+    <td class="tg-baqh">Institute of Parks and Recreation Prize</td>
+    <td class="tg-baqh">Ngee Ann Polytechnic</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">21</td>
+    <td class="tg-baqh">Low Kai Ying (4A2, 2012)</td>
+    <td class="tg-baqh">Mediacorp Radio Prize</td>
+    <td class="tg-baqh">Ngee Ann Polytechnic</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh"> 22</td>
+    <td class="tg-baqh"><img src="/images/2016-22.png" alt="2016-22.png" width="211" height="300"><br>Amanda Zhuang Sihui (4B2, 2014)</td>
+    <td class="tg-baqh">Top student in 2016 GCE A-Level Examinations</td>
+    <td class="tg-baqh">Yishun Junior College</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh"> 23</td>
+    <td class="tg-baqh"><img src="/images/2016-23.png" alt="2016-23.png" width="186" height="262"><br>Foo Yan Ting, Emily (4A1, 2014)</td>
+    <td class="tg-baqh">Top Student in 2016 GCE A-Level Examinations</td>
+    <td class="tg-baqh">Yishun Junior College</td>
+  </tr>
+</tbody>
+</table>
+
