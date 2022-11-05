@@ -5,7 +5,6 @@ description: ""
 ---
 ### Year: 2022
 
-
 **Congratulations to our Alumni PL-Lites who have done well in their various institutions in 2022!**
 
 <style type="text/css">
@@ -849,3 +848,265 @@ description: ""
   </tr>
 </tbody>
 </table>
+
+### Year: 2017
+
+
+**_Congratulations to our former Alumni PL-Lites who have done well in their various institutions in 2017_!**
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-sxkx{background-color:#FFF;color:#454545;text-align:center;vertical-align:top}
+.tg .tg-2fwu{background-color:#FFF;color:#454545;font-weight:bold;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-2fwu">S/Nos</th>
+    <th class="tg-2fwu">Name of Alumni PL-Lites</th>
+    <th class="tg-2fwu">Awards / Achievements</th>
+    <th class="tg-2fwu">Name of Organisations</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-sxkx">1</td>
+    <td class="tg-sxkx"><img src="/images/2017-1.jpg" alt="2017-1.jpg" width="150" height="194"><br>Ong Jia Lyn Jacyline (5A1, 2014)</td>
+    <td class="tg-sxkx">SP Scholar – Diploma in Business Administration</td>
+    <td class="tg-sxkx">Singapore Polytechnic</td>
+  </tr>
+  <tr>
+    <td class="tg-sxkx">2</td>
+    <td class="tg-sxkx"><img src="/images/2017-2.jpg" alt="2017-2.jpg" width="150" height="181"><br>Sarah Josephine Rajendra <br>(4A2, 2014)</td>
+    <td class="tg-sxkx">5 Distinctions in GCE-A level examination</td>
+    <td class="tg-sxkx">St Andrew’s Junior College</td>
+  </tr>
+  <tr>
+    <td class="tg-sxkx">3</td>
+    <td class="tg-sxkx">Yong Yuan Yen (4A1, 2014)</td>
+    <td class="tg-sxkx">2016 International Baccalaureate Diploma Examinations (41 points out of 45 points)</td>
+    <td class="tg-sxkx">St Joseph’s Institution</td>
+  </tr>
+  <tr>
+    <td class="tg-sxkx">4</td>
+    <td class="tg-sxkx">Caritas Lee Ke Jing (4A1, 2014)</td>
+    <td class="tg-sxkx">2016 International Baccalaureate Diploma Examinations (40 points out of 45 points)</td>
+    <td class="tg-sxkx">St Joseph’s Institution</td>
+  </tr>
+  <tr>
+    <td class="tg-sxkx">5</td>
+    <td class="tg-sxkx">Liaw Jie Qi (4A2, 2014) </td>
+    <td class="tg-sxkx">Excellent results in GCE-A Level examination - Minimum of 3 distinctions for H2 content subjects and a pass in General Paper</td>
+    <td class="tg-sxkx">Tampines Junior College</td>
+  </tr>
+  <tr>
+    <td class="tg-sxkx">6</td>
+    <td class="tg-sxkx">Samantha Ee Hui Ying (4B2, 2014)</td>
+    <td class="tg-sxkx">Excellent results in GCE-A Level examination - Minimum of 3 distinctions for H2 content subjects and a pass in General Paper</td>
+    <td class="tg-sxkx">Tampines Junior College</td>
+  </tr>
+  <tr>
+    <td class="tg-sxkx">7</td>
+    <td class="tg-sxkx">Lee Shu Yi Jessica (4A2, 2014)</td>
+    <td class="tg-sxkx">Excellent results in GCE-A Level examination - Minimum of 3 distinctions for H2 content subjects and a pass in General Paper</td>
+    <td class="tg-sxkx">Nanyang Junior College</td>
+  </tr>
+  <tr>
+    <td class="tg-sxkx">8</td>
+    <td class="tg-sxkx">Melissa Goh Li Ting (4A3, 2014)      </td>
+    <td class="tg-sxkx">Excellent results in GCE-A Level examination - Minimum of 3 distinctions for H2 content subjects and a pass in General Paper </td>
+    <td class="tg-sxkx">Nanyang Junior College</td>
+  </tr>
+  <tr>
+    <td class="tg-sxkx">9</td>
+    <td class="tg-sxkx">Ang Jin Li (4A1, 2014)       </td>
+    <td class="tg-sxkx">5 Distinctions in the 2016 GCE A-Level Examination</td>
+    <td class="tg-sxkx">ACJC</td>
+  </tr>
+  <tr>
+    <td class="tg-sxkx">10</td>
+    <td class="tg-sxkx">Koh Shao Qi, Natalene <br>(4A1, 2014)       </td>
+    <td class="tg-sxkx">5 Distinctions in the 2016 GCE A-Level Examination</td>
+    <td class="tg-sxkx">ACJC</td>
+  </tr>
+  <tr>
+    <td class="tg-sxkx">11</td>
+    <td class="tg-sxkx">Tham Rui Min, Corinne <br>(4A1, 2014)       </td>
+    <td class="tg-sxkx">5 Distinctions in the 2016 GCE A-Level Examination</td>
+    <td class="tg-sxkx">ACJC</td>
+  </tr>
+  <tr>
+    <td class="tg-sxkx">12</td>
+    <td class="tg-sxkx">Ng Jia Li, Jerlene (4A3, 2014)       </td>
+    <td class="tg-sxkx">5 Distinctions in the 2016 GCE A-Level Examination</td>
+    <td class="tg-sxkx">ACJC</td>
+  </tr>
+  <tr>
+    <td class="tg-sxkx">13</td>
+    <td class="tg-sxkx">Wee Natasja Maaike (4A3, 2014)       </td>
+    <td class="tg-sxkx">4 Distinctions in the 2016 GCE A-Level Examination</td>
+    <td class="tg-sxkx">ACJC<br></td>
+  </tr>
+  <tr>
+    <td class="tg-sxkx">14</td>
+    <td class="tg-sxkx"><img src="/images/2017-14.jpg" alt="2017-14.png" width="208" height="235"><br>R Vimitra (5A2, 2012)   </td>
+    <td class="tg-sxkx">Diploma with Merit</td>
+    <td class="tg-sxkx">Republic Polytechnic<br></td>
+  </tr>
+  <tr>
+    <td class="tg-sxkx"> 15</td>
+    <td class="tg-sxkx"><img src="/images/2017-15.jpg" alt="2017-15.png" width="190" height="189"><br>Melody Chiam Jiale (4A1, 2014)</td>
+    <td class="tg-sxkx">RP Scholarship<br>Diploma in Sports Exercise Sciences</td>
+    <td class="tg-sxkx">Republic Polytechnic</td>
+  </tr>
+  <tr>
+    <td class="tg-sxkx"> 16</td>
+    <td class="tg-sxkx"><img src="/images/2017-16.jpg" alt="2017-16.png" width="186" height="195"><br>Jasia Jie Xin Shamdasani (4B2, 2015)</td>
+    <td class="tg-sxkx">Nge Ann Kongsi Scholarship<br>Diploma in Mass Communications</td>
+    <td class="tg-sxkx">Republic Polytechnic</td>
+  </tr>
+  <tr>
+    <td class="tg-sxkx">17</td>
+    <td class="tg-sxkx">Abigail Teng  Yunyi (4B2, 2014)   </td>
+    <td class="tg-sxkx">Jacob Ballas Scholars’ Awards <br>(for 3 Distinctions)</td>
+    <td class="tg-sxkx">St Andrew’s Junior College<br></td>
+  </tr>
+  <tr>
+    <td class="tg-sxkx">18</td>
+    <td class="tg-sxkx">Leong Xini Zhi, Wink (4A3, 2014)</td>
+    <td class="tg-sxkx">Jacob Ballas Scholars’ Awards <br>(for 4 Distinctions)</td>
+    <td class="tg-sxkx">St Andrew’s Junior College<br></td>
+  </tr>
+  <tr>
+    <td class="tg-sxkx">19</td>
+    <td class="tg-sxkx">Sonia Elizabeth Rajendra <br>(4A2, 2014)  </td>
+    <td class="tg-sxkx">Jacob Ballas Scholars’ Awards <br>(for 3 Distinctions)</td>
+    <td class="tg-sxkx">St Andrew’s Junior College<br></td>
+  </tr>
+  <tr>
+    <td class="tg-sxkx">20</td>
+    <td class="tg-sxkx">Alexandria Low Yunn En <br>(4C1, 2012)    </td>
+    <td class="tg-sxkx">MediaCorp Major Project Prize </td>
+    <td class="tg-sxkx">Temasek Polytechnic</td>
+  </tr>
+  <tr>
+    <td class="tg-sxkx">21</td>
+    <td class="tg-sxkx">Amanda Ang (4C1, 2012)</td>
+    <td class="tg-sxkx">Changi Airport Group (Singapore) Course Silver Medal     </td>
+    <td class="tg-sxkx">Temasek Polytechnic</td>
+  </tr>
+  <tr>
+    <td class="tg-sxkx">22</td>
+    <td class="tg-sxkx"><img src="/images/2017-22.jpg" alt="2017-22.png" width="206" height="316"><br>Jannell Natasha Job (4A3, 2013)</td>
+    <td class="tg-sxkx">Changi General  Hospital Course Gold Medal<br><br>The Lee Kong Chian Award    </td>
+    <td class="tg-sxkx">Temasek Polytechnic</td>
+  </tr>
+  <tr>
+    <td class="tg-sxkx">23</td>
+    <td class="tg-sxkx">Ong Qiao Tian, Quinn Tasha <br>(4C1, 2012)</td>
+    <td class="tg-sxkx">Marketing Excellence Award  </td>
+    <td class="tg-sxkx">Temasek Polytechnic</td>
+  </tr>
+  <tr>
+    <td class="tg-sxkx">24</td>
+    <td class="tg-sxkx">Soh Si Hui (4B1, 2013)</td>
+    <td class="tg-sxkx">Kinokuniya Book Stores of Singapore Prize<br>Subway@Temasek Poly Major Project Prize</td>
+    <td class="tg-sxkx">Temasek Polytechnic</td>
+  </tr>
+  <tr>
+    <td class="tg-sxkx">25</td>
+    <td class="tg-sxkx">Tui Pey Yuet, Daphne <br>(4C1, 2012)    </td>
+    <td class="tg-sxkx">The Lo &amp; Behold Group Prize</td>
+    <td class="tg-sxkx">Temasek Polytechnic</td>
+  </tr>
+  <tr>
+    <td class="tg-sxkx">26</td>
+    <td class="tg-sxkx">Caritas Lee Ke Jing (4A1, 2014)</td>
+    <td class="tg-sxkx">Teaching Scholarship (Local)</td>
+    <td class="tg-sxkx">Ministry of Education</td>
+  </tr>
+  <tr>
+    <td class="tg-sxkx">27</td>
+    <td class="tg-sxkx"><img src="/images/2017-27.jpg" alt="2017-27.jpg" width="200" height="250"><br>Tay Siew Tiang (4-F, 1998)</td>
+    <td class="tg-sxkx">Robinson &amp; Co Gold Medal – awarded to the highest GPA of her entire cohort in the Diploma in Visual Communication</td>
+    <td class="tg-sxkx">Nanyang Polytechnic</td>
+  </tr>
+  <tr>
+    <td class="tg-sxkx">28</td>
+    <td class="tg-sxkx"><img src="/images/2017-28.jpg" alt="2017-28.jpg" width="150" height="185"><br>Ng Shu Shan Esther (4A3, 2014) </td>
+    <td class="tg-sxkx">Jacob Ballas Scholars’ Awards <br>(for 5 Distinctions)     </td>
+    <td class="tg-sxkx">St Andrew’s Junior College</td>
+  </tr>
+  <tr>
+    <td class="tg-sxkx">29</td>
+    <td class="tg-sxkx">Sua Jiaxin Sarah-Ann (4A2, 2013) </td>
+    <td class="tg-sxkx">The Association of Chartered Certified Accountants Silver Medal &amp; Prize<br>Diploma with Merit<br>RSM Stone Forest Prize</td>
+    <td class="tg-sxkx">Ngee Ann Polytechnic</td>
+  </tr>
+  <tr>
+    <td class="tg-sxkx">30</td>
+    <td class="tg-sxkx">Leong Hui Wen Desiree (4A3, 2013)</td>
+    <td class="tg-sxkx">Diploma with Merit<br>NCSS Prize</td>
+    <td class="tg-sxkx">Ngee Ann Polytechnic</td>
+  </tr>
+  <tr>
+    <td class="tg-sxkx">31</td>
+    <td class="tg-sxkx">Sheryl Ho Shu Xian (4A3, 2013)</td>
+    <td class="tg-sxkx">Diploma with Merit</td>
+    <td class="tg-sxkx">Ngee Ann Polytechnic</td>
+  </tr>
+  <tr>
+    <td class="tg-sxkx">32</td>
+    <td class="tg-sxkx">Grace Ng Kai Ting (4B3, 2013) </td>
+    <td class="tg-sxkx">Carl Zeiss Prize<br>Hoya Medical Prize<br>Diploma Plus: Certificate in Advanced Engineering Mathematics</td>
+    <td class="tg-sxkx">Ngee Ann Polytechnic</td>
+  </tr>
+  <tr>
+    <td class="tg-sxkx">33</td>
+    <td class="tg-sxkx">Neo Cai Yun (4B3, 2013)</td>
+    <td class="tg-sxkx">Lingzi Media Prize<br>SFCCA Prize<br>Singapore Centre for Chinese Language Prize</td>
+    <td class="tg-sxkx">Ngee Ann Polytechnic</td>
+  </tr>
+  <tr>
+    <td class="tg-sxkx">34</td>
+    <td class="tg-sxkx">Leong Sow Yee (5A1, 2013)</td>
+    <td class="tg-sxkx">Bausch &amp; Lomb Prize</td>
+    <td class="tg-sxkx">Ngee Ann Polytechnic</td>
+  </tr>
+  <tr>
+    <td class="tg-sxkx">35</td>
+    <td class="tg-sxkx">Jolyn Ee Su Wen (4A1, 2010)</td>
+    <td class="tg-sxkx">MOHH Heathcare Merit Award</td>
+    <td class="tg-sxkx">Curtin University Australia</td>
+  </tr>
+  <tr>
+    <td class="tg-sxkx">36</td>
+    <td class="tg-sxkx">Tay King Sing Sarah (4A2, 2012)</td>
+    <td class="tg-sxkx">PSC Scholarship</td>
+    <td class="tg-sxkx">London School of Economics</td>
+  </tr>
+  <tr>
+    <td class="tg-sxkx">37</td>
+    <td class="tg-sxkx">Tan Chu Er Joey (4A1, 2012)</td>
+    <td class="tg-sxkx">SUTD - ZJU Asian Leadership Programme Scholarship</td>
+    <td class="tg-sxkx">Singapore University of Technology and Design</td>
+  </tr>
+  <tr>
+    <td class="tg-sxkx">38</td>
+    <td class="tg-sxkx">Felysse Faith Chua Ruo Pei (4A1,2013)</td>
+    <td class="tg-sxkx">NTU Renaissance Engineering Programme Scholarship</td>
+    <td class="tg-sxkx">NTU</td>
+  </tr>
+  <tr>
+    <td class="tg-sxkx">39</td>
+    <td class="tg-sxkx">Siti Nuraini Bte Adenan (4D1, 2014)</td>
+    <td class="tg-sxkx">Course Medal for outstanding performance (NITEC IN PASTRY &amp; BAKING)</td>
+    <td class="tg-sxkx">ITE College West</td>
+  </tr>
+</tbody>
+</table>
+
