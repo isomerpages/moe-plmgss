@@ -72,3 +72,9 @@ The loss of her mother when she was in primary school was a huge blow to Dawn an
 (a) **Cohort Achievements for the 2021 Students in the 4N(A) Course**  
 
 We would like to celebrate the efforts of the following students who have done especially well for the GCE N(A) Examinations.
+
+<figure>
+<img src="/images/Picture%201.jpg">
+<figcaption>Our heartiest congratulations to the top 4NA students - who scored 6 points - Rasinah Begum D/O Sivakumar (4.7) and Clarah Amber Tan Xue-En</figcaption>
+</figure>
+
