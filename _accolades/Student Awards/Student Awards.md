@@ -4,10 +4,9 @@ permalink: /accolades/student-awards/
 description: ""
 third_nav_title: Student Awards
 ---
-
 ### NYP E-Science and Technology Challenge 2021
 
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTKzeYyljVNsaHDDBWmb840w5_5IgCfIoviUcmAOZ9a-oQsLJKxu8LIhyIroJf2xjTLmHh3XXaK8y8c/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTKzeYyljVNsaHDDBWmb840w5_5IgCfIoviUcmAOZ9a-oQsLJKxu8LIhyIroJf2xjTLmHh3XXaK8y8c/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 
 PL Shines! Heartiest Congratulations!
 
@@ -49,20 +48,20 @@ PL Shines! The Singapore Model Cabinet 2021 was a great experience for our Sec 3
 
 ### National Young Leader's Award 2021
 
-<img src="/images/reana2.jpg" style="width:50%">
+<img style="width:50%" src="/images/reana2.jpg">
 		 
 PL Shines! Raeanne Yap, our Head Prefect is one of the winners of the National Young Leader's Award 2021!!!
 
 ### Go Light Your World Project
 
 
-<img src="/images/go_kight.jpg" style="width:50%">
+<img style="width:50%" src="/images/go_kight.jpg">
 		 
 PL Shines! We are proud of 4 PL-Lites who have spared no effort in their Go Light Your World project to raise funds for Rainbow Center, an organization that works with persons with disabilities to allow them to hone their skills and eventually integrate into society. Their 9-month project started with the Temasek Leadership Showdown (where they were also awarded the Top Fundraising Team), and continued with their self-initiated projects to raise more funds for the organization through raising awareness in our school and through the profits from the sale of lifestyle products via their online store. We are proud of Ashlee Chee, Letitia Liow, Alethea Wee and Kelly Rose Tan for shining as lights in our community!
 
 ### 4th Text Recital Competition for Primary and Secondary Schools
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSRNcS2D5dFZfXSH_QX4I8Ny-WXpy9qJHPFulGhCbVKlCM7qntQa0vcTKsOL6euDC61PqtrWhBIwp0t/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSRNcS2D5dFZfXSH_QX4I8Ny-WXpy9qJHPFulGhCbVKlCM7qntQa0vcTKsOL6euDC61PqtrWhBIwp0t/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 
 PL Shines! In the 4th Text Recital Competition for Primary and Secondary Schools jointly organised by the Committee to Promote Chinese Language Learning (CPCLL), Anderson Primary School and Singapore Chinese Teachers Literary Recital Society, our PL Team shone brightly and won the following awards:  
 
@@ -181,7 +180,7 @@ The girls want to thank their teachers - Miss Alicia Loh, Ms Ambika Nair and Ms 
 
 ### English and Chinese Drama Ensemble at the 2021 SYF
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS5MS23CByd313TJuY4KUUQLBTwXeK0sqSNaPcGQVHunBlRvabNnQquzlJbzErHigbucyy4bOcUjA-Q/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS5MS23CByd313TJuY4KUUQLBTwXeK0sqSNaPcGQVHunBlRvabNnQquzlJbzErHigbucyy4bOcUjA-Q/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 
 PL Shines! It is a DOUBLE DISTINCTION for BOTH our English and Chinese Drama Ensemble at the 2021 SYF.
 
@@ -197,7 +196,7 @@ who guided and supported the girls through their journeys!
 
 ### PL Dance at the 2021 SYF
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS7vO-GzZtVX5z-OvSH9magcu_e437f3BP54hkYORWguVYqMeMJcKkkMFuwS4cViNKvlZ13WJp9VZG1/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS7vO-GzZtVX5z-OvSH9magcu_e437f3BP54hkYORWguVYqMeMJcKkkMFuwS4cViNKvlZ13WJp9VZG1/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 
 Heartiest Congratulations to our PL Dance girls for being recognised for their skills at the SYF 2021:
 
@@ -239,7 +238,7 @@ PL Shines! We are always so proud of our Guzheng Ensemble. A cut above the rest,
 
 ### Harp Ensemble at the 2021 SYF
 
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT640h9SVUiE2tO0pOz40niHrFBe_LFt_-ZglNSEY9pfbVn474MQFriC8fL6yDcbT1bvMiFpdnqdE7_/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT640h9SVUiE2tO0pOz40niHrFBe_LFt_-ZglNSEY9pfbVn474MQFriC8fL6yDcbT1bvMiFpdnqdE7_/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 
 PL Shines! Heartiest Congratulations to our Harp Ensemble for being awarded the Certificate of Distinction at the SYF 2021.
 
@@ -351,7 +350,7 @@ Shine on, ladies!
 
 ### MOE Special Award
 
-<img style="width:50%" src="/images/seet_seow_chee.jpg">
+<img src="/images/seet_seow_chee.jpg" style="width:50%">
 		 
 PL Shines! We are very happy to announce that once again, PL has been blessed with an MOE Special Award Recipient. She is Seet Seow Chee, Class of 2019 (Head Prefect 2018-2019). Seow Chee is one of the 12 Sec school recipients. This is a very prestigious award and it comes to affirm the work on Holistic Education that we seek to sow into our girls' lives.  
   
@@ -359,4 +358,69 @@ We rejoice with Seow Chee and are humbled by God’s goodness upon our school.
 
 ### NUS Geography Challenge 2020
 
+![](/images/nusgeograghy.jpg)
+
+PL Shines! Heartiest Congratulations to Sec 3 PL-Lites - Hannah, Tammie, Celeste and Phoebe! They did us proud by obtaining 1 Gold, 1 Silver and 1 Bronze medal for the individual component of the NUS Geography Challenge 2020. The competition consists of the creative component and the individual component. The team also developed a poster on Saving Precious Water.
+
+### Singapore Road Safety Month 2020 Road Safety Art Competition - School Category
+
+<img style="width:60%" src="/images/sg%20road%20safer.png">
+
+Congrats to PL-Lite, Brianna Ngoo (Sec 1) for being awarded Second place&nbsp;in the Singapore Road Safety Month 2020 Road Safety Art Competition- School Category! This competition is organised by the Singapore Road Safety Council. Open to students aged 13 to 18 years old as well as the members of the public aged 19 years old and above based on the theme: “Road Safety for All”.
+
+### Singapore Schools Sports Council 48th Colours Award
+
+
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQiatl6jtAr5gnvREHBsq_beOKQ8gziGPIqXLTKOEmtInRJ87pIb9J_Hq2tstDfNHELZLQ7Jl7ij7Yn/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+
+We are proud of Farah Amelya Bte Hassan (Sec 3) for being awarded the SSSC Best Sportsgirl (Volleyball). This is the highest award that any student athlete can achieve in their respective sports. Farah received the award at the SSSC 48th Colours Award Presentation Ceremony on 21 September 2018.&nbsp;
+
+  
+
+Congratulations Farah!
+
+### Create your own Newspaper competition
+
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQbCgoBYwqwr0xgQAsdO6AXQQrZ2lVUdyVW7MZHAZIkZfldHbQJiRzCE06n4ew4cgGeOe6itnF2LkOt/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+
+On 15 September, PL shined in the 'Create your own Newspaper competition'. Our girls were honoured with the top awards - 2nd prize in the upper secondary category and 3rd prize in the Lower Sec category. They received the prizes from Senior Minister of State, Mr Chee Hong Tat.&nbsp;
+
+  
+
+To God be the Glory!
+
+### International 40th C. B. Paul Science Quiz 2018
+
+![](/images/CB%20Paul%202018.jpg)
+
+On 4th April 2018, nine PL-Lites were presented with the following awards at the 40th International CB Paul Science Quiz. This annual event is organised by Anglo-Chinese Junior College Science and Mathematics Council in collaboration with the Nanyang Technological University and National University of Singapore. The quiz aimed to develop students’ aptitude and potential in the Pure and Applied Sciences through independent work and by applying critical thinking.  
+  
+The students were put through rigorous questions in a wide range of contexts from Biology, Chemistry, Mathematics and Physics and were challenged to solve problems, evaluate theories, and interpret work which required them to draw on a complex array of understandings.  
+&nbsp;  
+We are proud to present these awards achieved by our girls. To God be the Glory!
+
+### IDE Competition 2018
+
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRbvn54LM8n0NcNe1jeTw12XgWDzDH5gLtEbzMGdyV9MZR_hsxof5jifURGC_F1cPZCs6EeTYRQxOn8/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+
+During the March holidays, our Robotics girls participated in the IDE (Innovation, Design and Engineering) Series 2018, where students take part in competitions held at the national level in technology and engineering. Students were challenged on their problem solving skills across domains such as electronics, programming, and mechanical design.  
+  
+We are proud to present these awards achieved by our girls:  
+
+*   IDE Challenge - Innovation Award
+*   IDE Challenge - Design Award
+*   IDE Maker - 2nd Place
+*   IDE Maker - 3rd Place
+*   IDE Sprint - 8th Position
+
+  
+Well done! To God Be The Glory!
+
+### Volleyball Association of Singapore (VAS) National U16 Volleyball Championship 2017
+
+<img style="width:80%" src="/images/VAS_U16_Volleyball.jpg">
+		 
+Our volleyball girls came in at the 2nd Runner Up placing in VAS National U16 Volleyball Championship 2017 held on 24 Nov 2017 at Hougang Sports Hall . Read more at&nbsp;[https://www.vas.org.sg/vasu16-2017](https://www.vas.org.sg/vasu16-2017). Well done, team PL. To God be the Glory!
+
+### World Robot Games 2017
 
