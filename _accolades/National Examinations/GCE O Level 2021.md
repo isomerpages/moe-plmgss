@@ -68,7 +68,7 @@ The PL family has full faith that Alyssa will continue to soar to greater height
 **Melanie Chong (Sec 4.5, 2021)**
 
 <img src="/images/melanie%20chong2.jpg" 
-     style="width:60%">
+     style="width:45%">
 
 Melanie’s willingness to put in hard work has helped her effectively manage her commitments in various areas.
 
@@ -85,7 +85,7 @@ Thank you Melanie for the wonderful advice. We wish you the best in your endeavo
 **Faith Kelly Chang  (Sec 4.3, 2021)**
 
 <img src="/images/faith%20kelly%20chang%202.jpg" 
-     style="width:60%">
+     style="width:45%">
 		 
 Faith served the school well as a member of the Prefectorial Board from 2019 to 2021. She was firm, yet approachable in her dealings with her peers and fellow schoolmates. Faith displayed her strong grasps for languages when she scored A1 for English Language, Chinese Language and Special Programme in Malay. Despite her tight schedule, Faith soldiered on with the extra workload of reading a third language, over and above her many subjects. Faith was adaptable and clearly represented the school’s value of ‘Adaptability’ , in planning her time well in an environment of change and being tenacious in overcoming challenges. She could manage all three of her passions - studying a third language, being part of the Prefectorial Board, as well as, participating actively in her CCA, the School Volleyball Team. Faith remained jovial and optimistic despite facing a challenging workload.  
 
@@ -102,7 +102,7 @@ Practical and enlightening advice. Thanks Faith!
 **Yuen Jia Ling  (Sec 4.3, 2021)**
 
 <img src="/images/yuen%20jia%20ling%202png.jpg" 
-     style="width:60%">
+     style="width:45%">
 		 
 Jia Ling joined PLMGS via the Direct School Admission exercise – under the area for Student Leadership. It took her some time to develop close bonds with others as many of her classmates were from the PL Primary and had their own circle of friends. However, it did not stop her from forging firm friendships with those whom she shared common interests with.  
   
@@ -127,7 +127,7 @@ We celebrate the holistic achievements of our 2021 Sec 4 cohort girls who also e
 **DUX Student (Top Student)**
 
 <img src="/images/thea_chua.jpg" 
-     style="width:60%">
+     style="width:45%">
 		 
 We rejoice with **Thea Chua Song Hua**, for being the top GCE O-Level student in her cohort. She will be awarded the Dux Medal.
 
