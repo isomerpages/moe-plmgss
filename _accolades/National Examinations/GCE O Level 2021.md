@@ -127,7 +127,7 @@ We celebrate the holistic achievements of our 2021 Sec 4 cohort girls who also e
 **DUX Student (Top Student)**
 
 <img src="/images/thea_chua.jpg" 
-     style="width:45%">
+     style="width:40%">
 		 
 We rejoice with **Thea Chua Song Hua**, for being the top GCE O-Level student in her cohort. She will be awarded the Dux Medal.
 
@@ -171,7 +171,7 @@ We rejoiced with the following 5 students who received **both** the **Princip
 ### Alumni Medal (Top 4NA student)
 
 <img src="/images/clara%20amber.jpg" 
-     style="width:60%">
+     style="width:40%">
 
 With the release of the O level results, 2021 4NA students who did Out-of-Stream Subjects also received their results.
 
