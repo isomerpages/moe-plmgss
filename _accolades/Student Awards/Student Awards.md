@@ -47,3 +47,19 @@ PL Shines! Congratulations to Carissa Tan, Charlotte Chia, Natalie Yang and Zhu 
 PL Shines! The Singapore Model Cabinet 2021 was a great experience for our Sec 3 PL-Lites to grow their perspectives of the Singaporean government in issues such as the evolving educational landscape, arts in Singapore, Singapore's economic progress and our food security challenges. We celebrate our girls' active participation and enriched learning!
 
 ### National Young Leader's Award 2021
+
+<img src="/images/reana2.jpg" 
+     style="width:50%">
+		 
+PL Shines! Raeanne Yap, our Head Prefect is one of the winners of the National Young Leader's Award 2021!!!
+
+### Go Light Your World Project
+
+
+<img src="/images/go_kight.jpg" 
+     style="width:50%">
+		 
+PL Shines! We are proud of 4 PL-Lites who have spared no effort in their Go Light Your World project to raise funds for Rainbow Center, an organization that works with persons with disabilities to allow them to hone their skills and eventually integrate into society. Their 9-month project started with the Temasek Leadership Showdown (where they were also awarded the Top Fundraising Team), and continued with their self-initiated projects to raise more funds for the organization through raising awareness in our school and through the profits from the sale of lifestyle products via their online store. We are proud of Ashlee Chee, Letitia Liow, Alethea Wee and Kelly Rose Tan for shining as lights in our community!
+
+### 4th Text Recital Competition for Primary and Secondary Schools
+
