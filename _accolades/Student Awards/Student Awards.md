@@ -837,3 +837,130 @@ Group 2:
 ### 3rd placing in ‘Tourism Innovation 2017'
 
 <img style="width:70%" src="/images/tourism_innovation2017.jpg">
+
+On 21 June, PL shone at the 'Tourism Innovation 2017' organised by Temasek Polytechnic. Our team of 5 students from 3D1 - Farah Amirah, Raine Qiu, Sherrie Chew, Sarah Mae Azhar and Faith Bunoan, won the 3rd placing.  
+  
+Congratulations girls!
+
+### 39th International CB Paul Science Quiz
+
+![](/images/Recipients%20of%2039th%20International%20CB%20Paul%20Science%20Quiz%202017.jpg)
+
+12 PL-Lites were presented with the following awards at the 39th International CB Paul Science Quiz.
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-sxkx{background-color:#FFF;color:#454545;text-align:center;vertical-align:top}
+.tg .tg-2fwu{background-color:#FFF;color:#454545;font-weight:bold;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-2fwu">Category 2- Award</th>
+    <th class="tg-2fwu">Name</th>
+    <th class="tg-2fwu">Class</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-sxkx" rowspan="3">Silver</td>
+    <td class="tg-sxkx">Deborah Victoria Poon</td>
+    <td class="tg-sxkx">4A1</td>
+  </tr>
+  <tr>
+    <td class="tg-sxkx">Kor Kai Ling Kalyn</td>
+    <td class="tg-sxkx">4A1</td>
+  </tr>
+  <tr>
+    <td class="tg-sxkx">Haw May Ann</td>
+    <td class="tg-sxkx">3A1</td>
+  </tr>
+  <tr>
+    <td class="tg-sxkx" rowspan="2">Bronze</td>
+    <td class="tg-sxkx">Lau Jing Xuan</td>
+    <td class="tg-sxkx">4A1</td>
+  </tr>
+  <tr>
+    <td class="tg-sxkx">Regina Limanta</td>
+    <td class="tg-sxkx">3A1</td>
+  </tr>
+  <tr>
+    <td class="tg-sxkx" rowspan="4">Honourable Mention</td>
+    <td class="tg-sxkx">Fong Chuyi, Raeanne</td>
+    <td class="tg-sxkx">4A1</td>
+  </tr>
+  <tr>
+    <td class="tg-sxkx">Angelica Fidelia Fernandez</td>
+    <td class="tg-sxkx">3A1</td>
+  </tr>
+  <tr>
+    <td class="tg-sxkx">Isabel Ong Qian Hui</td>
+    <td class="tg-sxkx">3A1</td>
+  </tr>
+  <tr>
+    <td class="tg-sxkx">Janice Khoo Shi Ann</td>
+    <td class="tg-sxkx">3A1</td>
+  </tr>
+  <tr>
+    <td class="tg-sxkx">Merit</td>
+    <td class="tg-sxkx">Yam Hui Jing</td>
+    <td class="tg-sxkx">4A1</td>
+  </tr>
+</tbody>
+</table>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-sxkx{background-color:#FFF;color:#454545;text-align:center;vertical-align:top}
+.tg .tg-2fwu{background-color:#FFF;color:#454545;font-weight:bold;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-2fwu" colspan="2">Category 1- Award</th>
+    <th class="tg-2fwu">Name</th>
+    <th class="tg-2fwu">Class</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-sxkx" colspan="2">Honourable Mention</td>
+    <td class="tg-sxkx">Carissa Tan</td>
+    <td class="tg-sxkx">2.1</td>
+  </tr>
+  <tr>
+    <td class="tg-sxkx" colspan="2">Merit</td>
+    <td class="tg-sxkx">Elisa Chew Wai Yin</td>
+    <td class="tg-sxkx">2.1</td>
+  </tr>
+  <tr>
+    <td class="tg-2fwu" rowspan="3">ICBP Science Talent Award</td>
+    <td class="tg-2fwu" colspan="2">Name</td>
+    <td class="tg-2fwu">Class</td>
+  </tr>
+  <tr>
+    <td class="tg-sxkx" colspan="2">Deborah Victoria Poon</td>
+    <td class="tg-sxkx">4A1</td>
+  </tr>
+  <tr>
+    <td class="tg-sxkx" colspan="2">Carissa Tan</td>
+    <td class="tg-sxkx">2.1</td>
+  </tr>
+</tbody>
+</table>
+
+### Singapore Maths Project Festival
+
+![](/images/SG_math_project_festival2017.jpg)
+
+On 2 May, our upper secondary ACE(Maths) team took part in the Singapore Maths Project  Maths research project has achieved a Silver Medal with Excellent presentation award in their Math research title 'Kakeya Needle Problem'. Read more about their research [here](https://staging.d31lf6q9623hn3.amplifyapp.com/instructional-programmes/ip-overview/ace-math-n-science).  
+
+### Young Inventors' Award 2017
