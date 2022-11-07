@@ -102,7 +102,13 @@ We would like to celebrate the efforts of the following students who have done e
    
 We rejoice with Wong Xin Yi Dawn, for being the Top Student in the NT Course
 
+<img src="/images/Picture%206.jpg" 
+     style="width:60%">
 
+We congratulate all our graduands and wish them all the best as they move on from PL’s sheltering walls. Praise to be God for the results!
 
+We thank God for His blessings and His faithfulness to our school.
 
-
+<img src="/images/glory.png" 
+     style="width:60%">
+		 
