@@ -49,7 +49,7 @@ We are proud of the following girls who exemplified our School Core Value of ‘
 
 **Neu Ee Shuen Alyssa (Sec 4.2, 2021)**
 
-<img style="width: 338px; height: 525px;" class="ive_eobj_left" alt="alyssa2.jpg" src="/qql/slot/u173/Accolades/GCE-O-LEVEL/2021/alyssa2.jpg">
+<img style="width: 338px; height: 525px;" class="ive_eobj_left" alt="alyssa2.jpg" src="/images/alyssa2.jpg">
 
 An aspiring musician, Alyssa was an exemplary student who displayed all-round excellence, drive and adaptability.&nbsp; She was a dedicated member of the Harp Ensemble and served as the Student Conductor. A focused leader, Alyssa set clear goals for her team and encouraged her peers to persevere towards them. Her musical pursuits and excellence in both the violin and cello were clearly evident at national competitions.  
 &nbsp;  
@@ -61,4 +61,3 @@ Alyssa aims to continue her music education upon graduation. She has been accept
 She had this to say to her fellow PL-Lites:&nbsp;**_“Don’t give up easily. If you do, you will not have a chance to succeed. Keep going!”_**  
   
 The PL family has full faith that Alyssa will continue to soar to greater heights. All the best, Alyssa!
-
