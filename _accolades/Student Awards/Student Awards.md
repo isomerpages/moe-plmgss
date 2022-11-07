@@ -1253,3 +1253,270 @@ Paya Lebar Methodist Girls' School (Sec) is receiving an award from Republic Pol
 
 ### Aero Challenge 2016
 
+![](/images/oct2016_aero01.jpg)
+
+The school congratulates Cheok Xin Rong Isabelle (Sec 2.5) and Ngia Jin Yi Lucia (Sec 2.1) for emerging as finalists in the Drone Flying category in Aero Challenge 2016 organised by School of Engineering, Ngee Ann Polytechnic held on 3 August 2016.  
+
+  
+### National Inter-School Archery Championship
+
+<img src="/images/sept2016_laura_lee_sm.jpg" 
+     style="width:60%">
+		 
+The school congratulates Laura Lee (4B2) on clinching the 2nd prize in the at the National Inter-School Archery Championship. She took part in the 'B' Division Individual Recurve Women Category  
+  
+### Zoey Ho receives Colours Award by SSSC
+
+<img src="/images/sept2016_zoe_ho_sm.jpg" 
+     style="width:60%">
+		 
+The school congratulates Zoey Ho on receiving the Colours Award conferred by the Singapore Schools Sports Council in recognition of her achievements in swimming.
+
+  
+### NKF Photography Contest 2016 “Love Your Kidneys: Get Healthy, Love Life” Vote for our PL-Lites!
+
+Our PL-Lites participated in The NKF Photography Contest 2016 **“Love Your Kidneys: Get Healthy, Love Life”** and two of their entries were among the top 10!
+
+<img src="/images/NKF%20Photography%20contest.png" 
+     style="width:60%">
+		 
+This contest provided our students with an opportunity to express their imagination and creativity by taking a photo that inspires others to get healthy and love life. 
+
+  
+
+Let us celebrate this wonderful honour with our friends and support them through voting for their works at the NKF exhibition. The public vote will account for 20% of the final judging process. 
+
+  
+
+Well done, girls! 
+
+  
+
+### Zoey Ho in ASEAN Schools Games 2016
+
+![](/images/ASEAN_SCHOOLS_GAMES_2016.jpg)
+
+Zoey Ho (4A1) represented Singapore schools in the 5th ASIAN Schools Swimming Championships 2016 will be held in Palembang, Indonesia from 24 to 31 May 2016 and the 8th ASEAN Schools Games in Chiang Mai, Thailand from 21 to 29 July 2016. 
+
+  
+
+### PL’s Guitar Ensemble aces in the Victoria College Music examination
+
+![](/images/guitar%20ensemble.png)
+
+The school congratulates the PLMGS (Sec) Guitar Ensemble for achieving the highest score of 96/100 at the Victoria College Music Guitar Ensemble Examination 2016, held on 23 April 2016 at the RELC Auditorium. 
+
+  
+
+### 2016 Singapore Maths Project Festival
+
+Mentored by our own teachers, PL’s ACE (Maths team) 3 Maths research projects have been awarded Honourable Mention in the 2016 Singapore Maths Project Festival competition held in Aug 2016. 
+
+  
+
+Our ACE (Maths) students participarted in this year Singapore Mathematics Project Festival organised by Singapore Mathematics Society in Jan~March. 
+
+  
+
+We've participated in both Junior Category (1 Lower Sec team) & Senior Category (2 Upper Sec teams). 
+
+We're overjoyed that our all 3 research projects have been awarded Honourable Mention in this competition. 
+
+This competition is really very high level and this is the 1st time in history that all projects won = ) PTL!!! 
+
+  
+
+The winning Maths research are: 
+
+Senior Category - (led by Miss Kok Lai Fong) 
+
+"I'm not Small" by Sec 4ACE (Cheyenne Jan Lee, Liang Jing, Nicolette Lau Jia Wen & Sim Lee Ting) 
+
+"Selfie Syndrome" by Sec 4ACE (Angela Tan Jia Yi, Naomi Faustina Limarno, Shuan Ye Ru Nicole & Wong Min Hui) 
+
+  
+
+Junior Category - (Led by Mr Wong Khai Yu) 
+
+"Making Impossible Problems Possible" by Sec 3ACE (Amanda Tan Yu En, Fong Chuyi, Raeanne, Lim Kai En & Pheobe Eyo Zhi Qing) 
+
+  
+
+To God be the Glory 
+
+  
+
+### A*STAR Science Award 2016
+
+Deborah Victoria Poon (3A1) and Phoebe Eyo Zhi Qing (3A1) have been selected as the 2016 A\*STAR Science Awardees (Upper Sec). They are given a chance to work with A8STAR to aspire towards future studies and careers in R&D and to develop their interest in Science to the fullest potential. 
+
+  
+
+### SPF-NPCC badge 2016
+
+Chiu Weina (4A4) and Ho Wan Ting Rachel (4B1) were awarded the SPF-NPCC Badge. This is the pinnacle award that cadets can look forward to achieving. The objective of awarding the SPF-NPCC badge to cadets is to identify and recognise outstanding cadets with good leadership qualities. The presentation ceremony was held on 1 April 2016 at the Home Team Academy. 
+
+  
+
+### Voice Up Challenge 2016
+
+Isabel Ang (2.6B), Casey Lim (2.4), Jaslyn Ng (2.1) and Rachel Sng (2.2) made it to the finals in the Voice Up Challenge 2016 organised by Innova JC. 
+
+  
+
+### 2016 EZ Music Competition Audition
+
+Claris Ang Kyle Xin (3A1) has been selected to be a finalist in the 2016 EZ Music Competition Audition organized by East Zone Centre of Excellence for Creative Arts –Music Satellite@ Pasir Ris Crest Secondary School in Jul 2016. 
+
+  
+
+### St John Ambulance Chief Commissioner’s Badge 2016
+
+15 of our St John Brigadiers were awarded the Chief Commissioner’s Badge, as part of the Cadet Proficiency Badge Scheme (CPBS) in April 2016. The Chief Commissioner's Badge is the highest award for a cadet in St John. 
+
+  
+
+### World Robot Games 2016 Singapore
+
+![](/images/wrg2016.png)
+
+The World Robot Games 2016 Singapore being the first of its kind in Singapore, promotes Science, Technology, Electrical & Mechanical Engineering and the Arts. This event provides the platform where participants pit their wits against one another, design and test their robotic creations in 3 different games, SUMOROBOT, LINE TRACING, and SEARCH & RESCUE. WRG 2016 theme focuses on "DISASTER RECOVERY". Teams will be challenged to design robots to search and rescue victims in a disaster situation. Winning Teams of WRG Singapore 2016 will also get to represent Singapore to compete in the WRG 2016 International, Indonesia (Bandung) in August. 
+
+  
+
+We are proud to announce that one team comprising of Woo Jie Lyn of Sec 3A2 and Esther Chan of Sec 2.3 clinched the Bronze Award in Line Tracing Secondary School Category. For Search and Rescue Secondary School Category, Ling Yin and Wee Chun Hui of 3A1 achieved the Silver Award while Tan Jia Min of 3A1 and Julia Chacko of 3A3 attained the Gold Award. Congratulations to all the robotic teams of PLMGSS!
+
+
+<img src="/images/letter_of_congratulations_WRGS2016.jpg" 
+     style="width:60%">
+		 
+**Students' Reflections:** 
+
+“In this competition, our robot had quite a few breakdowns. During the competition itself, the unit faced tough competitions from other competitors. Through teamwork, communication and tolerance, we all managed to pull through, and that is really worth all the effort.”  <br>
+**_Wee Chun Hui, 3A1_** 
+
+  
+
+“I feel that participating in this year’s World Robotics Games was definitely an enriching opportunity as I felt that it trained myself mentally and physically into adapting to different changes as well as new challenges to solve. I have learnt a lot from this experience and it has been a great learning opportunity.”  <br>
+**_Lee Wen, 3A4_** 
+
+  
+
+“During the two days of the competition we met with many setbacks such as the wheels of the robot falling off or the screws coming lose on various parts of the robot. However, this competition has allowed me to be closer with my team mate, Chun Hui and exposed us to different forms of robotic technologies. When we first walked in for practice, many people from other schools, including parents and teachers looked at us, probably in disbelief. However, as we practiced and got the hang of things together with teamwork and communication, we eventually managed to emerge victorious and made our mark. The sense of satisfaction and euphoria that we felt when we finished the task was truly amazing. The experience has also taught me that nothing is impossible if you set your heart and mind to accomplishing it.”  <br>
+**_Ling Yin, 3A1_** 
+
+  
+
+“This competition was a thrilling one compared to previous competitions our robotics unit had participated in. We entered this competition fully prepared but not knowing what the main challenges are. Though some problems came up on the competition day itself, we were able to fix them. Can't wait for our next competition to show other schools that our school can do robotics.”  <br>
+**_Woo Jie Lyn, 3A2_** 
+
+  
+
+“As this is my first competition in robotics, I feel very honoured to be selected for participation. The competition gave me a lot of experience and I felt very happy having contributed my best. There were also challenges we faced. We struggled with the speed and tuning of the line tracer. Through this competition, I learnt that teamwork and sportsmanship is very important. Thank you PLMGSS for this experience!” <br>
+**_Angel Yip, 1.2_** 
+
+  
+
+“I really enjoyed participating in WRG Singapore as it was a new experience for me. During the competition itself I learnt a lot about teamwork as my partner, Jia Min, and I had to work closely together to ensure that our robot could complete all challenges. I’m really glad I had the chance to take part in this competition along with the rest of the PL Robotics Unit!”  <br>
+**_Julia, 3A3_** 
+
+  
+
+### iChef Competition
+
+![](/images/iChef.png)
+
+The NFS unit participated in this year’s ichef competition which was organised by Republic Polytechnic. A total of 3 teams from our PLMGSS participated in the above competition. The teams had to undergo 2 challenges, the first challenge was to create a fusion bento box lunch presentation and the other was to do a menu design for a Café in the qualifying round. A total of 108 teams from various schools participated in the qualifying round. One of our 3 teams, “PL Angels” qualified for the finals. In the finals the teams were to prepare 5 different types of Butler Passed Canapes featuring ingredients from the East to the West ends of the globe. The team practiced hard for the finals and worked diligently to present the canapes attractively. “PL Angels” came in 4 th place in this competition. 
+
+  
+
+**Students' Reflections:***
+
+“The subject, Food and Nutrition, motivated us to cook different types of food. We are inspired and challenged to cook different type of interesting food. The creation of the menu, the process of brainstorming for the bento box and the workshops that we attended during the first round of competition had given us an eye opening experience. We never knew food can be infused and created in such a way. Through this competition we learned that teamwork and communication skills are important life skills in the working life. We have to learn how to communicate and work in a group to get things done. We sat down as a team to talk about the problems. As we talked and brainstormed, we found solutions to our problems and sometimes we can be very creative in our solutions.”  <br>
+**_By Charmaine, Cloris, Rachel (Sec 3NA)_** 
+
+  
+
+### SYF Art Exhibition 2016
+
+<figure>
+<img src="/images/july2016_behind_the_lens01sm.jpg">
+<figcaption>Behind the Lens by Magdalene Tan <br>
+(4B1, Class of 2015)</figcaption>
+</figure>
+
+The school congratulates Magdalene Tan (4B1, Class of 2015) for achieving the Certificate of Recognition in the Singapore Youth Festival Art Exhibition 2016. 
+
+  
+
+### PL ‘C’ Division Volleyball Team Makes History
+
+![](/images/C%20Div%20Volleyball.png)
+
+8 years after PL first established the Volleyball team, the PL ‘C’ Division Volleyball Team finally made history by clinching 3 d position in the East Zone ‘C’ Division Volleyball Championships and qualified for the nationals. The Volleyball girls trained 3 times a week and took part in a number of competitions to prepare themselves. During the East Zone ‘C’ Division Volleyball Championships 2016, the girls displayed great resilience to overcome injuries and illnesses and managed to beat some traditionally strong teams. The Volleyball girls will continue to put in their best effort during the nationals to bring honour to the school. 
+
+  
+
+**Students' Reflections:**
+
+"To achieve something no one had ever achieved before in this school during our school’s 100 th anniversary is definitely unforgettable. I have learnt to push myself beyond my boundaries and always to persevere. Also, I have learnt the importance of teamwork and team spirit. I am looking forward to more of these experiences to come!"  <br>
+**_Yap Jing Yi, Nadia, Vice-Captain of the PL C Division Volleyball Team_** 
+
+  
+
+"On the first day of the competition, we were surprised that we managed to beat our strong opponent despite playing the match immediately after our Sec 2 Camp. What was even more unimaginable was that we actually reached the nationals. This was beyond my expectations and it will be an experience I can never forget."  <br>
+**_Faith Andreali M. Bunoan, team member of the PL C Division Volleyball Team_** 
+
+  
+
+### iDigix 3D-Tronics Challenge @ Labs 2016
+
+![](/images/idigix.png)
+
+The iDigix 3D-Tronics Challenge @ Labs 2016 is a competition that encourages students to think out of the box, develop problem solving and applied learning skills. It also allows team spirit among participation and learning through meaningful experiences. 
+
+  
+
+The challenge is designed to enable students to hone their skills in robotics programming, as well as to 3D-printing technology can come into place to solve or enhance the design of the robot and performance function. In addition, the theme of "Upcycling" is introduced for 2016's competition. Teams can also put their creativity to test by making use of recyclables to build their robots, transforming the recycled or unused materials at home into other useful applications. 
+
+  
+
+We are proud to announce that one team comprising of Woo Jie Lyn of 3A2, Charissa Wee of Sec 2.2 and Angel Yip of Sec 1.1 won the 2 nd Runner Up position in the Maze Explorer Senior Category. In the Arena Battle Open Category, our robotic girls Lee Wen of Sec 3A4, Andrea Seng of 3B1 and Christina Tan of Sec 2.4 were the champions defeating other competitors from institute of higher learning. Congratulation to the Robotic Teams of PLMGSS! 
+
+  
+
+**Students' Reflections: **
+
+“Going for the 3D-tronics Challenge was a wonderful experience for me. In the competition, there were many people of different ages taking part in different categories with different styles. The competition made us step out of our comfort zones to learn from others and improve from there. I would like to thank our Principal Mrs Quek and our teacher Mr Indra for giving us the chance to broaden our knowledge about robotics by attending such competitions. I hope I will be able to attend more of such competitions in the future.”  <br>
+**_Charissa Wee, 2.2_** 
+
+  
+
+“I feel that participating in this year’s 3D-Tronics Challenge was definitely an enriching opportunity as I felt that it trained me mentally and physically to adapt to different challenges during the Arena Battle games as well as having to think independently to solve new problems. I have learnt a lot from this experience and I am very thankful for this great learning opportunity.”  <br>
+**_Lee Wen, 3A4_** 
+
+  
+
+“This competition was once again a challenge with the new category and tough program coding. We were all afraid that our robot may not work and we will not be able to make the school proud. We worked together to figure out all the problems with whatever tools available. This competition once again provided me with very enjoyable times that I can spend working together with my teammates.”  <br>
+**_Woo Jie Lyn, 3A2_** 
+
+  
+
+“Taking part in the 2016 3D-tronics Challenge was very interesting especially when the challenges were different from last year. This year, my team and I entered the battle robot category and clinched champion position. I am proud of my team as we competed against institutes of higher learning such as the ITE. Through this competition, I managed to have more patience and strategise the movement for my robots depending on the situations. I am extremely thankful for the opportunity to take part in this year's 3D-tronics Challenge. I would like to thank our teacher-in-charge, Mr Indra, for guiding us through this competition and for giving us opportunities to take part in competitions and do the school proud.”  <br>
+**_Andrea Seng, 3B1_** 
+
+  
+
+“This competition gave me a great opportunity to train up my focus. We needed to be focused and not get distracted by the people around us. We persevered to prepare the robot for the competition through Arduino Programming. I am happy that we were the 2nd runner up for the competition and hope to win more prizes for the school.”  <br>
+**_Angel Yip, 1.1_** 
+
+  
+
+“I felt honoured as it is a rare opportunity and not everyone would have the chance to do what I did. I learnt a lot in the competition as we participated in the open category which allowed me to compete with older competitors and also learn from them. Given the opportunity, I would love to represent our school again.”  <br>
+**_Christina Tan, 2.4_** 
+
+  
+
+### PL Shines at National Schools Literature Festival
+
+
