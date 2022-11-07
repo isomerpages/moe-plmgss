@@ -96,3 +96,20 @@ Faith showed deep appreciation and thankfulness to the people around her and att
 As Faith embarks on the next stage of her journey, she left these nuggets for her fellow PL-Lites: **_“Treasure every moment. Do not be stressed. Hold on, pain ends. You must remember to smile!"_**  
 
 Practical and enlightening advice. Thanks Faith!
+
+### Perseverance is Key!
+
+**Yuen Jia Ling  (Sec 4.3, 2021)**
+
+<img src="/images/yuen%20jia%20ling%202png.jpg" 
+     style="width:60%">
+		 
+Jia Ling joined PLMGS via the Direct School Admission exercise – under the area for Student Leadership. It took her some time to develop close bonds with others as many of her classmates were from the PL Primary and had their own circle of friends. However, it did not stop her from forging firm friendships with those whom she shared common interests with.  
+  
+As the Vice-Head Prefect of the Prefectorial Board from 2020 to 2021, Jia Ling sometimes found it a challenge to balance her academic workload and Vice-Head Prefect duties. At times, due to the overwhelming work and other school commitments, she was tempted to give up. However, with the constant encouragement from her friends, Prefectorial EXCO members and teachers, she persevered on to manage well.  
+  
+Jia Ling was always very approachable and maintained good relationships with her peers and teachers. She was very respectful and highly motivated to give her best in any task given to her. Even though she encountered hardships and obstacles along the way, she excelled in her studies and in her pursuit to become a better leader for her peers.  
+  
+Jia Ling’s advice for her juniors: **_“Never carry your burden alone. It certainly helps to have someone to lean on.”_**  
+  
+Well done Jia Ling, we couldn’t have said it better ourselves!
