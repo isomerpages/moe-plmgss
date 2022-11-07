@@ -43,3 +43,8 @@ Despite having been diagnosed with Dyslexia, Dyspraxia and Sensory Integration D
 “**Just give your best, and God will do the rest**”
 – from the NA Course,  **ZULAIHA RASEENA BINTE KHALIT (Sec 4.7)**  
 – _6 Distinctions, 8 points_
+
+<img src="/images/zulaiha.png" 
+     style="width:40%">
+		 
+Zulaiha was from the Normal (Technical) stream and put in consistent hard work to achieve good results, allowing her to transfer to the Normal (Academic) stream in Secondary 2. Even with the more demanding academic workload, Zulaiha handled the challenges with a positive learning attitude and a great deal of resilience.  Her commendable academic performance earned her Edusave Scholarships in 2018, 2019 and 2020. Despite her many achievements, Zulaiha remained humble and constantly showed care and concern to the people around her. She was a good role model to her peers as a caring, respectful and resilient individual, and this earned her the MOE-Edusave Character Award. Ever the modest one, she had this advice for her peers, _“Never compare yourself with others. Just give your best, and God will do the rest.”_
