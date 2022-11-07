@@ -61,3 +61,20 @@ Alyssa aims to continue her music education upon graduation. She has been accept
 She had this to say to her fellow PL-Lites:&nbsp;**_“Don’t give up easily. If you do, you will not have a chance to succeed. Keep going!”_**  
   
 The PL family has full faith that Alyssa will continue to soar to greater heights. All the best, Alyssa!
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <td class="tg-0pky"><img src="https://www.plmgss.moe.edu.sg/qql/slot/u173/Accolades/GCE-O-LEVEL/2021/alyssa2.jpg" alt="alyssa2.jpg" width="338" height="526"></td>
+    <td class="tg-0pky"><span style="font-weight:400;font-style:normal">An aspiring musician, Alyssa was an exemplary student who displayed all-round excellence, drive and adaptability.  </span><br><span style="font-weight:400;font-style:normal">She was a dedicated member of the Harp Ensemble and served as the Student Conductor. </span><br><span style="font-weight:400;font-style:normal">A focused leader, Alyssa set clear goals for her team and encouraged her peers to persevere towards them. </span><br><span style="font-weight:400;font-style:normal">Her musical pursuits and excellence in both the violin and cello were clearly evident at national competitions.</span><br><br><span style="font-weight:400;font-style:normal"> </span><br><br><span style="font-weight:400;font-style:normal">Amidst this journey toward academic and CCA excellence, Alyssa had to manage her concerns about her father. </span><br><span style="font-weight:400;font-style:normal">She had not met him in two years as he worked overseas and with the Covid situation, travelling to meet up was not possible. </span><br><span style="font-weight:400;font-style:normal">With constant support and encouragement from her mother and her teachers, Alyssa remained focused on her goals. </span><br><span style="font-weight:400;font-style:normal">Her efforts were rewarded when she was placed on the Dean’s List – Academic Excellence in 2021 for achieving excellent results.</span><br><br><span style="font-weight:400;font-style:normal"> </span><br><br><span style="font-weight:400;font-style:normal">Alyssa aims to continue her music education upon graduation. She has been accepted to Eunoia Junior College’s Music Elective Programme through the Direct School Admission exercise.</span><br><br><br><br><span style="font-weight:400;font-style:normal">She had this to say to her fellow PL-Lites:</span><br><span style="font-weight:400;font-style:normal"> </span><br>“Don’t give up easily. If you do, you will not have a chance to succeed. Keep going!”<br><br><br><span style="font-weight:400;font-style:normal">The PL family has full faith that Alyssa will continue to soar to greater heights. All the best, Alyssa!</span></td>
+  </tr>
+</thead>
+</table>
