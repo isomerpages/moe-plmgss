@@ -964,3 +964,12 @@ Congratulations girls!
 On 2 May, our upper secondary ACE(Maths) team took part in the Singapore Maths Project  Maths research project has achieved a Silver Medal with Excellent presentation award in their Math research title 'Kakeya Needle Problem'. Read more about their research [here](https://staging.d31lf6q9623hn3.amplifyapp.com/instructional-programmes/ip-overview/ace-math-n-science).  
 
 ### Young Inventors' Award 2017
+
+![](/images/young_inventors.jpg)
+
+On 18 April 2017, one of our PL teams won the Commendation award for Tan Kah Kee Young Inventors' Award 2017. To God be the Glory!  
+  
+We are proud of our young ladies making inroads in STEM.
+
+### National School Games Rhythmic Gymnastics Championships 2017
+
