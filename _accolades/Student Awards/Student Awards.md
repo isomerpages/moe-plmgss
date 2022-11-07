@@ -6,7 +6,7 @@ third_nav_title: Student Awards
 ---
 ### NYP E-Science and Technology Challenge 2021
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTKzeYyljVNsaHDDBWmb840w5_5IgCfIoviUcmAOZ9a-oQsLJKxu8LIhyIroJf2xjTLmHh3XXaK8y8c/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTKzeYyljVNsaHDDBWmb840w5_5IgCfIoviUcmAOZ9a-oQsLJKxu8LIhyIroJf2xjTLmHh3XXaK8y8c/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 
 PL Shines! Heartiest Congratulations!
 
@@ -48,20 +48,20 @@ PL Shines! The Singapore Model Cabinet 2021 was a great experience for our Sec 3
 
 ### National Young Leader's Award 2021
 
-<img style="width:50%" src="/images/reana2.jpg">
+<img src="/images/reana2.jpg" style="width:50%">
 		 
 PL Shines! Raeanne Yap, our Head Prefect is one of the winners of the National Young Leader's Award 2021!!!
 
 ### Go Light Your World Project
 
 
-<img style="width:50%" src="/images/go_kight.jpg">
+<img src="/images/go_kight.jpg" style="width:50%">
 		 
 PL Shines! We are proud of 4 PL-Lites who have spared no effort in their Go Light Your World project to raise funds for Rainbow Center, an organization that works with persons with disabilities to allow them to hone their skills and eventually integrate into society. Their 9-month project started with the Temasek Leadership Showdown (where they were also awarded the Top Fundraising Team), and continued with their self-initiated projects to raise more funds for the organization through raising awareness in our school and through the profits from the sale of lifestyle products via their online store. We are proud of Ashlee Chee, Letitia Liow, Alethea Wee and Kelly Rose Tan for shining as lights in our community!
 
 ### 4th Text Recital Competition for Primary and Secondary Schools
 
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSRNcS2D5dFZfXSH_QX4I8Ny-WXpy9qJHPFulGhCbVKlCM7qntQa0vcTKsOL6euDC61PqtrWhBIwp0t/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSRNcS2D5dFZfXSH_QX4I8Ny-WXpy9qJHPFulGhCbVKlCM7qntQa0vcTKsOL6euDC61PqtrWhBIwp0t/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 
 PL Shines! In the 4th Text Recital Competition for Primary and Secondary Schools jointly organised by the Committee to Promote Chinese Language Learning (CPCLL), Anderson Primary School and Singapore Chinese Teachers Literary Recital Society, our PL Team shone brightly and won the following awards:  
 
@@ -180,7 +180,7 @@ The girls want to thank their teachers - Miss Alicia Loh, Ms Ambika Nair and Ms 
 
 ### English and Chinese Drama Ensemble at the 2021 SYF
 
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS5MS23CByd313TJuY4KUUQLBTwXeK0sqSNaPcGQVHunBlRvabNnQquzlJbzErHigbucyy4bOcUjA-Q/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS5MS23CByd313TJuY4KUUQLBTwXeK0sqSNaPcGQVHunBlRvabNnQquzlJbzErHigbucyy4bOcUjA-Q/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 
 PL Shines! It is a DOUBLE DISTINCTION for BOTH our English and Chinese Drama Ensemble at the 2021 SYF.
 
@@ -196,7 +196,7 @@ who guided and supported the girls through their journeys!
 
 ### PL Dance at the 2021 SYF
 
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS7vO-GzZtVX5z-OvSH9magcu_e437f3BP54hkYORWguVYqMeMJcKkkMFuwS4cViNKvlZ13WJp9VZG1/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS7vO-GzZtVX5z-OvSH9magcu_e437f3BP54hkYORWguVYqMeMJcKkkMFuwS4cViNKvlZ13WJp9VZG1/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 
 Heartiest Congratulations to our PL Dance girls for being recognised for their skills at the SYF 2021:
 
@@ -238,7 +238,7 @@ PL Shines! We are always so proud of our Guzheng Ensemble. A cut above the rest,
 
 ### Harp Ensemble at the 2021 SYF
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT640h9SVUiE2tO0pOz40niHrFBe_LFt_-ZglNSEY9pfbVn474MQFriC8fL6yDcbT1bvMiFpdnqdE7_/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT640h9SVUiE2tO0pOz40niHrFBe_LFt_-ZglNSEY9pfbVn474MQFriC8fL6yDcbT1bvMiFpdnqdE7_/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 
 PL Shines! Heartiest Congratulations to our Harp Ensemble for being awarded the Certificate of Distinction at the SYF 2021.
 
@@ -350,7 +350,7 @@ Shine on, ladies!
 
 ### MOE Special Award
 
-<img src="/images/seet_seow_chee.jpg" style="width:50%">
+<img style="width:50%" src="/images/seet_seow_chee.jpg">
 		 
 PL Shines! We are very happy to announce that once again, PL has been blessed with an MOE Special Award Recipient. She is Seet Seow Chee, Class of 2019 (Head Prefect 2018-2019). Seow Chee is one of the 12 Sec school recipients. This is a very prestigious award and it comes to affirm the work on Holistic Education that we seek to sow into our girls' lives.  
   
@@ -364,14 +364,14 @@ PL Shines! Heartiest Congratulations to Sec 3 PL-Lites - Hannah, Tammie, Celeste
 
 ### Singapore Road Safety Month 2020 Road Safety Art Competition - School Category
 
-<img style="width:60%" src="/images/sg%20road%20safer.png">
+<img src="/images/sg%20road%20safer.png" style="width:60%">
 
 Congrats to PL-Lite, Brianna Ngoo (Sec 1) for being awarded Second place&nbsp;in the Singapore Road Safety Month 2020 Road Safety Art Competition- School Category! This competition is organised by the Singapore Road Safety Council. Open to students aged 13 to 18 years old as well as the members of the public aged 19 years old and above based on the theme: “Road Safety for All”.
 
 ### Singapore Schools Sports Council 48th Colours Award
 
 
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQiatl6jtAr5gnvREHBsq_beOKQ8gziGPIqXLTKOEmtInRJ87pIb9J_Hq2tstDfNHELZLQ7Jl7ij7Yn/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQiatl6jtAr5gnvREHBsq_beOKQ8gziGPIqXLTKOEmtInRJ87pIb9J_Hq2tstDfNHELZLQ7Jl7ij7Yn/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 
 We are proud of Farah Amelya Bte Hassan (Sec 3) for being awarded the SSSC Best Sportsgirl (Volleyball). This is the highest award that any student athlete can achieve in their respective sports. Farah received the award at the SSSC 48th Colours Award Presentation Ceremony on 21 September 2018.&nbsp;
 
@@ -381,7 +381,7 @@ Congratulations Farah!
 
 ### Create your own Newspaper competition
 
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQbCgoBYwqwr0xgQAsdO6AXQQrZ2lVUdyVW7MZHAZIkZfldHbQJiRzCE06n4ew4cgGeOe6itnF2LkOt/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQbCgoBYwqwr0xgQAsdO6AXQQrZ2lVUdyVW7MZHAZIkZfldHbQJiRzCE06n4ew4cgGeOe6itnF2LkOt/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 
 On 15 September, PL shined in the 'Create your own Newspaper competition'. Our girls were honoured with the top awards - 2nd prize in the upper secondary category and 3rd prize in the Lower Sec category. They received the prizes from Senior Minister of State, Mr Chee Hong Tat.&nbsp;
 
@@ -401,7 +401,7 @@ We are proud to present these awards achieved by our girls. To God be the Glory!
 
 ### IDE Competition 2018
 
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRbvn54LM8n0NcNe1jeTw12XgWDzDH5gLtEbzMGdyV9MZR_hsxof5jifURGC_F1cPZCs6EeTYRQxOn8/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRbvn54LM8n0NcNe1jeTw12XgWDzDH5gLtEbzMGdyV9MZR_hsxof5jifURGC_F1cPZCs6EeTYRQxOn8/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 
 During the March holidays, our Robotics girls participated in the IDE (Innovation, Design and Engineering) Series 2018, where students take part in competitions held at the national level in technology and engineering. Students were challenged on their problem solving skills across domains such as electronics, programming, and mechanical design.  
   
@@ -418,9 +418,157 @@ Well done! To God Be The Glory!
 
 ### Volleyball Association of Singapore (VAS) National U16 Volleyball Championship 2017
 
-<img style="width:80%" src="/images/VAS_U16_Volleyball.jpg">
+<img src="/images/VAS_U16_Volleyball.jpg" style="width:80%">
 		 
 Our volleyball girls came in at the 2nd Runner Up placing in VAS National U16 Volleyball Championship 2017 held on 24 Nov 2017 at Hougang Sports Hall . Read more at&nbsp;[https://www.vas.org.sg/vasu16-2017](https://www.vas.org.sg/vasu16-2017). Well done, team PL. To God be the Glory!
 
 ### World Robot Games 2017
+
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ990HkZzjyXGLgby-KfSC61Ek3G8Wkx8mbN5eXopDdsEkYdxgsP_lvaqrRaFr9yeS9l2aTY-JcDDP-/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+
+Our PL-Lites participated in the World Robot Games 2017 held in Singapore, Nov 10-11 2017, at Safra Punggol. The theme for WRG 2017 is ROBOTS IN DEFENSE &amp; SECURITY. Teams are challenged not only against each other in our games but also to innovate and create robots to assist in our global defense &amp; security against terrorism.
+
+  
+
+These are the award achieved by our girls:
+
+  
+
+Search &amp; Rescue Senior Category - Gold Award <br>
+Search &amp; Rescue Junior Category - Silver Award <br>
+Search &amp; Rescue Open Category - Bronze Award <br>
+Sumo 5KG RC Junior Category - Gold Award <br>
+Sumo 5KG RC Senior Category - Bronze Award <br>
+Innovative Robot Junior Category - Silver Award <br>
+Innovative Robot Open Category - Silver Award
+
+  
+
+To God be the Glory!
+
+### Schools Digital Media Awards 2017
+
+![](/images/SDMA%202017%20prize%20winners.jpg)
+
+Representing the Media and Information Technology Club, Jamie Ho Pei Qi (Sec 3A1), Leong Yiling (Sec 3A1) and Chloe Lee Ying Xuan (Sec 3A2)&nbsp; clinched the Merit Award in the the Schools Digital Media Awards 2017 with their photo essay, 'Moribund: a dying state'. Their award-winning photo essay explored the dying trades of Singapore; those that are vanishing and fading with time. It captured the older generation's passion for their line of work, and their determination to keep the trade alive for as long as possible. Follow&nbsp;[this link](https://sdma.moe.edu.sg/cos/o.x?ptid=588&amp;c=/sdma/sdma_gal&amp;func=view&amp;rid=4494)&nbsp;to view their photo essay.  
+
+  
+
+### Singapore Kindness Movement Awards Ceremony
+
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vStEH2lzMglP1pLIcBMYIWZx4lQdeUwIIEVjqO6KAGJ-nkW-xyeB3pd1Qqs6xjcuU00gr8KFTw_b1A7/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+
+9 student leaders from the PLMGSS Monitors Council and Peer-Lites took part in the Singapore Kindness Movement 2017 as Friends of Singa Ambassadors. Based on this year's theme, 'Kindness, It's Up To Us!', the team of students organised the PL Kindness Fortnight from 4 to 13 July. This comprised a series of student-initiated activities where PL-Lites could show appreciation to one another, as well as towards the teaching and non-teaching staff,&nbsp; like the canteen vendors and security guards. The team's efforts were recognised under the categories of Most Interesting Social Media Initiatives and Best Mural/Designs in the Awards Ceremony on 10 November 2017.  
+
+### Speed Netball Carnival Under 17 2017
+
+![](/images/Speed_Netball.jpg)
+
+On 15 July 2017, the PL B Division Netball Team participated in the Speed Netball Carnival Under 17 2017. We are proud to announce that the team emerged second in the competition.
+
+The team members included:
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-sxkx{background-color:#FFF;color:#454545;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-sxkx">1</th>
+    <th class="tg-sxkx">Ng Ru Ye Geri</th>
+    <th class="tg-sxkx">2.1</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-sxkx">2</td>
+    <td class="tg-sxkx">Joy Choo Xiao En</td>
+    <td class="tg-sxkx">2.3</td>
+  </tr>
+  <tr>
+    <td class="tg-sxkx">3</td>
+    <td class="tg-sxkx">G Keerthana</td>
+    <td class="tg-sxkx">2.4</td>
+  </tr>
+  <tr>
+    <td class="tg-sxkx">4</td>
+    <td class="tg-sxkx">Ariane Lisa Wong Kai Ern</td>
+    <td class="tg-sxkx">2.4</td>
+  </tr>
+  <tr>
+    <td class="tg-sxkx">5</td>
+    <td class="tg-sxkx">Gladys Chia Xin Yi</td>
+    <td class="tg-sxkx">3A3</td>
+  </tr>
+  <tr>
+    <td class="tg-sxkx">6</td>
+    <td class="tg-sxkx">Kwek Jia Xuan Tammie</td>
+    <td class="tg-sxkx">3A3</td>
+  </tr>
+  <tr>
+    <td class="tg-sxkx">7</td>
+    <td class="tg-sxkx">Charisse Lim Xuan Min</td>
+    <td class="tg-sxkx">3B1</td>
+  </tr>
+  <tr>
+    <td class="tg-sxkx">8</td>
+    <td class="tg-sxkx">Goh Jia En</td>
+    <td class="tg-sxkx">3C1B</td>
+  </tr>
+  <tr>
+    <td class="tg-sxkx">9</td>
+    <td class="tg-sxkx">Natassia Chriselle Dizon Ngo</td>
+    <td class="tg-sxkx">3C1B</td>
+  </tr>
+</tbody>
+</table>
+
+**Students’ reflections**  
+  
+
+“This carnival reminded us that despite the odds seemingly against our favour, it is imperative that we constantly encourage one another to keep each other’s spirit up. We understood how our inattention could lead to our greatest downfall, how our motivation could lead to our greatest glory and how the nuances in our mind-sets and attitude made all the difference.”  
+
+**_Kwek Jia Xuan Tammie, Member of PL B Division Netball Team_**  
+
+![](/images/East%20Zone%20Science%20Fair%202017.jpg)
+  
+“This was the first carnival where the Sec 2s and 3s played as a team and I felt that this carnival really showed me a lot. Although some of us felt demoralised when we first saw the fixtures as we were in a tough grouping, we made a goal for ourselves and worked towards that goal. Before every single game, everyone made sure they were warmed up well and this showed me that everyone was determined to fight. On the court, for all the opponents we faced, everyone stood strong against them and fought hard. Eventually, we topped the table, winning against the team we at first thought might lose to. There were tears and pressure. The games got tighter but no one backed down, we finally clinched 2nd placing. I was honestly surprised because I never thought we would go this far. This carnival really showed me every teammate’s fighting spirit and how a common goal could bring us so far. We constantly reminded ourselves that we wanted the medal. With our fighting spirit, we worked well together and supported each other. It felt good as I knew that not only me but everyone in my team wanted to win and that was my motivation to put in all my shots. This is a carnival that I would never forget, for all the emotions I felt and what I saw in all of my teammates.”  
+
+_**Gladys Chia Xin Yi, Vice-Captain of the PL B Division Netball team**_  
+  
+“Since it was my last time playing in speed carnival with my team of Sec 2s and 3s, I wanted our team to do their best and land themselves in the finals. With the team’s goal in mind and the motivation from my teammates, I set my mind on the challenge ahead and to always be focused on what I truly want to achieve at the end. The teams that we were going against were really strong and I was initially worried that my team would be afraid but our team came in strong and had what it takes to win. We maintained our winning streak until that very last match against St Hilda’s Secondary where we fell short by one goal and clinched the silver medal instead. I am still very proud of my team because we worked very hard as a team together and took every game as an opportunity to improve our skills and prove ourselves that we are one PL team. I felt touched to see my teammates working hard and I was very motivated as I knew that I was not working hard for that medal alone. I had my teammates’ assurance and determination as well to push me forward.”  
+
+_**Charisse Lim Xuan Min, Captain of the PL B Division Netball Team**_  
+
+  
+
+### East Zone A*STAR Science Fair
+
+On 21 July, a team of 4 students from our Secondary 2 ACE (Science) were awarded the Silver Award at the East Zone A\*STAR Science Fair. Their research focused on investigating “the effect of heavy metal ions on catalase in liver on the breaking down of hydrogen peroxide”.  
+  
+The students are :  <br>
+ISABEL CHIN HUI NING, 2.2  <br>
+EDWIN AMANDA GRACE, 2.2  <br>
+POVAZANEC ELENA, 2.2  <br>
+MERCIA YOONG SOONG MIN, 2.2
+
+### Singapore Secondary Schools Debating Championships 2017
+
+
+<figure>
+
+<img src="/images/SSSDC2017.jpg">
+
+<figcaption> <small> (From left): Joanne Lim Xin Yi (7th best speaker), Tessa Wong Su Feng (13th best speaker), Kelia Lim Li Xuan (14th best speaker), Calista Teo Jun Hui, Sim Shan Rong </small> </figcaption>
+</figure>
+
+
+Our school's Debate Club was one of the quarter-finalists in the Singapore Secondary Schools Debating Championships 2017 (Division I). The girls fought hard but did not qualify for the semi-finals. Nevertheless, we are proud that Joanne, Tessa and Kelia clinched the Best Speaker individual awards.  
+
+### iDigix 3D-Tronics Robotics Challenge 2017
 
