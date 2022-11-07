@@ -69,7 +69,7 @@ The loss of her mother when she was in primary school was a huge blow to Dawn an
 
 ### Celebrating the Success of our Students in the N-Level Course 
   
-(a) **Cohort Achievements for the 2021 Students in the 4N(A) Course**  
+**(a) Cohort Achievements for the 2021 Students in the 4N(A) Course**  
 
 We would like to celebrate the efforts of the following students who have done especially well for the GCE N(A) Examinations.
 
@@ -77,4 +77,32 @@ We would like to celebrate the efforts of the following students who have done e
 <img src="/images/Picture%201.jpg">
 <figcaption>Our heartiest congratulations to the top 4NA students - who scored 6 points - Rasinah Begum D/O Sivakumar (4.7) and Clarah Amber Tan Xue-En</figcaption>
 </figure>
+
+<figure>
+<img src="/images/Picture%202.jpg">
+<figcaption>Big smiles all around - Students who achieved 7 points</figcaption>
+</figure>
+
+<figure>
+<img src="/images/Picture%203.jpg">
+<figcaption>Feeling grateful for having achieved 8 points!</figcaption>
+</figure>
+
+<figure>
+<img src="/images/Picture%204.jpg">
+<figcaption>Big Smiles all around. Well Done Girls! – Our 9 pointers</figcaption>
+</figure>
+
+<figure>
+<img src="/images/Picture%205.jpg">
+<figcaption>A Joyous Moment for the 10 pointers!</figcaption>
+</figure>
+
+**(b) Cohort Achievements for the 2021 Students in the 4N(T) Course**  
+   
+We rejoice with Wong Xin Yi Dawn, for being the Top Student in the NT Course
+
+
+
+
 
