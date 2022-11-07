@@ -11,7 +11,7 @@ We celebrated with our girls who received the 2021 O-Level Examinations results 
 
   
 
-A total of **170 Sec 4 Express girls** and **26 Sec 5NA** girls sat for the GCE O-Level exams in 2021. They worked hard and were loved and supported by their families and the teachers.  
+A total of&nbsp;**170 Sec 4 Express girls**&nbsp;and&nbsp;**26 Sec 5NA**&nbsp;girls sat for the GCE O-Level exams in 2021. They worked hard and were loved and supported by their families and the teachers.  
 
   
 
@@ -35,10 +35,10 @@ Their hard work paid off and we achieved the following outcomes -
     
 
   
-**Combined Sec 4Exp & 5NA**  
+**Combined Sec 4Exp &amp; 5NA**  
 
-*   Total of 4 Exp & 5NA students obtaining 5 O Levels or more: 95.4% (National 85.6%)
-*   Total number of Sec 4&5 students obtaining 5 or more Distinctions : 47.6%  
+*   Total of 4 Exp &amp; 5NA students obtaining 5 O Levels or more: 95.4% (National 85.6%)
+*   Total number of Sec 4&amp;5 students obtaining 5 or more Distinctions : 47.6%  
     
 
   
@@ -46,3 +46,19 @@ Their hard work paid off and we achieved the following outcomes -
 We are proud of the following girls who exemplified our School Core Value of ‘Excellence’ and performed exceedingly well in both the academic and non-academic areas:  
   
 ### Don’t Give Up … Keep Going!
+
+**Neu Ee Shuen Alyssa (Sec 4.2, 2021)**
+
+<img style="width: 338px; height: 525px;" class="ive_eobj_left" alt="alyssa2.jpg" src="/qql/slot/u173/Accolades/GCE-O-LEVEL/2021/alyssa2.jpg">
+
+An aspiring musician, Alyssa was an exemplary student who displayed all-round excellence, drive and adaptability.&nbsp; She was a dedicated member of the Harp Ensemble and served as the Student Conductor. A focused leader, Alyssa set clear goals for her team and encouraged her peers to persevere towards them. Her musical pursuits and excellence in both the violin and cello were clearly evident at national competitions.  
+&nbsp;  
+Amidst this journey toward academic and CCA excellence, Alyssa had to manage her concerns about her father. She had not met him in two years as he worked overseas and with the Covid situation, travelling to meet up was not possible. With constant support and encouragement from her mother and her teachers, Alyssa remained focused on her goals. Her efforts were rewarded when she was placed on the Dean’s List – Academic Excellence in 2021 for achieving excellent results.  
+&nbsp;  
+Alyssa aims to continue her music education upon graduation. She has been accepted to Eunoia Junior College’s Music Elective Programme through the Direct School Admission exercise.  
+  
+  
+She had this to say to her fellow PL-Lites:&nbsp;**_“Don’t give up easily. If you do, you will not have a chance to succeed. Keep going!”_**  
+  
+The PL family has full faith that Alyssa will continue to soar to greater heights. All the best, Alyssa!
+
