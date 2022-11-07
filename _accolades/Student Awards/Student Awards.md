@@ -1519,4 +1519,109 @@ We are proud to announce that one team comprising of Woo Jie Lyn of 3A2, Chariss
 
 ### PL Shines at National Schools Literature Festival
 
+![](/images/Literature%20Festival.png)
 
+PL Shines! PL's strength in Literature has been proven yet again! About 40 students and 10 teachers attended the National Schools Literature Festival on 16 July 2016. We took part in 6 competitions and are blessed with amazing results as follows: 
+
+  
+
+(1) Unseen Debate against Kuo Chuan Presbyterian Sec - PL won! 
+
+(2) Drama competition against 12 schools - PL clinched 1st Prize! 
+
+(3) Book Parade competition against 15 schools - PL achieved 2nd prize! 
+
+  
+
+To God be the glory!  
+  
+### Lam Soon salad sandwich making competition 2016
+
+![](/images/lam_soon_salad.jpg)
+
+Our lower and upper secondary teams both came in tops at the Lam Soon salad sandwich making competition held on 23 Jul 2016
+
+  
+### 38th International CB Paul Science Quiz
+
+<img src="/images/38th_ICBPS_quiz.jpg" 
+     style="width:60%">
+
+8 of our PL-Lites were presented with the following awards at the 38th International CB Paul Science Quiz. 
+
+  
+
+Honourable Mention: Putri Pearl Koswara (3A1) 
+
+Merit: 
+
+Kalyn Kor (3A1)  <br>
+Yam Hui Jing (3A1)  <br>
+Deborah Victoria Poon (3A1)  <br>
+Lau Jing Xuan (3A1)  <br>
+Janice Chen (3A1)  <br>
+Tan Peng Ying (3A1)  <br>
+Tan Hui Xian Eleyna (2.1) 
+
+  
+
+### Our Designers in the Making
+
+![](/images/designer%20in%20the%20making.png)
+
+The school congratulates Sherry Koh Pan Yi and Amanda Woo Kai Yi for winning the ADAPTATION Award in the 2016 Design & Technology Awards. Their winning artefact will be displayed at The Marquee @ Science Centre Singapore on 1 Jun 2016. To God be the Glory! 
+
+  
+
+**Students' Reflections:**
+
+"During the process of making the artefact, I felt frustrated as we faced many problems. One of the challenges was the motor not being able to work properly and this was the crucial part of the artefact. I was afraid that we could not finish making the product. After many times of trying, we managed to overcome the problem. I was quite nervous during the interview due to the short time given for us to prepare. But I soon eased up as the words just came out naturally. I felt a sense if accomplishment when I heard the good news. We had put in a lot of effort and spent long hours in coming up with the idea and making the product. I feel proud and happy that our hard work had paid off."  <br>
+**_Amanda Woo, Sec 3A1_** 
+
+  
+
+"During the process of making the artefact, there were many frustrating moments but I felt a sense of accomplishment and satisfaction whenever we complete parts of the artefact. I felt that our artefact was not good enough when compared to the rest. However, we still did our best in trying to promote our product to the judges. I was thrilled and overjoyed as our hard work paid off in the end."  <br>
+**_Sheryl Koh, Sec 3A4_** 
+
+  
+
+### Innovation, Design & Engineering (IDE) Robotics & Challenge 2016
+
+![](/images/IDE%202016.png)
+
+The Innovation, Design and Engineering (IDE) Challenge held on 17 March 2016 was a hands-on competition with one or more engineering challenges. The IDE Robotics which was held also on the same, on the other hand, gave the PL-Lites the opportunity to be exposed to the world pf robotics programming. The task will only be released in the morning of the competition. 
+
+  
+
+We are proud to announce that one team comprising of Tan Jia Min (Sec 3A1), Julia Vadukkoot Chacko (Sec 3A3) and Joan Sim (Sec 3A3) won the Innovation Award. Another team comprising Woo Jie Lyn (Sec 3A2), Lee Wen (Sec 3A4) and Charissa Wee (Sec 2.2) attained the Judges’ Special Mention Award. 
+
+  
+
+****Students' Reflections:**** 
+
+“Having the chance to participate in this competition was a great opportunity for all of us to learn more about a whole different type of programming. As a team, we have worked well together and have all grown and learnt many things with and from each other. I have learnt the basics of this new programme. I would like to thank Mr Indra, our teacher-in-charge, for guiding us along the way and giving us the opportunity to go for the training and competition.”  <br>
+**_Andrea Seng, Sec 3B1_** 
+
+  
+
+“As part the IDE robotics challenge, we had a boot camp before the actual day of competition. We learned different things during the boot camp such as how to create different shapes and letters with the programming for the robot. We also managed to program the robot according to the brief provided. I also learnt different things from other groups and I am proud of our achievements.”  <br>
+**_Christina Tan, Sec 2.4_** 
+
+  
+
+“I feel that participating in this year’s IDE challenge was definitely an enriching opportunity as I felt that it had trained my mental and physical stamina, adaptability and flexibility to overcome problems and challenges. It was certainly been a great learning experience.”  <Br>
+**_Lee Wen, Sec 3A4_** 
+
+  
+
+“Participating in IDE 2016 was an enriching experience. My group took part in the IDE challenge where we were given certain materials to complete three tasks. With the incredibly limited resources provided, we had to wreck our brains to come up with feasible solutions. Thankfully, we were able to pull through in the end. I am extremely grateful for the chance to participate in such an event.”  <Br>
+**_Tan Jia Min, Sec 3A1_** 
+
+  
+
+“Taking part in the IDE Robotics was an extremely fun experience. In the IDE challenge, I had the opportunity to learn from other schools which is very meaningful. I hope I would be able to take part in more of such events.”  <br>
+**_Charissa Wee, Sec 2.2, Wee Chun Hui, Sec 3A1 and Woo Jie Lyn, Sec 3A2_** 
+
+  
+
+### United Nations Association of Singapore Model United Nations
