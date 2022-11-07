@@ -49,7 +49,8 @@ We are proud of the following girls who exemplified our School Core Value of ‘
 
 **Neu Ee Shuen Alyssa (Sec 4.2, 2021)**
 
-<img style="width: 338px; height: 525px;" class="ive_eobj_left" alt="alyssa2.jpg" src="/images/alyssa2.jpg">
+<img src="/images/alyssa2.jpg" 
+     style="width:60%">
 
 An aspiring musician, Alyssa was an exemplary student who displayed all-round excellence, drive and adaptability.&nbsp; She was a dedicated member of the Harp Ensemble and served as the Student Conductor. A focused leader, Alyssa set clear goals for her team and encouraged her peers to persevere towards them. Her musical pursuits and excellence in both the violin and cello were clearly evident at national competitions.  
 &nbsp;  
@@ -62,19 +63,36 @@ She had this to say to her fellow PL-Lites:&nbsp;**_“Don’t give up easily. I
   
 The PL family has full faith that Alyssa will continue to soar to greater heights. All the best, Alyssa!
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <td class="tg-0pky"><img src="https://www.plmgss.moe.edu.sg/qql/slot/u173/Accolades/GCE-O-LEVEL/2021/alyssa2.jpg" alt="alyssa2.jpg" width="338" height="526"></td>
-    <td class="tg-0pky"><span style="font-weight:400;font-style:normal">An aspiring musician, Alyssa was an exemplary student who displayed all-round excellence, drive and adaptability.  </span><br><span style="font-weight:400;font-style:normal">She was a dedicated member of the Harp Ensemble and served as the Student Conductor. </span><br><span style="font-weight:400;font-style:normal">A focused leader, Alyssa set clear goals for her team and encouraged her peers to persevere towards them. </span><br><span style="font-weight:400;font-style:normal">Her musical pursuits and excellence in both the violin and cello were clearly evident at national competitions.</span><br><br><span style="font-weight:400;font-style:normal"> </span><br><br><span style="font-weight:400;font-style:normal">Amidst this journey toward academic and CCA excellence, Alyssa had to manage her concerns about her father. </span><br><span style="font-weight:400;font-style:normal">She had not met him in two years as he worked overseas and with the Covid situation, travelling to meet up was not possible. </span><br><span style="font-weight:400;font-style:normal">With constant support and encouragement from her mother and her teachers, Alyssa remained focused on her goals. </span><br><span style="font-weight:400;font-style:normal">Her efforts were rewarded when she was placed on the Dean’s List – Academic Excellence in 2021 for achieving excellent results.</span><br><br><span style="font-weight:400;font-style:normal"> </span><br><br><span style="font-weight:400;font-style:normal">Alyssa aims to continue her music education upon graduation. She has been accepted to Eunoia Junior College’s Music Elective Programme through the Direct School Admission exercise.</span><br><br><br><br><span style="font-weight:400;font-style:normal">She had this to say to her fellow PL-Lites:</span><br><span style="font-weight:400;font-style:normal"> </span><br>“Don’t give up easily. If you do, you will not have a chance to succeed. Keep going!”<br><br><br><span style="font-weight:400;font-style:normal">The PL family has full faith that Alyssa will continue to soar to greater heights. All the best, Alyssa!</span></td>
-  </tr>
-</thead>
-</table>
+### Play Hard and Work Hard  
+
+**Melanie Chong (Sec 4.5, 2021)**
+
+<img src="/images/melanie%20chong2.jpg" 
+     style="width:60%">
+
+Melanie’s willingness to put in hard work has helped her effectively manage her commitments in various areas.
+
+As a committed member of the School Swimming Team, Melanie consistently displayed sheer dedication. She participated actively in school swimming events and competed in various external competitions. In 2019, Melanie emerged 1st place in the South East Asian Age Swimming Championships, in both the 100m and 200m breaststroke events. Since she was a valuable member of the National Swim Team, Melanie had to attend two hours of pre-dawn swims and another two hours of training after school almost every day. Despite her tight schedule, Melanie was still able to strike a balance between her studies and being a part of the National Swim Team with the constant support from her teachers.
+
+Melanie’s display of tenacity was encouraging as she always came to class ready to learn. She was a motivation for all, as through her, we are reminded that it is possible to achieve our dreams when we put our hearts and minds into what we do.  
+
+Her parting words of wisdom to her fellow PL-Lites: **_“Play hard and work hard!”_**
+
+Thank you Melanie for the wonderful advice. We wish you the best in your endeavours. Continue to shine on.
+
+### Do Not Be Stressed… Hold On… God is in Control!
+
+**Faith Kelly Chang  (Sec 4.3, 2021)**
+
+<img src="/images/faith%20kelly%20chang%202.jpg" 
+     style="width:60%">
+		 
+Faith served the school well as a member of the Prefectorial Board from 2019 to 2021. She was firm, yet approachable in her dealings with her peers and fellow schoolmates. Faith displayed her strong grasps for languages when she scored A1 for English Language, Chinese Language and Special Programme in Malay. Despite her tight schedule, Faith soldiered on with the extra workload of reading a third language, over and above her many subjects. Faith was adaptable and clearly represented the school’s value of ‘Adaptability’ , in planning her time well in an environment of change and being tenacious in overcoming challenges. She could manage all three of her passions - studying a third language, being part of the Prefectorial Board, as well as, participating actively in her CCA, the School Volleyball Team. Faith remained jovial and optimistic despite facing a challenging workload.  
+
+Faith did face some challenges in her journey, and it was her connection to God that enabled her to persevere. According to her, it was the promise of Ecclesiastes 3:11, “He has made everything beautiful in His time” that motivated her to overcome the odds and have fun with her studies.  
+
+Faith showed deep appreciation and thankfulness to the people around her and attributed her success to God, her friends and her mother. Her mother adopted a “do not be stressed” philosophy and this really helped in her quest to be a self-directed learner. As Faith candidly said, “When you are not stressed, the only thing pushing you, is YOU! Hence, my first step to being a future CEO is to exercise discipline and as a student, that is to… STUDY WELL.”  
+
+As Faith embarks on the next stage of her journey, she left these nuggets for her fellow PL-Lites: **_“Treasure every moment. Do not be stressed. Hold on, pain ends. You must remember to smile!"_**  
+
+Practical and enlightening advice. Thanks Faith!
