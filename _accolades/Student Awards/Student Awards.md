@@ -4,9 +4,10 @@ permalink: /accolades/student-awards/
 description: ""
 third_nav_title: Student Awards
 ---
+
 ### NYP E-Science and Technology Challenge 2021
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTKzeYyljVNsaHDDBWmb840w5_5IgCfIoviUcmAOZ9a-oQsLJKxu8LIhyIroJf2xjTLmHh3XXaK8y8c/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTKzeYyljVNsaHDDBWmb840w5_5IgCfIoviUcmAOZ9a-oQsLJKxu8LIhyIroJf2xjTLmHh3XXaK8y8c/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 
 PL Shines! Heartiest Congratulations!
 
@@ -48,20 +49,20 @@ PL Shines! The Singapore Model Cabinet 2021 was a great experience for our Sec 3
 
 ### National Young Leader's Award 2021
 
-<img style="width:50%" src="/images/reana2.jpg">
+<img src="/images/reana2.jpg" style="width:50%">
 		 
 PL Shines! Raeanne Yap, our Head Prefect is one of the winners of the National Young Leader's Award 2021!!!
 
 ### Go Light Your World Project
 
 
-<img style="width:50%" src="/images/go_kight.jpg">
+<img src="/images/go_kight.jpg" style="width:50%">
 		 
 PL Shines! We are proud of 4 PL-Lites who have spared no effort in their Go Light Your World project to raise funds for Rainbow Center, an organization that works with persons with disabilities to allow them to hone their skills and eventually integrate into society. Their 9-month project started with the Temasek Leadership Showdown (where they were also awarded the Top Fundraising Team), and continued with their self-initiated projects to raise more funds for the organization through raising awareness in our school and through the profits from the sale of lifestyle products via their online store. We are proud of Ashlee Chee, Letitia Liow, Alethea Wee and Kelly Rose Tan for shining as lights in our community!
 
 ### 4th Text Recital Competition for Primary and Secondary Schools
 
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSRNcS2D5dFZfXSH_QX4I8Ny-WXpy9qJHPFulGhCbVKlCM7qntQa0vcTKsOL6euDC61PqtrWhBIwp0t/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSRNcS2D5dFZfXSH_QX4I8Ny-WXpy9qJHPFulGhCbVKlCM7qntQa0vcTKsOL6euDC61PqtrWhBIwp0t/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 
 PL Shines! In the 4th Text Recital Competition for Primary and Secondary Schools jointly organised by the Committee to Promote Chinese Language Learning (CPCLL), Anderson Primary School and Singapore Chinese Teachers Literary Recital Society, our PL Team shone brightly and won the following awards:  
 
@@ -180,7 +181,7 @@ The girls want to thank their teachers - Miss Alicia Loh, Ms Ambika Nair and Ms 
 
 ### English and Chinese Drama Ensemble at the 2021 SYF
 
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS5MS23CByd313TJuY4KUUQLBTwXeK0sqSNaPcGQVHunBlRvabNnQquzlJbzErHigbucyy4bOcUjA-Q/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS5MS23CByd313TJuY4KUUQLBTwXeK0sqSNaPcGQVHunBlRvabNnQquzlJbzErHigbucyy4bOcUjA-Q/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 
 PL Shines! It is a DOUBLE DISTINCTION for BOTH our English and Chinese Drama Ensemble at the 2021 SYF.
 
@@ -196,7 +197,7 @@ who guided and supported the girls through their journeys!
 
 ### PL Dance at the 2021 SYF
 
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS7vO-GzZtVX5z-OvSH9magcu_e437f3BP54hkYORWguVYqMeMJcKkkMFuwS4cViNKvlZ13WJp9VZG1/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS7vO-GzZtVX5z-OvSH9magcu_e437f3BP54hkYORWguVYqMeMJcKkkMFuwS4cViNKvlZ13WJp9VZG1/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 
 Heartiest Congratulations to our PL Dance girls for being recognised for their skills at the SYF 2021:
 
@@ -237,3 +238,125 @@ To God Be the Glory!
 PL Shines! We are always so proud of our Guzheng Ensemble. A cut above the rest, our girls received the Certificate of Distinction in the 2021 SYF! Special thanks to our teachers - Mdm Yap, Ms Li and Mr Lee and instructor, Mr Thum for their patience and guidance throughout the SYF journey !
 
 ### Harp Ensemble at the 2021 SYF
+
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT640h9SVUiE2tO0pOz40niHrFBe_LFt_-ZglNSEY9pfbVn474MQFriC8fL6yDcbT1bvMiFpdnqdE7_/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+
+PL Shines! Heartiest Congratulations to our Harp Ensemble for being awarded the Certificate of Distinction at the SYF 2021.
+
+
+The girls want to thank their teachers - Ms Chong, Mrs Christopher, Mr Low, Ms Kok (Advisor) and Instructor, Ms Magdalene Wong for all the support &amp; prayers as we walked with them through this SYF journey!
+  
+To God Be The Glory!
+
+### NSG East Zone Table Tennis Championships 2021
+
+![](/images/table%20tennis%204th.jpg)
+
+PL Shines! Congrats to our Table Tennis Girls for being the 4th place for the NSG East Zone Table Tennis Championships 2021!  
+  
+Well done! We thank our teachers - Mr Foo, Ms Low, Ms Pang and Mr Low; and coach, Mr Gan for running with us through this year's NSG journey.
+
+### 42nd International C.B Paul Science Quiz 2021
+
+![](/images/42nd%20International%20C%20B%20Paul%20Science%20Quiz%202021.jpg)
+
+At the 42nd International C.B Paul Science Quiz 2021, our PL-Lites won the Gold and Honourable mention awards. Congratulations to Rachel and Rui En!  
+  
+To God Be the Glory!
+
+### EAST ZONE Volleyball NSG Competitions
+
+![](/images/volleyball2021.jpg)
+
+To God Be the Glory! Our Volleyball girls won 3-0 against the competing school this morning &amp; is in the 3rd place for EAST ZONE Volleyball NSG Competitions!
+
+  
+Well done, girls!  
+  
+We thank our teachers - Mr Low, Mdm Hu Min, Ms Intan and Mr Tan; and coach, Mr Jerry Teo for running with us through this year's NSG journey.
+
+### Young Innovators Challenge 2021
+
+![](/images/young%20innocators%202021.jpg)
+
+Our heartiest congratulations to our PL-Lites for winning the Best Concept Award and the Most Popular Team Award at the Grand Finals of the Young Innovators Challenge 2021 organised by the Nanyang Technopreneurship Center, Nanyang Technological University(NTC).  
+  
+The talented students are Faith Ong, Amatatsu Shoko, Koh Kiera and Quek Yan Teng.  
+  
+We thank our teachers - Mr. Indra Bin Ahmad, Ms Woo Yan Lin, Mr. Divakaran Kuppusamy for mentoring the girls!  
+  
+To God Be the Glory!
+
+### Create Your Own Newspaper Competition 2020
+
+![](/images/create%20own%20newspaper.jpg)
+
+Heartiest Congratulations to the winners of the 'Create Your Own Newspaper Competition 2020' (2020 编采比赛. The Upper Sec team has clinched the Third Prize and the Lower Sec team has clinched the Second Prize in the competition. Well Done, PL-Lites!
+
+### Innovation Programme (IvP) 2020
+
+![](/images/innovation%20programme%202020.jpg)
+
+PL Shines! Heartiest Congratulations to winners of the Innovation Programme (IvP) 2020. A total of 4 teams of Sec 2 students participated in the programme. Out of the 4 groups, 3 attained the Certification of Distinction and 1 received the Certificate of Participation. Well Done, Ladies!
+
+### Temasek Leadership Showdown 2020
+
+![](/images/temasek%20leadership%202020.jpg)
+
+Congratulations to our PL-Lites who participated in the Temasek Leadership Showdown 2020. This is a nationwide leadership competition which provides a platform students to hone their leadership skills and competencies through activities conducted over zoom. We had 2 teams of girls who participated. One of the teams won 2nd place (Overall).  
+  
+Well done, ladies!
+
+### 61st National Inter-Schools Chess Championships
+
+![](/images/chess.jpg)
+
+PL Shines! 61st National Inter-Schools Chess Championships  
+  
+Happy to announce that our girls participated in the first online chess team tournament organised by the Singapore Chess Federation (SCF). We had sent in a total of 2 teams and all the teams had performed exceedingly well. Congratulations to the team members!  
+  
+*Girls Open*  
+  
+National 3rd and East Zone 1st awards  
+– Putri Viviana Ellysha, Teo Faith, Wong Mabel, Lee Joanne  
+  
+*Girls Under 14*  
+  
+National 2nd and East Zone 1st awards  
+- Low Cheryl, Koh Yi Lin, Cheng Shin Yeen, Goy Eliza
+
+### Anglo Chinese Junior College Speech Arts Festival 2020
+
+![](/images/speech%20art.jpg)
+
+PL Shines! Congrats to our girls who were recognised at the Anglo Chinese Junior College Speech Arts Festival (2020):  
+  
+• Champion, Comic Speech (Lower Secondary) awarded to Jody Choo (Sec 1)  
+• 1st Runner-Up, Comic Duologue (Lower Secondary) awarded to Pan Chin Yi (Sec 2) and Janna Yeo (Sec 2)  
+  
+To God Be the Glory!
+
+### 3D-Tronics Micro:bit Asia Challenge 2020
+
+![](/images/microbit%20award.jpg)
+
+PL Shines- Heartiest congrats to Amatatsu and Kiera for being awarded recogntion awards in the Senior Category of the 3D-Tronics Micro:bit Asia Challenge 2020.  
+  
+
+1) Amatatsu (Sec 2) Project 'MaskMinder' - Design Award <br>
+2) Kiera (Sec 1) Project 'Gantry' - Godzilla Award
+
+
+Shine on, ladies!
+
+### MOE Special Award
+
+<img style="width:50%" src="/images/seet_seow_chee.jpg">
+		 
+PL Shines! We are very happy to announce that once again, PL has been blessed with an MOE Special Award Recipient. She is Seet Seow Chee, Class of 2019 (Head Prefect 2018-2019). Seow Chee is one of the 12 Sec school recipients. This is a very prestigious award and it comes to affirm the work on Holistic Education that we seek to sow into our girls' lives.  
+  
+We rejoice with Seow Chee and are humbled by God’s goodness upon our school.
+
+### NUS Geography Challenge 2020
+
+
