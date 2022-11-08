@@ -2332,3 +2332,409 @@ On 26 March 2014, The New Paper carried an article on Natalie Soh from Sec 4A1.
 
 ### 30th National Age Group Chess Championship 2013
 
+<img src="/images/dec2013_30_chess_championship2013sm.jpg" 
+     style="width:60%">
+
+Darla Gabrielle Tejada from Sec 2.4 took part in the 30th National Age Group Chess Championship 2013 on 16-18 November 2013. She was awarded the 5th prize in the Girls Under 14 Category. 
+
+  
+
+### National iBook Competition 2013
+
+<img src="/images/national_ibook_2013sm.jpg" 
+     style="width:60%">
+
+The school congratulates Codie Leung (Sec 1.3), K. Vittusha (Sec 1.3) and Laura Lee (Sec 1.6) for winning the Popularity Vote Award at the National i.Books Competition jointly organised by the Nanyang Polytechnic and National Library Board in September 2013. The team from the school's Media Information & Technology (MIT) Club created an interactive storybook and presented their product to a panel of judges. They won for themselves an iPod shuffle each. 
+
+  
+
+### PL's Values In Action Project in the limelight
+
+![](/images/via%20project.png)
+
+PLMGSS was presented with an award by Guest of Honour, Senior Minister of State, Mr Heng Chee How, at the Intergenerational Learning Programme Appreciation and Award Ceremony 2013 for its unique Values in Action project where 50 of our Secondary Three pupils taught 30 elderly from St Luke’s ElderCare a music appreciation class with the ukulele over a span of 5 half-day sessions in May this year. The award presentation ceremony took place on 21 September 2013 (Saturday). 
+
+  
+
+The highlight of the ceremony was the opening performance where our pupils and the elderly played the ukulele to the great delight of the audience. One of our pupils, Nivitha D/O Royston, was interviewed by the media and she shared how she learnt and benefited from her interaction with the elderly. One of the elderly who was truly a role model to our pupils is Mdm Tan, a 91-year old lady, who was a participant of our programme and a person who embodies the spirit of a life-long learner! 
+
+  
+
+PL is thankful to Council for the Third Age for their sponsorship and support, and HistoryMakers for their partnership and mentorship of our pupils in this meaningful project. 
+
+  
+
+### National Schools Literature Festival
+
+![](/images/national%20schools%20literature%20festival.png)
+
+We congratulate the following students for their achievements at the National Schools Literature Festival: 
+
+****Poetry Slam - 1st Prize***** 
+
+*   Sandhya Alexandra Anand, Secondary 3A1  
+    
+*   Prairie Soh Huei Yee, Secondary 3A3  
+    
+*   Kelsey Tan Xue Qi, Secondary 3B2  
+    
+
+  
+
+****Unseen Text Debate****** 
+
+*   Chrystal Ng Wan Qi, Secondary 3A1  
+    
+*   Man Gurshaaran Kaur, Secondary 3A1  
+    
+*   Soh Hann, Natalie, Secondary 3A1  
+    
+*   Tedja Jessica, Secondary 3A2  
+    
+
+  
+
+* The team received a special mention for demonstrating outstanding writing skills and won a one-to-one training with an established poet. 
+
+** There was one round of concurrent debates. Our team won the debate they competed in. 
+
+  
+
+### 54th National Inter-school Team Chess Championships 2013
+
+![](/images/54th%20National%20Inter-school%20Team%20Chess%20Championships%202013.png)
+
+Our Chess Club took part in the 54th National Inter-school Team Chess Championships 2013 at Rulang Primary School on 31 August 2013. We congratulate the members of the Chess Club on their achievements: 
+
+  
+
+### Category: Secondary Girls Under 14
+
+****Team 1** 
+
+**2nd Prize - East Zone**** 
+
+Teri Hwang Yong Qi 
+
+Toh Jie Ying 
+
+Don Ruvindya Hansani Hettig 
+
+Gilberte Jessie Koh Poh Ling 
+
+Wong Shi Ting 
+
+  
+
+****Team 2** 
+
+**1st Prize - East Zone** 
+
+**3rd Prize - Nationals**** 
+
+Tan Pei Si 
+
+Antoinette Tang Yan Jun 
+
+Darla Gabrielle Tejada 
+
+Elangovan Gayathri 
+
+Cristal Ang Hui Xian 
+
+  
+
+### **Category: Secondary Open**
+
+****4th Prize - East Zone**** 
+
+Tan Le Sze 
+
+Ong Li Ying Mazel 
+
+Lee Yun Ying 
+
+Tan Ling Yue Gloria 
+
+Swee Jia En Alyssa 
+
+  
+
+### NPCC Inter-Unit Drills Competition
+  
+
+The school congratulates the NPCC for emerging 8th out of 122 units in the NPCC Inter-Unit Drills Competition. The team members who participated in the competition are as follows: 
+
+- Rachel Cheang, Secondary 3C1 
+- Grace Ang, Secondary 3A1 
+- Hing Kai Wen, Secondary 3B3 
+- Stella Wai, Secondary 3B3 
+- Jacelyn Tan, Secondary 3C1 
+- Ng Sing Yee, Secondary 2.7 
+- Amanda Jane Wong (2.3) 
+- Sonia Seow, Secondary 2.4 
+- Charmaine Ho, Secondary 2.6 
+- Jamilah Allyssa, Secondary 2.5 
+- Amanda Lai, Secondary 2.3 
+- Rebecca Tan, Secondary 2.1 
+- Phylicia Loh, Secondary 2.7 
+- Rachel Chan, Secondary 2.4 
+- Koh Wei Ling, Secondary 2. 
+- Rena Ang, Secondary 2.3 
+- Ferwynda Fylzar, Secondary 2.8 
+
+  
+
+### East Zone A* Star Science Fair Symposium 2013
+
+<img src="/images/east_zone_astar2013sm.jpg" 
+     style="width:60%">
+		 
+A team of students from Secondary 3A1 participated in the East Zone A\* Star Science Fair Symposium 2013. Their research project entitled "Which common waste fruit is the most effective biofuel?" clinched a Silver Award. 
+
+  
+
+The school congratulates the team comprising the following students on their achievement: 
+
+Koh Shao Qi Natalene, Sec 3A1 <br>
+Chrystal Ng Wan Qi, Sec 3A1  <br>
+Ashley Poh Ching Lin, Sec 3A1 <br>
+Soh Hann Natalie, Sec 3A1 
+
+  
+
+### S Rajaratnam Leadership Series 2013 - Story-telling Competition
+
+<img src="/images/story_telling01sm.jpg" 
+     style="width:60%">
+		 
+We congratulate the following students for their achievement in the Story-telling Competition of the S Rajaratnam Leadership Series 2013: 
+
+Semi-finalist – Reena Premchand Primalani, Secondary 2.1 
+
+Finalist (Fifth Place) – Lad Komal Bhupendra, Secondary 2.2 
+
+  
+
+### International Competition and Assessments for Schools 2013 Science
+
+
+*   High Distinction - Lo Ern Hui Hannah (2-2) 
+    
+*   Distinction - Seah Kai Lin (2-1) 
+    
+
+  
+
+### Singapore Junior Water Prize - Under 15 Category 1st Prize
+
+![](/images/Singapore%20Junior%20Water%20Prize%20-%20Under%2015%20Category%201st%20Prize.png)
+
+*   Antonia Low (2.1)  
+    
+*   Amanda Chia (2.2)  
+    
+*   Kyna Ho (2.2)
+
+  
+
+### S'pore Mathematics Competition & S'pore Mathematical Olympiad
+
+Our pupils from the Accelerated Mathematics Programme (AMP) took part in the 2013 Secondary Schools Singapore Mathematics Competition with the theme of "Application of Mathematics in Planet Earth". We are pleased to announce that our team of Sec 4 AMP pupils comprising Kiong Min Yi Kimberly, Yip Juen Chen Nicole, Xu Ming Xin clinched the third prize for their essay entitled "Rate of fluid flow through porous media". 
+
+  
+
+In the Singapore Mathematical Olympiad, PLMGS (Sec) was ranked 27 out of 122 schools which participated in the Lower Secondary category of the competition and 35 out of 108 schools for the Upper Secondary category. The school congratulates the following pupils for their achievements in the competition:
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-f8vp{background-color:#DDD;color:#666;font-weight:bold;text-align:left;vertical-align:middle}
+.tg .tg-sdzj{background-color:#FFF;color:#454545;text-align:left;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-f8vp"><span style="color:#666;background-color:#DDD">Name</span></th>
+    <th class="tg-f8vp"><span style="color:#666;background-color:#DDD">Class</span></th>
+    <th class="tg-f8vp"><span style="color:#666;background-color:#DDD">Awards</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-sdzj">WU WE</td>
+    <td class="tg-sdzj">4A1</td>
+    <td class="tg-sdzj">Silver</td>
+  </tr>
+  <tr>
+    <td class="tg-sdzj">SHUAN YE RU NICOLE</td>
+    <td class="tg-sdzj">1.1</td>
+    <td class="tg-sdzj">Bronze</td>
+  </tr>
+  <tr>
+    <td class="tg-sdzj">SIM LEE TING</td>
+    <td class="tg-sdzj">1.3</td>
+    <td class="tg-sdzj">Bronze</td>
+  </tr>
+  <tr>
+    <td class="tg-sdzj">LO ERN HUI, HANNAH</td>
+    <td class="tg-sdzj">2.2</td>
+    <td class="tg-sdzj">Bronze</td>
+  </tr>
+  <tr>
+    <td class="tg-sdzj">ZHOU MENG</td>
+    <td class="tg-sdzj">3A1</td>
+    <td class="tg-sdzj">Bronze</td>
+  </tr>
+  <tr>
+    <td class="tg-sdzj">LIM KE YI</td>
+    <td class="tg-sdzj">4A1</td>
+    <td class="tg-sdzj">Bronze</td>
+  </tr>
+  <tr>
+    <td class="tg-sdzj">LEE QIAN YU, DAVINA</td>
+    <td class="tg-sdzj">1.2</td>
+    <td class="tg-sdzj">Honourable Mention</td>
+  </tr>
+  <tr>
+    <td class="tg-sdzj">SOH HANN, NATALIE</td>
+    <td class="tg-sdzj">3A1</td>
+    <td class="tg-sdzj">Honourable Mention</td>
+  </tr>
+  <tr>
+    <td class="tg-sdzj">TAN LE SZE</td>
+    <td class="tg-sdzj">3A1</td>
+    <td class="tg-sdzj">Honourable Mention</td>
+  </tr>
+  <tr>
+    <td class="tg-sdzj">YONG YUERONG, LUANNE</td>
+    <td class="tg-sdzj">3A1</td>
+    <td class="tg-sdzj">Honourable Mention</td>
+  </tr>
+  <tr>
+    <td class="tg-sdzj">KIONG MIN YI, KIMBERLY</td>
+    <td class="tg-sdzj">4A1</td>
+    <td class="tg-sdzj">Honourable Mention</td>
+  </tr>
+  <tr>
+    <td class="tg-sdzj">TAN JIA YU</td>
+    <td class="tg-sdzj">4A1</td>
+    <td class="tg-sdzj">Honourable Mention</td>
+  </tr>
+</tbody>
+</table>
+
+### Youthoria!
+
+![](/images/Youthoria!.png)
+
+Four PL-lites from Class 3B3 represented PLMGSS in the finals of the Tourism Innovation Challenge 2013 organised by Temasek Polytechnic on 15 and 16 July 2013. They were to conceptualise a proposal aimed at turning Singapore into an attractive destination for youth travellers. 
+
+  
+
+Our girls put together a tour concept entitled ‘Youthoria’ that sought to weave in their experiences gained through the school’s unique Overseas Faithful-In-Service (FIS)programme by inviting youth tourists to engage in social projects – an idea which was commended as ‘heart-warming’ by one of the judges from the Singapore Tourism Board. 
+
+The proposal ultimately came in 4 th overall in the competition, a testament of not only their creativity but also the school’s successful overseas service learning project! 
+
+  
+
+The school congratulates the team comprising Lim Ying, Natale Tan, Chloe Chan and Yvvyan Tan for their achievement! 
+
+  
+
+****Pupils’ Reflections:**** 
+
+“The competition was interesting for me as I am very keen in the tourism industry and may even consider a post-secondary course in Tourism and Resort Management. It helped me to gain insights on the Singapore tourism industry.” **_– Natale Tan_** 
+
+  
+
+“This competition taught me that cooperation and team work is important as the tasks were numerous. We would not have gotten things done without the efforts of one another!” **_\- Lim Ying_** 
+
+  
+
+“This competition has forced us to think out of the box and come up with new ideas and concepts.” **_– Chloe Chan_** 
+
+  
+
+### Lam Soon CC Salad Competition
+
+![](/images/lam%20soon%20cc%20salad%20competition.png)
+
+Janae Chua and Larrinna Haverkamp, both from Secondary 3B2 participated in the Lam Soon CC Salad Competition on 20 July 2013 (Saturday) . They battled against 20 other schools and won the hearts of the judges with their enticing and tangy Vietnam Thai Salad. Finally, they emerged top in the upper secondary category. 
+
+  
+
+### Breathing new life into unwanted books
+
+![](/images/Breathing%20new%20life%20into%20unwanted%20books.png)
+
+Five PL-lites from Class 3B3 represented PLMGSS in the finals of the National Youth Business Challenge 2013 organised by Ngee Ann Polytechnic. In this competition, teams had to put together a sustainable business plan that is promotes environmentalism. 
+
+  
+
+Seizing the opportunity that was presented as the school library had just condemned some old books, our girls developed 5 products which massively impressed the judges and won the top prize - Gold Award for having the Most Earth Friendly Business Concept. 
+
+  
+
+The school congratulates the team comprising of Zeona Aw, Tay Shi Ying, Valerina Tang, Natale Tan and Keziah Teo for their achievement. 
+
+  
+
+**Pupils’ Reflections:** 
+
+‘It was an eye-opener! We learnt how to develop our ideas and carry them through from concept into reality. We also learnt how to present our final products in a way that was appealing to our customers.’ **_\- Valerina Tang_** 
+
+  
+
+‘It was a fun experience. Through this competition we learnt about the importance of teamwork and making preparations to deal with unforeseen circumstances.’ **_– Tay Shi Ying_** 
+
+  
+
+‘It was really enriching on how we were able to plan out, produce and market our products. I have also picked up other recycling tips from other schools in the competition’ **_– Natale Tan_** 
+
+  
+
+### Raffles Debate Academy Under - 14 Debate Invitational
+
+![](/images/may2013_RDA_U14_01sm.jpg)
+
+The PL lower secondary debaters defeated Fairfield Methodist School (Secondary) and NUS High School at the Raffles Debate Academy Under 14 Debate Championships held on 25 May at Raffles Institution (Junior College): 
+
+1.  Amanda Chia (Sec 2.2, Team Captain)  
+    
+2.  Elisabeth Lian (Sec 1.1)  
+    
+3.  Megan Nicole Lew (Sec 1.5)  
+    
+4.  Hannah Quek Sihui (Sec 1.1)  
+    
+5.  Rianne Lim Ee Shyan (Sec 1.2)  
+    
+
+  
+
+There were 24 teams in all -- including most top schools like Raffles Institution, Raffles Girls’ School, Nanyang Girls’ High School, Methodist Girls’ School and Singapore Chinese Girls’ School. They competed in 3 matches and were defeated by HCI in the prepared round. The 2nd and 3rd rounds were impromptu rounds in which they beatFMSS and NUS High. 
+
+  
+
+**Pupils’ Reflections:** 
+
+“RDA U14s 2013 was a memorable and enriching experience as we were pitted against some of the finest debaters. We knew that to succeed, we must work together as a team and train hard. The competition provided a great platform to explore global issues and gain different perspectives. We would like to thank our coach, teachers, Mrs Ong and Ms Ong for their constant guidance and support. To God be the Glory!”  <br>
+**_Amanda Chia, Secondary 2.2_** 
+
+  
+
+### National Schools Digital Media Competition 2013
+
+![](/images/National%20Schools%20Digital%20Media%20Competition%202013.png)
+
+6 Teams from the Media Information and Technology (MIT) Club participated in the National Schools Digital Media Competition (NSDMC) 2013 where they had to to create comic strips to promote Civil Defence in Singapore. They worked on topics such as 'How to make your home fire safe', 'CPR Basics 101' and 'What is Public warning System'. The teams submitted their proposals and 2 teams whose proposals were shortlisted, attended a 2-day workshop in March where they polished their projects and submitted for judging. Team 1, comprising of Ayesha Kanwal (Sec 1.2) , Angela Tan Jia Yi (Sec 1.2), Heera Farzana ( Sec 1.3) and Codie Leung Zi Ning (Sec 1.3) won the top 10 placing while Team 2, represented by Sandra Choy (Sec 1.7), K. Vittusha (Sec 1.3), Jazreel Yeo Shi Hui (Sec 1.4) and Laura Lee Yin (Sec 1.6) won the top 20 position. 
+
+  
+
+### 54th National School Swimming Championships
+
+![](/images/54th_swim.jpg)
