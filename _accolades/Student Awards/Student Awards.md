@@ -3090,9 +3090,61 @@ PLMGS (Sec) is 1st Runners Up at the competition organised by Temasek Polytechni
 ### National Schools Podcast Competition 2011
 
 
-<img src="/images/National%20Schools%20Podcast%20Competition%202011.png" 
-     style="width:60%" align="left">
+<img src="/images/National%20Schools%20Podcast%20Competition%202011.png" style="width:70%" >
 
 
 <img src="/images/National%20Schools%20Podcast%20Competition%202011%202.png" 
-     style="width:80%" align="left">
+     style="width:80%">
+		 
+### School Digital Media Award "Media Evolution" 2011
+
+<img src="/images/p10.png" 
+     style="width:80%" >
+		 
+### AEC (Alternative Energy Car) Challenge Sollar Prix 2011
+
+<img src="/images/AEC%202011.png" 
+     style="width:80%" >
+		 
+### Confident Speakers, Creative Writers 2011
+
+![](/images/Confident%20Speakers,%20Creative%20Writers.png)
+
+
+### Confident Speakers 2011
+
+![](/images/Confident%20Speakers%202011.png)
+
+### NJC Nature Photography Competition 2011
+
+![](/images/NJC_Photo_Comp.jpg)
+
+Congratulations to Amanda Wong from Secondary 4D1. 
+
+She won the Third Prize in the Landscape Category of the 2011 NJC Nature Photography Competition. 
+
+  
+
+### Mobile Animation Challenge 2010
+
+
+Theme: 'Your Singapore: the Unique Experience' 
+
+*   To view the work of the finalists from Team 4: Lee Jia Yi Clair(1.3), Than Huey Yee Amanda(1.3) and Loh Yuan Qi Michelle(1.6)
+
+*   To view the work of the finalists from Team 6: Joanne Lo(2.2) and Clara Cha Xuan Jun(2.8)
+
+### East Zone Music Competition
+
+![](/images/east%20zone%20music%20competition.png)
+
+Nadia Krista Kamadjaja from Sec 3B1 won the 2nd prize at the East Zone Music Competition held at Pasir Ris Crest Secondary School on 27 August 2010. She was accompanied on the piano by Teo Charmaine from Secondary 3A4. Congratulations! 
+
+  
+
+### Top 10 for Doodle for Google 2010
+
+
+Alyssa Png from 3A4 came in top 10 in her age group. She went through a fierce competition in her age group with 11379 submissions.
+
+![](/images/doodle.png)
