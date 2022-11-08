@@ -2738,3 +2738,361 @@ There were 24 teams in all -- including most top schools like Raffles Institutio
 ### 54th National School Swimming Championships
 
 ![](/images/54th_swim.jpg)
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-ncov{background-color:#FFF;color:#454545;text-align:center;vertical-align:middle}
+.tg .tg-feqv{background-color:#DDD;color:#666;font-weight:bold;text-align:center;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-feqv"><span style="color:#666;background-color:#DDD">Event</span></th>
+    <th class="tg-feqv"><span style="color:#666;background-color:#DDD">Name</span></th>
+    <th class="tg-feqv"><span style="color:#666;background-color:#DDD">Position (Finals)</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-ncov" rowspan="2">100m Freestyle</td>
+    <td class="tg-ncov" rowspan="3">Zoey Ho Zu Er (Sec 1.1)</td>
+    <td class="tg-ncov">2</td>
+  </tr>
+  <tr>
+    <td class="tg-ncov" rowspan="2">5</td>
+  </tr>
+  <tr>
+    <td class="tg-ncov">200m Individual Medley</td>
+  </tr>
+  <tr>
+    <td class="tg-ncov">13 &amp; Under 200m Freestyle Relay</td>
+    <td class="tg-ncov">C Division</td>
+    <td class="tg-ncov">7</td>
+  </tr>
+  <tr>
+    <td class="tg-ncov">16 &amp; Under 200m Freestyle Relay</td>
+    <td class="tg-ncov">B Division</td>
+    <td class="tg-ncov">8</td>
+  </tr>
+</tbody>
+</table>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-ncov{background-color:#FFF;color:#454545;text-align:center;vertical-align:middle}
+.tg .tg-feqv{background-color:#DDD;color:#666;font-weight:bold;text-align:center;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-feqv"><span style="color:#666;background-color:#DDD">C Division</span></th>
+    <th class="tg-feqv"><span style="color:#666;background-color:#DDD">B Division</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-ncov">Zoey Ho (Sec 1.1)<br>Celeste Chan (Sec 1.2)<br>Naomi Wong (Sec 1.3)<br>Abigail Png(Sec 2.4)<br>Leo Yi En (Sec 2.5)<br>Yvette Tan (Sec 2.7b)<br>Megan Lim (Sec 2.7b)<br>Gillian Lim (Sec 2.7b)<br>Kam Jia-Ren(Sec 2.8)</td>
+    <td class="tg-ncov">Sonia Elizabeth Ranjendra (Sec 3A2)<br>Priscilla Ursua Gador (Sec 3B1)<br>Megan Lau (Sec 4B3)<br>Sophie Mok (Sec 4C1b) – Captain<br>Syamimi Bte Shahdan (Sec 4C1b)<br>*Jolene Nah (Sec 3B1) – Vice Captain</td>
+  </tr>
+</tbody>
+</table>
+
+
+### International Biomedical Olympiad 2013
+
+![](/images/International%20Biomedical%20Olympiad%202013.png)
+
+The school congratulates the following pupils for their achievements in the International Biomedical Olympiad organised by Anglo-Chinese Junior College and Yong Loo Lin School of Medicine, NUS. Held in Feb - Mar 2013, the focus for this year's competition was on Neuroscience.
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-a4yv{background-color:#DDD;color:#666;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-ncov{background-color:#FFF;color:#454545;text-align:center;vertical-align:middle}
+.tg .tg-feqv{background-color:#DDD;color:#666;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-s0hm{background-color:#dddddd;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-a4yv"></th>
+    <th class="tg-feqv">Name</th>
+    <th class="tg-feqv">Class</th>
+    <th class="tg-s0hm"><span style="font-weight:bold;color:#666">Award</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-ncov">1</td>
+    <td class="tg-ncov">Sarah Ong Le En</td>
+    <td class="tg-ncov">4A1</td>
+    <td class="tg-ncov">Silver Medal</td>
+  </tr>
+  <tr>
+    <td class="tg-ncov">2</td>
+    <td class="tg-ncov">Chong Yan Wen</td>
+    <td class="tg-ncov">4A1</td>
+    <td class="tg-ncov">Honorable Mention</td>
+  </tr>
+  <tr>
+    <td class="tg-ncov">3</td>
+    <td class="tg-ncov">Nicole Chew Chuan</td>
+    <td class="tg-ncov">4B3</td>
+    <td class="tg-ncov">Certificate of Merit</td>
+  </tr>
+  <tr>
+    <td class="tg-ncov">4</td>
+    <td class="tg-ncov">Yong Yue Rong Luanne</td>
+    <td class="tg-ncov">3A1</td>
+    <td class="tg-ncov">Certificate of Merit</td>
+  </tr>
+  <tr>
+    <td class="tg-ncov">5</td>
+    <td class="tg-ncov">Chrystal Ng Wan Qi</td>
+    <td class="tg-ncov">3A1</td>
+    <td class="tg-ncov">Certificate of Merit</td>
+  </tr>
+  <tr>
+    <td class="tg-ncov">6</td>
+    <td class="tg-ncov">Soh Hann Natalie</td>
+    <td class="tg-ncov">3A1</td>
+    <td class="tg-ncov">Certificate of Merit</td>
+  </tr>
+  <tr>
+    <td class="tg-ncov">7</td>
+    <td class="tg-ncov">Sabrina Lee Shi Yan</td>
+    <td class="tg-ncov">3A3</td>
+    <td class="tg-ncov">Certificate of Merit</td>
+  </tr>
+</tbody>
+</table>
+
+### Singapore-China Children and Youth Bilingual Speech Competition
+
+![](/images/Youth_Bilingual_Speech_Competition_sm.jpg)
+
+We are proud to announce that Ng Yu Qi (Secondary 3B1) (on the left of the photo) clinched the 2nd Prize in the Singapore-China Children and Youth Bilingual Speech Competition. 
+
+  
+
+### Photography Achievements by PL-Lites (EOS Academy Magazine)
+
+![](/images/Photography%20Achievements%20by%20PL-Lites.png)
+
+The school congratulates the members of PL Photography Club on being featured in the 2nd edition of EOS Academy magazine. The magazine seeks to recognise pupils who have done well in the art of photography among the educational institutions in Singapore, including the junior colleges, polytechnics and universities. 
+
+  
+
+The photographs taken by the following 6 pupils were featured in the magazine: 
+
+1) Syaza Nisrina, Secondary 2-3 (1 photo) 
+
+2) Magdalene Tan, Secondary 2-5 (2 photos) 
+
+3) Estelle Heng, Secondary 3B2 (1 photo) 
+
+4) Hannah Chan, Secondary 3B1 (1 photo) 
+
+5) Nicole Ng, Secondary 3A3 (1 photo) 
+
+6) Venessa Ng, Secondary 4B3 (3 photos) 
+
+  
+
+In addition, Magdalene and Nicole were also featured in the 1st edition of the magazine. 
+
+  
+
+We are very proud of their achievement and this is indeed a significant milestone for them. 
+
+  
+
+### 35th C B Paul Memorial Science Quiz
+
+We are proud to announce that our pupils clinched 2 Individual Bronze Awards and 1 Individual Merit Award at the C B Paul Memorial Science Quiz held at Anglo-Chinese Junior College on 23 January 2013. The awardees are as follows: (1) Amanda Jane Wong Xiu Wen, Secondary 2.3 (Bronze Individual Award) (2) Amanda Lai Ting Yu, Secondary 2.3 (Bronze Individual Award) (3) Amanda Leo Min, Secondary 2.3 (Merit Individual Award) 
+
+### Photography Achievements by PL-Lites
+
+![](/images/Photography%20Achievements%20by%20PL-Lites%202.png)
+
+The PL Photography Club is proud to announce that the works by some of our student photographers were featured in professional photography magazines. 
+
+  
+
+The photos taken by Nicole Ng (Secondary 2-2), Megan Ng (Secondary 2-2), Magdalene Tan (Secondary 1-5) and Delia Leow (Secondary 4A2) were published by the EOS Academy magazine in September. 
+
+  
+
+In addition, another of Megan’s photo was published in the Canon Buzzmagazine. Her work emerged as the best entry for the month of October and was also featured in the Canon EOS World portal. In the recently concluded Canon Photomarathon (November), Megan’s work was again shortlisted as one of the top 10 entries amongst all submissions in the Student Category (including university students). 
+
+  
+
+We are indeed very proud of their achievements. 
+
+  
+
+### perPETually Yours!
+
+![](/images/perPETually%20Yours!.png)
+
+Owning a pet is a life-long commitment – that was the message five girls from Secondary 3D1 zealously shared with shoppers at Causeway Point on 17 and18 November 2012. This entrepreneurship activity was part of the National Pushcart Challenge Finals 2012 organised by Republic Polytechnic. 
+
+  
+
+In this competition, teams had to collaborate with social enterprises to innovate and market products to help them raise funds as well as spread awareness of their causes. Our team comprising of Melissa, Durgeswary, Letchimi, Min Shan and Siu Ching worked with the Society for the Prevention of Cruelty against Animals (SPCA) and fashioned desktop clocks out of unwanted CDs. This innovation, coupled with their dedication in working twelve-hour shifts, earned them the 4 th overall position out of a total of 15 finalists. 
+
+  
+
+### 6th Sudoku Challenge 2012
+
+<img src="/images/july2012_sudoku_challenge2012sm.jpg" 
+     style="width:60%">
+		 
+1 st Runner-up at the 6 th Sudoku Challenge 2012 
+
+From left to right: Luisa Phuah (Sec 2-2), Chrystal Ng (Sec 2-2), Janice Chan (Sec 2-3) and Yong Yuan Yen (Sec 2-2 
+
+  
+
+### Tourism Innovation Challenge 2012
+
+<img src="/images/june_2012_TourismInnovationChallenge2012_02sm.jpg" 
+     style="width:60%">
+		 
+PLMGS (Sec) is 1st Runners Up at the competition organised by Temasek Polytechnic. 
+
+  
+
+  
+
+### SJAB East Zone First Aid and Home Nursing Competition 2012
+
+
+<img src="/images/march%202012%20stj%20first%20aid%20%201.jpg" 
+     style="width:60%">
+		 
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-fwnj{background-color:#FFF;color:#454545;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-fwnj" colspan="3"><span style="font-weight:bold">Nursing Adult</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-fwnj">Name</td>
+    <td class="tg-fwnj">Class</td>
+    <td class="tg-fwnj">Awards</td>
+  </tr>
+  <tr>
+    <td class="tg-fwnj">CPL / Phaedra Lee Pei Tian</td>
+    <td class="tg-fwnj">3A1</td>
+    <td class="tg-fwnj">Overall 2nd, Best in Footdrill, Best leader</td>
+  </tr>
+  <tr>
+    <td class="tg-fwnj">CPL / Lim Ke Yi</td>
+    <td class="tg-fwnj">3A1</td>
+    <td class="tg-fwnj">Overall 2nd, Best in Footdrill</td>
+  </tr>
+  <tr>
+    <td class="tg-fwnj">CPL / Abigail Thomson</td>
+    <td class="tg-fwnj">3A1</td>
+    <td class="tg-fwnj">Overall 2nd, Best in Footdrill, Best CPR</td>
+  </tr>
+  <tr>
+    <td class="tg-fwnj">CPL / Nicole Yip Juen Chu</td>
+    <td class="tg-fwnj">3A1</td>
+    <td class="tg-fwnj">Overall 2nd, Best in Footdrill, Best CPR</td>
+  </tr>
+  <tr>
+    <td class="tg-fwnj">CPL / Fenalla Foo Yu Shan</td>
+    <td class="tg-fwnj">3B3</td>
+    <td class="tg-fwnj">Overall 2nd, Best in Footdrill</td>
+  </tr>
+  <tr>
+    <td class="tg-fwnj" colspan="3"><span style="font-weight:bold">Nursing Cadet</span></td>
+  </tr>
+  <tr>
+    <td class="tg-fwnj">Name</td>
+    <td class="tg-fwnj">Class</td>
+    <td class="tg-fwnj">Awards</td>
+  </tr>
+  <tr>
+    <td class="tg-fwnj">LCP / Ng Shu Shan Esther</td>
+    <td class="tg-fwnj">2.1</td>
+    <td class="tg-fwnj">Overall 9th, Best in First Aid</td>
+  </tr>
+  <tr>
+    <td class="tg-fwnj">LCP / Shalina Daniel</td>
+    <td class="tg-fwnj">2.1</td>
+    <td class="tg-fwnj">Overall 9th, Best in First Aid</td>
+  </tr>
+  <tr>
+    <td class="tg-fwnj">LCP / Agnes Rachel Lau Ling Hui</td>
+    <td class="tg-fwnj">2.8</td>
+    <td class="tg-fwnj">Overall 9th, Best in First Aid</td>
+  </tr>
+  <tr>
+    <td class="tg-fwnj">LCP / Rennie Yeoh Jiao Xi</td>
+    <td class="tg-fwnj">2.6</td>
+    <td class="tg-fwnj">Overall 9th, Best in First Aid</td>
+  </tr>
+  <tr>
+    <td class="tg-fwnj">Name</td>
+    <td class="tg-fwnj">Class</td>
+    <td class="tg-fwnj">Awards</td>
+  </tr>
+  <tr>
+    <td class="tg-fwnj">LCP / Ting Qi Jun</td>
+    <td class="tg-fwnj">2.1</td>
+    <td class="tg-fwnj">Overall 10th</td>
+  </tr>
+  <tr>
+    <td class="tg-fwnj">LCP / Foo Yan Ting, Emily</td>
+    <td class="tg-fwnj">2.3</td>
+    <td class="tg-fwnj">Overall 10th</td>
+  </tr>
+  <tr>
+    <td class="tg-fwnj">LCP / Gayathri Vijayakumar</td>
+    <td class="tg-fwnj">2.3</td>
+    <td class="tg-fwnj">Overall 10th</td>
+  </tr>
+  <tr>
+    <td class="tg-fwnj">LCP / Kayshandra Tangasamy</td>
+    <td class="tg-fwnj">2.5</td>
+    <td class="tg-fwnj">Overall 10th</td>
+  </tr>
+</tbody>
+</table>
+
+### ASEAN Regional Drawing Competition 2011
+
+![](/images/ASEAN%20Regional%20Drawing%20Competition%202011.png)
+
+### National Schools Podcast Competition 2011
+
+
+<img src="/images/National%20Schools%20Podcast%20Competition%202011.png" 
+     style="width:60%" align="left">
+
+
+<img src="/images/National%20Schools%20Podcast%20Competition%202011%202.png" 
+     style="width:80%" align="left">
