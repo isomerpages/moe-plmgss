@@ -2,6 +2,7 @@ collections:
   accolades:
     output: true
     order:
+      - Student Awards/CCA Clubs and Societies.md
       - Student Awards/CCA UYOs.md
       - Student Awards/CCA Performing Arts.md
       - Student Awards/CCA Sports.md
