@@ -1625,3 +1625,133 @@ We are proud to announce that one team comprising of Tan Jia Min (Sec 3A1), Juli
   
 
 ### United Nations Association of Singapore Model United Nations
+
+<img src="/images/UNASMUN01.jpg" 
+     style="width:25%">
+		 
+Founded in 2011, the United Nations Association of Singapore Model United Nations (UNASMUN) is a resource platform for Model UN, ASEAN, and simulation programmes in Singapore, powered by the National Youth Council. The flagship of the UNASMUN is the Preparatory Conference held annually in December. Elizabeth Lian from Sec 3A2 was awarded the Best Position Paper at UNASMUN. 
+
+  
+
+### National Schools Literature Festival – Keeping the Flame Alive
+
+![](/images/school%20literature%20festival%201.png)
+![](/images/school%20literature%20festival%202.png)
+
+The National Schools Literature Festival this year was held at the National Institute of Education on 22 August 2015. PL girls took part in 4 events of the festival and enjoyed a time of learning Literature in a fun and engaging way. Upper Secondary students formed debate teams and took part in a Set Text Debate on Joy Luck Club and an Unseen Text Debate. The team who participated in the Unseen Text Debate won in their debate. For the Lower Secondary, a group of Lower Secondary students put up a Book Parade display on The Merchant of Venice , and achieved 2 nd place in their category. Another Lower Secondary group also presented a Book Trailer on Red Sky in the Morning , which attained 3 rd position in their category. The participants also had the opportunity to attend sessions on prose, poetry and drama conducted by Singaporean experts and writers in the field, in line with the SG50 celebrations. 
+
+  
+
+****Students' Reflection:**** 
+
+“Participating in the Lit Fest was an enjoyable and enriching experience. In our preparation for the Unseen Poetry debate, my team had fun analysing the poem ad found it very intellectually stimulating. I am glad to have gotten the chance to meet many writers and listen to their writing tips. Overall, Lit Fest really enhanced my appreciation for Literature as a subject and the English Language.”  <br>
+**_– Megan Lew, 3A3_** 
+
+  
+
+“To me, the National Schools Literature Festival is more than a competition. It is a true celebration of the beauty of the English language. It was a joy to listen to many famous Singaporean writers, poets and playwrights as I got to learn things that can't be taught with the classroom walls. I feel truly blessed to have gotten such a wonderful opportunity.”  <br>
+**_– Neema Jayasinghe, 3A3_** 
+
+  
+
+### 56th National Schools Swimming Championships 2015
+
+![](/images/national%20schools%20swimming%20championships.png)
+
+From the 16 th to 22 nd April, the PL Swim Team participated in the 56 th National Schools Swimming Championships 2015 and competed against swimming strongholds, such as Singapore Sports School, Methodist Girls’ School and Raffles Girls’ School. 
+
+  
+
+We are proud to announce the following results: 
+
+- Mandy Fong (Sec 2.1): 8th place for 200m individual medley 
+
+- Lau Wei Ting (Sec 2.4): 5th place for 50m breaststroke event 
+
+- Zoey Ho (Sec 3A1): Bronze medal for 50m and 100m butterfly events 
+
+- Naomi Wong (Sec 3A4): 5th place for 200m breaststroke event 
+
+- Both our B and C Divisions clinched 7th position for the 4x50m freestyle and 4x50m medley relays 
+
+  
+
+### Singapore Secondary School Debating Championships 2015
+
+<img src="/images/apr2015_debate01.jpg" 
+     style="width:60%">
+		 
+From February to April 2015, our PL Debate team competed in the Singapore Secondary School Debating Championships 2015. The team was compromised of Amanda Chia (Sec 4A1), Hannah Quek (Sec 3A1), Megan Lew (Sec 3A3), Rianne Lim (Sec 3A4), and Elisabeth Lian, (Sec 3A2). 
+
+  
+
+In the preliminary rounds, the students worked hard and debated passionately, defeating Anglo-Chinese School (Independent) as well as Cedar Girls' School, before advancing to PL's first ever Division 1 Quarter Finals where they narrowly lost to Hwa Chong Institution. 
+
+  
+
+Amanda Chia was also ranked 19th best speaker out of the 80 speakers in Division 1. 
+
+  
+
+We are proud of our debaters. To God be the glory! 
+
+  
+
+****Student's Reflections:**** 
+
+"My experience in this national tournament was definitely an unforgettable one. It was not just the end result of making it to quarter finals and making PL history, but also the process of getting there. Although training was intense and exhausting, I thoroughly enjoyed working with my teammates, discussing rebuttals every second that we got to spend with each other, getting to know each others' strengths and weaknesses. I enjoyed the thrilling experiences of going up against such brilliant opponents and brainstorming the cases in great details. I thank God for our teachers and coach for helping us through such an amazing and enriching experience. I would do it again in a heartbeat, and it is truly a blessing to see our hard work, determination, perseverance and teamwork pay off."  <br>
+**_from Elisabeth Lian, 3A2_** 
+
+  
+
+### 67th National School Individuals Chess Championship
+
+![](/images/individual%20chess%20championship.png)
+
+On 17 and 18 March 2015, the PL Chess Club participated in the annual 67 th National Schools Individuals Chess Championships. Our girls fought hard and managed to clinch several awards as follows: 
+
+  
+
+### C Division Girls category
+
+Teng Shi Ying Rebecca, Sec 2.5 – Zonal 2 nd 
+
+Chong Ning Shiuan, Audrey, Sec 2.3 – Zonal 3 rd 
+
+Koh Poh Li, Sec 2.5 – Zonal Merit 
+
+  
+
+### B Division Girls category
+
+Tang Yan Jun, Antoinette, Sec 3A1, Zonal Merit 
+
+Mazel Ong, Sec 4B2, Zonal Merit 
+
+Chiang Chyi, Shea, Sec 4B2, Zonal Merit 
+
+Gayathri Elangovan, Sec 3A1, Zonal 3 rd 
+
+Tan Peisi, Sec 4A3, Zonal 2 nd and National Merit (Top 20) 
+
+  
+
+Anastasia Patricks, Sec 4A1, Champion in the Zonal and National Girls in the B Division Girls category. She also took home a Challenger’s Trophy. 
+
+  
+
+****Students' Reflections:**** 
+
+“I felt privileged to be able to take part in this competition and this would be my final opportunity before I stepped down. To me, what matters most is not about winning or losing, but the experience of being able to play against different opponents from other schools. In addition, we were able to forge new friendships with our opponents. It was a really great experience and I've enjoyed the competition.” <br>
+**_from Jessie Koh, Sec 4A2_** 
+
+  
+
+“It was a privilege to take part in the chess competition. It was a meaningful event for me as I have learnt a lot of new skills from my opponents. I have also learnt what sportsmanship is. Despite losing several rounds, I have learnt where my weaknesses are and how to improve on my skills.” <br>
+**_from Teng Shi Ying Rebecca, Sec 2.5_** 
+
+  
+
+### Innovation, Design & Engineering (IDE) Challenge 2015
+
+![](/images/IDE%202015.png)
