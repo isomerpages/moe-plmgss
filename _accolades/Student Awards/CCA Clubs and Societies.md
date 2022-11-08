@@ -4,3 +4,4 @@ permalink: /accolades/student-awards/cca-clubs-and-societies/
 description: ""
 third_nav_title: Student Awards
 ---
+![](/images/chess%20club.png)
