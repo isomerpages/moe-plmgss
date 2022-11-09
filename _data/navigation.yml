@@ -1,7 +1,5 @@
 logo: /images/isomer-logo.svg
 links:
-  - title: About Us
-    collection: about-us
   - title: Instructional Programme
     collection: instructional-programmes
   - title: Co-Curricular Programmes
@@ -12,3 +10,14 @@ links:
     collection: accolades
   - title: Useful Links
     collection: useful-links
+  - title: About Us
+    url: /about-us/our-principal/
+    sublinks:
+      - title: Our Principal
+        url: /about-us/our-principal/
+      - title: Our School
+        url: /about-us/our-school/our-heritage/
+      - title: Our Staff
+        url: /about-us/Our-Staff/
+      - title: Year and Monthly Themes
+        url: /about-us/year-and-monthly-themes/
