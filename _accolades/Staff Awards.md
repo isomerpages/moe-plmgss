@@ -399,4 +399,13 @@ We are proud of our staff!
 </tbody>
 </table>
 
+### Recipient of President's Award for Teachers
 
+<img src="/images/2006.png" 
+     style="width:30%">
+		 
+### Finalists for President's Award for Teachers
+
+
+<img src="/images/President's%20Award.png" 
+     style="width:60%">
