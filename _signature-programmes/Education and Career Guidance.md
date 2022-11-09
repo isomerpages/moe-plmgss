@@ -94,8 +94,7 @@ To support the school’s wide range of ECG programmes, there is a robust partne
 
 **Useful links**
 
-**My Skills Future Portal  
-**
+**My Skills Future Portal**
 
 *   [http://go.gov.sg/mysfsec](http://go.gov.sg/mysfsec)
 
@@ -105,7 +104,7 @@ To support the school’s wide range of ECG programmes, there is a robust partne
 
 **JAE / JIE N and JIE O Booklets**  
 
-*   Please _[click here](https://www.plmgss.moe.edu.sg/articles/announcements/2022-jae-jie-n-n-jie-o-information-booklet)_ to access the booklets.  
+*   Please _[click here](https://staging.d31lf6q9623hn3.amplifyapp.com/articles/announcements/2022-jae-jie-n-n-jie-o-information-booklet)_ to access the booklets.  
     
 
 **Information on Scholarships**
