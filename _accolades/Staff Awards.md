@@ -3,6 +3,7 @@ title: Staff Awards
 permalink: /accolades/staff-awards/
 description: ""
 ---
+
 ### MOE Service Excellence Award 2021
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSLc3_34VguFwed3Ej5P2O3TWFCF59dqMxn7xrXzFjCSb-aCEgDXUTCO2W7vjfHFu5AIs7VjzgNUX_a/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
@@ -231,6 +232,170 @@ We would like to extend our warmest congratulations to Ms Grace Quek Hui Ying on
     <td class="tg-ncov">ELIS</td>
     <td class="tg-ncov">Deepening individual students’ reasoning and summarising in Geography and Mathematics through teacher questioning and talk</td>
     <td class="tg-81dz"><a href="/files/2015%20-%20ERF%20-%20Deepening%20Students%20Reasoning%20Summarising.pdf"><span style="text-decoration:underline;color:#454545">2015 - ERF - Deepening Students Reasoning Summarising.pdf</span></a></td>
+  </tr>
+</tbody>
+</table>
+
+### Academy Awards for Professional Development Ceremony 2017
+
+![](/images/AAPDC2017.jpg)
+
+Heartiest Congratulations to our PL Staff - Ms Audrey Chia Sor Siang, Mdm Chan Wai Ling Joyce and Mr Ng Eng Kee for being conferred the Associate of Academy of Singapore Teachers Award. We also thank Mdm Wang Xueping for being conferred the certificate of recognition for her contribution as a member of the Teachers’ Council. Thank you for making a difference to the fraternity!  
+  
+Academy Awards for Professional Development Ceremony 2017 Awardees  
+
+*   Wang Xueping – ACADEMY AWARDS FOR PROFESSIONAL DEVELOPMENT CEREMONY 2017 (TC Member)
+*   Mr Ng Eng Kee - ACADEMY AWARDS FOR PROFESSIONAL DEVELOPMENT CEREMONY 2017 (Associate Award)
+*   Ms Audrey Chia Sor Siang - ACADEMY AWARDS FOR PROFESSIONAL DEVELOPMENT CEREMONY 2017 (Associate Award)
+*   Mdm Chan Wai Ling Joyce - ACADEMY AWARDS FOR PROFESSIONAL DEVELOPMENT CEREMONY 2017 (Associate Award)
+
+### Management and Leadership in Schools Graduation  
+
+![](/images/Tan_Tiah_Hui_MLS.jpg)
+
+Heartiest Congratulations to Mr Tan Tiah Hui for successfully completing the Management and Leadership in School (MLS) Course 2017.
+
+  
+### Long Service Award
+
+![](/images/staff_awards_poon_woon_han_longservice.jpg)
+
+### Academy Awards for Professional Development 2016 (Associate Award)
+
+![](/images/staff_awards_ng_eng_kee_pd.jpg)
+
+The school congratulates Mr Ng Eng Kee who has been conferred the Associate of Academy of Singapore Teachers Award.  The award recognises his contribution to the professional development of fellow officers and encourages him to continue to keep up with the good work.  
+
+  
+
+### Congratulations to Mdm Neeraja Sengarapillai
+
+![](/images/neera_award2016.jpg)
+
+The school congratulates Mdm Neeraja Sangarapillai, Subject Head/Humanities on her graduation from the Management and Leadership in Schools course. The diploma is awarded by the National Institute of Education, Nanyang Technological University.
+
+  
+
+  
+### Our Staff Shines!
+
+We congratulate two teachers in our school - Neeraja Vijayakumar and Wong Khai Yu for their achievements. They have worked closely with two staff from English Language Institute of Singapore (ELIS), Jonathon Adams and Gavin Lee, to complete an ELIS Research Fund supported project entitled ‘Deepening individual students’ reasoning and summarising in Geography and Mathematics through teacher questioning and talk’.
+
+  
+
+The project looks at developing effective communication in Maths and Geography classrooms.
+
+  
+
+To access the final report for the project, please click on this [link](/files/2015-erf-deepening-students-reasoning-summarising.pdf) .
+
+We are proud of our staff!
+
+### National Day Awards
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-sxkx{background-color:#FFF;color:#454545;text-align:center;vertical-align:top}
+.tg .tg-ncov{background-color:#FFF;color:#454545;text-align:center;vertical-align:middle}
+.tg .tg-2fwu{background-color:#FFF;color:#454545;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-2fwu">Year of Award</th>
+    <th class="tg-2fwu">Type of Award</th>
+    <th class="tg-sxkx"></th>
+    <th class="tg-sxkx"></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-ncov">2019<br></td>
+    <td class="tg-sxkx"><img src="/images/lwt_nda2019.jpg" alt="lwt_nda2019.jpg" width="150" height="180"><br>Mr Lee Wei Te<br> The Commendation Award<br></td>
+    <td class="tg-ncov"> </td>
+    <td class="tg-ncov"> </td>
+  </tr>
+  <tr>
+    <td class="tg-ncov">2018<br></td>
+    <td class="tg-sxkx"><img src="/images/esxa_2015_mrsleo.jpg" alt="esxa_2015_mrsleo.jpg" width="150" height="180"><br>Mrs Leo Sim Ping<br>The Efficiency Medal<br></td>
+    <td class="tg-ncov"> </td>
+    <td class="tg-ncov"> </td>
+  </tr>
+  <tr>
+    <td class="tg-2fwu">2017<br></td>
+    <td class="tg-sxkx"><img src="/images/prof_daniel_fung.jpg" alt="prof_daniel_fung.jpg" width="150" height="200"><br>Assoc. Prof Daniel Fung<br>Member of the PLMGS Board of Management<br>Public Administration Medal (Bronze)<br></td>
+    <td class="tg-sxkx"><img src="/images/gan_lay_leng_2017.png" alt="gan_lay_leng_2017.png" width="150" height="200"><br>Ms Gan Lay Leng<br>Year Head<br>Long Service award<br><br><br></td>
+    <td class="tg-ncov"> </td>
+  </tr>
+  <tr>
+    <td class="tg-2fwu" rowspan="2">2016<br></td>
+    <td class="tg-sxkx"><img src="/images/ndp2016_mr_tan.jpg" alt="Mr Alfred Tan" width="146" height="150"><br>Mr Tan Alfred<br>Public Administration Medal (Bronze)<br></td>
+    <td class="tg-sxkx"><img src="/images/ndp2016_mrs_goh.jpg" alt="Mrs Goh Hui Cheng" width="150" height="150"><br><br>Mrs Goh Hui Cheng<br>Commendation Award<br><br></td>
+    <td class="tg-sxkx"><img src="/images/ndp2016_ms_vivien.jpg" alt="Ms Chee Vivien" width="150" height="150"><br>Ms Chee Vivien<br>Long Service Award<br><br></td>
+  </tr>
+  <tr>
+    <td class="tg-sxkx"><img src="/images/ndp2016_mrs_koh.jpg" alt="Mrs Koh Ee Lin" width="146" height="150"><br>Mrs Koh Ee Lin<br>Long Service Award<br></td>
+    <td class="tg-sxkx"><img src="/images/ndp2016_mrs_nair.jpg" alt="Mrs Ambika Nair" width="150" height="150"><br>Mrs Ambika Nair<br><br>Long Service Award<br></td>
+    <td class="tg-sxkx"><img src="/images/ndp2016_mdm_ng.jpg" alt="Mdm Ng Hui Hua May" width="150" height="150"><br>Mdm Ng Mui Hua May<br>Long Service Award<br></td>
+  </tr>
+  <tr>
+    <td class="tg-2fwu">2015</td>
+    <td class="tg-2fwu"><img src="/images/wong_yuting.jpg" alt="Mrs Wong Yuting" width="146" height="180"><br>Mrs Wong Yuting<br>Long Service Award<br></td>
+    <td class="tg-sxkx"></td>
+    <td class="tg-2fwu"><br></td>
+  </tr>
+  <tr>
+    <td class="tg-2fwu">2014</td>
+    <td class="tg-2fwu"><img src="/images/hum_sin_hoon.jpg" alt="Assoc. Prof. Hum Sin Hoon" width="146" height="180"><br>Assoc. Prof.<br>Hum Sin Hoon<br>Public Administration Medal (Bronze)</td>
+    <td class="tg-2fwu"><img src="/images/mrs_chee.jpg" alt="Mrs Esther Chee" width="150" height="180"><br>Mrs Esther Chee<br>Commendation Award<br><br><br></td>
+    <td class="tg-2fwu"><img src="/images/tan_soh_hua.jpg" alt="Mdm Tan Soh Hua" width="150" height="180">#Mdm Tan Soh Hua<br>Long Service Award<br><br><br></td>
+  </tr>
+  <tr>
+    <td class="tg-2fwu">2013</td>
+    <td class="tg-2fwu"><img src="https://www.plmgss.moe.edu.sg/qql/slot/u173/Accolades/Staff%20Awards/j_christopher.jpg" alt="Mrs Christopher Jesumathy" width="146" height="180"><br>Mrs Christopher<br>Jesumathy<br>Long Service Award</td>
+    <td class="tg-sxkx"></td>
+    <td class="tg-sxkx"></td>
+  </tr>
+  <tr>
+    <td class="tg-2fwu">2012</td>
+    <td class="tg-2fwu"><img src="https://www.plmgss.moe.edu.sg/qql/slot/u173/Accolades/Staff%20Awards/selina_lum.jpg" alt="Mrs Selina Lum"><br>Mrs Selina Lum<br>Commendation Award</td>
+    <td class="tg-2fwu"><img src="https://www.plmgss.moe.edu.sg/qql/slot/u173/Accolades/Staff%20Awards/diana_ho.jpg" alt="Mrs Diana Ho" width="150" height="180">#Mrs Diana Ho<br>Long Service Award</td>
+    <td class="tg-sxkx"></td>
+  </tr>
+  <tr>
+    <td class="tg-2fwu">2011</td>
+    <td class="tg-2fwu"><img src="https://www.plmgss.moe.edu.sg/qql/slot/u173/Accolades/Staff%20Awards/vivien.jpg" alt="Ms Vivien Chee" width="146" height="180"><br>Ms Vivien Chee<br>Commendation Award</td>
+    <td class="tg-2fwu"><img src="https://www.plmgss.moe.edu.sg/qql/slot/u173/Accolades/Staff%20Awards/ong_en_chee.jpg" alt="Mrs Ong En Chee" width="150" height="180"><br><br>Mrs Ong En Chee<br>Long Service Award</td>
+    <td class="tg-2fwu"><img src="https://www.plmgss.moe.edu.sg/qql/slot/u173/Accolades/Staff%20Awards/valerie_chew.jpg" alt="Ms Valerie Chew" width="150" height="180"><br><br>Ms Valerie Chew<br>Long Service Award</td>
+  </tr>
+  <tr>
+    <td class="tg-2fwu">2010</td>
+    <td class="tg-2fwu"><img src="https://www.plmgss.moe.edu.sg/qql/slot/u173/Accolades/Staff%20Awards/emily_jacob.jpg" alt="Mrs Emily Jacob " width="146" height="180"><br>Mrs Emily Jacob<br>Commendation Award</td>
+    <td class="tg-sxkx"></td>
+    <td class="tg-sxkx"></td>
+  </tr>
+  <tr>
+    <td class="tg-2fwu">2006</td>
+    <td class="tg-sxkx"><img src="https://www.plmgss.moe.edu.sg/qql/slot/u173/Accolades/Staff%20Awards/Picture12.jpg" alt="Ms Mabel Goh"><br>Ms Mabel Goh<br>MOE Efficiency Medal</td>
+    <td class="tg-sxkx"></td>
+    <td class="tg-sxkx"></td>
+  </tr>
+  <tr>
+    <td class="tg-2fwu">2005</td>
+    <td class="tg-2fwu"><img src="https://www.plmgss.moe.edu.sg/qql/slot/u173/Accolades/Staff%20Awards/Picture11.jpg" alt="Mrs Lee Siew Choo"><br>Mrs Lee Siew Choo<br>Public Administration Medal (Silver)</td>
+    <td class="tg-sxkx"></td>
+    <td class="tg-sxkx"></td>
+  </tr>
+  <tr>
+    <td class="tg-2fwu">2004</td>
+    <td class="tg-sxkx"><img src="https://www.plmgss.moe.edu.sg/qql/slot/u173/Accolades/Staff%20Awards/Picture10.jpg" alt="Mdm Raspal Dhillon"><br>News article on<br>Mdm Raspal Dhillon<br>Commendation Medal</td>
+    <td class="tg-sxkx"></td>
+    <td class="tg-0lax"></td>
   </tr>
 </tbody>
 </table>
