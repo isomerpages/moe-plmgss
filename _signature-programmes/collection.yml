@@ -2,14 +2,6 @@ collections:
   signature-programmes:
     output: true
     order:
-      - Project Rose.md
-      - Faithful in Service.md
-      - Global Classroom Programme.md
-      - Education and Career Guidance.md
-      - Student Leadership/.keep
-      - Student Leadership/Student Leadership.md
-      - Student Leadership/Leadership Groups in PL.md
-      - Student Leadership/Go Light Your World.md
       - CCP Overview/.keep
       - CCP Overview/CCP Overview.md
       - CCP Overview/PL CARE.md
@@ -20,3 +12,11 @@ collections:
       - CCP Overview/PL AESTHETICS.md
       - CCP Overview/PL TRANSFORM.md
       - CCP Overview/PL HOME.md
+      - Student Leadership/.keep
+      - Student Leadership/Student Leadership.md
+      - Student Leadership/Leadership Groups in PL.md
+      - Student Leadership/Go Light Your World.md
+      - Education and Career Guidance.md
+      - Global Classroom Programme.md
+      - Faithful in Service.md
+      - Project Rose.md
