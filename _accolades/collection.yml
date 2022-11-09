@@ -2,6 +2,7 @@ collections:
   accolades:
     output: true
     order:
+      - Organisational Achievements/School Excellence Award (SEA).md
       - Organisational Achievements/.keep
       - Organisational Achievements.md
       - Staff Awards.md
