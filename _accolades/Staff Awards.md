@@ -409,3 +409,38 @@ We are proud of our staff!
 
 <img src="/images/President's%20Award.png" 
      style="width:60%">
+		 
+### IPS Crescendas Award (Secondary School)
+
+<img src="/images/ndp2016_mr_tan.jpg" 
+     style="width:30%">
+<center>Mr Alfred Tan</center>
+
+### Excellent Service Award
+
+![](/images/ESA1.png)
+![](/images/ESA2.png)
+![](/images/ESA3.png)
+![](/images/ESA4.png)
+
+### MOE Service Excellence Award
+
+**2013**
+
+<img src="/images/Ong_Clare.jpg" 
+     style="width:40%">
+<center><b>Ms Clare Ong</b></center>
+
+**2018**
+
+<img src="/images/Grace.jpg" 
+     style="width:40%">
+<center><b>Ms Grace Quek</b></center>
+
+### National Outstanding Chinese Lesson Award
+
+![](/images/outstanding%20chinese%20award.png)
+
+### Inspiring Chinese Teachers' Award
+
+![](/images/inspiring%20chinese%20teachers%20award.png)
