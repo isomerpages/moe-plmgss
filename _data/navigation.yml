@@ -1,15 +1,5 @@
 logo: /images/isomer-logo.svg
 links:
-  - title: Instructional Programme
-    collection: instructional-programmes
-  - title: Co-Curricular Programmes
-    collection: co-curricular-programmes
-  - title: Signature Programmes
-    collection: signature-programmes
-  - title: Accolades
-    collection: accolades
-  - title: Useful Links
-    collection: useful-links
   - title: About Us
     url: /about-us/our-principal/
     sublinks:
@@ -35,3 +25,13 @@ links:
         url: /about-us/alumni/
       - title: School Admission
         url: /about-us/school-admission/local-students-secondary-one-s1-posting/
+  - title: Instructional Programme
+    collection: instructional-programmes
+  - title: Co-Curricular Programmes
+    collection: co-curricular-programmes
+  - title: Signature Programmes
+    collection: signature-programmes
+  - title: Accolades
+    collection: accolades
+  - title: Useful Links
+    collection: useful-links
