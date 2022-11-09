@@ -2,6 +2,7 @@ collections:
   signature-programmes:
     output: true
     order:
+      - Global Classroom Programme.md
       - Education and Career Guidance.md
       - Student Leadership/.keep
       - Student Leadership/Student Leadership.md
