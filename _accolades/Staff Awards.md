@@ -3,7 +3,6 @@ title: Staff Awards
 permalink: /accolades/staff-awards/
 description: ""
 ---
-
 ### MOE Service Excellence Award 2021
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSLc3_34VguFwed3Ej5P2O3TWFCF59dqMxn7xrXzFjCSb-aCEgDXUTCO2W7vjfHFu5AIs7VjzgNUX_a/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
@@ -26,7 +25,7 @@ Congratulations to Mrs Joyce Chong, Senior Teacher, PL(Sec) for being selected a
 Please join our school in congratulating the following members of staff who have been honoured in 2021 National Day Awards.
 
 ### The Methodist Long Service Award Service 2021
-
+![](/images/j_christopher.jpg)
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQrGdrIAXGYStBcreouw_8vGkGdyxcj8JrYyC-vsKyYzr6OkaASJBDb899LeOppydCf0TOIZVt3atP3/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 
 Heartiest Congratulations to the following members of staff who are honoured in this year’s Methodist Schools’ Long Service Award Presentation 2021.
@@ -357,46 +356,47 @@ We are proud of our staff!
   </tr>
   <tr>
     <td class="tg-2fwu">2013</td>
-    <td class="tg-2fwu"><img src="https://www.plmgss.moe.edu.sg/qql/slot/u173/Accolades/Staff%20Awards/j_christopher.jpg" alt="Mrs Christopher Jesumathy" width="146" height="180"><br>Mrs Christopher<br>Jesumathy<br>Long Service Award</td>
+    <td class="tg-2fwu"><img src="/images/j_christopher.jpg" alt="Mrs Christopher Jesumathy" width="146" height="180"><br>Mrs Christopher<br>Jesumathy<br>Long Service Award</td>
     <td class="tg-sxkx"></td>
     <td class="tg-sxkx"></td>
   </tr>
   <tr>
     <td class="tg-2fwu">2012</td>
-    <td class="tg-2fwu"><img src="https://www.plmgss.moe.edu.sg/qql/slot/u173/Accolades/Staff%20Awards/selina_lum.jpg" alt="Mrs Selina Lum"><br>Mrs Selina Lum<br>Commendation Award</td>
-    <td class="tg-2fwu"><img src="https://www.plmgss.moe.edu.sg/qql/slot/u173/Accolades/Staff%20Awards/diana_ho.jpg" alt="Mrs Diana Ho" width="150" height="180">#Mrs Diana Ho<br>Long Service Award</td>
+    <td class="tg-2fwu"><img src="/images/selina_lum.jpg" alt="Mrs Selina Lum"><br>Mrs Selina Lum<br>Commendation Award</td>
+    <td class="tg-2fwu"><img src="/images/diana_ho.jpg" alt="Mrs Diana Ho" width="150" height="180">#Mrs Diana Ho<br>Long Service Award</td>
     <td class="tg-sxkx"></td>
   </tr>
   <tr>
     <td class="tg-2fwu">2011</td>
-    <td class="tg-2fwu"><img src="https://www.plmgss.moe.edu.sg/qql/slot/u173/Accolades/Staff%20Awards/vivien.jpg" alt="Ms Vivien Chee" width="146" height="180"><br>Ms Vivien Chee<br>Commendation Award</td>
-    <td class="tg-2fwu"><img src="https://www.plmgss.moe.edu.sg/qql/slot/u173/Accolades/Staff%20Awards/ong_en_chee.jpg" alt="Mrs Ong En Chee" width="150" height="180"><br><br>Mrs Ong En Chee<br>Long Service Award</td>
-    <td class="tg-2fwu"><img src="https://www.plmgss.moe.edu.sg/qql/slot/u173/Accolades/Staff%20Awards/valerie_chew.jpg" alt="Ms Valerie Chew" width="150" height="180"><br><br>Ms Valerie Chew<br>Long Service Award</td>
+    <td class="tg-2fwu"><img src="/images/vivien.jpg" alt="Ms Vivien Chee" width="146" height="180"><br>Ms Vivien Chee<br>Commendation Award</td>
+    <td class="tg-2fwu"><img src="/images/ong_en_chee.jpg" alt="Mrs Ong En Chee" width="150" height="180"><br><br>Mrs Ong En Chee<br>Long Service Award</td>
+    <td class="tg-2fwu"><img src="/images/valerie_chew.jpg" alt="Ms Valerie Chew" width="150" height="180"><br><br>Ms Valerie Chew<br>Long Service Award</td>
   </tr>
   <tr>
     <td class="tg-2fwu">2010</td>
-    <td class="tg-2fwu"><img src="https://www.plmgss.moe.edu.sg/qql/slot/u173/Accolades/Staff%20Awards/emily_jacob.jpg" alt="Mrs Emily Jacob " width="146" height="180"><br>Mrs Emily Jacob<br>Commendation Award</td>
+    <td class="tg-2fwu"><img src="/images/emily_jacob.jpg" alt="Mrs Emily Jacob " width="146" height="180"><br>Mrs Emily Jacob<br>Commendation Award</td>
     <td class="tg-sxkx"></td>
     <td class="tg-sxkx"></td>
   </tr>
   <tr>
     <td class="tg-2fwu">2006</td>
-    <td class="tg-sxkx"><img src="https://www.plmgss.moe.edu.sg/qql/slot/u173/Accolades/Staff%20Awards/Picture12.jpg" alt="Ms Mabel Goh"><br>Ms Mabel Goh<br>MOE Efficiency Medal</td>
+    <td class="tg-sxkx"><img src="/images/Picture12.jpg" alt="Ms Mabel Goh"><br>Ms Mabel Goh<br>MOE Efficiency Medal</td>
     <td class="tg-sxkx"></td>
     <td class="tg-sxkx"></td>
   </tr>
   <tr>
     <td class="tg-2fwu">2005</td>
-    <td class="tg-2fwu"><img src="https://www.plmgss.moe.edu.sg/qql/slot/u173/Accolades/Staff%20Awards/Picture11.jpg" alt="Mrs Lee Siew Choo"><br>Mrs Lee Siew Choo<br>Public Administration Medal (Silver)</td>
+    <td class="tg-2fwu"><img src="/images/Picture11.jpg" alt="Mrs Lee Siew Choo"><br>Mrs Lee Siew Choo<br>Public Administration Medal (Silver)</td>
     <td class="tg-sxkx"></td>
     <td class="tg-sxkx"></td>
   </tr>
   <tr>
     <td class="tg-2fwu">2004</td>
-    <td class="tg-sxkx"><img src="https://www.plmgss.moe.edu.sg/qql/slot/u173/Accolades/Staff%20Awards/Picture10.jpg" alt="Mdm Raspal Dhillon"><br>News article on<br>Mdm Raspal Dhillon<br>Commendation Medal</td>
+    <td class="tg-sxkx"><img src="/images/Picture10.jpg" alt="Mdm Raspal Dhillon"><br>News article on<br>Mdm Raspal Dhillon<br>Commendation Medal</td>
     <td class="tg-sxkx"></td>
     <td class="tg-0lax"></td>
   </tr>
 </tbody>
 </table>
+
 
