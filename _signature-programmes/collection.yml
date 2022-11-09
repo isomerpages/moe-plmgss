@@ -2,10 +2,10 @@ collections:
   signature-programmes:
     output: true
     order:
-      - Student Leadership/Go Light Your World.md
-      - Student Leadership/Leadership Groups in PL.md
-      - Student Leadership/Student Leadership.md
       - Student Leadership/.keep
+      - Student Leadership/Student Leadership.md
+      - Student Leadership/Leadership Groups in PL.md
+      - Student Leadership/Go Light Your World.md
       - CCP Overview/.keep
       - CCP Overview/CCP Overview.md
       - CCP Overview/PL CARE.md
