@@ -1,8 +1,14 @@
 logo: /images/isomer-logo.svg
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Menu Title
+  - title: About Us
+    collection: about-us
+  - title: Instructional Programme
+    collection: instructional-programmes
+  - title: Co-Curricular Programmes
+    collection: co-curricular-programmes
+  - title: Signature Programmes
+    collection: signature-programmes
+  - title: Accolades
     collection: accolades
+  - title: Useful Links
+    collection: useful-links
