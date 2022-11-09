@@ -345,3 +345,96 @@ MOE has removed the Masterplan of Awards (MOA) from 2014. In view of this, the S
 </thead>
 </table>
 
+**Sustained Achievement Awards**  
+
+A Sustained Achievement Award is given to a school who consistently performs well.  
+From 2014, MOE has stopped awarding Sustained Achievement Award and the Academic Value-Added awards to schools.
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-sxkx{background-color:#FFF;color:#454545;text-align:center;vertical-align:top}
+.tg .tg-2fwu{background-color:#FFF;color:#454545;font-weight:bold;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-2fwu" rowspan="2">Awards</th>
+    <th class="tg-2fwu" colspan="7">Award Year</th>
+  </tr>
+  <tr>
+    <th class="tg-2fwu">2007</th>
+    <th class="tg-2fwu">2008</th>
+    <th class="tg-2fwu">2009</th>
+    <th class="tg-2fwu">2010</th>
+    <th class="tg-2fwu">2011</th>
+    <th class="tg-2fwu">2012</th>
+    <th class="tg-2fwu">2013</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-sxkx">Sustained Achievement Award (Academic Value-Added) (Express)</td>
+    <td class="tg-sxkx">8th<br>  Award</td>
+    <td class="tg-sxkx">9th<br>  Award</td>
+    <td class="tg-sxkx">10th<br>  Award</td>
+    <td class="tg-sxkx">11th<br>  Award</td>
+    <td class="tg-sxkx">12th<br>  Award</td>
+    <td class="tg-sxkx">13th<br>  Award</td>
+    <td class="tg-sxkx">-</td>
+  </tr>
+  <tr>
+    <td class="tg-sxkx">Sustained Achievement Award (Academic Value-Added) (Normal)</td>
+    <td class="tg-2fwu">-</td>
+    <td class="tg-2fwu">-</td>
+    <td class="tg-2fwu">-</td>
+    <td class="tg-sxkx">8th<br>  Award</td>
+    <td class="tg-sxkx">9th<br>  Award</td>
+    <td class="tg-sxkx">-</td>
+    <td class="tg-sxkx">-</td>
+  </tr>
+  <tr>
+    <td class="tg-sxkx">Sustained Achievement Award (Uniformed Groups)</td>
+    <td class="tg-sxkx">-</td>
+    <td class="tg-sxkx">-</td>
+    <td class="tg-sxkx">-</td>
+    <td class="tg-sxkx">Awarded</td>
+    <td class="tg-sxkx">Awarded</td>
+    <td class="tg-sxkx">Awarded</td>
+    <td class="tg-sxkx">Awarded</td>
+  </tr>
+  <tr>
+    <td class="tg-sxkx">Sustained Achievement Award (Cherish)</td>
+    <td class="tg-sxkx">-</td>
+    <td class="tg-sxkx">-</td>
+    <td class="tg-sxkx">-</td>
+    <td class="tg-sxkx">Platinum</td>
+    <td class="tg-sxkx">Platinum<br>   </td>
+    <td class="tg-sxkx">2nd award</td>
+    <td class="tg-sxkx">-</td>
+  </tr>
+  <tr>
+    <td class="tg-sxkx">Sustained Achievement Award   (Sports)</td>
+    <td class="tg-sxkx">Awarded</td>
+    <td class="tg-sxkx">Awarded</td>
+    <td class="tg-sxkx">Awarded</td>
+    <td class="tg-sxkx">Awarded</td>
+    <td class="tg-sxkx">Awarded</td>
+    <td class="tg-sxkx">Awarded</td>
+    <td class="tg-sxkx">Awarded</td>
+  </tr>
+  <tr>
+    <td class="tg-sxkx">Sustained Achievement Award (Aesthetics)</td>
+    <td class="tg-sxkx">-</td>
+    <td class="tg-sxkx">Awarded</td>
+    <td class="tg-sxkx">Awarded</td>
+    <td class="tg-sxkx">Awarded</td>
+    <td class="tg-sxkx">Awarded</td>
+    <td class="tg-sxkx">Awarded</td>
+    <td class="tg-sxkx">-</td>
+  </tr>
+</tbody>
+</table>
