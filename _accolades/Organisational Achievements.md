@@ -281,3 +281,67 @@ MOE has removed the Masterplan of Awards (MOA) from 2014. In view of this, the S
   </tr>
 </tbody>
 </table>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-sxkx{background-color:#FFF;color:#454545;text-align:center;vertical-align:top}
+.tg .tg-baqh{text-align:center;vertical-align:top}
+.tg .tg-ncov{background-color:#FFF;color:#454545;text-align:center;vertical-align:middle}
+.tg .tg-2fwu{background-color:#FFF;color:#454545;font-weight:bold;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <td class="tg-baqh" rowspan="4"><span style="font-weight:bold">MOE BEST PRACTICE AWARDS</span><br><br>The Best Practice Award (BPA) recognises a school for its effective practices and systems that lead to desirable education outcomes in the academic and non-academic domains.</td>
+    <td class="tg-sxkx"><img src="/images/logo3.png" alt="SCHOOL DISTINCTION AWARD" width="143" height="113"></td>
+    <td class="tg-2fwu">SCHOOL DISTINCTION AWARD<br>The School Distinction Award gives recognition to schools with well-integrated and sustainable school processes and practices that have provided useful educational and developmental outcomes for the students.</td>
+    <td class="tg-sxkx">2007</td>
+  </tr>
+  <tr>
+    <td class="tg-sxkx"><img src="/images/logo4.png" alt="BEST PRACTICE AWARD (TEACHING AND LEARNING)" width="85" height="143"></td>
+    <td class="tg-2fwu">BEST PRACTICE AWARD (TEACHING AND LEARNING)</td>
+    <td class="tg-sxkx">2007, 2012</td>
+  </tr>
+  <tr>
+    <td class="tg-sxkx"><img src="/images/logo5.png" alt="BEST PRACTICE AWARD (STAFF WELL-BEING)" width="112" height="141"></td>
+    <td class="tg-2fwu">BEST PRACTICE AWARD (STAFF WELL-BEING)</td>
+    <td class="tg-sxkx">2003, 2007, 2012</td>
+  </tr>
+  <tr>
+    <td class="tg-ncov"> <img src="/images/logo6.png" alt="BEST PRACTICE AWARD (STUDENT ALL-ROUND DEVELOPMENT)" width="137" height="137"></td>
+    <td class="tg-2fwu">BEST PRACTICE AWARD (STUDENT ALL-ROUND DEVELOPMENT)</td>
+    <td class="tg-sxkx">2012</td>
+  </tr>
+</thead>
+</table>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-sxkx{background-color:#FFF;color:#454545;text-align:center;vertical-align:top}
+.tg .tg-ncov{background-color:#FFF;color:#454545;text-align:center;vertical-align:middle}
+.tg .tg-2fwu{background-color:#FFF;color:#454545;font-weight:bold;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <td class="tg-2fwu" rowspan="2">SPRING SINGAPORE AWARDS</td>
+    <td class="tg-ncov"> <img src="/images/logo7.png" alt="PEOPLE DEVELOPER STANDARD (PDS)" width="113" height="80"></td>
+    <td class="tg-2fwu">PEOPLE DEVELOPER STANDARD (PDS)<br>The People Developer Standard is a mark conferred by SPRING Singapore, which gives recognition to organisations that invest in their people and have a comprehensive system to manage the development of their people.</td>
+    <td class="tg-sxkx">2012</td>
+  </tr>
+  <tr>
+    <td class="tg-sxkx"><img src="/images/logo8.png" alt="SINGAPORE QUALITY CLASS" width="113" height="120"></td>
+    <td class="tg-2fwu">SINGAPORE QUALITY CLASS<br>The Singapore Quality Class (SQC), launched by SPRING Singapore in 1997, is the certification for the overall organisational excellence.</td>
+    <td class="tg-sxkx">2012</td>
+  </tr>
+</thead>
+</table>
+
