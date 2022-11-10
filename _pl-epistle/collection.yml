@@ -2,6 +2,7 @@ collections:
   pl-epistle:
     output: true
     order:
+      - PL Parcel.md
       - 2019/.keep
       - 2019/November 2019.md
       - 2019/October 2019.md
