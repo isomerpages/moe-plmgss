@@ -231,3 +231,40 @@ Our alumna, Ms Eliza Ng (Class of 2005) was featured in the NIE News (March 2015
 
 
 **A bus chaser and winner**
+
+![](/images/natalie_soh_TNPsm.jpeg)
+
+<small>(Source: The New Paper © Singapore Press Holdings Limited, Reproduced with permission)</small>
+
+  
+
+On 22 May 2014, Natalie Soh (Sec 4A1) was featured in the New Paper. In the newspaper report, Natalie shared how she set realistic targets and raised them subsequently to reach new heights in her journey as a long distance runner.
+
+  
+
+### An act of appreciation from Keely New who demonstrates the PL G.R.A.C.E. values
+
+![](/images/keely_wanbao_sm.jpeg)
+
+<small>(Source: 联合晚报 © Singapore Press Holdings Limited. Reproduced with permission)</small>
+  
+
+On 4 March 2014, the Lianhe Wanbao carried a report on an anonymous Nanyang Junior College (NYJC) student who gave teachers and students a treat at the canteen drinks stall accompanied by 32 handwritten notes in November 2013. She was an alumni PL-Lite, Miss Keely New (Sec 4A1, Class of 2011). The report noted comments from Principal ofNYJC who said he had wanted to reveal the girl’s name when the A Levels results were distributed yesterday. However, he kept it as a secret to surprise his staff and students.  The Principal of NYJC also said he would share this through the school’s official Facebook page as there were still many who were unaware of the girl’s identity. Keely was well-liked by both teachers and her peers in school and was awarded the Edusave Character Award in August 2013.
+
+  
+
+### Nail problems without hammering people
+
+![](/images/lim_siong_guan.jpeg)
+
+_Source: The Straits Times © Singapore Press Holdings Limited. Reproduced with permission)_
+
+  
+
+Mr Lim Siong Guan studied in PL when we had boys attending the school in the afternoon. In his book, he mentioned his mother, Mrs Mary Lim, who was a teacher in our school. His two sisters, Doreen and Violet, studied in PL too and Violet later also taught in PL.
+
+Please click [here](/files/lim_siong_guan_article2014.pdf) for the newspaper article about Mr Lim and his new book.
+
+### 2013
+
+**Undaunted by disability**
