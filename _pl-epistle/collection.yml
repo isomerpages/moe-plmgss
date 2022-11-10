@@ -2,6 +2,7 @@ collections:
   pl-epistle:
     output: true
     order:
+      - PL100 Celebrations/PL Musical.md
       - PL100 Celebrations/PL100 Celebrations.md
       - PL100 Celebrations/.keep
       - PL Parcel.md
