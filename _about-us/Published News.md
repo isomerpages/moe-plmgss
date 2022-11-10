@@ -308,3 +308,134 @@ In 2013, she was awarded the Public Service Medal (PBM) in the National Day Awar
 ### Alumni PL-Lite wins Photography Award
 
 The Straits Times recently featured a winner in the 4th annual Icon de Martell Cordon Bleu 2013. This photography award recognises Singapore’s outstanding photographers based on a body of work. We are proud of Sarah Choo Jing (Sec 4B2, Class of 2006) for winning the top prize.
+
+![](/images/Alumni%20PL-Lite%20wins%20Photography%20Award.png)
+
+<small>(Source: The Straits Times © Singapore Press Holdings Limited. Reproduced with permission)</small>
+
+### SSO on Campus
+
+![](/images/sso_cover2013.jpeg)
+
+Rhapssody is a quarterly Community Outreach Newsletter published by the Singapore Symphony Orchestra. In the Sep-Dec 2013 issue, there was article on SSO on Campus which featured PLMGS (Sec). Below is an excerpt of the article.
+
+Each school was actively involved in every stage of the process, from preparations to publicity to execution of the concert proper, and distributing concert flyers both internally and externally, promoting the concert during school assemblies and deploying student ushers to assist the SSO with audience management. They see this partnership as beneficial to both the community and the school. 
+
+As Mr Ng Eng Kee, Aesthetics Subject Head of PLMGS (S) shares: "One of the school's strategic thrusts is Partnership, and the collaboration between the SSO and PLMGS (S) is a recognition of our school's effort in arts education. The outreach concert makes the school more accessible to the community and helps to raise public awareness of the school and its strength and focus on the arts. It provides an opportunity for the community to witness and appreciate high quality music making in the heartland of Lorong AhSoo and close to their home. 
+
+The concert might be the first time some of the pupils are exposed to classical symphonic music. For those pupils with some exposure to orchestral concerts, the campus performances provide an added avenue through which the professional musicians inspire them."
+
+Please click [here](/files/sso_rhapssody_sep_2013.pdf) for the full article.
+
+  
+
+**Alumni PL-Lites living out the school values**
+
+Recently, the local newspapers featured our alumni PL-Lites in their coverage of news. They are shining examples of women whose actions in life reflect the spirit of G.R.A.C.E. (our school values).
+
+  
+
+**Uniquely yours - from $79**
+
+Seetal Kaur Randhawa (Sec 4A1, Class of 2004) set up 'The Shoemaker's Elf' to plug what she saw as a gap in the market. The article describes how she overcame the challenges in setting up and operating the business.
+
+![](/images/st_uniquely79_seetal_kuar_link.jpeg)
+
+<small>(Source: Today © Singapore Press Holdings Limited, Reproduced with permission)</small>
+
+**Bonding across the generational divide**
+
+Sarah Wan and Regina Koh (both from Sec 4A3, Class of 2006) and two others created a campaign called 'The Silver Yarn Project', a youth movement aimed at getting young people to communicate with their seniors. According to the newspaper article, 'The Silver Yarn Project' has reached out to more than 200 000 people. In January 2013, the group launched '#SilverYarn Instagram Contest', where youths submitted photos of their grandparents and their stories of days gone by.
+
+![](/images/today_bonding_across_generational_divide_link.jpeg)
+
+<small>Source: The New Paper © Singapore Press Holdings Limited, Reproduced with permission)</small>
+
+![](/images/st-citra-sets-sights-on-olympics_sm.jpeg)
+
+<small>Source: The Straits Times © Singapore Press Holdings Limited, Reproduced with permission</small>
+
+![](/images/st-literature-festival-books-record-turnout-sm.jpeg)
+
+<small>Source: The Straits Times © Singapore Press Holdings Limited, Reproduced with permission</small>
+
+![](/images/published_article_exchange_programme_HKBAUS.jpeg)
+
+<small>Extracted from from the Newsletter, Vol. 2, Page 9, published by Hong Kong Baptist University Affiliated School Wong Kam Fai Secondary and Primary School.</small>
+
+![](/images/ukelele_mypaper.jpeg)
+
+<small>Source:«我报» my paper©Singapore Press Holdings Limited, Reproduced with permission (Published on 4 June 2013)</small>
+
+![](/images/LHZB_Levitation_Workshop_s.jpeg)
+
+<small>Source: ZBComma©Singapore Press Holdings Limited, Reproduced with permission</small>
+
+
+**MOE Facebook and Twitter feature PL Choir**
+
+![](/images/pl_choir_facebook.jpeg)
+
+The Ministry of Education has posted an SYF snippet on the MOE [Facebook](https://www.facebook.com/moesingapore) and [Twitter](https://twitter.com/MOEsg), featuring PL Choir's performance at the SYF 2013.
+
+  
+
+The links are as follows:
+
+**Facebook:** 
+
+[https://www.facebook.com/photo.php?bid=10151843904997004&set=a.10150100883752004.314002.6788957003&type=1](https://www.facebook.com/photo.php?bid=10151843904997004&set=a.10150100883752004.314002.6788957003&type=1)
+
+**Twitter:** 
+
+[https://twitter.com/MOEsg/status/324462817849774080](https://twitter.com/MOEsg/status/324462817849774080)
+
+![](/images/new_teacher_challenge_jan2013.jpeg)
+
+<small>Source: The Straits Times©Singapore Press Holdings Limited, Reproduced with permission</small>
+
+### 2012
+
+### 2011
+
+![](/images/The%20Straits%20Times%20A4%2026Mar2011.jpeg)
+
+<small>Source: The Straits Times©Singapore Press Holdings Limited, Reproduced with permission</small>
+
+![](/images/2011zbcommawk4.jpeg)
+
+<small>Source: ZB Comma©Singapore Press Holdings Limited, Reproduced with permission</small>
+
+### 2010
+
+![](/images/2011xinmingpayalebar_sm.jpeg)
+
+<small>Source: Shin Min Daily News©Singapore Press Holdings Limited, Reproduced with permission</small>
+
+![](/images/2010%20sep%20%20ez%20beacon.jpeg)
+
+![](/images/2010%20april.jpeg)
+
+<small>Source: The Straits Times©Singapore Press Holdings Limited, Reproduced with permission</small>
+
+![](/images/2010%20mar.jpeg)
+
+<small>Source: Lianhe Zaobao©Singapore Press Holdings Limited, Reproduced with permission</small>
+
+![](/images/2010%20jan.jpeg)
+
+### 2009
+
+![](/images/2009.jpeg)
+
+![](/images/2009%20dec.jpeg)
+
+<small>Source: Lianhe Wanbao©Singapore Press Holdings Limited, Reproduced with permission</small>
+
+![](/images/2009%20dec%2019.jpeg)
+
+<small>Source: Lianhe Zaobao©Singapore Press Holdings Limited, Reproduced with permission</small>
+
+![](/images/2009%20dec%2018.jpeg)
+
+<small>Source: Shin Min Daily News©Singapore Press Holdings Limited, Reproduced with permission</small>
