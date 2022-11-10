@@ -439,3 +439,29 @@ The links are as follows:
 ![](/images/2009%20dec%2018.jpeg)
 
 <small>Source: Shin Min Daily News©Singapore Press Holdings Limited, Reproduced with permission</small>
+
+![](/images/2009_1%20dec%2019.jpeg)
+
+<small>Source: The Straits Times©Singapore Press Holdings Limited, Reproduced with permission</small>
+
+![](/images/tamil_news_2009.jpeg)
+
+![](/images/2009%20sep%20ez%20beacon.jpeg)
+
+### 2006
+
+![](/images/2006%20feb.jpeg)
+
+<small>Source: The Straits Times©Singapore Press Holdings Limited, Reproduced with permission</small>
+
+### 2004
+
+![](/images/st2004_01.jpeg)
+
+![](/images/Picture10.jpeg)
+
+### 2001
+
+![](/images/zhaobao01.jpeg)
+
+![](/images/Fridayweekly01.jpeg)
