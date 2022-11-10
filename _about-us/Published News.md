@@ -268,3 +268,43 @@ Please click [here](/files/lim_siong_guan_article2014.pdf) for the newspaper a
 ### 2013
 
 **Undaunted by disability**
+
+![](/images/chia_yong_yong_sm.jpg)
+
+<small>(Source: The Straits Times © Singapore Press Holdings Limited. Reproduced with permission)</small>
+
+  
+
+The school congratulates Ms Chia Yong Yong (PL Alumni, 1969-1978) on her appointment as Nominated Member of Parliament in September 2014. The first physically disabled parliamentarian in Singapore, Ms Chia will serve a two and a half year term.
+
+In an interview with the Straits Times, she recounted her days as a student in PLMGS.
+
+She started tripping and falling in kindergarten, but was diagnosed  with peroneal muscular atrophy only at 15. As her muscle tissue progressively weakened, she used crutches, then a wheelchair. She has not been able to stand for more than 20 years and her hands have grown limp and curled as well.
+
+  
+
+Her alma mater, Paya Lebar Methodist  Girls' School, worked  around her mobility issues  - yet treated her as normally as possible. Her former secondary school principal, Mrs Winnie Tan, gave her ground-floor classrooms. 
+
+  
+
+Friends helped her to the laboratory and chapel on the second floor, exemplifying the school's ethos as a "household of love and faith", Mrs Tan says. 
+
+  
+
+Ms Chia says: "If I was too talkative, I would be made to stand up. The teachers didn't treat me differently."
+
+  
+
+She is a lawyer at Yusarn Audrey Law Firm and she has been President of the Society for the Physically Disabled since 2008. 
+
+  
+
+In 2011, she was awarded the President’s Social Service Award, by the President of the Republic of Singapore for voluntary contributions made to the social service sector. 
+
+In 2013, she was awarded the Public Service Medal (PBM) in the National Day Awards in recognition of her exemplary service rendered to Singapore.
+
+  
+
+### Alumni PL-Lite wins Photography Award
+
+The Straits Times recently featured a winner in the 4th annual Icon de Martell Cordon Bleu 2013. This photography award recognises Singapore’s outstanding photographers based on a body of work. We are proud of Sarah Choo Jing (Sec 4B2, Class of 2006) for winning the top prize.
