@@ -2,6 +2,7 @@ collections:
   pl-epistle:
     output: true
     order:
+      - 2019/April 2019.md
       - 2019/May 2019.md
       - 2019/June 2019.md
       - 2019/July 2019.md
