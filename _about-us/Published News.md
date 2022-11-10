@@ -78,3 +78,156 @@ On 8 February 2017, our girls were given the opportunity to learn the traditiona
 **Paya Lebar Methodist Girls' School (PLMGS) Centennial Founder's Day Celebrations**
 
 ![](/images/pl100_founders_day_web.jpg)
+
+For the newspaper articles on the school's Founder's Day Celebrations, please click the links below.
+
+1. Straits Times
+![](/images/pl100_newspaper_st.jpeg)
+
+2. Lianhe Zaobao
+![](/images/pl100_newspaper_zb.jpeg)
+
+3. Berita Harian
+![](/images/pl100_newspaper_bh.jpeg)
+
+<small>(Source: The Straits Times, Lianhe Zaobao & Berita Harian © Singapore Press Holdings Limited. Reproduced with permission)</small>
+
+This celebratory event was captured in an article which appears in the December issue of [Methodist News](https://message.methodist.org.sg/).  
+Please [click here](/files/MM%20Dec%202016%20P7%20PL100.pdf) to read the article.
+
+**World Robot Games 2016**
+
+![](/images/wrg2016_article.jpeg)
+
+<small>(Source: The Straits Times © Singapore Press Holdings Limited. Reproduced with permission)</small>
+
+The PL power team was blessed with the following awards at the World Robot Games 2016 in Bandung!  
+
+  
+1) Search & Rescue Pro Category - 1 Gold Award  
+2) Search & Rescue Senior Category - 1 Gold Award & 1 Bronze Award  
+3) Sumo 5kg RC Junior Category - 1 Silver Award  
+4) Innovative Category - 1 Gold Award and 1 Bronze Award  
+5) Robots in Movie Category - 1 Silver Award  
+6) 7 Performance Award  
+7) 1 Spirit of WRG Award  
+  
+Total Award 3 Gold, 2 Silver, 2 Bronze Award, 7 Performance Award and 1 Spirit of World Robot Games Award (Only given to Singapore)  
+
+**Using Macro Lenses** **- Assessment in Student Leadership Development (SLD)**  
+
+PL is honoured that we have been given the opportunity to share the following article published on the Student Leadership Development (SLD) Programme E-Buzz Issue 8 in Sept 2016. This is a monthly online publication by Student Development Curriculum Division, MOE for schools to share best practices in the area of Student Leadership.  
+
+[SLD E-Buzz _Issue 8_Sept 2016 (Featuring Paya Lebar Methodist Girls' School (Secondary)).pdf](/files/SLD%20E-Buzz%20_Issue%208_Sept%202016%20Featuring%20Paya%20Lebar%20Methodist%20Girls'%20School%20Secondary.pdf)
+
+**Authentic Learning Through Astronomy**
+
+![](/images/EZ_Beacon_2016_Solarsm.jpeg)
+
+Paya Lebar Methodist Girls' School (Secondary) has been conducting astronomy observations as part of its Science enrichment programmes since 2009. The solar eclipse on 9 March 2016 provided the school with an excellent opportunity to further use astronomy observations for learning. Please click the article above to read on how PLMGS (Sec) shares its expertise and resources to increase engagement in the Science classroom.  
+
+  
+
+**Carrying Forward a Compelling Legacy**
+
+![](/images/carry_forward_legacy_sm.jpeg)
+
+<small>(Source: The Straits Times © Singapore Press Holdings Limited. Reproduced with permission)</small>
+
+Paya Lebar Methodist Girls' School is celebrating its centennial in 2016. As the school turns 100, The Straits Times looks at at its past, present and future.  
+
+ 
+**非主流课外活动 也为学习添姿彩**
+
+![](/images/extraordinary_cca_sm.jpeg)
+
+**与乐龄人士同欢共乐**
+
+![](/images/sharing_joy_with_elderly_sm.jpeg)
+
+**PL celebrates 100 years of God's blessings**
+
+![](/images/pl100_celebrates_mm_article.jpeg)
+
+_This article was first published in the March 2016 issue of Methodist Message, the official monthly publication of The Methodist Church in Singapore. Used with permission.)_
+
+  
+Published in the March edition of Methodist Message, the article spells out the ethos of Paya Lebar Methodist Girls' School (PLMGS). The article also gives a list of events organised by PLMGS to celebrate the school's 100th anniversary.  
+  
+
+**Relating Literature to Life**
+
+[ELIS on 6 generations.pdf](/files/ELIS%20on%206%20generations.pdf)
+
+n an article published by the English Language Institute of Singapore, Mrs Kamala Cumar, who retired from PLMGS (Sec) in 2016, recounted how she was inspired to become interested in English Literature by Mrs Judy Wong, another long serving teacher of PLMGS (Sec).  
+
+**Using sounds to create visual images**
+
+![](/images/sph_broadcast.jpeg)
+
+<small>(Source: 大拇指 © Singapore Press Holdings Limited, Reproduced with permission)</small>
+
+On 11 March 2016, the deejays from UFM100.3 and Ms Su Jun Ying, a well-known playwright, visited PL to conduct a workshop on script-writing for Chinese radio drama for 100 students.
+
+
+
+**Our Journey in Paya Lebar Methodist Girl’s School**
+
+![](/images/tkk_banner%20copy.png)
+
+ Please [click here](/files/tan_kah_kee_young_inventors_award.pdf) to read the article. 
+
+### PL Leads Learning during the Solar Eclipse
+
+![](/images/st_solar_sm.jpeg)
+
+**938 Live**
+
+[https://www.facebook.com/Official938LIVE/videos/1118422991547644/?fref=nf](https://www.facebook.com/Official938LIVE/videos/1118422991547644/?fref=nf)
+
+  
+
+**CNA**
+
+[https://www.facebook.com/PLMGSAlumni/videos/968746746547991/](https://www.facebook.com/PLMGSAlumni/videos/968746746547991/)
+
+  
+
+**ST live**
+
+[https://m.youtube.com/watch?v=TC\_3eAwniMw](https://m.youtube.com/watch?v=TC_3eAwniMw)
+
+  
+
+**An Unconventional Start**
+
+![](/images/unconventional_start_sm.jpeg)
+
+### 2015
+
+
+**In their own words: JC vs Poly**
+
+![](/images/st009.jpeg)
+
+**Reach Out with L.O.V.E. - A Heart for Service**
+
+![](/images/PLMGS%20Sec%20EZ%20Beacon%202015.jpeg)
+The EZ Beacon is a publication for all East Zone schools. The 2015 edition featured an article written by Ms Gan Lay Leng, Year Head (Lower Secondary) and Mrs Low Hwee Hwee, HOD (Character and Citizenship Education). The article is entitled "Reach Out with L.O.V.E. - A Heart for Service". 
+
+**Setting the Record Straight**
+
+![](/images/eliza_ng01sm.jpeg)
+
+Our alumna, Ms Eliza Ng (Class of 2005) was featured in the NIE News (March 2015). Please [click here](/files/eliza_ng_steeplerace.pdf) for the article.
+
+### 2014
+
+**My N-Level Inspiration is ....**
+
+![](/images/n_level_courtney2014sm.jpeg)
+
+<small>(Source: The New Paper © Singapore Press Holdings Limited, Reproduced with permission)</small>
+
+
+**A bus chaser and winner**
