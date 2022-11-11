@@ -232,3 +232,78 @@ third_nav_title: Our Staff
 </tbody>
 </table>
 
+### Organisation Support
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-citn{background-color:#FFF;color:#333;text-align:left;vertical-align:top}
+.tg .tg-pz2b{background-color:#E5E5E5;color:#333;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-citn"><img src="/images/Toh%20Xinyi.jpg" alt="Toh Xinyi.JPG" style="width:25%"><br>Ms Toh Xinyi<br><a href="mailto:TOH_Xinyi@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#454545">TOH_Xinyi@schools.gov.sg</span></a><br></th>
+    <th class="tg-citn"><span style="color:black">Administration Manager</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-pz2b"><img src="/images/Mr%20Raymond.jpg" alt="Mr Raymond.jpg" style="width:25%"><br><span style="color:black">Mr Liu Sy Yee Raymond</span><br><a href="mailto:Raymond_LIU@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#454545">Raymond_LIU@schools.gov.sg</span></a><br></td>
+    <td class="tg-pz2b"><span style="color:black">Administrative Manager</span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-citn"><img src="/images/grace%20quek.jpg" alt="grace quek.jpg" style="width:25%"><br>Ms Quek Grace<br><a href="mailto:grace_quek@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="color:#454545">grace_quek@moe.edu.sg</span></a></td>
+    <td class="tg-citn"><span style="color:black">Administrative Executive</span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-pz2b"><img src="/images/Glayen%20Chua.jpg" alt="Glayen Chua.JPG" style="width:25%"><br>Mr Chua Glayen<br><a href="mailto:glayen_chua@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#454545">glayen_chua@moe.edu.sg</span></a></td>
+    <td class="tg-pz2b"><span style="color:black">ICT Manager</span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-citn"><img src="/images/teo%20kim%20che.jpg" alt="teo kim che.jpg" style="width:25%"><br>Mr Teo Kim Che<br><a href="mailto:teo_kim_che@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#454545">teo_kim_che@moe.edu.sg</span></a><br></td>
+    <td class="tg-citn">Operations Manager</td>
+  </tr>
+</tbody>
+</table>
+
+### PL Care (Counselling Programme)
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-citn{background-color:#FFF;color:#333;text-align:left;vertical-align:top}
+.tg .tg-pz2b{background-color:#E5E5E5;color:#333;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-citn"><img src="/images/Ms%20Leong%20Jin%20Han%20Lynette.jpg" alt="Ms Leong Jin Han Lynette.jpg" style="width:25%"><br>Ms Leong Jin Han, Lynette<br><a href="mailto:leong_jin_han_lynette@moe.edu.sg"><span style="text-decoration:underline;color:#454545">leong_jin_han_lynette@moe.edu.sg</span></a><br><br></th>
+    <th class="tg-citn"><span style="color:black">Allied Educator (School Counsellor)</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-pz2b"><img src="/images/Ms%20Syarfa.jpg" alt="Ms Syarfa.jpg" style="width:25%"><br>Ms Syarfa' Nur Izyan<br><a href="mailto:syarfa_nur_izyan@moe.edu.sg"><span style="text-decoration:underline;color:#454545">syarfa_nur_izyan@moe.edu.sg</span></a><br></td>
+    <td class="tg-pz2b"><span style="color:black">Allied Educator</span><br><span style="color:black">(Special Educational Needs)</span></td>
+  </tr>
+  <tr>
+    <td class="tg-citn"><img src="/images/Ms%20Priscilla%20Chong.jpg" alt="Ms Priscilla Chong.jpg" style="width:25%"><br><span style="color:black">Ms Priscilla Chong</span><br><a href="mailto:chong_soo_hui_priscilla@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#454545">chong_soo_hui_priscilla@schools.gov.sg</span></a><br></td>
+    <td class="tg-citn"><span style="color:black">Education and Career Guidance</span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-pz2b"><img src="/images/Ms%20Cheryl%20Hoe.jpg" alt="Ms Cheryl Hoe.jpg" style="width:25%"><br>Ms Hoe Cheryl<br><a href="mailto:cheryl_hoe_jiaxin@moe.edu.sg"><span style="text-decoration:underline;color:#454545">cheryl_hoe_jiaxin@moe.edu.sg</span></a><br></td>
+    <td class="tg-pz2b"><span style="color:black">Adjunct Allied Educator</span><br><span style="color:black">(Special Educational Needs)</span><br></td>
+  </tr>
+</tbody>
+</table>
+
+
+
+
