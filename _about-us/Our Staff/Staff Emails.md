@@ -142,50 +142,51 @@ third_nav_title: Our Staff
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-citn"><img src="https://www.plmgss.moe.edu.sg/qql/slot/u173/Staff/Staff%20Emails/2018/cheryl%20tan.jpg" alt="cheryl tan.jpg" style="width:25%"><br>Ms Tan Cheryl<br><a href="mailto:tan_jue_ling_cheryl@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="color:#454545">tan_jue_ling_cheryl@moe.edu.sg</span></a><br></th>
+    <th class="tg-citn"><img src="/images/cheryl%20tan.jpg" alt="cheryl tan.jpg" style="width:25%"><br>Ms Tan Cheryl<br><a href="mailto:tan_jue_ling_cheryl@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="color:#454545">tan_jue_ling_cheryl@moe.edu.sg</span></a><br></th>
     <th class="tg-citn"><span style="color:black">Character &amp; Citizenship Education  (covering)</span><br></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-pz2b"><img src="https://www.plmgss.moe.edu.sg/qql/slot/u173/Staff/Staff%20Emails/2022/Zhuang%20Yingmeng.jpg" alt="Zhuang Yingmeng.jpg" style="width:25%"><br>Ms Zhuang Ying Meng<br><a href="mailto:zhuang_yingmeng@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#454545">zhuang_yingmeng@moe.edu.sg</span></a><br></td>
+    <td class="tg-pz2b"><img src="/images/Zhuang%20Yingmeng.jpg" alt="Zhuang Yingmeng.jpg" style="width:25%"><br>Ms Zhuang Ying Meng<br><a href="mailto:zhuang_yingmeng@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#454545">zhuang_yingmeng@moe.edu.sg</span></a><br></td>
     <td class="tg-pz2b"><span style="color:black">Chinese Language</span><br></td>
   </tr>
   <tr>
-    <td class="tg-citn"><img src="https://www.plmgss.moe.edu.sg/qql/slot/u173/Staff/Staff%20Emails/mr_indra.jpg" alt="mr_indra.jpg" style="width:25%"><br>Mr Indra Ahmad<br><a href="mailto:indra_ahmad@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#454545">indra_ahmad@moe.edu.sg</span></a><br></td>
+    <td class="tg-citn"><img src="/images/mr_indra.jpg" alt="mr_indra.jpg" style="width:25%"><br>Mr Indra Ahmad<br><a href="mailto:indra_ahmad@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#454545">indra_ahmad@moe.edu.sg</span></a><br></td>
     <td class="tg-citn">Data Management</td>
   </tr>
   <tr>
-    <td class="tg-pz2b"><img src="https://www.plmgss.moe.edu.sg/qql/slot/u173/Staff/Staff%20Emails/2022/Das%20Ruth.jpg" alt="Das Ruth.jpg" style="width:25%"><br>Ms Das Ruth Hannah<br><a href="mailto:das_ruth_hannah@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#454545">das_ruth_hannah@moe.edu.sg</span></a><br></td>
+    <td class="tg-pz2b"><img src="/images/Das%20Ruth.jpg" alt="Das Ruth.jpg" style="width:25%"><br>Ms Das Ruth Hannah<br><a href="mailto:das_ruth_hannah@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#454545">das_ruth_hannah@moe.edu.sg</span></a><br></td>
     <td class="tg-pz2b">Education and Career Guidance<br></td>
   </tr>
   <tr>
-    <td class="tg-citn"><img src="https://www.plmgss.moe.edu.sg/qql/slot/u173/Staff/Staff%20Emails/shirley_sim.jpg" alt="Image" style="width:25%"><br>Mrs Sim Shirley<br><a href="mailto:chua_ai_ping_shirley@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="color:#454545">chua_ai_ping_shirley@moe.edu.sg</span></a><br></td>
+    <td class="tg-citn"><img src="/images/shirley_sim.jpg" alt="Image" style="width:25%"><br>Mrs Sim Shirley<br><a href="mailto:chua_ai_ping_shirley@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="color:#454545">chua_ai_ping_shirley@moe.edu.sg</span></a><br></td>
     <td class="tg-citn">English Language &amp; Literature</td>
   </tr>
   <tr>
-    <td class="tg-pz2b"><img src="https://www.plmgss.moe.edu.sg/qql/slot/u173/Staff/Staff%20Emails/2022/Lim%20Shu%20Ping.jpg" alt="Lim Shu Ping.jpg" style="width:25%"><br>Ms Lim Shu Ping<br><a href="mailto:lim_shu_ping@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#454545">lim_shu_ping@moe.edu.sg</span></a><br></td>
+    <td class="tg-pz2b"><img src="/images/Lim%20Shu%20Ping.jpg" alt="Lim Shu Ping.jpg" style="width:25%"><br>Ms Lim Shu Ping<br><a href="mailto:lim_shu_ping@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#454545">lim_shu_ping@moe.edu.sg</span></a><br></td>
     <td class="tg-pz2b">Humanities<br></td>
   </tr>
   <tr>
-    <td class="tg-citn"><img src="https://www.plmgss.moe.edu.sg/qql/slot/u173/Staff/Staff%20Emails/2021/Paul%20Melissa.JPG" alt="Paul Melissa.JPG" style="width:25%"><br>Ms Melissa Paul<br><a href="mailto:paul_melissa@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#454545">paul_melissa@moe.edu.sg</span></a><br></td>
+    <td class="tg-citn"><img src="/images/Paul%20Melissa.jpg" alt="Paul Melissa.JPG" style="width:25%"><br>Ms Melissa Paul<br><a href="mailto:paul_melissa@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#454545">paul_melissa@moe.edu.sg</span></a><br></td>
     <td class="tg-citn">Learning Needs<br></td>
   </tr>
   <tr>
-    <td class="tg-pz2b"><img src="https://www.plmgss.moe.edu.sg/qql/slot/u173/Staff/Staff%20Emails/2018/Ho%20Lian%20Ya.JPG" alt="Ho Lian Ya.JPG" style="width:25%"><br>Ms Ho Lian Ya<br><a href="mailto:ho_lian_ya@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#454545">ho_lian_ya@moe.edu.sg</span></a><br></td>
+    <td class="tg-pz2b"><img src="/images/Ho%20Lian%20Ya.jpg" alt="Ho Lian Ya.JPG" style="width:25%"><br>Ms Ho Lian Ya<br><a href="mailto:ho_lian_ya@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#454545">ho_lian_ya@moe.edu.sg</span></a><br></td>
     <td class="tg-pz2b">Student Leadership</td>
   </tr>
   <tr>
-    <td class="tg-citn"><img src="https://www.plmgss.moe.edu.sg/qql/slot/u173/Staff/Staff%20Emails/veena%20lee.jpg" alt="veena lee.jpg" style="width:25%"><br>Ms Veena Lee <br><a href="mailto:lee_chai_ching_veena@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#454545">lee_chai_ching_veena@moe.edu.sg</span></a><br></td>
+    <td class="tg-citn"><img src="/images/veena%20lee.jpg" alt="veena lee.jpg" style="width:25%"><br>Ms Veena Lee <br><a href="mailto:lee_chai_ching_veena@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#454545">lee_chai_ching_veena@moe.edu.sg</span></a><br></td>
     <td class="tg-citn"><span style="color:black">Student Management</span><br></td>
   </tr>
   <tr>
-    <td class="tg-pz2b"><img src="https://www.plmgss.moe.edu.sg/qql/slot/u173/Staff/Staff%20Emails/2022/Heng%20Ci%20Pei.jpg" alt="Heng Ci Pei.jpg" style="width:25%"><br>Ms Heng Ci Pei<br><a href="mailto:heng_ci_pei@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#454545">heng_ci_pei@moe.edu.sg</span></a><br></td>
+    <td class="tg-pz2b"><img src="/images/Heng%20Ci%20Pei.jpg" alt="Heng Ci Pei.jpg" style="width:25%"><br>Ms Heng Ci Pei<br><a href="mailto:heng_ci_pei@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#454545">heng_ci_pei@moe.edu.sg</span></a><br></td>
     <td class="tg-pz2b">Science</td>
   </tr>
   <tr>
-    <td class="tg-citn"><img src="https://www.plmgss.moe.edu.sg/qql/slot/u173/Staff/Staff%20Emails/Colleen%20Ng.jpg" style="width:25%"><br>Ms Ng Colleen<br><a href="mailto:colleen_ng@moe.edu.sg"><span style="text-decoration:underline;color:#454545">colleen_ng@moe.edu.sg</span></a><br></td>
+    <td class="tg-citn"><img src="/images/Colleen%20Ng.jpg" style="width:25%"><br>Ms Ng Colleen<br><a href="mailto:colleen_ng@moe.edu.sg"><span style="text-decoration:underline;color:#454545">colleen_ng@moe.edu.sg</span></a><br></td>
     <td class="tg-citn">Sports Secretary</td>
   </tr>
 </tbody>
 </table>
+
