@@ -189,3 +189,46 @@ third_nav_title: Our Staff
   </tr>
 </tbody>
 </table>
+
+### Senior Teachers
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-citn{background-color:#FFF;color:#333;text-align:left;vertical-align:top}
+.tg .tg-pz2b{background-color:#E5E5E5;color:#333;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-citn"><img src="/images/joyce_chong.jpg" alt="joyce_chong.jpg" style="width:25%"><br>Mrs Chong Joyce<br><a href="mailto:chan_wai_ling_joyce@moe.edu.sg"><span style="text-decoration:underline;color:#454545">chan_wai_ling_joyce@moe.edu.sg</span></a><br></th>
+    <th class="tg-citn">Chemistry</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-pz2b"><img src="/images/ramesh.jpg" style="width:25%"><br>Mrs Ramesh Christina<br><a href="mailto:ramesh_maria_christina@moe.edu.sg"><span style="text-decoration:underline;color:#454545">ramesh_maria_christina@moe.edu.sg</span></a><br></td>
+    <td class="tg-pz2b"><span style="color:black">English Language</span></td>
+  </tr>
+  <tr>
+    <td class="tg-citn"><img src="/images/ambika%20nair.jpg" style="width:25%"><br>Mrs Nair Ambika<br><a href="mailto:ambika_nair@moe.edu.sg"><span style="text-decoration:underline;color:#454545">ambika_nair@moe.edu.sg</span></a><br></td>
+    <td class="tg-citn">Food and Consumer<br>Education</td>
+  </tr>
+  <tr>
+    <td class="tg-pz2b"><img src="/images/Mdm%20Lim%20Terh%20Ling.jpg" alt="Mdm Lim Terh Ling.JPG" style="width:25%"><br>Mrs Neoh Terh Ling<br><a href="mailto:lim_terh_ling@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#454545">lim_terh_ling@moe.edu.sg</span></a><br></td>
+    <td class="tg-pz2b">History<br></td>
+  </tr>
+  <tr>
+    <td class="tg-citn"><img src="/images/koh_mei_chin.jpg" style="width:25%"><br>Mrs Koh Mei Chin<br><a href="mailto:tang_mei_chin@moe.edu.sg"><span style="text-decoration:underline;color:#454545">tang_mei_chin@moe.edu.sg</span></a><br></td>
+    <td class="tg-citn">Mathematics<br></td>
+  </tr>
+  <tr>
+    <td class="tg-pz2b"><img src="/images/mrs%20christopher.jpg" alt="mrs christopher.jpg" style="width:25%"><br><span style="font-weight:normal">Mrs Christopher Jesumathy</span><br><a href="mailto:jesumathy_christopher@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#454545">jesumathy_christopher@moe.edu.sg</span></a><br></td>
+    <td class="tg-pz2b">Tamil Language<br>(Internal)</td>
+  </tr>
+</tbody>
+</table>
+
