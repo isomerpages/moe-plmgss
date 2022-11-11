@@ -86,4 +86,4 @@ Paya Lebar Methodist Girls’ School (Secondary)
   
 Do follow us on our [Facebook page](https://www.facebook.com/PAYALEBARMGS/) to get constant updates about our school.  
   
-~ Please [click here](https://www.plmgss.moe.edu.sg/articles/announcements/principals-letter-to-parents) for **Principal's Letter to Parents**
+~ Please [click here](staging.d31lf6q9623hn3.amplifyapp.com/articles/announcements/principals-letter-to-parents) for **Principal's Letter to Parents**
