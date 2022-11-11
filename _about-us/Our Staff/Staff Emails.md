@@ -304,6 +304,52 @@ third_nav_title: Our Staff
 </tbody>
 </table>
 
+### Christian Ministry Staff
 
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-fwnj{background-color:#FFF;color:#454545;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <td class="tg-fwnj"><img src="/images/Ms%20Rachel%20Lee%20Siew%20Fen1.jpg" alt="Ms Rachel Lee Siew Fen1.jpg" style="width:25%"><br>Ms Rachel Lee<br><a href="mailto:rachel_lee_siew_fen@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#454545">rachel_lee_siew_fen@moe.edu.sg</span></a></td>
+  </tr>
+</thead>
+</table>
 
+### Prefectorial Board
 
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-yvtv{background-color:#E5E5E5;color:#454545;text-align:left;vertical-align:middle}
+.tg .tg-fwnj{background-color:#FFF;color:#454545;text-align:left;vertical-align:top}
+.tg .tg-iual{background-color:#E5E5E5;color:#454545;text-align:left;vertical-align:top}
+.tg .tg-sdzj{background-color:#FFF;color:#454545;text-align:left;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-fwnj"><img src="/images/01%20ALLY%20CANDRA.jpg" alt="01 ALLY CANDRA.JPG" style="width:25%"><br><span style="font-weight:normal">Ally Candra</span><br></th>
+    <th class="tg-fwnj"><span style="font-weight:normal">Head Prefect</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-iual"><img src="/images/02%20AMATATSU%20SHOKO.jpg" alt="02 AMATATSU SHOKO.JPG" style="width:25%"><br>Amatatsu Shoko<br></td>
+    <td class="tg-yvtv">Vice Head Prefect</td>
+  </tr>
+  <tr>
+    <td class="tg-fwnj"><img src="/images/10%20Janelle%20Ho%202.jpg" alt="10 Janelle Ho 2.jpg" style="width:25%"><br>Janelle Ho<br></td>
+    <td class="tg-sdzj">Vice Head Prefect</td>
+  </tr>
+</tbody>
+</table>
