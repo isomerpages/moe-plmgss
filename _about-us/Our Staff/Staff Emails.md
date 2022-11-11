@@ -34,7 +34,7 @@ third_nav_title: Our Staff
     <td class="tg-citn">Vice-Principal (EO)<br></td>
   </tr>
   <tr>
-    <td class="tg-pz2b"><img src="/images/William%20Chu%20Tai%20Hong.jpg" alt="William Chu Tai Hong.JPG"style="width:25%"><br>Mr William Chu Tai Hong<br><a href="mailto:plmgss@moe.edu.sg"><span style="text-decoration:underline;color:#454545">plmgss@moe.edu.sg</span></a></td>
+    <td class="tg-pz2b"><img src="/images/William%20Chu%20Tai%20Hong.jpg" alt="William Chu Tai Hong.JPG" style="width:25%"><br>Mr William Chu Tai Hong<br><a href="mailto:plmgss@moe.edu.sg"><span style="text-decoration:underline;color:#454545">plmgss@moe.edu.sg</span></a></td>
     <td class="tg-pz2b">Vice-Principal (Administration)<br></td>
   </tr>
 </tbody>
@@ -189,4 +189,3 @@ third_nav_title: Our Staff
   </tr>
 </tbody>
 </table>
-
