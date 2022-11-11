@@ -369,34 +369,36 @@ third_nav_title: Our Staff
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-fwnj"><img src="https://www.plmgss.moe.edu.sg/qql/slot/u173/Staff/Staff%20Emails/2018/nur%20zetty%20abd%20kadir.jpg" alt="nur zetty abd kadir.jpg" style="width:25%"><br><span style="font-weight:normal">Ms Nur Zetty</span><br><a href="mailto:nur_zetty_abd_kadir@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="color:#454545">nur_zetty_abd_kadir@moe.edu.sg</span></a></th>
+    <th class="tg-fwnj"><img src="/images/nur%20zetty%20abd%20kadir.jpg" alt="nur zetty abd kadir.jpg" style="width:25%"><br><span style="font-weight:normal">Ms Nur Zetty</span><br><a href="mailto:nur_zetty_abd_kadir@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="color:#454545">nur_zetty_abd_kadir@moe.edu.sg</span></a></th>
     <th class="tg-fwnj">S1 Year Coordinator</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-iual"><img src="https://www.plmgss.moe.edu.sg/qql/slot/u173/Staff/Staff%20Emails/2018/Eileen%20Sin.JPG" alt="Eileen Sin.JPG" style="width:25%"><br>Ms Eileen Sin<br><a href="mailto:eileen_sin_yu_ling@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#454545">eileen_sin_yu_ling@moe.edu.sg</span></a></td>
+    <td class="tg-iual"><img src="/images/Eileen%20Sin.jpg" alt="Eileen Sin.JPG" style="width:25%"><br>Ms Eileen Sin<br><a href="mailto:eileen_sin_yu_ling@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#454545">eileen_sin_yu_ling@moe.edu.sg</span></a></td>
     <td class="tg-iual">S1 Assistant Year Coordinator</td>
   </tr>
   <tr>
-    <td class="tg-fwnj"><img src="https://www.plmgss.moe.edu.sg/qql/slot/u173/Staff/Staff%20Emails/2021/Alexandria%20Seah%20Ming%20Qi.JPG" alt="Alexandria Seah Ming Qi.JPG" style="width:25%"><br><span style="font-weight:normal">Ms Seah Alexandria</span><br><a href="mailto:alexandria_seah_ming_qi@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#454545">alexandria_seah_ming_qi@moe.edu.sg</span></a></td>
+    <td class="tg-fwnj"><img src="/images/Alexandria%20Seah%20Ming%20Qi.jpg" alt="Alexandria Seah Ming Qi.JPG" style="width:25%"><br><span style="font-weight:normal">Ms Seah Alexandria</span><br><a href="mailto:alexandria_seah_ming_qi@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#454545">alexandria_seah_ming_qi@moe.edu.sg</span></a></td>
     <td class="tg-fwnj">S2 Year Coordinator</td>
   </tr>
   <tr>
-    <td class="tg-iual"><img src="https://www.plmgss.moe.edu.sg/qql/slot/u173/Staff/Staff%20Emails/2020/Foo%20Jonathan.JPG" alt="Foo Jonathan.JPG" style="width:25%"><br>Mr Jonathan Foo<br><a href="mailto:foo_qihui@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#454545">foo_qihui@moe.edu.sg</span></a></td>
+    <td class="tg-iual"><img src="/images/Foo%20Jonathan.jpg" alt="Foo Jonathan.JPG" style="width:25%"><br>Mr Jonathan Foo<br><a href="mailto:foo_qihui@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#454545">foo_qihui@moe.edu.sg</span></a></td>
     <td class="tg-iual">S2 Assistant Year Coordinator</td>
   </tr>
   <tr>
-    <td class="tg-fwnj"><img src="https://www.plmgss.moe.edu.sg/qql/slot/u173/Staff/Staff%20Emails/ng%20yu%20fang.jpg" alt="ng yu fang.jpg" style="width:25%"><br>Ms Ng Yu Fang<br><a href="mailto:ng_yu_fang@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#454545">ng_yu_fang@moe.edu.sg</span></a></td>
+    <td class="tg-fwnj"><img src="/images/ng%20yu%20fang.jpg" alt="ng yu fang.jpg" style="width:25%"><br>Ms Ng Yu Fang<br><a href="mailto:ng_yu_fang@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#454545">ng_yu_fang@moe.edu.sg</span></a></td>
     <td class="tg-fwnj">S3 Year Coordinator</td>
   </tr>
   <tr>
-    <td class="tg-iual"><img src="https://www.plmgss.moe.edu.sg/qql/slot/u173/Staff/Staff%20Emails/2021/Yeo%20Siqi,%20Clarabelle.JPG" alt="Yeo Siqi, Clarabelle.JPG" style="width:25%"><br>Mrs Yeo Clarabelle<br><a href="mailto:wang_siqi_clarabelle@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#454545">wang_siqi_clarabelle@moe.edu.sg</span></a></td>
+    <td class="tg-iual"><img src="/images/Yeo%20Siqi,%20Clarabelle.jpg" alt="Yeo Siqi, Clarabelle.JPG" style="width:25%"><br>Mrs Yeo Clarabelle<br><a href="mailto:wang_siqi_clarabelle@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#454545">wang_siqi_clarabelle@moe.edu.sg</span></a></td>
     <td class="tg-yvtv"> S3 Assistant Year Coordinator</td>
   </tr>
   <tr>
-    <td class="tg-fwnj"><img src="https://www.plmgss.moe.edu.sg/qql/slot/u173/Staff/Staff%20Emails/goh_sze_nee.jpg" alt="goh_sze_nee.jpg" style="width:25%"><br>Ms Goh Sze Nee<br><a href="mailto:goh_sze_nee@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#454545">goh_sze_nee@moe.edu.sg</span></a></td>
+    <td class="tg-fwnj"><img src="/images/goh_sze_nee.jpg" alt="goh_sze_nee.jpg" style="width:25%"><br>Ms Goh Sze Nee<br><a href="mailto:goh_sze_nee@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#454545">goh_sze_nee@moe.edu.sg</span></a></td>
     <td class="tg-fwnj">S4/5 Year Coordinator</td>
   </tr>
 </tbody>
 </table>
+
+
