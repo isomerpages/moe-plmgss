@@ -416,7 +416,7 @@ For more information, please feel free to email&nbsp;[plmgss.pssg@gmail.com](mai
 
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQuE4NO-a5VTuuuNWifbrINLMEOya78RSETXvqQGwORv5NRj_7eUKGM6eaBfxY8eRNjS-JV5TCp70n7/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 
-### ### Resources for Parents
+### Resources for Parents
 
 Please click on links to view useful information for parents to support your children through secondary and post-secondary schooling years.  
   
