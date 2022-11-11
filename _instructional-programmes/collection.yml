@@ -2,38 +2,6 @@ collections:
   instructional-programmes:
     output: true
     order:
-      - Post Secondary Scholarships.md
-      - Physical Education/Key Programmes and Competitions.md
-      - Physical Education/Photo Gallery.md
-      - Physical Education/Curriculum.md
-      - Physical Education/Physical Education.md
-      - Physical Education/.keep
-      - Aesthetics/.keep
-      - Aesthetics/Aesthetics.md
-      - Aesthetics/Curriculum.md
-      - Aesthetics/Art.md
-      - Aesthetics/Nutrition Food Science.md
-      - Aesthetics/Music.md
-      - Aesthetics/East Zone Centre of Excellence (Creative Arts).md
-      - Design and Technology/Design and Technology.md
-      - Design and Technology/.keep
-      - Mother Tongue/Curriculum.md
-      - Mother Tongue/Mother Tongue.md
-      - Mother Tongue/.keep
-      - Humanities/Subjects Offered.md
-      - Humanities/Humanities.md
-      - Humanities/.keep
-      - Science/Photo Gallery.md
-      - Science/Science.md
-      - Science/.keep
-      - Mathematics/.keep
-      - Mathematics/Mathematics.md
-      - Mathematics/Curriculum.md
-      - Mathematics/Photo Gallery.md
-      - English/.keep
-      - English/English.md
-      - English/Curriculum.md
-      - English/Photo Gallery.md
       - IP Overview/.keep
       - IP Overview/IP Overview.md
       - IP Overview/Assessment.md
@@ -42,3 +10,35 @@ collections:
       - IP Overview/Enhanced Enrichment.md
       - IP Overview/Homework Policy.md
       - IP Overview/Syllabuses.md
+      - English/.keep
+      - English/English.md
+      - English/Curriculum.md
+      - English/Photo Gallery.md
+      - Mathematics/.keep
+      - Mathematics/Mathematics.md
+      - Mathematics/Curriculum.md
+      - Mathematics/Photo Gallery.md
+      - Science/.keep
+      - Science/Photo Gallery.md
+      - Science/Science.md
+      - Humanities/.keep
+      - Humanities/Subjects Offered.md
+      - Humanities/Humanities.md
+      - Mother Tongue/.keep
+      - Mother Tongue/Curriculum.md
+      - Mother Tongue/Mother Tongue.md
+      - Design and Technology/.keep
+      - Design and Technology/Design and Technology.md
+      - Aesthetics/.keep
+      - Aesthetics/Aesthetics.md
+      - Aesthetics/Curriculum.md
+      - Aesthetics/Art.md
+      - Aesthetics/Nutrition Food Science.md
+      - Aesthetics/Music.md
+      - Aesthetics/East Zone Centre of Excellence (Creative Arts).md
+      - Physical Education/.keep
+      - Physical Education/Key Programmes and Competitions.md
+      - Physical Education/Photo Gallery.md
+      - Physical Education/Curriculum.md
+      - Physical Education/Physical Education.md
+      - Post Secondary Scholarships.md
