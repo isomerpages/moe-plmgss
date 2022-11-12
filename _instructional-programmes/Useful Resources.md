@@ -18,3 +18,24 @@ These skills are summarized in the following posters as a handy collection of po
 4. [Memory Skills](/files/pl21%20bites%20-%2004%20memory%20skills.pdf)
 5. [Reflection Skills](/files/pl21%20bites%20-%2005%20reflection%20skills.pdf)
 6. [Time Management Skills](/files/pl21%20bites%20-%2006%20time%20management%20skills.pdf)
+
+**2022 JAE, JIE N & JIE O Admission Booklets**
+
+Please find the relevant Joint Admissions and Intake Admission Exercise booklets
+
+**Pre-U Chinese Language Elective Programme (CLEP-JC)**
+
+
+The Chinese Language Elective Programme at the Pre-U level (CLEP-JC) aims to nurture promising students who have an aptitude for the Chinese Language to attain a high level of proficiency and enhance their understanding of Chinese literature. All CLEP-JC students must offer H2 Chinese Language & Literature at A level. Outstanding students selected for the programme will be considered for the Chinese Language Elective Scholarship.  
+  
+The CLEP-JC programme is available at the following schools:  Dunman High School (Senior High), Hwa Chong Institution (College), Jurong-Pioneer Junior College, Nanyang Junior College and Temasek Junior College.  
+  
+Students from the graduating cohort may now visit [MOE’s Pre-U CLEP E-outreach website](https://sites.google.com/moe.edu.sg/preuclep) for more information on the programme. The website provides an overview of CLEP-JC (e.g. entry requirements, activities organised by MOE and CLEP-JC centres and scholarship information).
+
+**5 Types of Poly Courses for Post-Millennials (via Schoolbag.sg)**
+
+![](/images/5-types-of-poly-courses-for-post-millennialsb.jpeg)
+
+From hybrid engineering courses to the study of marine life, there are plenty of offerings at the Polytechnics to meet the interest of your children. [Read more here](https://www.schoolbag.sg/story/5-types-of-poly-courses-for-post-millennials).
+
+
