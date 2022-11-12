@@ -182,7 +182,6 @@ Please [click here](https://www.schoolbag.sg/story/how-parents-can-support-thei
 
 ### Healthy Meals in Schools Programme
 
-
 <img src="/images/healthy_meal.png" 
      style="width:50%">
 
@@ -196,4 +195,9 @@ Source: Health Promotion Board
 # 3. Academic Support
 
 ### Providing Social and Emotional Support for your child
+
+
+<img src="/images/provide%20social.png" 
+     style="width:70%">
+		
 
