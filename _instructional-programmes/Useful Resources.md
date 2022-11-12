@@ -32,7 +32,7 @@ The CLEP-JC programme is available at the following schools:  Dunman High Schoo
   
 Students from the graduating cohort may now visit [MOE’s Pre-U CLEP E-outreach website](https://sites.google.com/moe.edu.sg/preuclep) for more information on the programme. The website provides an overview of CLEP-JC (e.g. entry requirements, activities organised by MOE and CLEP-JC centres and scholarship information).
 
-**5 Types of Poly Courses for Post-Millennials (via Schoolbag.sg)**
+### 5 Types of Poly Courses for Post-Millennials (via Schoolbag.sg)
 
 ![](/images/5-types-of-poly-courses-for-post-millennialsb.jpeg)
 
@@ -50,7 +50,9 @@ Please **[click here](/files/stay-strong-with-these-5-parenting-tips.pdf)** fo
 
 ### Transitioning Back to School
 
-![](/images/Transitioning%20Back%20to%20School.png)
+
+<img src="/images/Transitioning%20Back%20to%20School.png" 
+     style="width:70%">
 
 As our children gradually return to school, we might find ourselves in our period of adaptation. Here is a handy kit to best help our children as they gradually return to schools.  
   
@@ -86,7 +88,8 @@ Nutrition plays such a big role in our development. My Healthy Plate is an easy-
 
 ### A Guide to Building Mental Well-being of Children and Youth
 
-![](/images/useful_resource11.jpeg)
+<img src="/images/useful_resource11.jpeg" 
+     style="width:50%">
 
 In this guide, HPB have provided activities and tips that parents and teachers may use to build on the different mental wellbeing domains for children and youth. Parents may wish to use the information in your interaction with parents and families, in order to work together to build the mental wellbeing of children and youth.
 
@@ -96,9 +99,48 @@ Please [click here](/files/Mental-Wellbeing-Guide-for-Stakeholders.pdf) to acc
 
 ### “Race to Praise” Fill Your Child’s Love Tank in 20 minutes
 
-![](/images/Race%20to%20Praise.jpeg)
+
+<img src="/images/Race%20to%20Praise.jpeg" 
+     style="width:50%">
 
 In this resource, Focus in the Family has provided activities and tips that parents can use to reconnect with your kids and nurture them with resilience to handle setbacks in life.
 
  
 Please [click here](/files/Fill_Your_Child_s_Love_Tank_eGuide.pdf) to access the “Race To Praise” resource.
+
+### Supporting your child’s transition through Secondary School
+
+
+<img src="/images/useful_resource10.jpeg" 
+     style="width:40%">
+
+This resource provides tips for parents to build a supportive and caring home environment to nurture the Social and emotional skills of their children and support them through transitions. Please [click here](/files/Transition_Primary%20Sec_final.pdf) to access the resource.
+
+### Building Resilience in Your Child
+
+<img src="/images/useful_resource08.png" 
+     style="width:50%">
+		 
+This resource provides information for parents on how to foster resilience and recognise common stress symptoms in their daughters. Tips on how to guide your child in developing a sense of purpose, setting goals, problem solving, building character strengths, developing positive thinking, building positive social skills and building “emotional strengths” are also included.  
+  
+Please click on [this link](/files/Resilience-Resources_for%20parents_final.pdf) to download the resource.
+
+  
+### Caring Actions in Response to an Emergency (CARE) Brochure
+
+<p><a href="/files/MOE_Parent%20Version%20final%202018.pdf">
+<img src="/images/carebrochure01.jpeg" width="100" height="132">
+</a></p>
+
+Please click on image to download this resource for staff and parents in crisis support.
+
+### Article by Mrs Jenny Yeo, 9 July 2016 ‘Your Grades Do Not Define You’
+
+
+<img src="/images/jenny_yeo.jpeg" 
+     style="width:40%">
+
+Please [click here](https://www.schoolbag.sg/story/your-grades-do-not-define-you#.V5qgk45Zwpp) to read the article.
+
+### Strengthening positive Teacher-Student Relationships
+
