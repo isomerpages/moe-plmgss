@@ -4,8 +4,9 @@ permalink: /signature-programmes/student-leadership/leadership-groups-in-pl/
 description: ""
 third_nav_title: Student Leadership
 ---
-**Prefectorial Board  
-**As the apex of the PL Student Leadership body, the PL Prefectorial Board is the bridge between the school leaders, teachers and students.  
+**Prefectorial Board**
+
+As the apex of the PL Student Leadership body, the PL Prefectorial Board is the bridge between the school leaders, teachers and students.  
 Together with the Executive Committee, the Prefectorial Board oversees the following:  
   
 
@@ -36,4 +37,3 @@ Peer Lites are involved in co-organising the Sec 1 orientation programme – iDi
 #### Prefects Friendship Day encouragement wall
 
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSNO72kk42HVu9GY_wJb_lrmxrnMjYZ-UtV8MmuJXDT2f7T8pwHvaGYOihMLXvbff45K-Rxl4Jy4ejA/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
-
