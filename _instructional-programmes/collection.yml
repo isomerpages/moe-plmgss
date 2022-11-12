@@ -2,7 +2,6 @@ collections:
   instructional-programmes:
     output: true
     order:
-      - Useful Resources.md
       - IP Overview/.keep
       - IP Overview/IP Overview.md
       - IP Overview/Assessment.md
@@ -45,4 +44,5 @@ collections:
       - Physical Education/Curriculum.md
       - Physical Education/Photo Gallery.md
       - Physical Education/Key Programmes and Competitions.md
+      - Useful Resources.md
       - Post Secondary Scholarships.md
