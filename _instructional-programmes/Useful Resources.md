@@ -199,5 +199,5 @@ Source: Health Promotion Board
 
 <img src="/images/provide%20social.png" 
      style="width:70%">
-		
 
+**[This brochure](/files/trifold-brochure.pdf)** provides an overview of resources for parents in providing social and emotional support.
