@@ -144,3 +144,56 @@ Please [click here](https://www.schoolbag.sg/story/your-grades-do-not-define-yo
 
 ### Strengthening positive Teacher-Student Relationships
 
+<img src="/images/strengthen_positive_tsr.png" 
+     style="width:50%">
+
+Paya Lebar Methodist Girls' School (Sec) has continued to place a premium on enabling positive teacher-student relationships (TSR) to grow in a culture of care. The school’s journey, together with six others which have utilised either Transactional Analysis, Positive Education or Restorative Practices, has been captured and compiled into a book: Strengthening Positive TSR: Learning from the journeys of seven schools.  
+  
+Please [click here](https://www.plmgss.moe.edu.sg/qql/slot/u173/Programme/Useful%20Resources/Strengthening%20Positive%20TSR_Learning%20from%20the%20journeys%20of%20seven%20schools.pdf) to access the book.
+
+### What is Dyslexia?
+
+<img src="/images/dyslexia.png" 
+     style="width:50%">
+
+This resource (What is Dyslexia?) was designed primarily for parents.  
+  
+What is Dyslexia? aims to raise awareness of  the characteristics of dyslexia, dispel some common myths, and provide  strategies that parents can use to support their child with dyslexia at  home.  
+  
+What is Dyslexia? covers three broad areas:  
+
+*   Signs of dyslexia
+*   Common myths about dyslexia
+*   Supporting my child with dyslexia
+*   Helping your child to have a healthy self-esteem
+*   Helping your child with literacy activities (each activity is accompanied by a printable hand-out in PDF format)
+*   Helping your child with homework  
+    
+
+  
+Please [click here](https://www.schoolbag.sg/story/supporting-children-with-dyslexia) for more information.
+
+### How Parents Can Support Their Children in the Learning of Tamil Language in Secondary School
+
+<img src="/images/useful_resource09.jpeg" 
+     style="width:80%">
+		 
+Please [click here](https://www.schoolbag.sg/story/how-parents-can-support-their-children-in-the-learning-of-tamil-language-in-secondary-school?utm_source=newsletter&utm_medium=email&utm_campaign=2016#.Vv3N6z-NPP5) to read the article.  
+
+### Healthy Meals in Schools Programme
+
+
+<img src="/images/healthy_meal.png" 
+     style="width:50%">
+
+This brochure provides parents with tips to reinforce healthy eating habits.
+
+  
+Please click this [Parents’ Booklet](/files/HPB%20HM%20Parents'%20Booklet_School_Generic_30%20Mar.pdf) for details.  
+  
+Source: Health Promotion Board
+
+# 3. Academic Support
+
+### Providing Social and Emotional Support for your child
+
