@@ -201,3 +201,51 @@ Source: Health Promotion Board
      style="width:70%">
 
 **[This brochure](/files/trifold-brochure.pdf)** provides an overview of resources for parents in providing social and emotional support.
+
+### Relating Well with Our Children
+
+<img src="/images/relating-well-with-your-child.jpeg" 
+     style="width:70%">
+		 
+Communicating with our children is one of our best ways of building bonds. How can we help our children know that we care for them? [**Here are tips**](/files/relating-well-with-your-child.pdf) on relating well with our children through active listening and S.P.A.C.E.
+
+### Resources for students on Note-taking, Listening, Participation Tips
+
+Source: Dartmouth College, USA  
+[https://www.dartmouth.edu/~acskills/success/notes.html](https://www.dartmouth.edu/~acskills/success/notes.html)  
+
+### Resources for students on Study skills: Time management, Reading, Note-taking, IT literacy, Research & Library skills
+
+Source: University of Cambridge  
+[https://www.admin.cam.ac.uk/univ/plagiarism/students/skills/](https://www.admin.cam.ac.uk/univ/plagiarism/students/skills/)  
+
+### breathe Brochures from HPB
+
+<p><a href="/files/stress-busters.pdf">
+<img src="/images/useful_resource01.png" style="width:50%">
+</a></p>
+
+Click on image to find out how you can overcome stress and free yourself to release the potential within you!
+
+<p><a href="/files/power-of-positive-thinking.pdf">
+<img src="/images/useful_resource02.png" style="width:50%">
+</a></p>
+
+Click on image to find out how you can choose to think positively for a more rewarding and fulfilling life.
+
+<p><a href="/files/being-emo-chic.pdf">
+<img src="/images/useful_resource01a.png" style="width:50%">
+</a></p>
+
+Click on image to find out how you can manage your emotions
+
+### Stay Cool! Beat Stress
+
+
+<p><a href="/files/Stay%20Cool!%20Beat%20Stress.pdf">
+<img src="/images/useful_resource03.png" style="width:50%">
+</a></p>
+
+This 16-page booklet by the Health Promotion Board (HPB) gives some tips on how to manage stress and other challenges. Click on image to find out how you can beat exam stress.
+
+[
