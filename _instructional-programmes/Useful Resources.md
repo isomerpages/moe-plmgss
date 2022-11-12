@@ -242,7 +242,7 @@ Click on image to find out how you can manage your emotions
 ### Stay Cool! Beat Stress
 
 <p><a href="/files/Stay%20Cool!%20Beat%20Stress.pdf">
-<img src="/images/useful_resource03.png" style="width:50%">
+<img src="/images/useful_resource03.png" style="width:40%">
 </a></p>
 
 This 16-page booklet by the Health Promotion Board (HPB) gives some tips on how to manage stress and other challenges. Click on image to find out how you can beat exam stress.
@@ -250,7 +250,7 @@ This 16-page booklet by the Health Promotion Board (HPB) gives some tips on how 
 ### Manage Stress Before It Manages You
 
 <p><a href="/files/Manage%20Stress%20Before%20It%20Manages%20You.pdf">
-<img src="/images/useful_resource04.png" style="width:50%">
+<img src="/images/useful_resource04.png" style="width:40%">
 </a></p>
 
 
@@ -259,14 +259,14 @@ This booklet by the HPB informs adults about the sources and signs of stress. It
 ### It's Exams Time!
 
 <p><a href="/files/Its%20exams%20time_for%20students%20(green).pdf">
-<img src="/images/useful_resource06.jpeg" style="width:50%">
+<img src="/images/useful_resource06.jpeg" style="width:40%">
 </a></p>
 
 This is a poster that serves to remind students on what to do before, during and after exams with the aim to help them manage their stress better. Click on image to download the poster.
 
 ### Bookmark for parents
 
-<img src="/images/useful_resource05.jpeg" style="width:50%">
+<img src="/images/useful_resource05.jpeg" style="width:40%">
 
 This is a bookmark that provides parents with tips on how to be there for their child during the exams period. Click on image to download the bookmark.
 
