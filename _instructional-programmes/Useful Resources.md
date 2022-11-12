@@ -276,6 +276,8 @@ This is a bookmark that provides parents with tips on how to be there for their 
 
 [Click here](https://www.schoolbag.sg/story/guide-for-parents-on-setting-parental-controls#.V6vizvl96Un) to read the article.
 
+
+
 ### Time management Resource
 
 Developing time management skills is an important part of life. We seek to help our girls become aware of how they use their time in the context of competing demands on their time. Click on [this link](https://www.plmgss.moe.edu.sg/qql/slot/u173/images/DOC/Revised%20PL-Lite%E2%80%99s%20Tips%20on%20Time%20Management.docx) to download time management tips and a blank daily time-table for planning the use of one’s time.
