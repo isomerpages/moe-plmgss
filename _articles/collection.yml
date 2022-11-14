@@ -2,6 +2,7 @@ collections:
   articles:
     output: true
     order:
+      - Guidelines on Parents’ Communication with the School.md
       - Principal's Letter to Parents.md
       - National Digital Literacy Programme (NDLP).md
       - Musical Montage Virtual Concert.md
