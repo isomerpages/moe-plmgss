@@ -34,3 +34,23 @@ As part of the MOE Personalised Digital Learning Programme (PDLP), all Sec 1 stu
 Please access the following for more information:  
   
 **PLMG(Sec) – Summary of PDLP Information for Parents (28 Feb 2022)**
+
+<img src="/images/pdlp2022.png" 
+     style="width:75%">
+
+Please **[click here](https://www-plmgss-moe-edu-sg-admin.cwp.sg/qql/slot/u173/images/PDF/2022/NDLP/PLMGSec%20-%20Summary%20of%20PDLP%20Information%20for%20Parents%2028%20Feb%202022.pdf)** for the summary of PDLP information briefing slides  
+Please **[click here](https://www-plmgss-moe-edu-sg-admin.cwp.sg/qql/slot/u173/images/PDF/2022/NDLP/FAQs%20for%20Parents%20on%20PLDs%20Purchase%2028%20Feb%202022.pdf)** for the FAQs for Parents on PLDs Purchase (28 Feb 2022)  
+  
+For further enquiries:  
+  
+For purchase of PLDs:  <br>
+Email PLMGSS’s IT Support Team via  [IT_support@plmgss.edu.sg](mailto:IT_support@plmgss.edu.sg)  
+  
+For financial assistance questions:  <br>
+PLMGS(Sec) General Office  <br>
+Tel: 6281 6606  <br>
+Attention to Admin Manager, Ms Toh  
+  
+To check the child’s Edusave account balance (for Singapore Citizen), call Tel: 6260 0777
+
+### PLMGS(Sec) Blended Learning Implementation (HBL) briefing on 19 Jan 2022
