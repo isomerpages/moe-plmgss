@@ -2,5 +2,6 @@ collections:
   articles:
     output: true
     order:
+      - Principal's Letter to Parents.md
       - National Digital Literacy Programme (NDLP).md
       - Musical Montage Virtual Concert.md
