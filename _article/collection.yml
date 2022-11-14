@@ -1,0 +1,4 @@
+collections:
+  article:
+    output: true
+    order: []
