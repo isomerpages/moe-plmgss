@@ -38,9 +38,10 @@ Please access the following for more information:
 <img src="/images/pdlp2022.png" 
      style="width:75%">
 
-Please **[click here](https://www-plmgss-moe-edu-sg-admin.cwp.sg/qql/slot/u173/images/PDF/2022/NDLP/PLMGSec%20-%20Summary%20of%20PDLP%20Information%20for%20Parents%2028%20Feb%202022.pdf)** for the summary of PDLP information briefing slides  
-Please **[click here](https://www-plmgss-moe-edu-sg-admin.cwp.sg/qql/slot/u173/images/PDF/2022/NDLP/FAQs%20for%20Parents%20on%20PLDs%20Purchase%2028%20Feb%202022.pdf)** for the FAQs for Parents on PLDs Purchase (28 Feb 2022)  
-  
+Please **[click here](/files/PLMGSec%20-%20Summary%20of%20PDLP%20Information%20for%20Parents%2028%20Feb%202022.pdf)** for the summary of PDLP information briefing slides  
+
+Please **[click here](/files/FAQs%20for%20Parents%20on%20PLDs%20Purchase%2028%20Feb%202022.pdf)** for the FAQs for Parents on PLDs Purchase (28 Feb 2022)  
+
 For further enquiries:  
   
 For purchase of PLDs:  <br>
@@ -54,3 +55,15 @@ Attention to Admin Manager, Ms Toh
 To check the child’s Edusave account balance (for Singapore Citizen), call Tel: 6260 0777
 
 ### PLMGS(Sec) Blended Learning Implementation (HBL) briefing on 19 Jan 2022
+
+<img src="/images/HBL%20Briefing%2019%20Jan%202022.jpeg" 
+     style="width:75%">
+
+Please [click here](/files/PLMGSSec%20Blended%20Learning%20Implementation%20HBL%20briefing%20on%2019%20Jan%202022.pdf) for the briefing slides.
+
+  
+
+Please click here for the [FAQs for students on HBL Days 2022](/files/FAQs%20for%20students%20on%20HBL%20Days%202022.pdf)  
+
+Please click here for the [PEARLS Checklist for HBL](/files/PEARLS%20Checklist%20for%20HBL.pdf)
+
