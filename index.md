@@ -1,8 +1,8 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
-image: /images/isomer-logo.svg
+title: Paya Lebar Methodist Girls' School
+description: An Isomer site of the Singapore Government
+image: /images/school logo.jpeg
 permalink: /
 notification: Here's a notification bar you can use!
 sections:
@@ -58,3 +58,4 @@ sections:
       image: /images/co-curricular programmes.png
       alt: co-curricular programmes
 ---
+
