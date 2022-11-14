@@ -48,3 +48,14 @@ Please click on the links below to view the Principal's Letter to Parents:
 * [2019 - Term 2 Principal's Letter to Parents.pdf](/files/2019%20-%20Term%202%20Principal's%20Letter%20to%20Parents.pdf)
 * [2019 - Term 1 Thanksgiving Principal's Letter to Parents.pdf](/files/2019%20-%20Term%201%20Thanksgiving%20Principal's%20Letter%20to%20Parents.pdf)
 * [2019 - Term 1 Principal's Letter to Parents.pdf](/files/2019%20-%20Term%201%20Principal's%20Letter%20to%20Parents.pdf)
+
+### Year 2018
+
+* [letter_term4_thanksgiving_parents_2018.pdf](/files/letter_term4_thanksgiving_parents_2018.pdf)
+* [letter_term4_parents_2018.pdf](/files/letter_term4_parents_2018.pdf)
+* [letter_term3_thanksgiving_parents_2018.pdf](/files/letter_term3_thanksgiving_parents_2018.pdf)
+* [letter_term3_parents_2018.pdf](/files/letter_term3_parents_2018.pdf)
+* [letter_term2_thanksgiving_parents_2018v2.pdf](/files/letter_term2_thanksgiving_parents_2018v2.pdf)
+* [letter_term2_parents_2018.pdf](/files/letter_term2_parents_2018.pdf)
+* [letter_term1_thanksgiving_parents_2018v2.pdf](/files/letter_term1_thanksgiving_parents_2018v2.pdf)
+* [letter_term1_parents_2018.pdf](/files/letter_term1_parents_2018.pdf)
