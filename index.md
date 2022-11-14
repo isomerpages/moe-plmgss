@@ -12,12 +12,12 @@ sections:
       button: Contact Us
       url: /contact-us/
       key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
-          url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
-          url: https://gmail.com
+        - title: Announcements
+          description: Click here to read more
+          url: /announcements/plmgs-sec-booklist-for-2023/
+        - title: Events & Highlights
+          description: Click here to read more
+          url: /about-us/pl-epistle/2021/march-2021
   - infopic:
       title: PL Parcel
       description: A Read Worth Your Time
