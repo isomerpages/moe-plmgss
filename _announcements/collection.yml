@@ -2,6 +2,7 @@ collections:
   announcements:
     output: true
     order:
+      - 2022 Semester 2 Timetable.md
       - PLMGS(S) School Magazine 2021.md
       - Post 4NA Education Pathways Webinar Slides.md
       - PL Memories 2022 Flipbook (for Graduating Classes of 2022).md
