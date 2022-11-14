@@ -2,15 +2,15 @@ collections:
   announcements:
     output: true
     order:
-      - Road Safety and Traffic Management Plan.md
-      - School Canteen Feedback.md
-      - PL Virtual Symphony of Praise Concert 2021.md
-      - 2022 JAE, JIE N & JIE O Information Booklet.md
-      - 2022 PMP Presentation Slides.md
-      - 2022 Semester 2 Timetable.md
-      - PLMGS(S) School Magazine 2021.md
-      - Post 4NA Education Pathways Webinar Slides.md
-      - PL Memories 2022 Flipbook (for Graduating Classes of 2022).md
-      - 2023 Sec 3 Subject Combinations for Sec 2 Students (2022).md
-      - 2022 Nov & Dec CCA Training Schedule.md
       - PLMGS(Sec) Booklist for 2023.md
+      - 2022 Nov & Dec CCA Training Schedule.md
+      - 2023 Sec 3 Subject Combinations for Sec 2 Students (2022).md
+      - PL Memories 2022 Flipbook (for Graduating Classes of 2022).md
+      - Post 4NA Education Pathways Webinar Slides.md
+      - PLMGS(S) School Magazine 2021.md
+      - 2022 Semester 2 Timetable.md
+      - 2022 PMP Presentation Slides.md
+      - 2022 JAE, JIE N & JIE O Information Booklet.md
+      - PL Virtual Symphony of Praise Concert 2021.md
+      - School Canteen Feedback.md
+      - Road Safety and Traffic Management Plan.md
