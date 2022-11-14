@@ -39,9 +39,22 @@ sections:
       url: /articles/announcements/musical-montage-virtual-concert/
       image: /images/musical_montage.png
   - infopic:
-      title: Infopic Title
+      title: National Digital Literacy Programme
+      button: Click here
+      alt: NDLP
+      image: /images/NDLP.png
+      url: /articles/announcements/national-digital-literacy-programme-ndlp/
+  - infopic:
+      title: Instructional Programme
+      button: Click Here
+      url: /instructional-programmes/ip-overview/
+      image: /images/instructional programmes.png
+      alt: Instructional Programmes
+  - infopic:
+      title: Co-Curricular Programmes
       subtitle: Infopic Subtitle
-      description: Infopic description
-      button: Button Text
-      alt: Image alt text
+      button: Click Here
+      url: /co-curricular-programmes/cca-overview/
+      image: /images/co-curricular programmes.png
+      alt: co-curricular programmes
 ---
