@@ -33,6 +33,12 @@ sections:
       image: /images/PL e-open house.png
       alt: E-Open House
   - infopic:
+      title: Musical Montage Virtual Concert
+      button: Click Here
+      alt: virtual concert
+      url: /articles/announcements/musical-montage-virtual-concert/
+      image: /images/musical_montage.png
+  - infopic:
       title: Infopic Title
       subtitle: Infopic Subtitle
       description: Infopic description
