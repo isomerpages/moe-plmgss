@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Contact Us.md
       - Our Principal.md
       - Our School/.keep
       - Our School/Our Heritage.md
@@ -18,8 +17,8 @@ collections:
       - Our School/Our Songs.md
       - Our School/Our Cheer.md
       - Our School/Our School Prayer.md
-      - Our Staff/Staff Emails.md
       - Our Staff/.keep
+      - Our Staff/Staff Emails.md
       - Our Staff/Our Staff.md
       - Year and Monthly Themes.md
       - Published News.md
@@ -43,3 +42,4 @@ collections:
       - School Admission/Direct School Admission (DSA SEC).md
       - School Admission/Returning Singaporeans.md
       - School Admission/International Students.md
+      - Contact Us.md
