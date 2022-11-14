@@ -25,4 +25,11 @@ sections:
       url: /about-us/pl-epistle/pl-parcel/
       image: /images/PL Parcel.png
       alt: PL Parcel
+  - infopic:
+      title: PL e-Open House
+      description: Enriched to life's greatest call !
+      button: Click Here
+      url: https://sites.google.com/moe.edu.sg/plmgssec-virtual-open-house/welcome
+      image: /images/PL e-open house.png
+      alt: E-Open House
 ---
