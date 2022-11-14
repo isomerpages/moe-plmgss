@@ -58,4 +58,3 @@ sections:
       image: /images/co-curricular programmes.png
       alt: co-curricular programmes
 ---
-
