@@ -67,3 +67,23 @@ Please click here for the [FAQs for students on HBL Days 2022](/files/FAQs%20fo
 
 Please click here for the [PEARLS Checklist for HBL](/files/PEARLS%20Checklist%20for%20HBL.pdf)
 
+### COS 2021 Information on Blended Learning
+
+<img src="/images/COS%202021%20Information%20on%20Blended%20Learning.png" 
+     style="width:75%">
+		 
+		 
+Please [click here]([](/files/cos-2021-overview.pdf)) for COS 2021 Information on Blended Learning.
+
+### Student Device Information Kit (Lenovo 500e 2nd Gen Device)
+
+<img src="/images/Student%20Device%20Information%20Kit.png" 
+     style="width:75%">
+
+Please [click here](/files/Student%20Device%20Information%20Kit%20Lenovo%20500e%202nd%20Gen%20Device.pdf) for the resources.
+
+
+### COS 2020 Announcement on National Digital Literacy Programme in Schools
+
+
+Please [click here](https://www.moe.gov.sg/microsites/cos2020/refreshing-our-curriculum/strengthen-digital-literacy.html) for more information.
