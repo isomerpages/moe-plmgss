@@ -22,3 +22,7 @@ Please click on the links below to view the Principal's Letter to Parents:
 * [PLSec Welcomes our new Principal in 2022.pdf](/files/PLSec%20Welcomes%20our%20new%20Principal%20in%202022.pdf)
 * [2021 - Term 3 Thanksgiving Principals Letter to Parents.pdf](/files/2021%20-%20Term%203%20Thanksgiving%20Principals%20Letter%20to%20Parents.pdf)
 * [2021 - Term 3 Principals Letter to Parents.pdf](/files/2021%20-%20Term%203%20Principals%20Letter%20to%20Parents.pdf)
+* [2021 - Term 2 Thanksgiving Principals Letter to Parents.pdf](/files/2021%20-%20Term%202%20Thanksgiving%20Principals%20Letter%20to%20Parents.pdf)
+* [2021 - Term 2 Principal Letter to Parents.pdf](/files/2021%20-%20Term%202%20Principal%20Letter%20to%20Parents.pdf)
+* [2021 - Term 1 Thanksgiving Principals Letter to Parents.pdf](/files/2021%20-%20Term%201%20Thanksgiving%20Principals%20Letter%20to%20Parents.pdf)
+* [2021 - Term 1 Principals Letter to Parents.pdf](/files/2021%20-%20Term%201%20Principals%20Letter%20to%20Parents.pdf)
