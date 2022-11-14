@@ -23,3 +23,16 @@ description: ""
 
   
 Follow us on:
+
+<p><a href="https://www.facebook.com/PAYALEBARMGS/">
+<img src="/images/fb.png" style="width:10%" align ="left">
+</a></p>
+
+<p><a href="https://www.instagram.com/myplstory/?hl=en">
+<img src="/images/insta.png" style="width:10%" align ="left">
+</a></p>
+
+
+<p><a href="https://www.youtube.com/channel/UCYt7DqDzhirCcpQI7hcxo9g">
+<img src="/images/youtube.png" style="width:15%" align ="left">
+</a></p>
