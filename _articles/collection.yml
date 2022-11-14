@@ -1,5 +1,5 @@
 collections:
-  article:
+  articles:
     output: true
     order:
       - Musical Montage Virtual Concert.md
