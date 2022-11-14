@@ -19,7 +19,7 @@ description: ""
   
 [For Staff Emails, please click here](https://www.plmgss.moe.edu.sg/about-us/our-staff/staff-emails)
 
-- Please [click here](https://www.plmgss.moe.edu.sg/articles/guidelines-on-parents-communication-with-the-school) for **Guidelines on Parents’ Communication with the School**  
+- Please [click here](https://staging.d31lf6q9623hn3.amplifyapp.com/articles/guidelines-on-parents-communication-with-the-school/) for **Guidelines on Parents’ Communication with the School**  
 
   
 Follow us on:
