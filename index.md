@@ -32,4 +32,10 @@ sections:
       url: https://sites.google.com/moe.edu.sg/plmgssec-virtual-open-house/welcome
       image: /images/PL e-open house.png
       alt: E-Open House
+  - infopic:
+      title: Infopic Title
+      subtitle: Infopic Subtitle
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
 ---
