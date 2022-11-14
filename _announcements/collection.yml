@@ -2,4 +2,5 @@ collections:
   announcements:
     output: true
     order:
+      - 2022 Nov & Dec CCA Training Schedule.md
       - PLMGS(Sec) Booklist for 2023.md
