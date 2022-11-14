@@ -25,3 +25,9 @@ Thank you again for attending our Principal-Meet-Parents session held recently. 
 **Secondary 4 & 5 PMP Slides**
 
 * [Secondary 4 & 5 PMP (IP Talk).pdf](/files/Secondary%204%20&%205%20PMP%20(IP%20Talk).pdf)
+
+**ECG Talk for Upper Secondary Slides**
+
+* [ECG - Express - Post Sec Pathways.pdf](/files/ECG%20-%20Express%20-%20Post%20Sec%20Pathways.pdf)
+* [ECG - NA - Post Sec Options & ECG updates.pdf](/files/ECG%20-%20NA%20-%20Post%20Sec%20Options%20&%20ECG%20updates.pdf)
+* [ECG - NT - Post Sec Pathways.pdf](/files/ECG%20-%20NT%20-%20Post%20Sec%20Pathways.pdf)
