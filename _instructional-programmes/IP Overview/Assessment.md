@@ -4,7 +4,7 @@ permalink: /instructional-programmes/ip-overview/assessment/
 description: ""
 third_nav_title: IP Overview
 ---
-### 2022 Assessment for students in Sec 1, 2 and 3 Exp/NA/NT  
+### 2023 Assessment for students in Sec 1, 2 and 3 Exp/NA/NT  
 
 1.  Assessment in the form of class assignments, tests and examinations are planned with the intent to enable your daughter/ward to evaluate and chart her learning progress in consultation with her teachers. These marks will be used for promotion at the end of the year. It will also enable the teachers to provide targeted assistance to strengthen her learning.  
       
@@ -26,7 +26,7 @@ third_nav_title: IP Overview
 <thead>
   <tr>
     <th class="tg-2fwu">Term 1 WA<br>(1 WA through Alternative Assessment or test)</th>
-    <th class="tg-2fwu">Term 2 WA<br> (Common Test)</th>
+    <th class="tg-2fwu">Term 2 WA<br> (1 WA through Alternative Assessment or test)</th>
     <th class="tg-2fwu">Term 3 WA<br> (1 WA through Alternative Assessment or test)</th>
     <th class="tg-2fwu">EOY Exam in Term 4</th>
   </tr>
@@ -69,6 +69,10 @@ third_nav_title: IP Overview
   </tr>
 </tbody>
 </table>
+
+5. Assessments in non-Tamil Indian Languages (e.g. Punjabi) and Foreign Languages are conducted at the MOE Language Centres. An overall grade will be given by the Centres and this grade will be taken as the student’s EOY Examinations result.
+
+6. The school will conduct WAs continuously in Term 1 & 2 for students. This will minimise disruption to curriculum, CCAs and other school related enrichment activities. Please help us to ensure that your daughter/ward revises her work consistently and is prepared for the various assessments.
 
 7. After the tests/examinations, the assessment paper will be returned to your daughter/ward. Please ensure that she keeps you informed of her performance by showing you the assessment papers.  
       
