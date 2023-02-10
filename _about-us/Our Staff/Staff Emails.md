@@ -71,6 +71,10 @@ third_nav_title: Our Staff
     <td class="tg-citn"><img src="/images/wong%20yu%20ting.jpg" style="width:25%"><br>Mrs Wong Yu Ting<br><a href="mailto:hiew_yu_ting@moe.edu.sg"><span style="text-decoration:underline;color:#454545">hiew_yu_ting@moe.edu.sg</span></a><br></td>
     <td class="tg-citn">School Staff Developer</td>
   </tr>
+  <tr>
+    <td class="tg-citn"><img src="/images/wong%20yu%20ting.jpg" style="width:25%"><br>Mrs Wong Yu Ting<br><a href="mailto:hiew_yu_ting@moe.edu.sg"><span style="text-decoration:underline;color:#454545">hiew_yu_ting@moe.edu.sg</span></a><br></td>
+    <td class="tg-citn">School Staff Developer</td>
+  </tr>
 </tbody>
 </table>
 
