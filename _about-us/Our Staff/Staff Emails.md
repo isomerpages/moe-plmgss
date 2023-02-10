@@ -325,7 +325,7 @@ third_nav_title: Our Staff
 <table class="tg">
 <thead>
   <tr>
-    <td class="tg-fwnj"><img src="/images/Ms%20Rachel%20Lee%20Siew%20Fen1.jpg" alt="Ms Rachel Lee Siew Fen1.jpg" style="width:25%"><br>Ms Rachel Lee<br><a href="mailto:rachel_lee_siew_fen@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#454545">rachel_lee_siew_fen@moe.edu.sg</span></a></td>
+    <td class="tg-0lax"><img src="/images/Ms%20Rachel%20Lee%20Siew%20Fen1.jpg" alt="Ms Rachel Lee Siew Fen1.jpg" style="width:25%"><br>Ms Rachel Lee<br><a href="mailto:rachel_lee_siew_fen@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#454545">rachel_lee_siew_fen@moe.edu.sg</span></a></td>
   </tr>
 </thead>
 </table>
