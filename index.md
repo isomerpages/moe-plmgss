@@ -51,7 +51,6 @@ sections:
       alt: Instructional Programmes
   - infopic:
       title: Co-Curricular Programmes
-      subtitle: Infopic Subtitle
       button: Click Here
       url: /co-curricular-programmes/cca-overview/
       image: /images/co-curricular programmes.png
