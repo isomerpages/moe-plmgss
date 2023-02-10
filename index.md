@@ -8,7 +8,7 @@ notification: Here's a notification bar you can use!
 sections:
   - hero:
       title: Paya Lebar Methodist Girls' Secondary School
-      background: /images/hero banner.gif
+      background: /images/hero_image2023.jpg
       button: Contact Us
       url: /contact-us/
       key_highlights:
