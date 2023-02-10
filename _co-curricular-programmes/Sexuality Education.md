@@ -8,7 +8,7 @@ description: ""
         <strong>PAYA LEBAR METHODIST GIRLS’ SCHOOL (SECONDARY)</strong>
     </p>
     <p style="text-align: justify;">
-        <strong>MOE Sexuality Education in Schools<br><br></strong>
+        <strong>MOE Sexuality Education in Schools</strong>
     </p>
     <p style="text-align: justify;">
         1. Sexuality Education (SEd) in schools is about enabling students to
@@ -21,7 +21,7 @@ description: ""
         nuclear family units with extended family support. The teaching and
         learning of SEd is based on respect for the values and beliefs of the
         different ethnic and religious communities in Singapore on sexuality
-        issues. <br></p><p style="text-align: justify;"><br></p>
+        issues.</p><p style="text-align: justify;"></p>
     <p style="text-align: justify;">
         2. The <strong>Goals</strong> of Sexuality Education are to:
     </p>
@@ -40,7 +40,7 @@ relationships through the acquisition of        <u>social and emotional skills</
     <p style="text-align: justify;">
         (c) To help students develop a moral compass, respect for themselves
         and for others as sexual beings, premised on the family as the basic
-unit of society, through the inculcation of        <u>positive mainstream values and attitudes</u> about sexuality. <br></p><p style="text-align: justify;"><br></p>
+unit of society, through the inculcation of        <u>positive mainstream values and attitudes</u> about sexuality. <br></p><p style="text-align: justify;"></p>
     <p style="text-align: justify;">
         3. The <strong>Key Messages</strong> of Sexuality Education are:
     </p>
@@ -59,7 +59,7 @@ unit of society, through the inculcation of        <u>positive mainstream values
         (d) Abstinence before marriage is the best protection against STIs/HIV
         and unintended pregnancies. Casual sex can harm and hurt you and your
         loved ones.
-    <br><br></p>
+<br></p>
     <p style="text-align: justify;">
 You may click <b><a href="https://go.gov.sg/moe-sexuality-education">here</a></b> for more information on MOE Sexuality Education.
     </p>
@@ -84,7 +84,7 @@ You may click <b><a href="https://go.gov.sg/moe-sexuality-education">here</a></b
         five main themes: Human Development, Interpersonal Relationships,
         Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may
 click        <a href="https://go.gov.sg/moe-sexuality-education-scope">here</a> for more information on the scope of Sexuality Education in the
-        school curriculum. <br></p><p style="text-align: justify;"><br></p>
+        school curriculum. <br></p><p style="text-align: justify;"></p>
     <p style="text-align: justify;">
         5. The subjects that incorporate topics on sexuality include:
     </p>
@@ -92,7 +92,7 @@ click        <a href="https://go.gov.sg/moe-sexuality-education-scope">here</a> 
         a. Science
     </p>
     <p style="text-align: justify;">
-        b. Character and Citizenship Education (CCE) <br></p><p style="text-align: justify;"><br></p>
+        b. Character and Citizenship Education (CCE) <br></p><p style="text-align: justify;"></p>
     <p style="text-align: justify;">
         <strong><u>Sexuality Education Lessons</u></strong>
         :
@@ -113,7 +113,7 @@ click        <a href="https://go.gov.sg/moe-sexuality-education-scope">here</a> 
         pressures faced by the middle adolescent from within themselves and
         from peers, it is important to build a strong sense of self-worth,
         personal conviction and an understanding of the possible consequences
-        of sexual behaviour. <br></p><p style="text-align: justify;"><br></p>
+        of sexual behaviour. <br></p><p style="text-align: justify;"></p>
     <p style="text-align: justify;">
         7. Through the Sexuality Education lessons, secondary students will
         have the opportunity to develop a positive self-esteem, develop their
@@ -1531,7 +1531,7 @@ At the end of the lesson, students will be able to:                        <em><
         in collaboration with the Ministry of Education, to provide Secondary 3
         students with accurate information on STIs, HIV and protection from a
         health perspective. <em>eTeens</em> is conducted in two segments – a
-        mass talk segment and a classroom-based programme. <br></p><p><br></p>
+        mass talk segment and a classroom-based programme. <br></p>
     <p>
         9. Students are taught skills such as decision-making, assertiveness
         and negotiation to say “no” to sex and negative peer pressure. They
@@ -1539,15 +1539,11 @@ At the end of the lesson, students will be able to:                        <em><
         involves their family. Abstinence and upholding family values are the
         key messages. The desired outcome of the <em>eTeens</em> programme is
         that students are empowered to make wise, informed and sensible
-        decisions.</p><p><br>
-    </p>
+        decisions.</p>
     <p>
         <strong>
-At Paya Lebar Methodist Girls’ School (Secondary), the            <em>eTeens</em> programme will be implemented as follows in 2023: <br></strong></p><p><strong><br></strong>
-    </p>
-    <p>
-        <strong> </strong>
-    </p>
+At Paya Lebar Methodist Girls’ School (Secondary), the            <em>eTeens</em> programme will be implemented as follows in 2023: 
+
     
 <div>
         
@@ -1675,15 +1671,15 @@ At Paya Lebar Methodist Girls’ School (Secondary), the            <em>eTeens</
     <p>
         10. Parents may opt their children out of the Sexuality Education
         lessons, <em>eTeens</em> and/or supplementary sexuality education
-        programmes by MOE-approved external providers. <br></p><p><br></p>
+        programmes by MOE-approved external providers. </p><p></p>
     <p>
 11. Parents who wish to opt their children out of the        <strong>Sexuality Education lessons</strong> need to complete an
-        <a href="/qql/slot/u173/Programme/Co-Curricular Programme/Sexuality Education/2023/Annex A Sexuality Opt out Form Sec 2023.pdf" target="_blank">opt-out form (Annex A)</a>. The completed form is to be submitted to the
-        form teacher by 19/01/2023. <br></p><p><br></p>
+        opt-out form (Annex A). The completed form is to be submitted to the
+        form teacher by 19/01/2023. </p>
     <p>
 12. Parents who wish to opt their children out of the        <strong><em>eTeens</em></strong><strong> programme</strong> need to
-        complete an <a href="/qql/slot/u173/Programme/Co-Curricular Programme/Sexuality Education/2023/Annex B eTeens Parents Opt out Form Sec 2023.pdf" target="_blank">opt-out form (Annex B)</a>. The completed form is to be
-        submitted to the form teacher by 19/01/2023. <br></p><p><br></p>
+        complete an opt-out form (Annex B). The completed form is to be
+        submitted to the form teacher by 19/01/2023.</p><p></p>
     <p>
         13. Parents can contact the school at 6281 6606 or email Mrs Low Hwee
 Hwee (HOD CCE) at        <a href="mailto:oh_hwee_hwee@moe.edu.sg" target="">oh_hwee_hwee@moe.edu.sg</a>
