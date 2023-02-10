@@ -26,16 +26,16 @@ third_nav_title: Our Staff
 </thead>
 <tbody>
   <tr>
-    <td class="tg-pz2b"><img src="/images/amy_ng2023tn.jpg" alt="amy_ng2.jpg" style="width:25%"><br>Ms Amy Ng<br><a href="mailto:plmgss@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#454545">plmgss@moe.edu.sg</span></a><br></td>
-    <td class="tg-pz2b">Principal</td>
+    <td class="tg-citn"><img src="/images/amy_ng2023tn.jpg" alt="amy_ng2.jpg" style="width:25%"><br>Ms Amy Ng<br><a href="mailto:plmgss@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#454545">plmgss@moe.edu.sg</span></a><br></td>
+    <td class="tg-citn">Principal</td>
   </tr>
   <tr>
     <td class="tg-citn"><img src="/images/Selina%20Lum.jpg" alt="Selina Lum.JPG" style="width:25%"><br>Mrs Lum Selina<br><a href="mailto:plmgss@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#454545">plmgss@moe.edu.sg</span></a></td>
     <td class="tg-citn">Vice-Principal (EO)<br></td>
   </tr>
   <tr>
-    <td class="tg-pz2b"><img src="/images/William%20Chu%20Tai%20Hong.jpg" alt="William Chu Tai Hong.JPG" style="width:25%"><br>Mr William Chu Tai Hong<br><a href="mailto:plmgss@moe.edu.sg"><span style="text-decoration:underline;color:#454545">plmgss@moe.edu.sg</span></a></td>
-    <td class="tg-pz2b">Vice-Principal (Administration)<br></td>
+    <td class="tg-citn"><img src="/images/William%20Chu%20Tai%20Hong.jpg" alt="William Chu Tai Hong.JPG" style="width:25%"><br>Mr William Chu Tai Hong<br><a href="mailto:plmgss@moe.edu.sg"><span style="text-decoration:underline;color:#454545">plmgss@moe.edu.sg</span></a></td>
+    <td class="tg-citn">Vice-Principal (Administration)<br></td>
   </tr>
 </tbody>
 </table>
@@ -54,14 +54,18 @@ third_nav_title: Our Staff
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-citn"><img src="/images/li%20wei%20te.jpg" alt="li wei te.jpg" style="width:25%"><br>Mr Lee Wei Te <br><a href="mailto:lee_wei_te@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#454545">lee_wei_te@moe.edu.sg</span></a><br></th>
-    <th class="tg-citn"><span style="color:black">Instructional Programme</span><br><br><span style="color:black">HOD</span> <span style="color:black">Infocomm Technology (ICT)</span><br></th>
+    <th class="tg-citn"><img src="/images/Tan_Tiah_hui.jpg" alt="Image" style="width:25%"><br><span style="color:black">Mr Tan Tiah Hui</span><br><a href="mailto:tan_tiah_hui@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#454545">tan_tiah_hui@moe.edu.sg</span></a><br></th>
+    <th class="tg-citn"><span style="color:black">Instructional Programme</span><br><span style="color:black">HOD</span> <span style="color:black">ICT & Data</span><br></th>
   </tr>
 </thead>
 <tbody>
-  <tr>
-    <td class="tg-pz2b"><img src="/images/Lim_Lin_Lin.jpg" alt="Lim_Lin_Lin.jpg" style="width:25%"><br>Ms Lim Lin Lin<br><a href="mailto:lim_lin_lin@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#454545">lim_lin_lin@moe.edu.sg</span></a></td>
-    <td class="tg-pz2b">Co-Curricular Programme<br><span style="color:black">Year Head (Upper Secondary)</span><br><br></td>
+<tr>
+    <td class="tg-citn"><img src="/images/ohhweehwee.jpg" alt="ohhweehwee.jpg" style="width:25%"><br>Mrs Low Hwee Hwee<br><a href="mailto:oh_hwee_hwee@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#454545">oh_hwee_hwee@moe.edu.sg</span></a></td>
+    <td class="tg-citn">Co-Curricular Programme<br><span style="color:black">HOD CCE</span><br><br></td>
+  </tr> 
+ <tr>
+    <td class="tg-citn"><img src="/images/Lim_Lin_Lin.jpg" alt="Lim_Lin_Lin.jpg" style="width:25%"><br>Ms Lim Lin Lin<br><a href="mailto:lim_lin_lin@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#454545">lim_lin_lin@moe.edu.sg</span></a></td>
+    <td class="tg-citn">Co-Curricular Programme<br><span style="color:black">Year Head (Upper Secondary)</span><br><br></td>
   </tr>
   <tr>
     <td class="tg-citn"><img src="/images/wong%20yu%20ting.jpg" style="width:25%"><br>Mrs Wong Yu Ting<br><a href="mailto:hiew_yu_ting@moe.edu.sg"><span style="text-decoration:underline;color:#454545">hiew_yu_ting@moe.edu.sg</span></a><br></td>
