@@ -26,7 +26,7 @@ third_nav_title: Our Staff
 </thead>
 <tbody>
   <tr>
-    <td class="tg-pz2b"><img src="/images/amy_ng2-1.jpg" alt="amy_ng2.jpg" style="width:25%"><br>Ms Amy Ng<br><a href="mailto:plmgss@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#454545">plmgss@moe.edu.sg</span></a><br></td>
+    <td class="tg-pz2b"><img src="/images/amy_ng2023tn.jpg" alt="amy_ng2.jpg" style="width:25%"><br>Ms Amy Ng<br><a href="mailto:plmgss@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#454545">plmgss@moe.edu.sg</span></a><br></td>
     <td class="tg-pz2b">Principal</td>
   </tr>
   <tr>
@@ -742,6 +742,3 @@ third_nav_title: Our Staff
   </tr>
 </tbody>
 </table>
-
-
-
