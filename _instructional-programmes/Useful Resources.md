@@ -155,7 +155,7 @@ Please [click here](https://www.schoolbag.sg/story/your-grades-do-not-define-yo
 
 Paya Lebar Methodist Girls' School (Sec) has continued to place a premium on enabling positive teacher-student relationships (TSR) to grow in a culture of care. The school’s journey, together with six others which have utilised either Transactional Analysis, Positive Education or Restorative Practices, has been captured and compiled into a book: Strengthening Positive TSR: Learning from the journeys of seven schools.  
   
-Please [click here](https://www.plmgss.moe.edu.sg/qql/slot/u173/Programme/Useful%20Resources/Strengthening%20Positive%20TSR_Learning%20from%20the%20journeys%20of%20seven%20schools.pdf) to access the book.
+Please [click here](/files/Strengthening%20Positive%20TSR_Learning%20from%20the%20journeys%20of%20seven%20schools.pdf) to access the book.
 
 ### What is Dyslexia?
 
