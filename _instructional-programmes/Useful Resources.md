@@ -23,6 +23,12 @@ These skills are summarized in the following posters as a handy collection of po
 
 Please find the relevant Joint Admissions and Intake Admission Exercise booklets
 
+[2022-JIE O-Admission-Booklet.pdf]()
+
+[2023-JAE-Information-Booklet.pdf](/files/2023-JAE-Information-Booklet.pdf)
+
+[2023-JIE N-Information-Booklet.pdf]()
+
 ### Pre-U Chinese Language Elective Programme (CLEP-JC)
 
 
