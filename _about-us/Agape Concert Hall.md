@@ -3,11 +3,8 @@ title: Agape Concert Hall
 permalink: /about-us/agape-concert-hall/
 description: ""
 ---
-***The Agape Concert Hall is open for bookings from 1 Jun 2022 subject to availability. Kindly email completed booking form to [plmgss@moe.edu.sg](mailto:plmgss@moe.edu.sg) if you wish to make a reservation.** 
-
 Completed in March 2007, the Agape Concert Hall is an ideal venue for concerts, plays, seminars, conferences and award ceremonies. The concert hall boasts state-of-art acoustics and is fully-equipped for live recording and multi-media presentations.
 
- 
 At the entrance is a spacious foyer. Backstage is well-equipped with dressing rooms and stage management facilities. The seating capacity is capped at 771. Each guest will enjoy an equally visually and aurally appealing perspective from any angle.
 
 ### Agape Concert Hall Foyer
@@ -26,45 +23,7 @@ At the entrance is a spacious foyer. Backstage is well-equipped with dressing ro
 ![](/images/agape05.jpg)
 
 ### Rental Rates
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-sxkx{background-color:#FFF;color:#454545;text-align:center;vertical-align:top}
-.tg .tg-a4yv{background-color:#DDD;color:#666;font-weight:bold;text-align:center;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-a4yv">Venue</th>
-    <th class="tg-a4yv">Capacity</th>
-    <th class="tg-a4yv">Hourly Rate</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-sxkx">Concert Hall</td>
-    <td class="tg-sxkx">771</td>
-    <td class="tg-sxkx">$400</td>
-  </tr>
-  <tr>
-    <td class="tg-sxkx">Dance Studio</td>
-    <td class="tg-sxkx">100</td>
-    <td class="tg-sxkx">$100</td>
-  </tr>
-</tbody>
-</table>
-
-40% discount for rehearsals (applicable to Concert hall only)  
-
-In addition to venue rental, there will be charges for equipment, technical and other services where applicable. A detailed estimate of costs can be prepared when the requirements of the event are known.
-
-Services for high-definition video recording of the performance is charged at $300.
-
-  
+![](/images/agapehallrentalprice.png)
 
 ### Getting to PLMGS (Sec)
 
@@ -81,9 +40,9 @@ Wheelchair Users: There are ramps and a lift to facilitate access for wheelchair
 
 Please see attached for the Agape Hall Rental Booking details:
 
-[Agape Hall Rental Form with Rental Rates (dated 21 Apr 2022).pdf](/files/Agape%20Hall%20Rental%20Form%20with%20Rental%20Rates%20as%20of%2021%20Apr%202022.pdf)
+[PLMGSS Agape Concert Hall Booking Form 2023.pdf](/files/PLMGSS%20Agape%20Concert%20Hall%20Booking%20Form%202023.pdf)
 
-The Agape Concert Hall is open for bookings from 1 Jun 2022 subject to availability. Kindly email completed booking form to [plmgss@moe.edu.sg](mailto:plmgss@moe.edu.sg) if you wish to make a reservation. 
+Kindly email completed booking form to [plmgss@moe.edu.sg](mailto:plmgss@moe.edu.sg) if you wish to make a reservation. 
   
 **_Note:_** _Deposit paid would not be refundable if Covid situation disallows reservation but can be postponed to the following year. Thank you._ 
 
