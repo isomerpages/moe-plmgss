@@ -7,9 +7,7 @@ description: ""
 
   
 
-**Telephone:**  6281 6606 (General Office)
-
-                        9839 6759 (Whatsapp only)  
+**Telephone:**  6281 6606 (General Office) / 9839 6759 (Whatsapp only)  
   
 **Email:** [plmgss@moe.edu.sg](mailto:plmgss@moe.edu.sg)  
 (Note: Please allow 3-5 working days for reply)  
