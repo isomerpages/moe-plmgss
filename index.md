@@ -26,12 +26,11 @@ sections:
       image: /images/PL Parcel.png
       alt: PL Parcel
   - infopic:
-      title: PL e-Open House
-      description: Enriched to life's greatest call !
+      title: PulSE (Student Initiated Learning)
       button: Click Here
-      url: https://sites.google.com/moe.edu.sg/plmgssec-virtual-open-house/welcome
-      image: /images/PL e-open house.png
-      alt: E-Open House
+      url: https://sites.google.com/moe.edu.sg/pl-sil-pulse
+      image: /images/pulse_banner.jpg
+      alt: PuLSE
   - infopic:
       title: Musical Montage Virtual Concert
       button: Click Here
