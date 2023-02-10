@@ -6,10 +6,10 @@ third_nav_title: IP Overview
 ---
 ### 2023 Assessment for students in Sec 1, 2 and 3 Exp/NA/NT  
 
-1.  Assessment in the form of class assignments, tests and examinations are planned with the intent to enable your daughter/ward to evaluate and chart her learning progress in consultation with her teachers. These marks will be used for promotion at the end of the year. It will also enable the teachers to provide targeted assistance to strengthen her learning.  
+1.  Assessment in the form of class assignments, tests and examinations are planned with the intent to enable your daughter/ward to evaluate and chart her learning progress in consultation with her teachers. These marks will be used for promotion at the end of the year. It will also enable the teachers to provide targeted assistance to strengthen her learning.
       
     
-2.  The assessment for students in the Sec 1, 2 and 3 level will include Termly Weighted Assessments (WAs) as well as one End-of-Year (EOY) Examination.  
+2.  The assessment for students in the Sec 1, 2 and 3 level will include Termly Weighted Assessments (WAs) as well as one End-of-Year (EOY) Examination.
       
     
 3.  The weighting for the WAs and the EOY Examinations is as follows:
@@ -41,7 +41,7 @@ third_nav_title: IP Overview
 </tbody>
 </table>
 
-4. Please note that assessment for some subjects will be conducted as **class tests or coursework.** For subjects such as Design & Technology (D&T) and Food & Consumer Education (FCE), there will not be any EOY Examinations for these two subjects. Hence, their assessment weighting will be:
+4. Please note that assessment for some subjects will be conducted as **class tests or coursework.** For subjects such as Design & Technology (D&T) and Food & Consumer Education (FCE), there will not be any EOY Examinations for these two subjects. Hence, their assessment weighting will be:
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
