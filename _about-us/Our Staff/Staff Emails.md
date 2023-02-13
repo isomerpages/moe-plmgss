@@ -367,7 +367,7 @@ third_nav_title: Our Staff
 </tbody>
 </table>
 
-### Year Coordinators (Year 2022)
+### Year Heads (2023)
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -382,35 +382,26 @@ third_nav_title: Our Staff
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-fwnj"><img src="/images/nur%20zetty%20abd%20kadir.jpg" alt="nur zetty abd kadir.jpg" style="width:25%"><br><span style="font-weight:normal">Ms Nur Zetty</span><br><a href="mailto:nur_zetty_abd_kadir@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="color:#454545">nur_zetty_abd_kadir@moe.edu.sg</span></a></th>
-    <th class="tg-fwnj">S1 Year Coordinator</th>
+   <td class="tg-citn"><img src="/images/koh%20si%20ping.jpg" alt="koh si ping.jpg" style="width:25%"><br>Mrs Koh Si Ping<br><a href="mailto:chan_si_ping@moe.edu.sg"><span style="text-decoration:underline;color:#454545">chan_si_ping@moe.edu.sg</span></a><br></td>
+    <th class="tg-fwnj">Lower Secondary Year Head</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-fwnj"><img src="/images/Eileen%20Sin.jpg" alt="Eileen Sin.JPG" style="width:25%"><br>Ms Eileen Sin<br><a href="mailto:eileen_sin_yu_ling@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#454545">eileen_sin_yu_ling@moe.edu.sg</span></a></td>
-    <td class="tg-fwnj">S1 Assistant Year Coordinator</td>
+   <td class="tg-citn"><img src="/images/nur zetty abd kadir.jpg" alt="Ms Nur Zetty" style="width:25%"><br>Ms Nur Zetty<br><a href="mailto:nur_zetty_abd_kadir@moe.edu.sg"><span style="text-decoration:underline;color:#454545">nur_zetty_abd_kadir@moe.edu.sg</span></a><br></td>
+    <th class="tg-fwnj">Lower Secondary Assistant Year Head</th>
   </tr>
+
   <tr>
-    <td class="tg-fwnj"><img src="/images/Alexandria%20Seah%20Ming%20Qi.jpg" alt="Alexandria Seah Ming Qi.JPG" style="width:25%"><br><span style="font-weight:normal">Ms Seah Alexandria</span><br><a href="mailto:alexandria_seah_ming_qi@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#454545">alexandria_seah_ming_qi@moe.edu.sg</span></a></td>
-    <td class="tg-fwnj">S2 Year Coordinator</td>
+   <td class="tg-citn"><img src="/images/wongkhaiyusm.jpg" alt="wongkhaiyusm.jpg" style="width:25%"><br>Mr Wong Khai Yu<br><a href="mailto:wong_khai_yu@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#454545">wong_khai_yu@moe.edu.sg</span></a></td>
+    <th class="tg-fwnj">Upper Secondary Year Head</th>
   </tr>
+
   <tr>
-    <td class="tg-fwnj"><img src="/images/Foo%20Jonathan.jpg" alt="Foo Jonathan.JPG" style="width:25%"><br>Mr Jonathan Foo<br><a href="mailto:foo_qihui@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#454545">foo_qihui@moe.edu.sg</span></a></td>
-    <td class="tg-fwnj">S2 Assistant Year Coordinator</td>
+   <td class="tg-citn"><img src="/images/Ms Das Ruth.jpg" alt="Ms Das Ruth.jpg" style="width:25%"><br>Ms Das Ruth Hannah<br><a href="mailto:das_ruth_hannah@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#454545">das_ruth_hannah@moe.edu.sg</span></a></td>
+    <th class="tg-fwnj">Upper Secondary Assistant Year Head</th>
   </tr>
-  <tr>
-    <td class="tg-fwnj"><img src="/images/ng%20yu%20fang.jpg" alt="ng yu fang.jpg" style="width:25%"><br>Ms Ng Yu Fang<br><a href="mailto:ng_yu_fang@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#454545">ng_yu_fang@moe.edu.sg</span></a></td>
-    <td class="tg-fwnj">S3 Year Coordinator</td>
-  </tr>
-  <tr>
-    <td class="tg-fwnj"><img src="/images/Yeo%20Siqi,%20Clarabelle.jpg" alt="Yeo Siqi, Clarabelle.JPG" style="width:25%"><br>Mrs Yeo Clarabelle<br><a href="mailto:wang_siqi_clarabelle@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#454545">wang_siqi_clarabelle@moe.edu.sg</span></a></td>
-    <td class="tg-fwnj"> S3 Assistant Year Coordinator</td>
-  </tr>
-  <tr>
-    <td class="tg-fwnj"><img src="/images/goh_sze_nee.jpg" alt="goh_sze_nee.jpg" style="width:25%"><br>Ms Goh Sze Nee<br><a href="mailto:goh_sze_nee@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#454545">goh_sze_nee@moe.edu.sg</span></a></td>
-    <td class="tg-fwnj">S4/5 Year Coordinator</td>
-  </tr>
+ 
 </tbody>
 </table>
 
