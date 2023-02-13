@@ -64,15 +64,15 @@ third_nav_title: Our Staff
     <td class="tg-citn">Co-Curricular Programme<br><span style="color:black">HOD CCE</span><br><br></td>
   </tr> 
  <tr>
-    <td class="tg-citn"><img src="/images/Lim_Lin_Lin.jpg" alt="Lim_Lin_Lin.jpg" style="width:25%"><br>Ms Lim Lin Lin<br><a href="mailto:lim_lin_lin@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#454545">lim_lin_lin@moe.edu.sg</span></a></td>
-    <td class="tg-citn">Co-Curricular Programme<br><span style="color:black">Year Head (Upper Secondary)</span><br><br></td>
+    <td class="tg-citn"><img src="/images/koh%20si%20ping.jpg" alt="koh si ping.jpg" style="width:25%"><br>Mrs Koh Si Ping<br><a href="mailto:chan_si_ping@moe.edu.sg"><span style="text-decoration:underline;color:#454545">chan_si_ping@moe.edu.sg</span></a><br></td>
+    <td class="tg-citn">Year Head (LS) (Dean SWB LS)<br><br></td>
   </tr>
   <tr>
-    <td class="tg-citn"><img src="/images/wong%20yu%20ting.jpg" style="width:25%"><br>Mrs Wong Yu Ting<br><a href="mailto:hiew_yu_ting@moe.edu.sg"><span style="text-decoration:underline;color:#454545">hiew_yu_ting@moe.edu.sg</span></a><br></td>
-    <td class="tg-citn">School Staff Developer</td>
+    <td class="tg-citn"><img src="/images/wongkhaiyusm.jpg" alt="wongkhaiyusm.jpg" style="width:25%"><br>Mr Wong Khai Yu<br><a href="mailto:wong_khai_yu@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#454545">wong_khai_yu@moe.edu.sg</span></a></td>
+    <td class="tg-citn">Year Head (US) (Dean SWB US)</td>
   </tr>
   <tr>
-    <td class="tg-citn"><img src="/images/wong%20yu%20ting.jpg" style="width:25%"><br>Mrs Wong Yu Ting<br><a href="mailto:hiew_yu_ting@moe.edu.sg"><span style="text-decoration:underline;color:#454545">hiew_yu_ting@moe.edu.sg</span></a><br></td>
+    <td class="tg-citn"><img src="/images/inr.jpg" style="width:25%"><br>Ms Lim Shawna<br><a href="mailto:lim_shi_en_shawna@moe.edu.sg"><span style="text-decoration:underline;color:#454545">lim_shi_en_shawna@moe.edu.sg</span></a><br></td>
     <td class="tg-citn">School Staff Developer</td>
   </tr>
 </tbody>
