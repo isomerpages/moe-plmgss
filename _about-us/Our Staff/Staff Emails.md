@@ -304,21 +304,35 @@ third_nav_title: Our Staff
 </table>
 
 ### Christian Ministry Staff
-
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-fwnj{background-color:#FFF;color:#454545;text-align:left;vertical-align:top}
+.tg .tg-citn{background-color:#FFF;color:#333;text-align:left;vertical-align:top}
+.tg .tg-pz2b{background-color:#E5E5E5;color:#333;text-align:left;vertical-align:top}
 </style>
 <table class="tg">
 <thead>
   <tr>
-    <td class="tg-0lax"><img src="/images/Ms%20Rachel%20Lee%20Siew%20Fen1.jpg" alt="Ms Rachel Lee Siew Fen1.jpg" style="width:25%"><br>Ms Rachel Lee<br><a href="mailto:rachel_lee_siew_fen@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#454545">rachel_lee_siew_fen@moe.edu.sg</span></a></td>
+  <td class="tg-0lax"><img src="/images/Ms%20Rachel%20Lee%20Siew%20Fen1.jpg" alt="Ms Rachel Lee Siew Fen1.jpg" style="width:25%"><br>Ms Rachel Lee<br><a href="mailto:rachel_lee_siew_fen@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#454545">rachel_lee_siew_fen@moe.edu.sg</span></a></td>
+    <th class="tg-citn"><span style="color:black">Christian Ministry Staff</span></th>
   </tr>
-</thead>
+	 <tr>
+  <td class="tg-0lax"><img src="/images/Cynthia Ang Lay Leng.jpg" alt="Cynthia Ang Lay Leng.jpg" style="width:25%"><br>Mrs Yeong Cynthia<br><a href="mailto:cynthia_ang_lay_leng@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#454545">cynthia_ang_lay_leng@moe.edu.sg</span></a></td>
+    <th class="tg-citn"><span style="color:black">Christian Ministry Staff</span></th>
+  </tr>
+<tr>
+  <td class="tg-0lax"><img src="/images/Jasmine Toh.jpg" alt="Jasmine Toh.jpg" style="width:25%"><br>Ms Toh Jasmine<br><a href="mailto:toh_hui_yi_jasmine@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#454545">toh_hui_yi_jasmine@moe.edu.sg</span></a></td>
+    <th class="tg-citn"><span style="color:black">Christian Ministry Staff</span></th>
+  </tr>
+
+
+
+	
+
+
 </table>
 
 ### Prefectorial Board
