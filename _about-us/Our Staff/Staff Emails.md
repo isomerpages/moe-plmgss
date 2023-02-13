@@ -207,11 +207,9 @@ third_nav_title: Our Staff
 </style>
 <table class="tg">
 <thead>
-  <tr>
-    <th class="tg-citn"><img src="/images/joyce_chong.jpg" alt="joyce_chong.jpg" style="width:25%"><br>Mrs Chong Joyce<br><a href="mailto:chan_wai_ling_joyce@moe.edu.sg"><span style="text-decoration:underline;color:#454545">chan_wai_ling_joyce@moe.edu.sg</span></a><br></th>
+  <tr><td class="tg-citn"><img src="/images/joyce_chong.jpg" alt="joyce_chong.jpg" style="width:25%"><br>Mrs Chong Joyce<br><a href="mailto:chan_wai_ling_joyce@moe.edu.sg"><span style="text-decoration:underline;color:#454545">chan_wai_ling_joyce@moe.edu.sg</span></a><br>
     <th class="tg-citn">Chemistry</th>
   </tr>
-</thead>
 <tbody>
   <tr>
     <td class="tg-citn"><img src="/images/ramesh.jpg" style="width:25%"><br>Mrs Ramesh Christina<br><a href="mailto:ramesh_maria_christina@moe.edu.sg"><span style="text-decoration:underline;color:#454545">ramesh_maria_christina@moe.edu.sg</span></a><br></td>
@@ -222,16 +220,12 @@ third_nav_title: Our Staff
     <td class="tg-citn">Food and Consumer<br>Education</td>
   </tr>
   <tr>
-    <td class="tg-citn"><img src="/images/Mdm%20Lim%20Terh%20Ling.jpg" alt="Mdm Lim Terh Ling.JPG" style="width:25%"><br>Mrs Neoh Terh Ling<br><a href="mailto:lim_terh_ling@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#454545">lim_terh_ling@moe.edu.sg</span></a><br></td>
+    <td class="tg-citn"><img src="/images/Mdm%20Lim%20Terh%20Ling.jpg" alt="Mdm Lim Terh Ling.jpg" style="width:25%"><br>Mrs Neoh Terh Ling<br><a href="mailto:lim_terh_ling@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#454545">lim_terh_ling@moe.edu.sg</span></a><br></td>
     <td class="tg-citn">History<br></td>
   </tr>
   <tr>
     <td class="tg-citn"><img src="/images/koh_mei_chin.jpg" style="width:25%"><br>Mrs Koh Mei Chin<br><a href="mailto:tang_mei_chin@moe.edu.sg"><span style="text-decoration:underline;color:#454545">tang_mei_chin@moe.edu.sg</span></a><br></td>
     <td class="tg-citn">Mathematics<br></td>
-  </tr>
-  <tr>
-    <td class="tg-citn"><img src="/images/mrs%20christopher.jpg" alt="mrs christopher.jpg" style="width:25%"><br><span style="font-weight:normal">Mrs Christopher Jesumathy</span><br><a href="mailto:jesumathy_christopher@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#454545">jesumathy_christopher@moe.edu.sg</span></a><br></td>
-    <td class="tg-citn">Tamil Language<br>(Internal)</td>
   </tr>
 </tbody>
 </table>
@@ -301,9 +295,10 @@ third_nav_title: Our Staff
     <td class="tg-citn"><img src="/images/Ms%20Priscilla%20Chong.jpg" alt="Ms Priscilla Chong.jpg" style="width:25%"><br><span style="color:black">Ms Priscilla Chong</span><br><a href="mailto:chong_soo_hui_priscilla@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#454545">chong_soo_hui_priscilla@schools.gov.sg</span></a><br></td>
     <td class="tg-citn"><span style="color:black">Education and Career Guidance</span><br></td>
   </tr>
-  <tr>
-    <td class="tg-citn"><img src="/images/Ms%20Cheryl%20Hoe.jpg" alt="Ms Cheryl Hoe.jpg" style="width:25%"><br>Ms Hoe Cheryl<br><a href="mailto:cheryl_hoe_jiaxin@moe.edu.sg"><span style="text-decoration:underline;color:#454545">cheryl_hoe_jiaxin@moe.edu.sg</span></a><br></td>
-    <td class="tg-citn"><span style="color:black">Adjunct Allied Educator</span><br><span style="color:black">(Special Educational Needs)</span><br></td>
+
+ <tr>
+    <td class="tg-citn"><img src="/images/Rajeswary.jpg" alt="Rajeswary.jpg" style="width:25%"><br>Ms Rajeswary d/o Rajaindern<br><a href="mailto:rajeswary_rajaindern@moe.edu.sg"><span style="text-decoration:underline;color:#454545">rajeswary_rajaindern@moe.edu.sg</span></a><br></td>
+    <td class="tg-citn"><span style="color:black">Student Welfare Officer</span></td>
   </tr>
 </tbody>
 </table>
