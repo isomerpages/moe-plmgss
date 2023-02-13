@@ -351,17 +351,17 @@ third_nav_title: Our Staff
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-fwnj"><img src="/images/01%20ALLY%20CANDRA.jpg" alt="01 ALLY CANDRA.JPG" style="width:25%"><br><span style="font-weight:normal">Ally Candra</span><br></th>
+    <th class="tg-fwnj"><img src="/images/05 CHARLOTTE CHIA YUN XI.jpg" alt="05 CHARLOTTE CHIA YUN XI.jpg" style="width:25%"><br><span style="font-weight:normal">Charlotte Chia Yun Xi</span><br></th>
     <th class="tg-fwnj"><span style="font-weight:normal">Head Prefect</span></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-fwnj"><img src="/images/02%20AMATATSU%20SHOKO.jpg" alt="02 AMATATSU SHOKO.JPG" style="width:25%"><br>Amatatsu Shoko<br></td>
+    <td class="tg-fwnj"><img src="/images/04 AMELIA CHAN ZI EN.jpg" alt="04 AMELIA CHAN ZI EN.jpg" style="width:25%"><br>Amelia Chan Zi En<br></td>
     <td class="tg-fwnj">Vice Head Prefect</td>
   </tr>
   <tr>
-    <td class="tg-fwnj"><img src="/images/10%20Janelle%20Ho%202.jpg" alt="10 Janelle Ho 2.jpg" style="width:25%"><br>Janelle Ho<br></td>
+    <td class="tg-fwnj"><img src="/images/28 QUEK YAN TENG GUO YANTING.jpg" alt="28 QUEK YAN TENG GUO YANTING.jpg" style="width:25%"><br>Quek Yan Teng<br></td>
     <td class="tg-fwnj">Vice Head Prefect</td>
   </tr>
 </tbody>
