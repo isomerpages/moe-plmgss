@@ -155,14 +155,10 @@ third_nav_title: Our Staff
   </tr>
   <tr>
     <td class="tg-citn"><img src="/images/mr_indra.jpg" alt="mr_indra.jpg" style="width:25%"><br>Mr Indra Ahmad<br><a href="mailto:indra_ahmad@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#454545">indra_ahmad@moe.edu.sg</span></a><br></td>
-    <td class="tg-citn">Data Management</td>
+    <td class="tg-citn">Design & Technology</td>
   </tr>
   <tr>
-    <td class="tg-citn"><img src="/images/Das%20Ruth.jpg" alt="Das Ruth.jpg" style="width:25%"><br>Ms Das Ruth Hannah<br><a href="mailto:das_ruth_hannah@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#454545">das_ruth_hannah@moe.edu.sg</span></a><br></td>
-    <td class="tg-citn">Education and Career Guidance<br></td>
-  </tr>
-  <tr>
-    <td class="tg-citn"><img src="/images/shirley_sim.jpg" alt="Image" style="width:25%"><br>Mrs Sim Shirley<br><a href="mailto:chua_ai_ping_shirley@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="color:#454545">chua_ai_ping_shirley@moe.edu.sg</span></a><br></td>
+    <td class="tg-citn"><img src="/images/Tan Xiuru.jpg" alt="Image" style="width:25%"><br>Ms Yan Xiu Ru<br><a href="mailto:yan_xiuru@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="color:#454545">yan_xiuru@moe.edu.sg</span></a><br></td>
     <td class="tg-citn">English Language &amp; Literature</td>
   </tr>
   <tr>
@@ -173,6 +169,9 @@ third_nav_title: Our Staff
     <td class="tg-citn"><img src="/images/Paul%20Melissa.jpg" alt="Paul Melissa.JPG" style="width:25%"><br>Ms Melissa Paul<br><a href="mailto:paul_melissa@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#454545">paul_melissa@moe.edu.sg</span></a><br></td>
     <td class="tg-citn">Learning Needs<br></td>
   </tr>
+	<td class="tg-citn"><img src="/images/Lim Binchuan.jpg" alt="Lim Binchuan.jpg" style="width:25%"><br>Mr Lin Bin Chuan<br><a href="mailto:lin_binchuan@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#454545">lin_binchuan@moe.edu.sg</span></a><br></td>
+    <td class="tg-citn">Mathematics<br></td>
+  </tr>
   <tr>
     <td class="tg-citn"><img src="/images/Ho%20Lian%20Ya.jpg" alt="Ho Lian Ya.JPG" style="width:25%"><br>Ms Ho Lian Ya<br><a href="mailto:ho_lian_ya@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#454545">ho_lian_ya@moe.edu.sg</span></a><br></td>
     <td class="tg-citn">Student Leadership</td>
@@ -181,14 +180,17 @@ third_nav_title: Our Staff
     <td class="tg-citn"><img src="/images/veena%20lee.jpg" alt="veena lee.jpg" style="width:25%"><br>Ms Veena Lee <br><a href="mailto:lee_chai_ching_veena@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#454545">lee_chai_ching_veena@moe.edu.sg</span></a><br></td>
     <td class="tg-citn"><span style="color:black">Student Management</span><br></td>
   </tr>
+
+  <tr>
+    <td class="tg-citn"><img src="/images/clarabelle.jpg" alt="clarabelle.jpg" style="width:25%"><br>Mrs Yeo Clarabelle<br><a href="mailto:wang_siqi_clarabelle@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#454545">wang_siqi_clarabelle@moe.edu.sg</span></a><br></td>
+    <td class="tg-citn"><span style="color:black">Student Management (covering)</span><br></td>
+  </tr>
+
   <tr>
     <td class="tg-citn"><img src="/images/Heng%20Ci%20Pei.jpg" alt="Heng Ci Pei.jpg" style="width:25%"><br>Ms Heng Ci Pei<br><a href="mailto:heng_ci_pei@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#454545">heng_ci_pei@moe.edu.sg</span></a><br></td>
     <td class="tg-citn">Science</td>
   </tr>
-  <tr>
-    <td class="tg-citn"><img src="/images/Colleen%20Ng.jpg" style="width:25%"><br>Ms Ng Colleen<br><a href="mailto:colleen_ng@moe.edu.sg"><span style="text-decoration:underline;color:#454545">colleen_ng@moe.edu.sg</span></a><br></td>
-    <td class="tg-citn">Sports Secretary</td>
-  </tr>
+
 </tbody>
 </table>
 
