@@ -2,10 +2,10 @@ collections:
   announcements:
     output: true
     order:
-      - Musical Montage Virtual Concert.md
       - PLMGS(Sec) Booklist for 2023.md
       - 2023 Sec 3 Subject Combinations for Sec 2 Students (2022).md
       - PL Memories 2022 Flipbook (for Graduating Classes of 2022).md
+      - Musical Montage Virtual Concert.md
       - PL Virtual Symphony of Praise Concert 2021.md
       - School Canteen Feedback.md
       - Road Safety and Traffic Management Plan.md
