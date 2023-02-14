@@ -206,7 +206,6 @@ third_nav_title: Our Staff
 .tg .tg-pz2b{background-color:#E5E5E5;color:#333;text-align:left;vertical-align:top}
 </style>
 <table class="tg">
-<thead>
   <tr><td class="tg-citn"><img src="/images/joyce_chong.jpg" alt="joyce_chong.jpg" style="width:21%"><br>Mrs Chong Joyce<br><a href="mailto:chan_wai_ling_joyce@moe.edu.sg"><span style="text-decoration:underline;color:#454545">chan_wai_ling_joyce@moe.edu.sg</span></a><br>
     <th class="tg-citn">Chemistry</th>
   </tr>
@@ -327,12 +326,7 @@ third_nav_title: Our Staff
   <td class="tg-0lax"><img src="/images/Jasmine Toh.jpg" alt="Jasmine Toh.jpg" style="width:22%"><br>Ms Toh Jasmine<br><a href="mailto:toh_hui_yi_jasmine@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#454545">toh_hui_yi_jasmine@moe.edu.sg</span></a></td>
     <th class="tg-citn"><span style="color:black">Christian Ministry Staff</span></th>
   </tr>
-
-
-
-	
-
-
+</tbody>
 </table>
 
 ### Prefectorial Board
