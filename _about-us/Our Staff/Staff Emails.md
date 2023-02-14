@@ -206,9 +206,12 @@ third_nav_title: Our Staff
 .tg .tg-pz2b{background-color:#E5E5E5;color:#333;text-align:left;vertical-align:top}
 </style>
 <table class="tg">
-  <tr><td class="tg-citn"><img src="/images/joyce_chong.jpg" alt="joyce_chong.jpg" style="width:21%"><br>Mrs Chong Joyce<br><a href="mailto:chan_wai_ling_joyce@moe.edu.sg"><span style="text-decoration:underline;color:#454545">chan_wai_ling_joyce@moe.edu.sg</span></a><br>
+<thead>
+  <tr>
+		<th class="tg-citn"><img src="/images/joyce_chong.jpg" alt="joyce_chong.jpg" style="width:21%"><br>Mrs Chong Joyce<br><a href="mailto:chan_wai_ling_joyce@moe.edu.sg"><span style="text-decoration:underline;color:#454545">chan_wai_ling_joyce@moe.edu.sg</span></a><br>
     <th class="tg-citn">Chemistry</th>
   </tr>
+	</thead>
 <tbody>
   <tr>
     <td class="tg-citn"><img src="/images/ramesh.jpg" style="width:21%"><br>Mrs Ramesh Christina<br><a href="mailto:ramesh_maria_christina@moe.edu.sg"><span style="text-decoration:underline;color:#454545">ramesh_maria_christina@moe.edu.sg</span></a><br></td>
@@ -315,9 +318,10 @@ third_nav_title: Our Staff
 <table class="tg">
 <thead>
   <tr>
-  <td class="tg-0lax"><img src="/images/Ms%20Rachel%20Lee%20Siew%20Fen1.jpg" alt="Ms Rachel Lee Siew Fen1.jpg" style="width:22%"><br>Ms Rachel Lee<br><a href="mailto:rachel_lee_siew_fen@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#454545">rachel_lee_siew_fen@moe.edu.sg</span></a></td>
+  <th class="tg-0lax"><img src="/images/Ms%20Rachel%20Lee%20Siew%20Fen1.jpg" alt="Ms Rachel Lee Siew Fen1.jpg" style="width:22%"><br>Ms Rachel Lee<br><a href="mailto:rachel_lee_siew_fen@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#454545">rachel_lee_siew_fen@moe.edu.sg</span></a></th>
     <th class="tg-citn"><span style="color:black">Christian Ministry Staff</span></th>
   </tr>
+	</thead>
 	 <tr>
   <td class="tg-0lax"><img src="/images/Cynthia Ang Lay Leng.jpg" alt="Cynthia Ang Lay Leng.jpg" style="width:22%"><br>Mrs Yeong Cynthia<br><a href="mailto:cynthia_ang_lay_leng@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#454545">cynthia_ang_lay_leng@moe.edu.sg</span></a></td>
     <th class="tg-citn"><span style="color:black">Christian Ministry Staff</span></th>
@@ -376,7 +380,7 @@ third_nav_title: Our Staff
 <table class="tg">
 <thead>
   <tr>
-   <td class="tg-citn"><img src="/images/koh%20si%20ping.jpg" alt="koh si ping.jpg" style="width:30%"><br>Mrs Koh Si Ping<br><a href="mailto:chan_si_ping@moe.edu.sg"><span style="text-decoration:underline;color:#454545">chan_si_ping@moe.edu.sg</span></a><br></td>
+   <th class="tg-citn"><img src="/images/koh%20si%20ping.jpg" alt="koh si ping.jpg" style="width:30%"><br>Mrs Koh Si Ping<br><a href="mailto:chan_si_ping@moe.edu.sg"><span style="text-decoration:underline;color:#454545">chan_si_ping@moe.edu.sg</span></a><br></th>
     <th class="tg-fwnj">Lower Secondary Year Head</th>
   </tr>
 </thead>
