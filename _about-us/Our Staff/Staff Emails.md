@@ -728,8 +728,8 @@ third_nav_title: Our Staff
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-citn"><img src="/images/Leong%20Yin%20Pheng.jpg" alt="Leong Yin Pheng.JPG" style="width:25%"><br>Ms Leong Yin Pheng<br><a href="mailto:leong_yin_pheng@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#454545">leong_yin_pheng@moe.edu.sg</span></a></th>
-    <th class="tg-2jaf"><img src="/images/Angullia.jpg" style="width:22%"><br>Mrs Angullia Irene<br><a href="mailto:irene_angullia@moe.edu.sg"><span style="text-decoration:underline;color:#454545">irene_angullia@moe.edu.sg</span></a></th>
+    <td class="tg-0lax"><img src="/images/Leong%20Yin%20Pheng.jpg" alt="Leong Yin Pheng.JPG" style="width:25%"><br>Ms Leong Yin Pheng<br><a href="mailto:leong_yin_pheng@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#454545">leong_yin_pheng@moe.edu.sg</span></a></td>
+    <td class="tg-0lax"><img src="/images/Angullia.jpg" style="width:22%"><br>Mrs Angullia Irene<br><a href="mailto:irene_angullia@moe.edu.sg"><span style="text-decoration:underline;color:#454545">irene_angullia@moe.edu.sg</span></a></td>
   </tr>
 </thead>
 <tbody>
