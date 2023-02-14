@@ -2,6 +2,7 @@ collections:
   announcements:
     output: true
     order:
+      - 2023 Semester 1 Timetable.md
       - Principal’s Message 2023.md
       - PLMGS(S) Annual Magazine 2022.md
       - Principal's Letter to Parents.md
