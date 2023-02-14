@@ -2,8 +2,8 @@ collections:
   announcements:
     output: true
     order:
-      - MethodistWalk 2023.md
       - PL Homecoming 2023.md
+      - MethodistWalk 2023.md
       - Open Houses 2023 Post Secondary Options.md
       - 2023 Semester 1 Timetable.md
       - Principal’s Message 2023.md
