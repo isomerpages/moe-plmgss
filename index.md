@@ -9,15 +9,10 @@ sections:
   - hero:
       title: Paya Lebar Methodist Girls' Secondary School
       background: /images/hero_image2023.jpg
-      button: Contact Us
-      url: /contact-us/
       key_highlights:
         - title: Announcements
           description: Click here to read more
           url: /announcements/plmgs-sec-booklist-for-2023/
-        - title: Events & Highlights
-          description: Click here to read more
-          url: /about-us/pl-epistle/2021/march-2021
   - infopic:
       title: PL Parcel
       description: A Read Worth Your Time
