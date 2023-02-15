@@ -12,7 +12,7 @@ sections:
       key_highlights:
         - title: Announcements & Events
           description: Click here to read more
-          url: ""
+          url: /announcements/pl-homecoming-2023/
       subtitle: 巴耶礼峇美以美女校
   - infopic:
       title: PL Parcel
