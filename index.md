@@ -51,4 +51,8 @@ sections:
       url: /co-curricular-programmes/cca-overview/
       image: /images/co-curricular programmes.png
       alt: co-curricular programmes
+  - resources:
+      title: Resources Section Title
+      subtitle: Resources Section Subtitle
+      button: Resources Button Name
 ---
