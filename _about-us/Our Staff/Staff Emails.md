@@ -207,17 +207,17 @@ third_nav_title: Our Staff
 <table class="tg">
 <thead>
   <tr>
-		<th class="tg-citn"><img src="/images/joyce_chong.jpg" alt="joyce_chong.jpg" style="width:21%"><br>Mrs Chong Joyce<br><a href="mailto:chan_wai_ling_joyce@moe.edu.sg"><span style="text-decoration:underline;color:#454545">chan_wai_ling_joyce@moe.edu.sg</span></a><br>
+		<th class="tg-citn"><img src="/images/joyce_chong.jpg" alt="joyce_chong.jpg" style="width:21%"><br>Mrs Chong Joyce<br><a href="mailto:chan_wai_ling_joyce@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#454545">chan_wai_ling_joyce@moe.edu.sg</span></a><br>
     <th class="tg-citn">Chemistry</th>
   </tr>
 	</thead>
 <tbody>
   <tr>
-    <td class="tg-citn"><img src="/images/ramesh.jpg" style="width:21%"><br>Mrs Ramesh Christina<br><a href="mailto:ramesh_maria_christina@moe.edu.sg"><span style="text-decoration:underline;color:#454545">ramesh_maria_christina@moe.edu.sg</span></a><br></td>
+    <td class="tg-citn"><img src="/images/ramesh.jpg" style="width:21%"><br>Mrs Ramesh Christina<br><a href="mailto:ramesh_maria_christina@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#454545">ramesh_maria_christina@moe.edu.sg</span></a><br></td>
     <td class="tg-citn"><span style="color:black">English Language</span></td>
   </tr>
   <tr>
-    <td class="tg-citn"><img src="/images/ambika%20nair.jpg" style="width:21%"><br>Mrs Nair Ambika<br><a href="mailto:ambika_nair@moe.edu.sg"><span style="text-decoration:underline;color:#454545">ambika_nair@moe.edu.sg</span></a><br></td>
+    <td class="tg-citn"><img src="/images/ambika%20nair.jpg" style="width:21%"><br>Mrs Nair Ambika<br><a href="mailto:ambika_nair@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#454545">ambika_nair@moe.edu.sg</span></a><br></td>
     <td class="tg-citn">Food and Consumer<br>Education</td>
   </tr>
   <tr>
@@ -225,7 +225,7 @@ third_nav_title: Our Staff
     <td class="tg-citn">History<br></td>
   </tr>
   <tr>
-    <td class="tg-citn"><img src="/images/koh_mei_chin.jpg" style="width:21%"><br>Mrs Koh Mei Chin<br><a href="mailto:tang_mei_chin@moe.edu.sg"><span style="text-decoration:underline;color:#454545">tang_mei_chin@moe.edu.sg</span></a><br></td>
+    <td class="tg-citn"><img src="/images/koh_mei_chin.jpg" style="width:21%"><br>Mrs Koh Mei Chin<br><a href="mailto:tang_mei_chin@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#454545">tang_mei_chin@moe.edu.sg</span></a><br></td>
     <td class="tg-citn">Mathematics<br></td>
   </tr>
 </tbody>
