@@ -207,7 +207,7 @@ third_nav_title: Our Staff
 <table class="tg">
 <thead>
   <tr>
-		<th class="tg-citn"><img src="/images/joyce_chong.jpg" alt="joyce_chong.jpg" style="width:21%"><br>Mrs Chong Joyce<br><a href="mailto:chan_wai_ling_joyce@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#454545">chan_wai_ling_joyce@moe.edu.sg</span></a><br>
+		<th class="tg-citn"><img src="/images/joyce_chong.jpg" alt="joyce_chong.jpg" style="width:21%"><br>Mrs Chong Joyce<br><a href="mailto:chan_wai_ling_joyce@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#454545">chan_wai_ling_joyce@moe.edu.sg</span></a><br></th>
     <th class="tg-citn">Chemistry</th>
   </tr>
 	</thead>
@@ -296,7 +296,6 @@ third_nav_title: Our Staff
     <td class="tg-citn"><img src="/images/Ms%20Priscilla%20Chong.jpg" alt="Ms Priscilla Chong.jpg" style="width:25%"><br><span style="color:black">Ms Priscilla Chong</span><br><a href="mailto:chong_soo_hui_priscilla@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#454545">chong_soo_hui_priscilla@schools.gov.sg</span></a><br></td>
     <td class="tg-citn"><span style="color:black">Education and Career Guidance</span><br></td>
   </tr>
-
  <tr>
     <td class="tg-citn"><img src="/images/Rajeswary.jpg" alt="Rajeswary.jpg" style="width:25%"><br>Ms Rajeswary d/o Rajaindern<br><a href="mailto:rajeswary_rajaindern@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#454545">rajeswary_rajaindern@moe.edu.sg</span></a><br></td>
     <td class="tg-citn"><span style="color:black">Student Welfare Officer</span></td>
