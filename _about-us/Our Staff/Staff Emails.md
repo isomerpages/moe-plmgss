@@ -167,6 +167,7 @@ third_nav_title: Our Staff
     <td class="tg-citn"><img src="/images/Paul%20Melissa.jpg" alt="Paul Melissa.JPG" style="width:30%"><br>Ms Melissa Paul<br><a href="mailto:paul_melissa@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#454545">paul_melissa@moe.edu.sg</span></a><br></td>
     <td class="tg-citn">Learning Needs<br></td>
   </tr>
+<tr>
 	<td class="tg-citn"><img src="/images/Lim Binchuan.jpg" alt="Lim Binchuan.jpg" style="width:30%"><br>Mr Lin Bin Chuan<br><a href="mailto:lin_binchuan@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#454545">lin_binchuan@moe.edu.sg</span></a><br></td>
     <td class="tg-citn">Mathematics<br></td>
   </tr>
