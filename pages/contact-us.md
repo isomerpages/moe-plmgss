@@ -15,7 +15,7 @@ contacts:
   - content:
       - phone: +65 6281 6606
       - email: plmgss@moe.edu.sg
-      - other: "9839 6759 (Whatsapp only) <br>  (Note: For Emails, Please allow 3-5
+      - other: "9839 6759 (Whatsapp only) <br>  (Note: For Emails, please allow 3-5
           working days for reply)"
     title: General Enquiries & Feedback
 ---
