@@ -1,0 +1,9 @@
+collections:
+  useful-links:
+    output: true
+    order:
+      - Financial Assistance.md
+      - Student Services.md
+      - For Parents.md
+      - For Staff.md
+      - For Students.md

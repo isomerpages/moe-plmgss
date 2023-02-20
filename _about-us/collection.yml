@@ -1,0 +1,45 @@
+collections:
+  about-us:
+    output: true
+    order:
+      - Our Principal.md
+      - Our School/.keep
+      - Our School/Our Heritage.md
+      - Our School/Motto & Crest.md
+      - Our School/Our Mission, Vision & Values.md
+      - Our School/Our Philosophy.md
+      - Our School/Our Desired Outcomes of Education.md
+      - Our School/Our 4 Strategic Thrusts.md
+      - Our School/Our Campus.md
+      - Our School/Our School Magazines.md
+      - Our School/Our Corporate Video.md
+      - Our School/Our Houses.md
+      - Our School/Our Songs.md
+      - Our School/Our Cheer.md
+      - Our School/Our School Prayer.md
+      - Our Staff/.keep
+      - Our Staff/Staff Emails.md
+      - Our Staff/Our Staff.md
+      - Year and Monthly Themes.md
+      - Published News.md
+      - Board of Management & Chaplain/.keep
+      - Board of Management & Chaplain/Our Board of Management and Chaplains.md
+      - Board of Management & Chaplain/Non Financial Information.md
+      - Agape Concert Hall.md
+      - PSSG (Parents)/.keep
+      - PSSG (Parents)/PSSG (Parents).md
+      - PSSG (Parents)/Highlights for 2020.md
+      - PSSG (Parents)/Highlights for 2019.md
+      - PSSG (Parents)/Highlights for 2017 to 2018.md
+      - Alumni/.keep
+      - Alumni/Alumni.md
+      - Alumni/Founder's Day Dinner Comm.md
+      - Alumni/Alumni Website.md
+      - Alumni/PLLites giving back to our alma mater.md
+      - School Admission/.keep
+      - School Admission/Local Students Secondary One (S1) Posting.md
+      - School Admission/Local Students School Transfer for Secondary 2 or 3.md
+      - School Admission/Direct School Admission (DSA SEC).md
+      - School Admission/Returning Singaporeans.md
+      - School Admission/International Students.md
+      - Contact Us.md

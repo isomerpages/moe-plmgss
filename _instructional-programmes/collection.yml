@@ -1,0 +1,48 @@
+collections:
+  instructional-programmes:
+    output: true
+    order:
+      - IP Overview/.keep
+      - IP Overview/IP Overview.md
+      - IP Overview/Assessment.md
+      - IP Overview/PL21.md
+      - IP Overview/ACE (Math & Science).md
+      - IP Overview/Enhanced Enrichment.md
+      - IP Overview/Homework Policy.md
+      - IP Overview/Syllabuses.md
+      - English/.keep
+      - English/English.md
+      - English/Curriculum.md
+      - English/Photo Gallery.md
+      - Mathematics/.keep
+      - Mathematics/Mathematics.md
+      - Mathematics/Curriculum.md
+      - Mathematics/Photo Gallery.md
+      - Science/.keep
+      - Science/Science.md
+      - Science/Photo Gallery.md
+      - Humanities/.keep
+      - Humanities/Humanities.md
+      - Humanities/Subjects Offered.md
+      - Humanities/Photo Gallery.md
+      - Mother Tongue/.keep
+      - Mother Tongue/Mother Tongue.md
+      - Mother Tongue/Curriculum.md
+      - Mother Tongue/Photo Gallery.md
+      - Design and Technology/.keep
+      - Design and Technology/Design and Technology.md
+      - Design and Technology/Photo Gallery.md
+      - Aesthetics/.keep
+      - Aesthetics/Aesthetics.md
+      - Aesthetics/Curriculum.md
+      - Aesthetics/Art.md
+      - Aesthetics/Nutrition Food Science.md
+      - Aesthetics/Music.md
+      - Aesthetics/East Zone Centre of Excellence (Creative Arts).md
+      - Physical Education/.keep
+      - Physical Education/Physical Education.md
+      - Physical Education/Curriculum.md
+      - Physical Education/Photo Gallery.md
+      - Physical Education/Key Programmes and Competitions.md
+      - Useful Resources.md
+      - Post Secondary Scholarships.md

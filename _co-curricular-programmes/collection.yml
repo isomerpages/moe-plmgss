@@ -1,0 +1,34 @@
+collections:
+  co-curricular-programmes:
+    output: true
+    order:
+      - CCA Overview.md
+      - Performing Arts/.keep
+      - Performing Arts/Chinese Drama (D'Arts).md
+      - Performing Arts/Choir.md
+      - Performing Arts/Concert Band.md
+      - Performing Arts/Modern Dance.md
+      - Performing Arts/English Drama.md
+      - Performing Arts/Guitar Ensemble.md
+      - Performing Arts/Guzheng Ensemble.md
+      - Performing Arts/Handbell Ensemble.md
+      - Performing Arts/Harp Ensemble.md
+      - Sports & Games/.keep
+      - Sports & Games/School Badminton Team.md
+      - Sports & Games/School Netball Team.md
+      - Sports & Games/School Rhythmic Gymnastics Team.md
+      - Sports & Games/School Swimming Team.md
+      - Sports & Games/School Table Tennis Team.md
+      - Sports & Games/School Track and Field Team.md
+      - Sports & Games/School Volleyball Team.md
+      - Uniformed Groups/.keep
+      - Uniformed Groups/Girls' Brigade.md
+      - Uniformed Groups/National Police Cadet Corps.md
+      - Uniformed Groups/St John Brigade.md
+      - Clubs and Societies/.keep
+      - Clubs and Societies/English Language, Drama and Debating.md
+      - Clubs and Societies/Infocomm Technology (Media Production).md
+      - Clubs and Societies/International Chess.md
+      - Clubs and Societies/Photography Club.md
+      - PLCM (PL Christian Ministry).md
+      - Sexuality Education.md
