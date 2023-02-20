@@ -38,3 +38,20 @@ b. [Supporting your daughter through transitions](https://www.plmgss.moe.edu.sg
       
     
 4.  Setting realistic expectations with your daughter
+![](/images/parents-03.png)
+[https://www.schoolbag.edu.sg/story/5-practical-tips-on-setting-realistic-parenting-expectations](https://www.schoolbag.edu.sg/story/5-practical-tips-on-setting-realistic-parenting-expectations)
+
+5.  Encouraging your daughter to be Thankful
+![](/images/parents-04.jpg)
+[https://www.schoolbag.edu.sg/story/gratitude](https://www.schoolbag.edu.sg/story/gratitude)
+
+6.  Building your daughter’s confidence through Praise
+![](/images/parents-05.jpg)
+[https://www.schoolbag.edu.sg/story/praise-your-child-do-it-right-do-it-well](https://www.schoolbag.edu.sg/story/praise-your-child-do-it-right-do-it-well)
+
+7. Signs that your child may be too stressed
+
+Stress is a part of life and exposure to some stress can be good for our children. They learn to toughen up and are more able to adapt to change and handle difficulties. As parents, we want them to be succeed and be happy in life.
+
+But how do we know if our children are not coping well? Here are some signs to look out for.
+![](/images/parent-06.png)
