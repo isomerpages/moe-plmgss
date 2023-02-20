@@ -13,7 +13,7 @@ sections:
         - title: Announcements & Events
           description: Click here to read more
           url: /announcements/pl-homecoming-2023/
-      subtitle: 巴耶礼峇美以美女校
+      subtitle: 巴耶礼峇美以美女校（中学）
   - infopic:
       title: PL Parcel
       description: A Read Worth Your Time
