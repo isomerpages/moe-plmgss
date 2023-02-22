@@ -3,76 +3,79 @@ title: Year and Monthly Themes
 permalink: /about-us/year-and-monthly-themes/
 description: ""
 ---
-### 2022 School Theme and Theme Verse
+### 2023 School Theme and Theme Verse
 
-![](/images/Year%20Theme%202022b.png)
+![](/images/theme2023f.jpg)
 
-**PLMGS Age:** 106th year  
-  
-**2022 Year Theme:** Enriched To Face Life's Greatest Call  
-  
-**2022 Theme Verse:**  
 
-_“Be strong and courageous. Do not be afraid; do not be discouraged,  
-for the Lord your God will be with you wherever you go.”_ Joshua 1:9
+**PLMGS Age:** 107th year  
   
-**Inspiration:** Stanza 3 of School Song  
+**2023 Year Theme:** Glory to God we give and pray
   
-So when we leave its shelt'ring walls  <br>
-We go with fearlessness  <br>
-_Enriched to face life's greatest call_  
-By Paya Lebar MGS (2*)
+****2023 School Theme and Theme Verse****  
 
-**Theme Song:**         
+_“Let your light shine before men; that they may see your good works, and glorify your Father who is in heaven.” - Matthew 5:16_
+  
+**Inspiration:** Stanza 4
 
-**Carry Your Candle / Go Light Your World**
+_Now let us pray and learn and trust and obey_<br>
+_To serve Him in every way_<br>
+_Glory to God we give and pray_<br>
+_For Paya Lebar MGS (2\*)_
 
-There is a candle in every soul  <br>
-Some brightly burning, some dark and cold  <br>
-There is a Spirit who brings fire  <br>
-Ignites a candle and makes His home  
-  
-Carry your candle, run to the darkness  <br>
-Seek out the hopeless, confused and torn  <br>
-Hold out your candle for all to see it  <br>
-Take your candle, and go light your world <br> 
-Take your candle, and go light your world  
-  
-Frustrated brother, see how he's tried to  <br>
-Light his own candle some other way  
-  
-See now your sister, she's been robbed and lied to  <br>
-Still holds a candle without a flame.  
-  
-Carry your candle, run to the darkness  <br>
-Seek out the lonely, the tired and worn  <br>
-Hold out your candle for all to see it  <br>
-Take your candle, and go light your world  <br>
-Take your candle, and go light your world  
-  
-We are a family whose hearts are blazing  <br>
-So let's raise our candles and light up the sky  <br>
-Praying to our Father, in the name of Jesus  <br>
-Make us a beacon in darkest times  
-  
-Carry your candle, run to the darkness  <br>
-Seek out the helpless, deceived and poor  <br>
-Hold out your candle for all to see it  <br>
-Take your candle, and go light your world  
-  
-Carry your candle, run to the darkness  <br>
-Seek out the hopeless, confused and torn  <br>
-Hold out your candle for all to see it  <br>
-Take your candle, and go light your world  <br>
-Take your candle, and go light your world  
-  
+**Theme Song:**<br>
+**Shine Jesus Shine**
 
+Lord, the light of Your love is shining  
+In the midst of the darkness, shining  
+Jesus, Light of the world, shine upon us  
+Set us free by the truth You now bring us  
+Shine on me, shine on meShine, Jesus, shine  
+Fill this land with the Father's glory  
+Blaze, Spirit, blaze  
+Set our hearts on fire  
+Flow, river, flow  
+Flood the nations with grace and mercy  
+Send forth Your word  
+Lord, and let there be light  
   
-
-**2022 Monthly Themes**  
+Lord, I come to Your awesome presence  
+From the shadows into Your radiance  
+By the blood I may enter Your brightness  
+Search me, try me, consume all my darkness  
+Shine on me, shine on me  
+  
+Shine, Jesus, shine  
+Fill this land with the Father's glory  
+Blaze, Spirit, blaze  
+Set our hearts on fire  
+Flow, river, flow  
+Flood the nations with grace and mercy  
+Send forth Your word  
+Lord, and let there be light  
+  
+As we gaze on Your kingly brightness  
+So our faces display Your likeness  
+Ever changing from glory to glory  
+Mirrored here may our lives tell Your story  
+Shine on me, shine on me  
+  
+Shine, Jesus, shine  
+Fill this land with the Father's glory  
+Blaze, Spirit, blaze  
+Set our hearts on fire  
+Flow, river, flow  
+Flood the nations with grace and mercy  
+Send forth Your word  
+Lord, and let there be light
   
 
-These Monthly themes provide the focus for our morning devotions and monthly school-wide programmes. They serve to anchor the interactions that staff and PL-Lites would have thoughout each month. They seek to build up a positive growth culture in our school and lead the fraternity to live out our school value of ‘Thankfulness’ daily.
+  
+
+**2023 Monthly Themes**  
+  
+
+Our assembly programmes are also anchored on the following monthly themes. They seek to inspire our girls  to build positive psychological resilience in their pursuit of a purposeful life, making a difference for themselves and others.
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -94,39 +97,39 @@ These Monthly themes provide the focus for our morning devotions and monthly sch
 <tbody>
   <tr>
     <td class="tg-sxkx">January</td>
-    <td class="tg-sxkx">Enriched To Face Life's<br>Greatest Call</td>
+    <td class="tg-sxkx">Glory to God We Give and Pray</td>
   </tr>
   <tr>
     <td class="tg-sxkx">February</td>
-    <td class="tg-sxkx">A Threefold Cord cannot<br>be easily broken<br>(Ecc 4:12)<br></td>
+    <td class="tg-sxkx">Being the Salt and Light</td>
   </tr>
   <tr>
     <td class="tg-sxkx">March</td>
-    <td class="tg-sxkx">Be The Change<br></td>
+    <td class="tg-sxkx">Growing Through Perseverance</td>
   </tr>
   <tr>
     <td class="tg-sxkx">April</td>
-    <td class="tg-sxkx">Sow a Habit, Reap a Character</td>
+    <td class="tg-sxkx">Loving At All Times</td>
   </tr>
   <tr>
     <td class="tg-sxkx">May / June</td>
-    <td class="tg-sxkx">Dare To Lead<br></td>
+    <td class="tg-sxkx">Being a Servant Leader</td>
   </tr>
   <tr>
     <td class="tg-sxkx">July</td>
-    <td class="tg-sxkx">A Good Name is Better than<br>the Riches in the World</td>
+    <td class="tg-sxkx">Living Zealously In Our Youth</td>
   </tr>
   <tr>
     <td class="tg-sxkx">August</td>
-    <td class="tg-sxkx">Home is where the Heart is</td>
+    <td class="tg-sxkx">Going Forth to Light the World</td>
   </tr>
   <tr>
     <td class="tg-sxkx">September</td>
-    <td class="tg-sxkx">Have GRIT will Travel</td>
+    <td class="tg-sxkx">Fixing Our Eyes on Our Purpose</td>
   </tr>
   <tr>
     <td class="tg-sxkx">October</td>
-    <td class="tg-ncov">In Everything Give Thanks</td>
+    <td class="tg-ncov">Overflowing with Thankfulness</td>
   </tr>
 </tbody>
 </table>
