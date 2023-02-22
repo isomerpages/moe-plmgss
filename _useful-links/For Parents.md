@@ -3,20 +3,20 @@ title: For Parents
 permalink: /useful-links/for-parents/
 description: ""
 ---
-- Please [click here](https://staging.d31lf6q9623hn3.amplifyapp.com/about-us/our-staff/staff-emails) for **Staff Emails**
+- Please [click here](https://www.plmgss.moe.edu.sg/about-us/our-staff/staff-emails) for **Staff Emails**
 
   
 
-- Please [click here](https://staging.d31lf6q9623hn3.amplifyapp.com/articles/announcements/principals-letter-to-parents) for **Principal's Letter to Parents**
+- Please [click here](https://www.plmgss.moe.edu.sg/articles/announcements/principals-letter-to-parents) for **Principal's Letter to Parents**
 
-- Please [click here](https://staging.d31lf6q9623hn3.amplifyapp.com/articles/announcements/national-digital-literacy-programme-ndlp) for **National Digital Literacy Programme (NDLP)**
+- Please [click here](https://www.plmgss.moe.edu.sg/articles/announcements/national-digital-literacy-programme-ndlp) for **National Digital Literacy Programme (NDLP)**
 
 - Please [click here](https://staging.d31lf6q9623hn3.amplifyapp.com/articles/guidelines-on-parents-communication-with-the-school) for **Guidelines on Parents’ Communication with the School**
 
 - Please [click here](https://go.gov.sg/plmgss-loa-formsg-17sep2021) for the **online application form for Leave of Absence (LOA)** for your daughter/ward.  
   For more information on the LOA scheme, please click on [https://www.moe.gov.sg/returning-singaporeans](https://www.moe.gov.sg/returning-singaporeans)
 
-  
+ - Please [click here](https://www.plmgss.moe.edu.sg/articles/studentgpa/) for **Student’s GPA (Group Personal Accident) Submission Process**
 
 **- Parents’ Resources for Providing Social and Emotional Support**  
    
