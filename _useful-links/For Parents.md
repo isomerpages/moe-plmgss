@@ -3,7 +3,7 @@ title: For Parents
 permalink: /useful-links/for-parents/
 description: ""
 ---
-- Please [click here](www.plmgss.moe.edu.sg/about-us/our-staff/staff-emails) for **Staff Emails**
+- Please [click here](https://www.plmgss.moe.edu.sg/about-us/our-staff/staff-emails) for **Staff Emails**
 
   
 
