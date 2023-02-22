@@ -6,13 +6,13 @@ third_nav_title: IP Overview
 ---
 ### 2023 Assessment for students in Sec 1, 2 and 3 Exp/NA/NT  
 
-1.  Assessment in the form of class assignments, tests and examinations are planned with the intent to enable your daughter/ward to evaluate and chart her learning progress in consultation with her teachers. These marks will be used for promotion at the end of the year. It will also enable the teachers to provide targeted assistance to strengthen her learning.
+1. Assessment in the form of class assignments, tests and examinations are planned with the intent to enable your daughter/ward to evaluate and chart her learning progress in consultation with her teachers. These marks will be used for promotion at the end of the year. It will also enable the teachers to provide targeted assistance to strengthen her learning.
       
     
-2.  The assessment for students in the Sec 1, 2 and 3 level will include Termly Weighted Assessments (WAs) as well as one End-of-Year (EOY) Examination.
+2. The assessment for students in the Sec 1, 2 and 3 level will include Termly Weighted Assessments (WAs) as well as one End-of-Year (EOY) Examination.
       
     
-3.  The weighting for the WAs and the EOY Examinations is as follows:
+3. The weighting for the WAs and the EOY Examinations is as follows:
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -72,12 +72,12 @@ third_nav_title: IP Overview
 
 5. Assessments in non-Tamil Indian Languages (e.g. Punjabi) and Foreign Languages are conducted at the MOE Language Centres. An overall grade will be given by the Centres and this grade will be taken as the student’s EOY Examinations result.
 
-6. The school will conduct WAs continuously in Term 1 & 2 for students. This will minimise disruption to curriculum, CCAs and other school related enrichment activities. Please help us to ensure that your daughter/ward revises her work consistently and is prepared for the various assessments.
+6. The school will conduct WAs continuously in Term 1 - 3 for students. This will minimise disruption to curriculum, CCAs and other school related enrichment activities. Please help us to ensure that your daughter/ward revises her work consistently and is prepared for the various assessments.
 
-7. After the tests/examinations, the assessment paper will be returned to your daughter/ward. Please ensure that she keeps you informed of her performance by showing you the assessment papers.  
+7. Students will receive their assessment feedback once the grading is completed. Students will discuss and review the feedback and learning in class with their teachers. Students are encouraged to share their learning and performance with their parents/guardians. Parents/Guardians will receive your daughter/ward’s Term Result Slip at the start of the following term. 
       
-    
-8. Should a student be absent on the day of the Weighted Assessment or Examination, she will need to provide a **valid Medical Certificate** (i.e. certified unfit for test/exam). An MC that is issued by a Chinese Physician is **INVALID.** A letter of excuse from parent is **INVALID.** She will be allowed to take the test on the day she is back in school if she has a valid **Medical Certificate**. The make-up test will be conducted at **2.45 p.m. / 3.15 p.m.** in the Science Laboratory. If the student is absent during Examinations, there will be **no retaking of the exam papers**. For more detailed Examination Matters, please refer to the PL Diary.  
-      
-    
-9. Parents/Guardians should ensure that their daughters/wards attend school regularly. Students will not be allowed to take her Examinations at the end of the year if her attendance falls below 80%and is absent without valid reasons.
+8. For WAs - Should a student be absent on the day of WA, she will need to provide a valid Medical Certificate*. She will receive the assessment papers for self timed-practice and ‘MC’ status will be indicated for the paper. (*Noted that: An MC that is issued by a Chinese Physician and letter of excuse from parent are INVALID). 
+
+9. For Exam - Should a student be absent on the day of exam paper, she will need to provide a valid Medical Certificate, a ‘MC’ status will be indicated for the paper. A student who is absent from an examination without a MC will get an ‘AB’ status (equivalent to zero mark attainment).
+          
+10. Parents/Guardians should ensure that their daughters/wards attend school regularly. Students will not be allowed to take her Examinations at the end of the year if her attendance falls below 80% and is absent without valid reasons.
