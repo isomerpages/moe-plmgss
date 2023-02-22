@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Paya Lebar Methodist Girls' School
+title: Paya Lebar Methodist Girls' School (Secondary)
 description: An Isomer site of the Singapore Government
 image: /images/school logo.jpeg
 permalink: /
@@ -52,3 +52,4 @@ sections:
       image: /images/co-curricular programmes.png
       alt: co-curricular programmes
 ---
+
