@@ -5,7 +5,7 @@ description: ""
 ---
 <h2>PL Parent-School Support Group (PSSG)<br><br></h2>
 <div>
-  <img alt="pssg01.jpg" src="/images/pssg01.jpg">
+  <img alt="pssg01.jpg" src="/images/pssg01.jpg" style="width:50%">
 </div>
 <h3>Our Vision:</h3>
 <div style="text-align: justify;">An exciting and effective partnership between home and school
