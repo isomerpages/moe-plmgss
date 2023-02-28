@@ -5,7 +5,7 @@ description: ""
 ---
 <h2>PL Parent-School Support Group (PSSG)<br><br></h2>
 <div>
-  <img alt="pssg01.jpg" src="images/pssg01.jpg">
+  <img alt="pssg01.jpg" src="/images/pssg01.jpg">
 </div>
 <h3>Our Vision:</h3>
 <div style="text-align: justify;">An exciting and effective partnership between home and school
@@ -42,9 +42,9 @@ description: ""
 </div>
 
 <h3 style="text-align: justify;">Our focus areas:</h3>
-<div style="text-align: justify;">
-  <b>1. To support school </b>
-</div>
+
+1. To support school
+
 <div>
   
 <ul>
@@ -68,11 +68,11 @@ description: ""
 </ul>
 </div>
 <div style="text-align: justify;">
-  <br>
+
 </div>
-<div style="text-align: justify;">
-  <b>2. To support families </b>
-</div>
+
+2. To support families
+
 <div>
   
 <ul>
@@ -538,7 +538,7 @@ have a desire to uphold the school in prayer, join the Praying Parents!<strong><
 </tr>
 <tr>
 <td width="253">
-<p><img class="ive_eobj_center" alt="Mrs Audrey Heng - Chairperson.jpeg" src="/images/Mrs Audrey Heng - Chairperson 2023.jpg">Mrs Audrey Heng</p>
+<p><img class="ive_eobj_center" alt="Mrs Audrey Heng - Chairperson.jpeg" src="/images/Mrs Audrey Heng - Chairperson 2023.jpg" style="width:50%">Mrs Audrey Heng</p>
 </td>
 <td width="282">
 <p>Chairperson</p>
@@ -546,7 +546,7 @@ have a desire to uphold the school in prayer, join the Praying Parents!<strong><
 </tr>
 <tr>
 <td width="253">
-<p><img class="ive_eobj_center" alt="Mrs Yolanda Gooi- Vice Chairperson.jpg" src="/images/Mrs Yolanda Gooi- Vice Chairperson 2023.jpg">Mrs Yolanda Gooi</p>
+<p><img class="ive_eobj_center" alt="Mrs Yolanda Gooi- Vice Chairperson.jpg" src="/images/Mrs Yolanda Gooi- Vice Chairperson 2023.jpg" style="width:50%">Mrs Yolanda Gooi</p>
 </td>
 <td width="282">
 <p>Vice Chairperson</p>
@@ -554,7 +554,7 @@ have a desire to uphold the school in prayer, join the Praying Parents!<strong><
 </tr>
 <tr>
 <td width="253">
-<p><img class="ive_eobj_center" alt="Mrs Audrey Gomez-Secretary.JPG" src="/images/Mrs Audrey Gomez-Secretary 2023.jpg">Mrs Audrey Gomez</p>
+<p><img class="ive_eobj_center" alt="Mrs Audrey Gomez-Secretary.JPG" src="/images/Mrs Audrey Gomez-Secretary 2023.jpg" style="width:50%">Mrs Audrey Gomez</p>
 </td>
 <td width="282">
 <p>Secretary</p>
@@ -562,7 +562,7 @@ have a desire to uphold the school in prayer, join the Praying Parents!<strong><
 </tr>
 <tr>
 <td width="253">
-<p><img class="ive_eobj_center" alt="Mr Allan Ang - FathersSchool IC.jpeg" src="/images/Mr Allan Ang - FathersSchool IC 2023.jpg">Mr Allan Ang</p>
+<p><img class="ive_eobj_center" alt="Mr Allan Ang - FathersSchool IC.jpeg" src="/images/Mr Allan Ang - FathersSchool IC 2023.jpg" style="width:50%">Mr Allan Ang</p>
 </td>
 <td width="282">
 <p>Fathers@School IC</p>
@@ -570,7 +570,7 @@ have a desire to uphold the school in prayer, join the Praying Parents!<strong><
 </tr>
 <tr>
 <td width="253">
-<p><img class="ive_eobj_center" alt="Mrs Josephine Eng - Praying Parents IC.jpeg" src="/images/Mrs Josephine Eng - Praying Parents IC 2023.jpg">Mrs Josephine Eng</p>
+<p><img class="ive_eobj_center" alt="Mrs Josephine Eng - Praying Parents IC.jpeg" src="/images/Mrs Josephine Eng - Praying Parents IC 2023.jpg" style="width:50%">Mrs Josephine Eng</p>
 </td>
 <td width="282">
 <p>Praying Parents IC</p>
@@ -578,7 +578,7 @@ have a desire to uphold the school in prayer, join the Praying Parents!<strong><
 </tr>
 <tr>
 <td width="253">
-<p><img class="ive_eobj_center" alt="Mrs Mae Oh - Member 2023.jpg" src="/images/Mrs Mae Oh - Member 2023.jpg">Mrs Mae Oh</p>
+<p><img class="ive_eobj_center" alt="Mrs Mae Oh - Member 2023.jpg" src="/images/Mrs Mae Oh - Member 2023.jpg" style="width:50%">Mrs Mae Oh</p>
 </td>
 <td width="282">
 <p>Member</p>
@@ -586,7 +586,7 @@ have a desire to uphold the school in prayer, join the Praying Parents!<strong><
 </tr>
 <tr>
 <td width="253">
-<p><img class="ive_eobj_center" alt="Mrs Lim Ching Ching- Member.jpg" src="images/Mrs Lim Ching Ching- Member 2023.jpg">Mrs Lim Ching Ching</p>
+<p><img class="ive_eobj_center" alt="Mrs Lim Ching Ching- Member.jpg" src="images/Mrs Lim Ching Ching- Member 2023.jpg" style="width:50%">Mrs Lim Ching Ching</p>
 </td>
 <td width="282">
 <p>Member</p>
