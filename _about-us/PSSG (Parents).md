@@ -1,8 +1,7 @@
 ---
 title: PSSG (Parents)
-permalink: /about-us/pssg-parents/
+permalink: /about-us/pssg/
 description: ""
-third_nav_title: PSSG (Parents)
 ---
 <h2>PL Parent-School Support Group (PSSG)<br><br></h2>
 <div>
@@ -596,6 +595,8 @@ have a desire to uphold the school in prayer, join the Praying Parents!<strong><
 </tbody>
 </table>
 
+### Photos of 2022
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/1IoDknh-nzo3qs7Yndnd4V2Rz-0KK26mvs3CVEugzBl8/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 
 <h3></h3><h3>Resources for Parents</h3>
   
