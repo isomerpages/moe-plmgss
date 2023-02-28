@@ -586,7 +586,7 @@ have a desire to uphold the school in prayer, join the Praying Parents!<strong><
 </tr>
 <tr>
 <td width="253">
-<p><img class="ive_eobj_center" alt="Mrs Lim Ching Ching- Member.jpg" src="images/Mrs Lim Ching Ching- Member 2023.jpg" style="width:50%">Mrs Lim Ching Ching</p>
+<p><img class="ive_eobj_center" alt="Mrs Lim Ching Ching- Member.jpg" src="/images/Mrs Lim Ching Ching- Member 2023.jpg" style="width:50%">Mrs Lim Ching Ching</p>
 </td>
 <td width="282">
 <p>Member</p>
