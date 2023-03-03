@@ -250,10 +250,7 @@ third_nav_title: Our Staff
   </tr>
 </thead>
 <tbody>
-  <tr>
-    <td class="tg-citn"><img src="/images/Mr%20Raymond.jpg" alt="Mr Raymond.jpg" style="width:25%"><br><span style="color:black">Mr Liu Sy Yee Raymond</span><br><a href="mailto:Raymond_LIU@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#454545">Raymond_LIU@schools.gov.sg</span></a><br></td>
-    <td class="tg-citn"><span style="color:black">Administrative Manager</span><br></td>
-  </tr>
+  
   <tr>
     <td class="tg-citn"><img src="/images/grace%20quek.jpg" alt="grace quek.jpg" style="width:25%"><br>Ms Quek Grace<br><a href="mailto:grace_quek@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="color:#454545">grace_quek@moe.edu.sg</span></a></td>
     <td class="tg-citn"><span style="color:black">Administrative Executive</span><br></td>
