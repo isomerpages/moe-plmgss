@@ -266,6 +266,10 @@ third_nav_title: Our Staff
     <td class="tg-citn"><img src="/images/teo%20kim%20che.jpg" alt="teo kim che.jpg" style="width:25%"><br>Mr Teo Kim Che<br><a href="mailto:teo_kim_che@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#454545">teo_kim_che@moe.edu.sg</span></a><br></td>
     <td class="tg-citn">Operations Manager</td>
   </tr>
+<tr>
+    <td class="tg-citn"><img src="/images/inr.jpg" alt="inr.jpg" style="width:25%"><br>Mr Lau Ern<br><a href="mailto:lau_ern_a@@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#454545">lau_ern_a@moe.edu.sg</span></a><br></td>
+    <td class="tg-citn">Operations Manager</td>
+  </tr>
 </tbody>
 </table>
 
