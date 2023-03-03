@@ -143,7 +143,7 @@ third_nav_title: Our Staff
 <thead>
   <tr>
     <th class="tg-citn"><img src="/images/cheryl%20tan.jpg" alt="cheryl tan.jpg" style="width:30%"><br>Ms Tan Cheryl<br><a href="mailto:tan_jue_ling_cheryl@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="color:#454545">tan_jue_ling_cheryl@moe.edu.sg</span></a><br></th>
-    <th class="tg-citn"><span style="color:black">Character &amp; Citizenship Education  (covering)</span><br></th>
+    <th class="tg-citn"><span style="color:black">Character &amp; Citizenship Education</span><br></th>
   </tr>
 </thead>
 <tbody>
