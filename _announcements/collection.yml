@@ -2,6 +2,7 @@ collections:
   announcements:
     output: true
     order:
+      - Example Title.md
       - PL Homecoming 2023.md
       - MethodistWalk 2023.md
       - Open Houses 2023 Post Secondary Options.md
