@@ -12,7 +12,7 @@ sections:
       key_highlights:
         - title: Announcements & Events
           description: Click here to read more
-          url: /announcements/pl-homecoming-2023/
+          url: /announcements/march-cca-2023/
       subtitle: 巴耶礼峇美以美女校（中学）
   - infopic:
       title: PL Parcel
@@ -52,4 +52,3 @@ sections:
       image: /images/co-curricular programmes.png
       alt: co-curricular programmes
 ---
-
