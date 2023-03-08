@@ -8,33 +8,33 @@ third_nav_title: Alumni
 <thead>
   <tr>
     <th class="tg-fwnj"><span style="font-weight:normal">President</span></th>
-    <th class="tg-fwnj"><img alt="face_sulynn.jpg" src="/images/face_sulynn.jpg" style="width:50%"><br><br><br><br><span style="font-weight:normal">Mrs Quahe-Lim Su-Lynn</span><br></th>
+    <th class="tg-fwnj"><img alt="face_sulynn.jpg" src="/images/Alumni2023-Ms Lim Su-Lynn-President.jpg" style="width:50%"><br><span style="font-weight:normal">Mrs Quahe-Lim Su-Lynn</span><br></th>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td class="tg-yvtv">Vice President<br></td>
-    <td class="tg-iual"><img alt="face_tanchorhiang.jpg" src="/images/face_tanchorhiang.jpg" style="width:50%"><br><br><br><br>Dr Tan Chor Hiang<br></td>
+    <td class="tg-iual"><img alt="face_tanchorhiang.jpg" src="/images/Alumni2023-Dr Tan Chor Hiang-Vice-President.jpg" style="width:50%"><br>Dr Tan Chor Hiang<br></td>
   </tr>
   <tr>
     <td class="tg-sdzj">Honorary Secretary                                                <br></td>
-    <td class="tg-fwnj"><img alt="face_amy_quek.jpg" src="/images/face_amy_quek.jpg" style="width:50%"><br><br><br><br>Dr Amy Quek</td>
+    <td class="tg-fwnj"><img alt="face_amy_quek.jpg" src="/images/Alumni2023-Ms Catherine Foo - Honorary Secretary.jpg" style="width:50%"><br>Ms Catherine Foo</td>
   </tr>
   <tr>
     <td class="tg-yvtv">Honorary Treasurer<br></td>
-    <td class="tg-yvtv">Ms Corrinne Seow<br></td>
+    <td class="tg-fwnj"><img alt="face_amy_quek.jpg" src="/images/Alumni2023-Ms Veronica Seetho - Honorary Treasurer.jpg" style="width:50%"><br>Ms Veronica Seetho</td>
   </tr>
   <tr>
-    <td class="tg-sdzj">Honorary Assistant Treasurer<br></td>
-    <td class="tg-fwnj"><img alt="Jean Lim.jpeg" src="/images/Jean%20Lim.jpg" style="width:50%"><br><br><br><br>Ms Jean Lim<br></td>
+    <td class="tg-sdzj">Assistant Treasurer<br></td>
+    <td class="tg-fwnj"><img alt="Jean Lim.jpeg" src="/images/Alumni2023-Ms Jean Ong - Assistant Treasurer.jpg" style="width:50%"><br>Ms Jean Ong<br></td>
   </tr>
   <tr>
     <td class="tg-yvtv">Executive Committee<br></td>
-    <td class="tg-iual"><img alt="face_annieteo.jpg" src="/images/face_annieteo.jpg" style="width:50%"><br><br><br><br>Mrs Annie Teo<br><br><img alt="face_amelia.jpg" src="/images/face_amelia.jpg" style="width:50%"><br><br><br><br>Ms Amelia Champion<br><br><img alt="face_angela.jpg" src="/images/face_angela.jpg" style="width:50%"><br><br><br><br>Ms Angela Tan<br><br><img alt="face_seebeowtuan.jpg" src="/images/face_seebeowtuan.jpg" style="width:50%"><br><br><br><br>Ms See Beow Tuan<br><br><img alt="face_seahyanghee.jpg" src="/images/face_seahyanghee.jpg" style="width:50%"><br><br><br><br>Ms Seah Yang Hee<br><br>Ms Catherine Foo<br></td>
+    <td class="tg-iual"><img alt="face_annieteo.jpg" src="/images/Alumni2023-Dr Amy Quek - Committee Member.jpg" style="width:50%"><br>Dr Amy Quek<br><br><img alt="face_amelia.jpg" src="/images/Alumni2023-Ms Seah Yang Hee - Committee Member.jpg" style="width:50%"><br>Ms Seah Yang Hee<br><br><img alt="face_angela.jpg" src="/images/Alumni2023-Ms Angela Tan - Committee Member.jpg" style="width:50%"><br>Ms Angela Tan<br><br><img alt="face_seebeowtuan.jpg" src="/images/Alumni2023-Ms See Beow Tuan-Committee Member.jpg" style="width:50%"><br>Ms See Beow Tuan<br><br><img alt="face_seahyanghee.jpg" src="/images/Alumni2023-Ms Amelia Champion-Committee Member.jpg" style="width:50%"><br>Ms Amelia Champion<br><br><img alt="face_seahyanghee.jpg" src="/images/Alumni2023-Ms Gladys Goh - Co-opted committee member.jpg" style="width:50%"><br>Ms Gladys Goh<br></td>
   </tr>
   <tr>
     <td class="tg-sdzj">Honorary Members<br></td>
-    <td class="tg-fwnj"><img alt="face_winnietan.jpg" src="/images/face_winnietan.jpg" style="width:50%"><br><br><br><br>Mrs Winnie Tan<br></td>
+    <td class="tg-fwnj"><img alt="face_winnietan.jpg" src="/images/Alumni2023-Mrs Winnie Tan-Honorary Member.jpg" style="width:50%"><br>Mrs Winnie Tan<br></td>
   </tr>
   <tr>
     <td class="tg-yvtv">Honorary Auditor<br></td>
