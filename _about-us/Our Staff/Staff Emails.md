@@ -55,25 +55,25 @@ third_nav_title: Our Staff
 <thead>
   <tr>
     <th class="tg-citn"><img src="/images/Tan_Tiah_hui.jpg" alt="Image" style="width:27%"><br><span style="color:black">Mr Tan Tiah Hui</span><br><a href="mailto:tan_tiah_hui@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#454545">tan_tiah_hui@moe.edu.sg</span></a><br></th>
-    <th class="tg-citn"><span style="color:black">Instructional Programme</span><br><span style="color:black">HOD</span> <span style="color:black">ICT & Data</span><br></th>
+    <th class="tg-citn"><span style="color:black">HOD ICT & Data<br>Dean (Instructional Programme)</span></th>
   </tr>
 </thead>
 <tbody>
 <tr>
     <td class="tg-citn"><img src="/images/ohhweehwee.jpg" alt="ohhweehwee.jpg" style="width:27%"><br>Mrs Low Hwee Hwee<br><a href="mailto:oh_hwee_hwee@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#454545">oh_hwee_hwee@moe.edu.sg</span></a></td>
-    <td class="tg-citn">Co-Curricular Programme<br><span style="color:black">HOD CCE</span><br><br></td>
+    <td class="tg-citn">HOD CCE<br>Dean (Co-Curricular Programme)</td>
   </tr> 
  <tr>
     <td class="tg-citn"><img src="/images/koh%20si%20ping.jpg" alt="koh si ping.jpg" style="width:27%"><br>Mrs Koh Si Ping<br><a href="mailto:chan_si_ping@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#454545">chan_si_ping@moe.edu.sg</span></a><br></td>
-    <td class="tg-citn">Year Head (LS) (Dean SWB LS)<br><br></td>
+    <td class="tg-citn">Year Head (LS) <br>Dean (SWB)<br><br></td>
   </tr>
   <tr>
     <td class="tg-citn"><img src="/images/wongkhaiyusm.jpg" alt="wongkhaiyusm.jpg" style="width:27%"><br>Mr Wong Khai Yu<br><a href="mailto:wong_khai_yu@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#454545">wong_khai_yu@moe.edu.sg</span></a></td>
-    <td class="tg-citn">Year Head (US) (Dean SWB US)</td>
+    <td class="tg-citn">Year Head (US) <br>Dean (SWB)</td>
   </tr>
   <tr>
     <td class="tg-citn"><img src="/images/LimShawna.jpg" style="width:27%"><br>Ms Lim Shawna<br><a href="mailto:lim_shi_en_shawna@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#454545">lim_shi_en_shawna@moe.edu.sg</span></a><br></td>
-    <td class="tg-citn">School Staff Developer</td>
+    <td class="tg-citn">School Staff Developer<br> Dean (Staff)</td>
   </tr>
 </tbody>
 </table>
