@@ -46,7 +46,7 @@ third_nav_title: Alumni
   </tr>
   <tr>
     <td class="tg-yvtv">School Representatives (PLMGS Secondary)<br></td>
-    <td class="tg-iual"><img alt="amy_ng2.jpg" src="/images/amy_ng2-1.jpg" style="width:50%"><br><br><br>Ms Amy Ng</td>
+    <td class="tg-iual"><img alt="amy_ng2.jpg" src="/images/amy_ng2-1.jpg" style="width:50%"><br>Ms Amy Ng</td>
   </tr>
 </tbody>
 </table>
