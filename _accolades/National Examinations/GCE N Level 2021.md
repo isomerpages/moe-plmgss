@@ -4,111 +4,119 @@ permalink: /accolades/national-examinations/gce-n-level-2021/
 description: ""
 third_nav_title: National Examinations
 ---
-**Release of GCE N-Level Results 2021**
-
-
-Please see hyperlink for slides shared during the release of 2021 GCE N-Level Results:  
-
-*   [General Briefing Slides](/files/General%20briefing%20Slides%20-%202021%20Release_of_N_Level_Results.pdf)
-*   [Polytechnic Foundation Programme for 4N(A) students](/files/Polytechnic%20Foundation%20Programme%20PFP%20Briefing%202021.pdf)
-*   [Direct-Entry-Scheme to Polytechnic Programme for students in 4N(A) Course](/files/Direct%20Entry%20Scheme%20to%20Poly%20Prog%202021.pdf)
-*   [For Students in Sec 4N(T) Course eligible for ITE](/files/4NT%20students%20eligible%20for%20ITE%20Slides%202021.pdf)
-
-**In Praise and Thanksgiving**  
-
-A total of **76** Sec 4N(A) girls and **27** Sec 4N(T) girls sat for the GCE N-Level examinations in 2021. They worked hard and were loved and supported by their families and the teachers. We give thanks to God for His blessings upon our girls.  
-  
-They did their best and achieved the following outcomes -  
-
-*   **90.8%** (comparison – National 79.2%) of the Sec 4 N(A) students are eligible for Sec 5 N(A).
-*   **34.2%** the Sec 4 N(A) students qualified for Polytechnic Foundation Programme (**National top 15%**)
-*   **81.6%** of the Sec 4 N(A) students qualified for Direct-Entry-Scheme to Polytechnic Programme (**comparison – National top 30%**)
-*   **100%** of Sec 4N(T) students are eligible for ITE.  
-    
-
-  
-**Sharing our Success Stories**  
-
-  
-
-“**Don’t Stop Believing…**” 
-- from the NA Course,  **ZOEN - JEAN LEE ZHU EN (Sec 4.7)**  
--  _2 Distinction, 9 points_
-
-<img src="/images/zoen.png" 
-     style="width:40%">
-		 
-Despite having been diagnosed with Dyslexia, Dyspraxia and Sensory Integration Disorder, Zoen always faced all challenges to her learning needs with optimism and a strong resolve. She believed in challenging herself and even took up O-Level Mathematics and Art. She was enthusiastic in contributing to class activities by leveraging on her creativity and talents. For example, she showed initiative and decorated the classroom for special occasions and designed the class t-shirt. In her CCA, she was passionate about leading her peers to hone their photography skills and readily shared to help them improve their photo-taking techniques. She never let her learning difficulties affect her ability to build strong relationships with her peers and fostered a vibrant and positive culture in her CCA. She overcame various hurdles with a great deal of resilience and was mature and independent in managing her academic and extra-curricular activities in her secondary school journey. When asked if she had a message for her juniors, Zoen had this to say, _“Don’t stop believing. Always believe that you can reach your goals. It was my will power that helped me get to where I am today.”_
-
-“**Just give your best, and God will do the rest**”
-– from the NA Course,  **ZULAIHA RASEENA BINTE KHALIT (Sec 4.7)**  
-– _6 Distinctions, 8 points_
-
-<img src="/images/zulaiha.png" 
-     style="width:40%">
-		 
-Zulaiha was from the Normal (Technical) stream and put in consistent hard work to achieve good results, allowing her to transfer to the Normal (Academic) stream in Secondary 2. Even with the more demanding academic workload, Zulaiha handled the challenges with a positive learning attitude and a great deal of resilience.  Her commendable academic performance earned her Edusave Scholarships in 2018, 2019 and 2020. Despite her many achievements, Zulaiha remained humble and constantly showed care and concern to the people around her. She was a good role model to her peers as a caring, respectful and resilient individual, and this earned her the MOE-Edusave Character Award. Ever the modest one, she had this advice for her peers, _“Never compare yourself with others. Just give your best, and God will do the rest.”_
-
-“**Never Give Up**”
-– from the NT Course, **TANG WAN ZHI (Sec 4.8)**  
-_– EMB2 10 points_
-
-<img src="/images/wanzhi.png" 
-     style="width:40%">
-		 
-2021 proved to be a challenging time for many, and it was no different for Wan Zhi. Without a learning device that she could call her own, getting online to follow lessons became a daily struggle. However, she was determined to do her best and never allowed what she lacked to become an obstacle towards success. 2021 saw her trying to juggle her time between studies and her commitment to the SYF rehearsals for her CCA (Concert Band). It was tough focusing on her studies when her mind was sometimes on the music scores of her timpani. Inspired by an encouraging classmate who scored better than her, and who in turn became her study buddy, Wan Zhi made up her mind that she was going to embrace her class motto – Be the best that you can be. She burnt the midnight oil, revised consistently, clarified when in doubt and even helped others who were weaker in the subjects she was stronger in. Her perseverance yielded good results and that motivated her even further. Wan Zhi's ‘_never give up_’ attitude, coupled with encouragement she received from her friends, teachers and unconditional support from her mother has shaped her strength and determination to do well in her studies. When asked what the secret to her success was, she said, _“With perseverance, success is just around the corner.”_ Indeed, it is.
-
-“**Overcoming All Odds**”  
-– from the NT Course, **Wong XIN YI DAWN (Sec 4.8)** 
-– _EMB2 7 points_
-
-<img src="/images/dawn.png" 
-     style="width:40%">
-		 
-The loss of her mother when she was in primary school was a huge blow to Dawn and this negatively affected her studies. Her relatives played an important role in supporting both her father and her through this difficult time. Secondary school proved to be a turning point in Dawn’s journey. Despite her ADHD condition, she was diligent and attentive during lessons despite the distractions she found around her. She struggled with school work and needed more time to keep up with her lessons. However, she had a positive attitude towards her studies and was keen to excel. She put in extra effort to overcome her struggles with spelling and word recognition and passed her English at a higher stream. Dawn always put the needs of others before her own and tried her best to extend her help to her classmates who were in need of emotional and academic support. In 2021, Dawn had to manage her time between her studies and her commitment to her CCA, Concert Band. She was in the percussion section and had to devote her time practicing the different instruments in preparation for the SYF, while preparing for her N-Level examinations at the same time. Finding confidence when her hard work was rewarded with good grades, she continued her hard work throughout her four years in PL to obtain excellent results for N Level.  Dawn embodies how drive and self-determination to succeed can help achieve one’s goals. Regardless of the challenges she encounters, she always faces them with optimism and resolve. Dawn’s motto in life is ‘Work hard, play hard’. When asked if there was anyone she wanted to credit for her results, she gratefully said, *“I want to thank my uncle, who was always there for me.”*
-
-### Celebrating the Success of our Students in the N-Level Course 
-  
-**(a) Cohort Achievements for the 2021 Students in the 4N(A) Course**  
-
-We would like to celebrate the efforts of the following students who have done especially well for the GCE N(A) Examinations.
-
-<figure>
-<img src="/images/Picture%201.jpg">
-<figcaption>Our heartiest congratulations to the top 4NA students - who scored 6 points - Rasinah Begum D/O Sivakumar (4.7) and Clarah Amber Tan Xue-En</figcaption>
-</figure>
-
-<figure>
-<img src="/images/Picture%202.jpg">
-<figcaption>Big smiles all around - Students who achieved 7 points</figcaption>
-</figure>
-
-<figure>
-<img src="/images/Picture%203.jpg">
-<figcaption>Feeling grateful for having achieved 8 points!</figcaption>
-</figure>
-
-<figure>
-<img src="/images/Picture%204.jpg">
-<figcaption>Big Smiles all around. Well Done Girls! – Our 9 pointers</figcaption>
-</figure>
-
-<figure>
-<img src="/images/Picture%205.jpg">
-<figcaption>A Joyous Moment for the 10 pointers!</figcaption>
-</figure>
-
-**(b) Cohort Achievements for the 2021 Students in the 4N(T) Course**  
-   
-We rejoice with Wong Xin Yi Dawn, for being the Top Student in the NT Course
-
-<img src="/images/Picture%206.jpg" 
-     style="width:60%">
-
-We congratulate all our graduands and wish them all the best as they move on from PL’s sheltering walls. Praise to be God for the results!
-
-We thank God for His blessings and His faithfulness to our school.
-
-<img src="/images/glory.png" 
-     style="width:60%">
-		 
+<div style="text-align: justify;"><b>Release of GCE N-Level Results 2022</b>
+</div>
+<div style="text-align: justify;"><br>
+</div>
+<div style="text-align: justify;">Please see hyperlink for slides shared during the release of 2022 GCE N-Level Results:<br>
+</div>
+<ul style="text-align: justify;">
+<li><a target="_blank" href="/qql/slot/u173/Accolades/GCE-N-Level/2022/General Briefing Slides for N Level 2022.pdf">General Briefing Slides</a>
+</li>
+<li><a target="_blank" href="/qql/slot/u173/Accolades/GCE-N-Level/2022/2022 Group A JIE JIT Slides.pdf">JIE JIT Briefing for 4NT Student 2022</a>
+</li>
+<li><a target="_blank" href="/qql/slot/u173/Accolades/GCE-N-Level/2022/2022 Group B DPP Slides.pdf">Direct-Entry Scheme to Polytechnic Programme (DPP) 2022</a>
+</li>
+<li><a target="_blank" href="/qql/slot/u173/Accolades/GCE-N-Level/2022/2022 Group C PFP Slides.pdf">Briefing for Potenial PFP Students</a>
+</li>
+</ul>
+<div style="text-align: justify;"><br>
+</div>
+<div style="text-align: justify;"><b>PLMGS(Sec) celebrated with our girls who received the 2022 GCE N-Level Examinations results.</b><br><br>A total of <b><span style="color: rgb(0, 0, 255);">71</span> Sec 4N(A)</b> girls and <b><span style="color: rgb(0, 0, 255);">34</span> Sec 4N(T)</b> girls sat for the GCE N-Level examinations in 2022. They worked hard and were loved and supported by their families and the teachers. We give thanks to God for His blessings upon our girls.<br><br>They did their best and achieved the following outcomes -<br>
+</div>
+<ul style="text-align: justify;">
+<li><span style="color: rgb(0, 0, 255);"><b>94.4 %</b></span> (comparison – National 78.4%) of the Sec 4N(A) students are eligible for Sec 5 N(A).
+</li>
+<li><span style="color: rgb(0, 0, 255);"><b>49.3 % </b></span>the Sec 4 N(A) students qualified for Polytechnic Foundation Programme <b>(National top 15%)</b>
+</li>
+<li><span style="color: rgb(0, 0, 255);"><b>90.1 %</b></span> of the Sec 4 N(A) students qualified for Direct-Entry-Scheme to Polytechnic Programme <b>(comparison – National top 30%</b>)
+</li>
+<li><span style="color: rgb(0, 0, 255);"><b>100%</b></span> of Sec 4N(T) students are eligible for ITE.
+</li>
+</ul>
+<div style="text-align: justify;"><br>
+</div>
+<div style="text-align: justify;"><b><u>(1) Sharing our Success Stories </u></b><br><br><font size="6"><b><i>“Be determined, remain focused and never give up” </i></b></font><br>- from the NA Course, <b>Lim Lei Ya (Sec 4.6) </b><br>
+</div>
+<div style="text-align: justify;">- <b>5 Distinctions, 6 points </b><br>
+</div>
+<div style="text-align: justify;"><br>
+</div>
+<div style="text-align: justify;"><img class="ive_eobj_left" alt="lim_lei_ya.png" src="/images/lim_lei_ya.png">Diagnosed with Severe Aplastic Anaemia at the age of 14 years old, Lei Ya has long since realised the need to be resilient, determined and to persevere through the challenges that came her way. She was often breathless, could not run and was not allowed around crowds and thus had to take a two-year leave of absence from school to receive treatment. When she returned to school, she had to work hard to close learning gaps, make new friends and cope with health challenges related to her treatment. In her academic work, she conscientiously made personal improvements to achieve better results and always had a strong drive to achieve her goals. In recognition of her efforts, in 2021, she was placed on the Dean’s List for Academic Excellence and awarded the Edusave Scholarship. Lei Ya also understood the value of CCA and joined her juniors to teach herself the basics of playing the Guzheng and her humility and willingness to learn was an inspiration to her CCA mates. She showed her leadership skills when she stepped up as a Peer Support Leader to organise and lead the Secondary 1 Orientation Camp. <br><br>Throughout her years in PL, she remained positive and tenacious, and was able to build positive relationships with others through her ability to empathise and understand the challenges others were going through, as she has experienced similar challenges before. When asked what her advice for her juniors was, Lei Ya had this to say, <i>“I’ll always be grateful to my kind friends who always made me feel included. My advice is to always be determined and remain focused and never give up. Just because you fail once, it doesn’t mean you won’t be able to continue in life.”</i><br><br><br><font size="6"><b><i>“Even if you face tough circumstances, never give up” </i></b></font><br>– from the NA Course, <b>NUR AISYAH BINTE AZMAN (Sec 4.6) </b><br>– <b>1 Distinction, 12 points </b><br>&nbsp;<br><img class="ive_eobj_left" alt="aisyah.png" src="/qql/slot/u173/Accolades/GCE-N-Level/2022/aisyah.png">Known to be a dynamic and reliable student leader, Aisyah was always seen as a positive example for her peers. She had a positive attitude towards her studies and took her work seriously. She always strived for excellence in everything she did and had the ability to think independently. In her years in PLMGS(S), Aisyah was an exemplary and inspiring leader as she stepped up to be the House Vice-Captain, Peer Support Leader and Class Monitor. She was awarded the MOE Edusave Character Award in 2022. While juggling her varied responsibilities in school, Aisyah also had the added responsibility of putting time aside every day to look after her younger siblings and manage her household duties as well. Despite the challenge of balancing so much on her plate, she doubled down and worked harder. She continued steadfastly in her responsibilities and never once wavered or gave up. She attributed her success to the words of encouragement she remembers receiving from close friends and teachers. Her advice to her juniors was, <i>“Study hard and don’t give up. Even if you face tough circumstances, never give up. Always look at the bright side.”</i><br><br><br><br><font size="6"><i><b>“Believe in yourself. Don’t let negative thoughts get in the way.” </b></i></font><br>– from the NT Course, <b>Bernice Yeo Ching Ning (Sec 4.8) </b><br>– <b>3 Distinctions, 5 points </b><br><br><img class="ive_eobj_left" alt="bernice.png" src="/qql/slot/u173/Accolades/GCE-N-Level/2022/bernice.png">Bernice Yeo struggled with dyslexia and had a difficult time making sense of her work in class. Reading and writing were difficult and she had to get help from her teachers and peers to help her in her work. But she pushed on with grit and had a positive attitude toward learning. She devoted her time and energy in the pursuit of excellence in all that she did. Her determination to clarify and challenge assumptions is the key to her success. Ever the critical thinker, she would often approach her teachers after lessons to clarify doubts and express her thoughts. In addition to her academic pursuits, she had to balance her commitment to her CCA, The Girl’s Brigade. She was part of the GB company that achieved the Company Award (Gold) in 2022 while preparing for her N-Level examinations at the same time. She embodies the value of perseverance; and in the face of adversities, she faces them with optimism. She would often motivate herself by thinking about her family, friends, and future career. She pushes herself to succeed and hopes to be a hairstylist one day. Her parting words for her juniors would be, <i>“It is fine to ask for help when one needs it. Don’t be shy to open up and always continue to believe in yourself. Don’t let negative thoughts get in the way.”</i><br><br><br><b>(2) N Level Results 2022 (4NA &amp; 4NT) <br></b><br><b>(a) Cohort Achievements for the 2022 Students in the 4N(A) Course</b><br><br>We would like to celebrate the efforts of the following students who have done especially well for the <b>GCE N(A)</b> Examinations.<br>&nbsp;<br>
+</div>
+<div style="text-align: justify;"><img style="width: 462px; height: 432px;" class="ive_eobj_center" alt="01.png" src="/qql/slot/u173/Accolades/GCE-N-Level/2022/01.png">
+</div>
+<div style="text-align: justify;">
+<div style="text-align: center;">4NA – 6 points<br><br>
+</div>
+<div style="text-align: center;"><img style="width: 723px; height: 388px;" class="ive_eobj_center" alt="02.png" src="/qql/slot/u173/Accolades/GCE-N-Level/2022/02.png">
+</div>
+<div style="text-align: center;">4NA – 7 points<br><br>
+</div>
+<div style="text-align: center;"><img style="width: 723px; height: 491px;" class="ive_eobj_center" alt="03.png" src="/qql/slot/u173/Accolades/GCE-N-Level/2022/03.png">
+</div>
+<div style="text-align: center;">4NA – 8 points<br><br>
+</div>
+<div style="text-align: center;"><img class="ive_eobj_center" alt="04.png" src="/qql/slot/u173/Accolades/GCE-N-Level/2022/04.png">
+</div>
+<div style="text-align: center;">4NA – 9 points<br><br>
+</div>
+<div style="text-align: center;"><img style="width: 724px; height: 443px;" class="ive_eobj_center" alt="05.png" src="/qql/slot/u173/Accolades/GCE-N-Level/2022/05.png">
+</div>
+<div style="text-align: center;">4NA – 10 points<br>
+</div><br><b>(b) Cohort Achievements for the 2022 Students in the 4N(T) Course</b><br>&nbsp;<br>We rejoice with Bernice Yeo Ching Ning, for being the Top Student in the NT Course<br><br><img style="width: 436px; height: 534px;" class="ive_eobj_left" alt="06.png" src="/qql/slot/u173/Accolades/GCE-N-Level/2022/06.png"><br><br>
+</div>
+<div style="text-align: justify;"><br>
+</div>
+<div style="text-align: justify;"><br>
+</div>
+<div style="text-align: justify;"><br>
+</div>
+<div style="text-align: justify;"><br>
+</div>
+<div style="text-align: justify;"><br>
+</div>
+<div style="text-align: justify;"><br>
+</div>
+<div style="text-align: justify;"><br>
+</div>
+<div style="text-align: justify;"><br>
+</div>
+<div style="text-align: justify;"><br>
+</div>
+<div style="text-align: justify;"><br>
+</div>
+<div style="text-align: justify;"><br>
+</div>
+<div style="text-align: justify;"><br>
+</div>
+<div style="text-align: justify;"><br>
+</div>
+<div style="text-align: justify;"><br>
+</div>
+<div style="text-align: justify;"><br>
+</div>
+<div style="text-align: justify;"><br>
+</div>
+<div style="text-align: justify;"><br>
+</div>
+<div style="text-align: justify;"><br>
+</div>
+<div style="text-align: justify;"><br>
+</div>
+<div style="text-align: justify;"><br>
+</div>
+<div style="text-align: justify;"><br>
+</div>
+<div style="text-align: justify;"><br>
+</div>
+<div style="text-align: justify;"><br>
+</div>
+<div style="text-align: justify;">We congratulate all our graduands and wish them all the best as they move on from PL’s sheltering walls. Praise to be God for the results!<br><br>We thank God for His blessings and His faithfulness to our school.<br><br>
+</div>
+<div style="text-align: justify;"><br>
+</div>
+<div style="text-align: justify;"><br>
+</div>
+<div style="text-align: justify;"><img style="width: 360px; height: 92px;" class="ive_eobj_center" alt="glory.png" src="/qql/slot/u173/Accolades/GCE-N-Level/2021/glory.png">
+</div>
