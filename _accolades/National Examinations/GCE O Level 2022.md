@@ -18,14 +18,14 @@ A total of <b><span style="color: rgb(0, 0, 255);">171 Sec 4 Express girls</span
 
 Their hard work paid off and we achieved the following outcomes -
 
-<u><b>Sec 4 Express Girls</u></b>
+<u><b>Sec 4 Express Girls</b></u>
 * **97.1 %** (All National – 86.2 %) of our Sec 4 Express girls obtained 5 O-Levels or more;
 
 * **98.8 %** of our Sec 4 Express girls are eligible for Poly;
 
 * **85.4 %** of our Sec 4 Express girls are eligible for JC.
 
-<u><b>Sec 5 Normal Academic Girls</u></b>
+<u><b>Sec 5 Normal Academic Girls</b></u>
 
 * **76 %** of our Sec 5NA girls obtained 5 O-Levels or more;
 
@@ -41,7 +41,7 @@ The Sec 4 Express girls achieved **100% Passes in 12 subjects**.
 
 **More than 30% Distinctions (A1 & A2) in 17 Subjects**
 
-<u><b>Outstanding CCA records</u></b>
+<u><b>Outstanding CCA records</b></u>
 	
 We celebrate the holistic achievements of our 2021 Sec 4 cohort girls who also excelled in their Co-curricular Activities with **97.5 %** of them scoring an Excellent CCA Grade (2 Bonus points) in the LEAPS 2.0. 
 
