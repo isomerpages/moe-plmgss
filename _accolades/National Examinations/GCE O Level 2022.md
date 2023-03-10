@@ -18,14 +18,14 @@ A total of <b><span style="color: rgb(0, 0, 255);">171 Sec 4 Express girls</span
 
 Their hard work paid off and we achieved the following outcomes -
 
-**Sec 4 Express Girls**
+<u>**Sec 4 Express Girls**</u>
 * **97.1 %** (All National – 86.2 %) of our Sec 4 Express girls obtained 5 O-Levels or more;
 
 * **98.8 %** of our Sec 4 Express girls are eligible for Poly;
 
 * **85.4 %** of our Sec 4 Express girls are eligible for JC.
 
-**Sec 5 Normal Academic Girls**
+<u>**Sec 5 Normal Academic Girls**</u>
 
 * **76 %** of our Sec 5NA girls obtained 5 O-Levels or more;
 
