@@ -15,7 +15,7 @@ sections:
           url: /announcements/march-cca-2023/
         - title: Useful Links
           description: "Click here to view "
-          url: ""
+          url: /useful-links/financial-assistance/
       subtitle: 巴耶礼峇美以美女校（中学）
   - infopic:
       title: PL Parcel
