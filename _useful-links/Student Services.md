@@ -34,7 +34,7 @@ Operating Hours: Monday to Friday, 2.00 pm to 5.00 pm, during School Term (Sign 
   
 ##### School Jacket Supplier
 
-Address: Block 1003, Bukit Merah Central, #07-58, Singapore 159836  <br>
+Address: Blk 1091 #05-06, Lower Delta Road, Singapore 169202 <br>
 Contact Person: Mr Vincent Chang  <br>
 Contact Number: 9842 8666  <br>
 (Student may place order at the School General Office)  
