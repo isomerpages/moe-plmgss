@@ -2,6 +2,7 @@ collections:
   announcements:
     output: true
     order:
+      - Principal's Letter to Parents.md
       - March Holidays CCA Schedule.md
       - PL Homecoming 2023.md
       - MethodistWalk 2023.md
@@ -9,7 +10,6 @@ collections:
       - 2023 Semester 1 Timetable.md
       - Principal’s Message 2023.md
       - PLMGS(S) Annual Magazine 2022.md
-      - Principal's Letter to Parents.md
       - PLMGS(Sec) Booklist for 2023.md
       - 2023 Sec 3 Subject Combinations for Sec 2 Students (2022).md
       - PL Memories 2022 Flipbook (for Graduating Classes of 2022).md
