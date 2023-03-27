@@ -28,11 +28,11 @@ sections:
       image: /images/pulse_banner.jpg
       alt: PuLSE
   - infopic:
-      title: Musical Montage Virtual Concert
+      title: Singapore Arts Festival (SYF) 2023 Arts Presentation
       button: Click Here
-      alt: virtual concert
-      url: /articles/announcements/musical-montage-virtual-concert/
-      image: /images/musical_montage.png
+      alt: SYF2023
+      url: /articles/syf2023/
+      image: /images/syf2023.jpg
   - infopic:
       title: National Digital Literacy Programme
       button: Click here
