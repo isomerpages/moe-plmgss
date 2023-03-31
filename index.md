@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: "Paya Lebar Methodist Girls' Secondary School "
+      title: Paya Lebar Methodist Girls' School (Secondary)
       background: /images/school_hero_banner.jpg
       key_highlights:
         - title: Announcements & Events
