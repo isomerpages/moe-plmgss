@@ -55,7 +55,7 @@ third_nav_title: Our Staff
 <thead>
   <tr>
     <th class="tg-citn"><img src="/images/Tan_Tiah_hui.jpg" alt="Image" style="width:27%"><br><span style="color:black">Mr Tan Tiah Hui</span><br><a href="mailto:tan_tiah_hui@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#454545">tan_tiah_hui@moe.edu.sg</span></a><br></th>
-    <th class="tg-citn"><span style="color:black">HOD ICT & Data<br>Dean (Instructional Programme)</span></th>
+    <th class="tg-citn"><span style="color:black">HOD ICT &amp; Data<br>Dean (Instructional Programme)</span></th>
   </tr>
 </thead>
 <tbody>
@@ -153,7 +153,7 @@ third_nav_title: Our Staff
   </tr>
   <tr>
     <td class="tg-citn"><img src="/images/mr_indra.jpg" alt="mr_indra.jpg" style="width:30%"><br>Mr Indra Ahmad<br><a href="mailto:indra_ahmad@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#454545">indra_ahmad@moe.edu.sg</span></a><br></td>
-    <td class="tg-citn">Design & Technology</td>
+    <td class="tg-citn">Design &amp; Technology</td>
   </tr>
   <tr>
     <td class="tg-citn"><img src="/images/Tan Xiuru.jpg" alt="Image" style="width:30%"><br>Ms Yan Xiu Ru<br><a href="mailto:yan_xiuru@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="color:#454545">yan_xiuru@moe.edu.sg</span></a><br></td>
@@ -441,7 +441,7 @@ third_nav_title: Our Staff
     <td class="tg-0lax">1.3</td>
    <td class="tg-0lax"><img src="/images/hoe%20wilson.jpg" alt="hoe wilson.jpg" style="width:25%"><br>Mr Wilson Hoe<br><a href="mailto:hoe_jun_wei@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#454545">hoe_jun_wei@moe.edu.sg</span></a><br></td>
     <td class="tg-0lax"><img src="/images/Mdm%20Lim%20Terh%20Ling.jpg" alt="Mdm Lim Terh Ling.JPG" style="width:25%"><br>Mrs Neoh Terh Ling<br><a href="mailto:lim_terh_ling@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#454545">lim_terh_ling@moe.edu.sg</span></a></td>
-     <td class="tg-0lax"><img src="/images/Jasveen Kaur.jpg" alt="Jasveen Kaur.jpg" style="width:25%"><br>Ms Kuar Jasveen<br><a href="mailto:jasveen_kaur@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#454545">jasveen_kaur@moe.edu.sg</span></a></td>
+     <td class="tg-0lax"><img src="/images/Jasveen Kaur.jpg" alt="Jasveen Kaur.jpg" style="width:25%"><br>Ms Kaur Jasveen<br><a href="mailto:jasveen_kaur@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#454545">jasveen_kaur@moe.edu.sg</span></a></td>
 
   </tr>
   <tr>
@@ -624,7 +624,7 @@ third_nav_title: Our Staff
 </tbody>
 </table>
 
-### Secondary 4 & 5 Form Teachers (2023)
+### Secondary 4 &amp; 5 Form Teachers (2023)
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
