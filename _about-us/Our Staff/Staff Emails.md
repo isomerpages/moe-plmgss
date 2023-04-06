@@ -349,17 +349,17 @@ third_nav_title: Our Staff
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-fwnj"><img src="/images/05 CHARLOTTE CHIA YUN XI.jpg" alt="05 CHARLOTTE CHIA YUN XI.jpg" style="width:25%"><br><span style="font-weight:normal">Charlotte Chia Yun Xi</span><br></th>
+    <th class="tg-fwnj"><img src="/images/18 kerryn tay wen jia.jpg" alt="18 kerryn tay wen jia.jpg" style="width:25%"><br><span style="font-weight:normal">Kerryn Tay Wen Jia</span><br></th>
     <th class="tg-fwnj"><span style="font-weight:normal">Head Prefect</span></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-fwnj"><img src="/images/04 AMELIA CHAN ZI EN.jpg" alt="04 AMELIA CHAN ZI EN.jpg" style="width:25%"><br>Amelia Chan Zi En<br></td>
+    <td class="tg-fwnj"><img src="/images/29 tan fan en hannah.jpg" alt="29 TAN FAN EN HANNAH.jpg" style="width:25%"><br>Tan Fan En Hannah<br></td>
     <td class="tg-fwnj">Vice Head Prefect</td>
   </tr>
   <tr>
-    <td class="tg-fwnj"><img src="/images/28 QUEK YAN TENG GUO YANTING.jpg" alt="28 QUEK YAN TENG GUO YANTING.jpg" style="width:25%"><br>Quek Yan Teng<br></td>
+    <td class="tg-fwnj"><img src="/images/27 ng kia boon amanda.jpg" alt="27 NG KIA BOON AMANDA.jpg" style="width:25%"><br>Ng Kia Boon Amanda<br></td>
     <td class="tg-fwnj">Vice Head Prefect</td>
   </tr>
 </tbody>
