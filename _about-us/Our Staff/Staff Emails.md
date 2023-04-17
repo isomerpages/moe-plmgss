@@ -454,13 +454,13 @@ third_nav_title: Our Staff
     <td class="tg-0lax">1.5</td>
      <td class="tg-0lax"><img src="/images/Ms%20Li%20Hongyan.jpg" alt="Ms Li Hongyan.jpg" style="width:25%"><br>Ms Li Hongyan<br><a href="mailto:li_hongyan@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#454545">li_hongyan@moe.edu.sg</span></a></td>
 		<td class="tg-0lax"><img src="/images/inr.jpg" alt="ng yu fang.jpg" style="width:25%"><br>Ms Ong Rachel<br><a href="mailto:rachel_ong_lin_hui@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#454545">rachel_ong_lin_hui@moe.edu.sg</span></a></td>
-     <td class="tg-0lax"><img src="/images/ng yu fang.jpg" alt="ng yu fang.jpg" style="width:25%"><br>Ms Ng Yu Fang<br><a href="mailto:ng_yu_fang@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#454545">ng_yu_fang@moe.edu.sg</span></a></td>
+     <td class="tg-0lax">-</td>  
   </tr>
   <tr>
     <td class="tg-0lax">1.6<br></td>
      <td class="tg-0lax"><img src="/images/yap%20wee%20cheng.jpg" alt="yap wee cheng.jpg" style="width:25%"><br>Ms Yap Wee Cheng<br><a href="mailto:yap_wee_cheng@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#454545">yap_wee_cheng@moe.edu.sg</span></a></td>
      <td class="tg-0lax"><img src="/images/Tiong%20Mee%20Choo.jpg" alt="Tiong Mee Choo.JPG" style="width:25%"><br>Mdm Tiong Mee Choo<br><a href="mailto:tiong_mee_choo@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#454545">tiong_mee_choo@moe.edu.sg</span></a></td>
-    <td class="tg-0lax">-</td>  
+    <td class="tg-0lax"><img src="/images/ng yu fang.jpg" alt="ng yu fang.jpg" style="width:25%"><br>Ms Ng Yu Fang<br><a href="mailto:ng_yu_fang@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#454545">ng_yu_fang@moe.edu.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-0lax">1.7<br></td>
