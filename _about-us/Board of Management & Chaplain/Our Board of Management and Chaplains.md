@@ -2,7 +2,7 @@
 title: Our Board of Management and Chaplains
 permalink: /about-us/our-board-of-management-and-chaplains/
 description: ""
-third_nav_title: Board of Management & Chaplain
+third_nav_title: Board of Management &amp; Chaplain
 ---
 ### Chairman
 
@@ -41,8 +41,8 @@ third_nav_title: Board of Management & Chaplain
 </figure>
 
 <figure>
-<img src="/images/Mrs%20Annie%20Teo%20(Member).jpg" style="width:40%">
-<figcaption>Mrs Annie Teo</figcaption>
+<img src="/images/dr_amy_quek.jpg" style="width:40%">
+<figcaption>Dr Amy Quek</figcaption>
 </figure>
 
 <figure>
@@ -67,4 +67,4 @@ third_nav_title: Board of Management & Chaplain
 
 ### Auditor
 
-<center>SH Tang & Associates LLP</center>
+<center>SH Tang &amp; Associates LLP</center>
