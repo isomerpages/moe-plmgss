@@ -83,7 +83,9 @@ Enjoy recalling the Lord’s goodness to PL and your life!
     <td class="tg-81dz"><a href="https://drive.google.com/open?id=1cNnfDZz1I60EqSEEdbkQgsxHHznQRq_3"><span style="text-decoration:underline;color:#454545">1998</span></a></td>
     <td class="tg-81dz"><a href="https://drive.google.com/open?id=1tPGXwo7kr7FB79nNUAetSCq31Ys9DpQh"><span style="text-decoration:underline;color:#454545">2006</span></a></td>
     <td class="tg-sxkx"> <a href="https://drive.google.com/file/d/1J4nn6g4BogxcYYSaEj9dU2n0fgZAksvk/view?usp=sharing"><span style="text-decoration:underline;color:#454545">2014</span></a></td>
-    <td class="tg-ncov"> </td>
+        <td class="tg-81dz"><a href="https://drive.google.com/file/d/1ffWMwu5zIWl1w0D3iRLhN8oHNfKi4-D-/view?usp=share_link"><span style="text-decoration:underline;color:#454545">2022</span></a> </td>
+
+
   </tr>
   <tr>
     <td class="tg-81dz"><a href="https://drive.google.com/file/d/1rYXeHuCEVzWoGLh4K2JysLsQd3wLXBoH/view?usp=sharing"><span style="text-decoration:underline;color:#454545">1968 - 1969</span></a></td>
