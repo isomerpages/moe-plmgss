@@ -19,6 +19,7 @@ sections:
       button: Click Here
       url: /announcements/dsa-info-session/
       image: /images/dsa_info_session2023.jpg
+      alt: DSA
   - infopic:
       title: PL Parcel
       description: A Read Worth Your Time
