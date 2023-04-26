@@ -528,7 +528,7 @@ third_nav_title: Our Staff
     <td class="tg-0lax">2.5<br></td>
         <td class="tg-0lax"><img src="/images/Toh%20Eva.jpg" alt="Toh Eva.JPG" style="width:25%"><br>Mrs Toh Eva<br><a href="mailto:lee_wen_hui_eva@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#454545">lee_wen_hui_eva@moe.edu.sg</span></a></td>
    <td class="tg-0lax"><img src="/images/Nurhudah.jpg" alt="Nurhudah.jpg" style="width:25%"><br>Ms Tengku Nurhudah<br><a href="mailto:tengku_nurhudah_t_m@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#454545">tengku_nurhudah_t_m@moe.edu.sg</span></a></td>
- <td class="tg-0lax">-</td>
+ <td class="tg-0lax"><img src="/images/Mrs_Lim_Maggie.jpg" alt="Mrs_Lim_Maggie.jpg" style="width:25%"><br>Mrs Lim Maggie<br><a href="mailto:lo_mei_ee@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#454545">lo_mei_ee@moe.edu.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-0lax">2.6<br></td>
@@ -702,7 +702,7 @@ third_nav_title: Our Staff
   <tr>
     <td class="tg-0lax">5.1</td>
     <td class="tg-0lax"><img src="/images/Mdm_Zalena.jpg" alt="Mdm_Zalena.jpg" style="width:25%"><br>Mdm Zalena<br><a href="mailto:zalena_aman@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#454545">zalena_aman@moe.edu.sg</span></a></td>
-    <td class="tg-0lax"><img src="/images/Mrs_Lim_Maggie.jpg" alt="Mrs_Lim_Maggie.jpg" style="width:25%"><br>Mrs Lim Maggie<br><a href="mailto:lo_mei_ee@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#454545">lo_mei_ee@moe.edu.sg</span></a></td>
+    <td class="tg-0lax">-</td>
     <td class="tg-0lax">-</td>
   </tr>
 </tbody>
