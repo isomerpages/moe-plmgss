@@ -2,6 +2,7 @@ collections:
   announcements:
     output: true
     order:
+      - Direct School Admission Information Session.md
       - Teacher Meets Parents (TMP) 2023.md
       - PSSG Beach Family Showdown 2023.md
       - SGC Collection.md
