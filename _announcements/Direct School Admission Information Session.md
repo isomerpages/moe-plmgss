@@ -19,4 +19,7 @@ The details of the PLMGS(Sec) DSA Information Session are:
 Registration starts at 9.30pm.
 
 You can also register earlier via our school website at (https://go.gov.sg/wowpf9) or scanning the QR Code below
-
+<img src="/images/qr_dsa_info_session.jpg" alt="" style="width:40%">
+- Venue: Agape Concert Hall / Paya Lebar Methodist Girls’ School (Secondary)
+            296 Lor Ah Soo, Singapore 536742
+- Contact: General Office Tel 6281 6606	
