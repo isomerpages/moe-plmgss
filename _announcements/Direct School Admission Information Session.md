@@ -5,7 +5,7 @@ description: ""
 ---
 ### Direct School Admission Information Session for Primary 6 Pupils
 
-Paya Lebar Methodist Girls’ School (Secondary) is organising a Direct School Admission (DSA) Information Session on 20 May 2023 (Sat), 10 a.m. – 12 p.m. Through this session, we hope to share information which Primary 6 pupils may find useful in deciding on their choice of secondary school after the Primary Six Leaving Examinations.
+Paya Lebar Methodist Girls’ School (Secondary) is organising a [Direct School Admission (DSA) ](https://www.plmgss.moe.edu.sg/about-us/school-admission/direct-school-admission-dsa-sec/) Information Session on 20 May 2023 (Sat), 10 a.m. – 12 p.m. Through this session, we hope to share information which Primary 6 pupils may find useful in deciding on their choice of secondary school after the Primary Six Leaving Examinations.
 
 We welcome the Primary Six pupils and parents to visit our school during the event. The programme includes the following:
 
@@ -22,4 +22,4 @@ You can also register earlier via our school website at (https://go.gov.sg/wowpf
 <img src="/images/qr_dsa_info_session.jpg" alt="" style="width:40%">
 - Venue: Agape Concert Hall / Paya Lebar Methodist Girls’ School (Secondary)
             296 Lor Ah Soo, Singapore 536742
-- Contact: General Office Tel 6281 6606	
+- Contact: General Office Tel 6281 6606
