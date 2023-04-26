@@ -15,6 +15,11 @@ sections:
           url: /announcements/tmp2023/
       subtitle: 巴耶礼峇美以美女校（中学）
   - infopic:
+      title: Direct School Admission Information Session for P6 Pupils
+      button: Click Here
+      url: /announcements/dsa-info-session/
+      image: /images/dsa_info_session2023.jpg
+  - infopic:
       title: PL Parcel
       description: A Read Worth Your Time
       button: Click Here
@@ -27,11 +32,6 @@ sections:
       url: https://sites.google.com/moe.edu.sg/pl-sil-pulse
       image: /images/pulse_banner.jpg
       alt: PuLSE
-  - infopic:
-      title: Direct School Admission Information Session for P6 Pupils
-      button: Click Here
-      url: /announcements/dsa-info-session/
-      image: /images/dsa_info_session2023.jpg
   - infopic:
       title: National Digital Literacy Programme
       button: Click here
