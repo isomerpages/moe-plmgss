@@ -28,11 +28,10 @@ sections:
       image: /images/pulse_banner.jpg
       alt: PuLSE
   - infopic:
-      title: Singapore Arts Festival (SYF) 2023 Arts Presentation
+      title: Direct School Admission Information Session for P6 Pupils
       button: Click Here
-      alt: SYF2023
-      url: /articles/syf2023/
-      image: /images/syf2023.jpg
+      url: /announcements/dsa-info-session/
+      image: /images/dsa_info_session2023.jpg
   - infopic:
       title: National Digital Literacy Programme
       button: Click here
