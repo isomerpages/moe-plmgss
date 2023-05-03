@@ -16,7 +16,7 @@ The details of the PLMGS(Sec) DSA Information Session are:
 
 - Date: 20 May 2023 (Sat)
 - Time: 10 a.m. – 12 p.m. 
-Registration starts at 9.30pm.
+Registration starts at 9.30 a.m.
 
 You can also register earlier via our school website at ([https://go.gov.sg/cym1bd](https://go.gov.sg/cym1bd)) or scanning the QR Code below
 <img src="/images/qr_dsa_info_session_02.png" alt="" style="width:40%">
