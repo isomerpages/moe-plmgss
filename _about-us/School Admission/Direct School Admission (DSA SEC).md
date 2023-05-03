@@ -427,6 +427,6 @@ third_nav_title: School Admission
     </tbody>
 </table>
 
-    <br>
+
 Please refer to MOE DSA website for the latest update:  
 [https://www.moe.gov.sg/dsa-sec](https://www.moe.gov.sg/dsa-sec)
