@@ -9,6 +9,8 @@ description: ""
 
 **Please click on the links below to read the PDF version.**
 
+[PL Parcel Issue #06 - (April 2023).pdf](https://drive.google.com/file/d/1ZBoKPqB8RfGJINercSxWQN7_BE717Gn_/view?usp=share_link)
+
 [PL Parcel Issue #05 - (March 2023).pdf](/files/pl%20parcel%20issue%2005.pdf)
 
 [PL Parcel Issue #04 - (February 2023).pdf](/files/PL%20Parcel%20Issue%2004.pdf)
