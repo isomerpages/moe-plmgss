@@ -11,8 +11,7 @@ third_nav_title: School Admission
     Paya Lebar Methodist Girls’ School (Secondary) is a school with a family
     culture, anchored on Christian beliefs and values. We believe in providing
     a holistic education for all our students and stretching each one to their
-    fullest potential. Besides a strong academic programme, we also have a
-    vibrant culture of Music, Arts and Sports. Selection of students will also
+    fullest potential. Besides a strong academic programme, we also have a vibrant culture of Music, Arts and Sports. Selection of students will also
     be based on the character and values displayed by candidates, aligned with
     the school’s H.E.A.R.T values of Honouring God, Excellence, Adaptability,
     Respect and Thankfulness. If you embrace these beliefs and values, we
@@ -30,8 +29,6 @@ third_nav_title: School Admission
                     <strong>Talent Areas</strong>
                 </p>
             </td>
-<td>
-					</td>
             <td>
                 <p>
                     <strong>Selection Criteria for Individual Talent</strong>
@@ -49,11 +46,6 @@ third_nav_title: School Admission
             <td>
                 <p>
                     Student Leadership
-                </p>
-            </td>
-            <td>
-                <p>
-                    - Student Leadership
                 </p>
             </td>
             <td>
@@ -123,16 +115,14 @@ third_nav_title: School Admission
                 <p>
                     Performing Arts
                 </p>
-            </td>
-            <td>
                 <p>
-                    - Guzheng
+                    Guzheng
                 </p>
                 <p>
-                    - Handbells
+                    Handbells
                 </p>
                 <p>
-                    - Harp
+                    Harp
                 </p>
             </td>
             <td>
@@ -173,8 +163,8 @@ third_nav_title: School Admission
                     <em>Audition</em>
                 </p>
                 <p>
-                    - Guzheng and Harp students will perform 1 or 2 pieces of
-                    music of their own choice
+                    -<strong> </strong>Guzheng and Harp students will perform 1
+                    or 2 pieces of music of their own choice
                 </p>
                 <p>
                     - Handbell students are required to participate in a
@@ -195,24 +185,25 @@ third_nav_title: School Admission
                 <p>
                     Sports
                 </p>
-            </td>
-            <td>
-                <p>- Badminton
+                <p>
+                    Badminton
                 </p>
                 <p>
-                    - Netball
+                    Netball
                 </p>
                 <p>
-                    - Rhythmic Gymnastics
+                    Rhythmic Gymnastics
                 </p>
                 <p>
-                    - Swimming
+                    Swimming
                 </p>
                 <p>
-                    - Table Tennis
+                    Table Tennis
                 </p>
                 <p>
-                    - Volleyball
+                    Volleyball
+                    <br>
+                    <br>
                 </p>
             </td>
             <td>
@@ -257,33 +248,18 @@ third_nav_title: School Admission
                 <p>
                     <em>Interview (when required)</em>
                 </p>
-                <p>
-                    <s>
-                    </s>
-                </p>
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <p>
-                    <strong>
-                        <em>
-                            Meeting all the criteria does not guarantee the
-                            student will be shortlisted or given an offer.
-                        </em>
-                    </strong>
-                </p>
-            </td>
-        </tr>
-    </tbody>
-</table>
+                          
+</td></tr></tbody></table>
+
+<p>
+    <strong>
+      Meeting all the criteria does not guarantee the student will be shortlisted or given an offer.
+    </strong></p>
 <p>
     <strong>
         <br>
         Application Procedures
     </strong>
-    <br>
-    <br>
 </p>
 <p>
     1. Application for DSA-Sec can be submitted through the online DSA-Sec
@@ -326,7 +302,6 @@ third_nav_title: School Admission
     email by <strong>Monday, 11 September 2023</strong>.
 </p>
 <p>
-    <br>
     <strong>
         Schedule for DSA-Sec Exercise
         <br>
