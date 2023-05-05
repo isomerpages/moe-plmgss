@@ -7,12 +7,11 @@ third_nav_title: School Admission
 The Sec 1 Option Exercise will be conducted for all PSLE candidates immediately after the release of the PSLE results in late-November. Students will be posted into secondary schools in December based on merit, choice and places available in the school.
 
 ##### Students from PLMGS (Primary)
-##### 
 
 If a child is studying in PLMGS (Primary) and wants to continue secondary education in the affiliated secondary school, PLMGS (Secondary), she must indicate PLMGS (Secondary) as the first choice school, in order to enjoy priority for admission to the affiliated secondary school. There is an Affiliate Minimum Requirement for PLMGS (Primary) students for admission to the Express course. However, being accorded priority for admission does not guarantee admission to PLMGS (Secondary), as it is subject to availability of places. Depending on the demand and choice patterns of that year, if there is more demand from eligible affiliates than the available places at Sec 1 posting, posting in of affiliates will be based on their PSLE AL scores. This may result in some affiliates not being admitted despite meeting the Affiliate Minimum Requirement.
   
 ##### Students from Other Primary Schools
-##### 
+
 Starting from 2020, there will be at least 20% in each course set aside for non-affiliated students.  
   
 Primary 6 pupils from PLMGS (Primary) & other Primary Schools who have just received their secondary school posting in 2022 may use the following form to appeal for transfer to PLMGS(Sec). The appeal can only be considered:  
