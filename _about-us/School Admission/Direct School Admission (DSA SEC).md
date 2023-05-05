@@ -263,8 +263,8 @@ third_nav_title: School Admission
 </p>
 <p>
     1. Application for DSA-Sec can be submitted through the online DSA-Sec
-    Portal. The application is free-of-charge and will be open from 04 May 2023
-    to 31 May 2023. For more details, please refer to MOE website –
+    Portal. The application is free-of-charge and will be open from 04 May 2023, 11am.
+    to 31 May 2023, 3pm. For more details, please refer to MOE website –
     <a>
         <strong><em>www.moe.gov.sg/dsa-sec</em></strong>
     </a>
@@ -335,7 +335,7 @@ third_nav_title: School Admission
             </td>
             <td>
                 <p>
-                    4 – 31 May
+                    4 May, 11am – 31 May, 3pm
                 </p>
             </td>
             <td>
