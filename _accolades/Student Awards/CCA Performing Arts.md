@@ -21,61 +21,61 @@ third_nav_title: Student Awards
 <thead>
   <tr>
     <th class="tg-8ad3"><span style="color:white">SYF</span></th>
-    <th class="tg-8ad3"><span style="color:#FFF">2013</span></th>
     <th class="tg-8ad3"><span style="color:#FFF">2015</span></th>
     <th class="tg-8ad3"><span style="color:#FFF">2017</span></th>
     <th class="tg-8ad3"><span style="color:#FFF">2019</span></th>
     <th class="tg-8ad3"><span style="color:#FFF">2021</span></th>
+    <th class="tg-8ad3"><span style="color:#FFF">2023</span></th>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td class="tg-8ad3"><span style="color:white">Concert Band</span></td>
-    <td class="tg-6nlj"><span style="color:#FFF">Commendation</span></td>
     <td class="tg-xx4e">Accomplishment</td>
     <td class="tg-xx4e">Accomplishment</td>
     <td class="tg-xx4e">Accomplishment</td>
     <td class="tg-xx4e">Accomplishment<br>(2 teams)<br></td>
+    <td class="tg-xx4e">Accomplishment</td>
   </tr>
   <tr>
     <td class="tg-8ad3"><span style="color:white">Choir</span></td>
     <td class="tg-sve1">Distinction</td>
     <td class="tg-sve1">Distinction</td>
     <td class="tg-sve1">Distinction</td>
-    <td class="tg-sve1">Distinction</td>
     <td class="tg-ncov">Not Applicable* </td>
+    <td class="tg-sve1">Distinction</td>
   </tr>
   <tr>
     <td class="tg-8ad3"><span style="color:white">Modern Dance</span></td>
-    <td class="tg-ojvt">Distinction</td>
     <td class="tg-sve1">Distinction</td>
     <td class="tg-sve1">Distinction</td>
     <td class="tg-xx4e">Accomplishment</td>
     <td class="tg-sve1">Distinction<br>(Team A)<br>Accomplishment (Team B)  </td>
+		<td class="tg-xx4e">Accomplishment</td>
   </tr>
   <tr>
     <td class="tg-8ad3"><span style="color:white">English Drama</span></td>
-    <td class="tg-xx4e">Accomplishment</td>
     <td class="tg-sve1">Distinction</td>
     <td class="tg-xx4e">Accomplishment</td>
     <td class="tg-sve1">Distinction</td>
     <td class="tg-sve1">Distinction</td>
+    <td class="tg-xx4e">Accomplishment</td>
   </tr>
   <tr>
     <td class="tg-8ad3"><span style="color:white">Chinese Drama (D’Arts)</span></td>
     <td class="tg-xx4e">Accomplishment</td>
     <td class="tg-xx4e">Accomplishment</td>
     <td class="tg-xx4e">Accomplishment</td>
-    <td class="tg-xx4e">Accomplishment</td>
     <td class="tg-sve1">Distinction</td>
+    <td class="tg-xx4e">Accomplishment</td>
   </tr>
   <tr>
     <td class="tg-8ad3"><span style="color:white">Guitar Ensemble</span></td>
-    <td class="tg-sve1"><span style="background-color:#FF0">Distinction</span></td>
     <td class="tg-xx4e">Accomplishment</td>
     <td class="tg-sve1">Distinction</td>
     <td class="tg-sve1">Distinction</td>
     <td class="tg-xx4e">Accomplishment </td>
+		<td class="tg-sve1">Distinction</td>
   </tr>
   <tr>
     <td class="tg-8ad3"><span style="color:white">Guzheng</span> <span style="color:white">Ensemble</span></td>
@@ -83,28 +83,28 @@ third_nav_title: Student Awards
     <td class="tg-sve1">Distinction</td>
     <td class="tg-sve1">Distinction</td>
     <td class="tg-sve1">Distinction</td>
-    <td class="tg-sve1">Distinction</td>
+		<td class="tg-sve1">Distinction</td>
   </tr>
   <tr>
-    <td class="tg-8ad3"><span style="color:white">Handbells</span> <span style="color:white">Ensemble</span></td>
-    <td class="tg-sve1"><span style="background-color:#FF0">Distinction</span></td>
+    <td class="tg-8ad3"><span style="color:white">Handbell</span> <span style="color:white">Ensemble</span></td>
     <td class="tg-sve1">Distinction</td>
     <td class="tg-sve1">Distinction</td>
     <td class="tg-sve1">Distinction</td>
     <td class="tg-xx4e">Accomplishment</td>
+    <td class="tg-sve1">Distinction</td>
   </tr>
   <tr>
     <td class="tg-8ad3"><span style="color:white">Harp</span> <span style="color:white">Ensemble</span></td>
     <td class="tg-sve1">Distinction</td>
     <td class="tg-sve1">Distinction</td>
-    <td class="tg-sve1">Distinction</td>
     <td class="tg-xx4e">Accomplishment</td>
+    <td class="tg-sve1">Distinction</td>
     <td class="tg-sve1">Distinction</td>
   </tr>
 </tbody>
 </table>
 
-* In 2021, all choirs in Singapore will not be benchmarked for SYF Arts Presentation attainment.
+* In 2021, all choirs in Singapore were not benchmarked for SYF Arts Presentation attainment.
 
 ### Performing Arts Awards
 
