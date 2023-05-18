@@ -25,22 +25,24 @@ We will always be loyal and true to our country, our people and the government. 
 We will always be prepared to serve our country and community.  <br>
 We will always preserve the peace and uphold the law.  
   
-**Achievements in 2021**  
-•&nbsp;&nbsp; &nbsp;Unit Overall Proficiency Award: To Be Confirmed  
-•&nbsp;&nbsp; &nbsp;Kendra Ng and Varsha were awarded the highest rank of Station Inspector attainable during secondary school in 2021  
-•&nbsp;&nbsp; &nbsp;Rayna Tan was awarded the Best Unit Cadet award in 2021  
+**Achievements**  
+Unit Overall Proficiency Award: <br>
+*	Gold (2021) 
+*	Participation (2022)
+
+Station Inspector (highest rank attainable) (2023): Shifa (Class 4.6) and Nathalene (Class 4.1) 
+
+Best Unit Cadet (2023): Sharanya (Sec 4.3) and Amanda (Sec 4.2) 
+
   
 **Teachers-in-charge**  <br>
-Mr Lam Cherng Yang (Officer-in-charge)  <br>
-Mrs Lim Maggie  <br>
-Mrs Rajah Padhmeni  <br>
-Mrs Koh Mei Chin  
-  
-**Instructors**  <br>
-Honorary Inspector (HO) Suman Devi D/O Daya Ram Singh  <br>
-Cadet Inspector (CI) Penelope Ho  
+Mr Lam Cherng Yang (Officer-in-charge)<br>
+Mr Shane Tan (Deputy OC)<br>
+Mrs Rajah Padhmeni<br>
+Mrs Koh Mei Chin
+
   
 **Training Schedule**  <br>
-Every Friday, 3.30pm to 6.00pm @ PL Track area
+Every Friday, 3.30pm to 6pm
 
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTrwol2Y39hecGcI_OosVc1PoEetRVs0uIVJH3WC_05F-pz1FcoyuEWZgTE_QECWd8kgaZT--s7dGf2/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
