@@ -4,38 +4,42 @@ permalink: /co-curricular-programmes/sports-and-games/school-netball-team/
 description: ""
 third_nav_title: Sports & Games
 ---
-Netball is a fast-moving, non-contact sport which cultivates our players to be quick, alert and to have a persevering mindset on or off-court. Netball instils sportsmanship, discipline, teamwork and perseverance in all players. Being mentally resilient is key for our players as they continue training diligently through all the sessions. With these skills and characteristics, the CCA has and will continue to strive to make PLMGS proud!  
+The PLMGSS Netball B and C Divisions are a force to reckon with in the Zonal competitions. Our players come with various backgrounds, skills, and knowledge on netball. The training programme helmed by our coaches and overseen by our teachers-in-charge will enable the girls to reach their achievable heights for netball. Our team PLNB will continue to grow and achieve greater heights!
 
   
 **Our Vision**  <br>
-An outstanding netball team in the East Zone, developing great players who inspire others and stand united in the face of challenges.  
+To cultivate positive attitude, discipline, team spirit and mental resilience towards netball.
   
 **Our Mission**  <br>
-To develop netball players into team players who are disciplined, respectful and of good character.  
+To equip our players with solid foundational netball skills and game experience to excel and enjoy netball.
   
-**Achievement in 2017**  <br>
-East Zone Netball Championships  
-*   B Division – Quarter finalist
-*   C Division – Quarter finalist  
+**Achievements**  <br>
+2022<br>
+National School Game (East Zone) 
+*	B Division Girls – Quarterfinalist 
+*	C Division Girls – Quarterfinalist 
+
+2023<br>
+National School Games (East Zone) 
+* B Division – Quarterfinalist 
  
   
-T-net Club Netball Competition 2019  
-
-*   Under 14 Category - 3rd runner up
-
-  
 **Teachers-in-charge**  <br>
-Mr Divakaran (i/c) <br> 
+Mr Divakaran s/o Kuppusamy (i/c) <br>
+Mdm Nor Shana Abdul Aziz <br>
 Ms Das Ruth Hannah <br>
-Mdm Nor Shana  <br>
-Mr Lester Sim  
+Ms Bai Zhaozhi
+ 
   
 **Coaches**  <br>
-Ms Neo Ah Geok (Main Coach)  <br>
-Ms Aurora Annaleisa Pereira Loh Jing Ning  
+Ms Neo Ah Geok <br>
+Ms Ariel Annalia Loh Jing Wen<br>
+Ms Aurora Pereira Loh Jing Ting
+
   
 **Training Schedule**  <br>
-Every Monday, 3.30pm to 6.30pm @ Parade Square  <br>
-Every Friday, 3.30pm to 6.30pm @ Outdoor Courts at School Track
+Every Monday and Friday, 3.30pm to 6pm  <br>
+Tuesday, 3.30pm to 6pm (during competition season)
+
 
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTfY-WMQ_7Aow-MDu-k0fVAIJO7SoXii3CIHuX1rZH22pBn5HdLeduC7zVPpahlJ7WJc4FbDUtnxePX/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>

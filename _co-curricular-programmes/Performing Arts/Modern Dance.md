@@ -8,20 +8,16 @@ PL Dance started in 2003 with a small number of students. Over the years we have
 
   
 **Vision**  <br>
-To build a community where dancers work as a team to grow in beauty as a person and an artiste  
+To build a community where dancers work as a team to grow in beauty as a person and an artiste
   
 **Mission**  <br>
 To develop character, poise, elegance and confidence in every dancer  
   
 **Achievements**  <br>
-**SYF 2021**
-
-_Team A - Contemporary (Certificate of Distinction)  <br>
-Team B - Jazz (Certificate of Accomplishment)_  
+SYF Arts Presentation 2023 – Certificate of Accomplishment SYF Arts <br>Presentation 2021 – Certificate of Distinction &amp; Certificate of Accomplishment (2 teams)
   
 **Teachers-in-charge**  <br>
 Mrs Brenda Colleemallay (i/c)  <br>
-Ms Melissa Paul <br>
 Mdm Ee Julia
 
  
@@ -29,6 +25,8 @@ Mdm Ee Julia
 Ms Stacie Leong  
   
 **Training Schedule**  <br>
-Every Monday and Friday, 3:30pm to 6:00pm @ Dance Studio
+Every Monday and Friday, 3.30pm to 6pm <br>
+Tuesday, 3.30pm to 6pm (during peak season)
 
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTGluxt5oRfec1VbJDCY2eJ-QNQRhxNFS47Rne1MS4Q4U94E1JsXW9Tit41oqaWhDCsKI5fr0ypFLIt/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/1z1SM4LnFap_XYA8RGcaZzztd5yG6gugB0B6GjqYG_Gw/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>

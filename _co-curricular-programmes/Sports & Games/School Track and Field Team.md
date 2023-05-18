@@ -4,7 +4,7 @@ permalink: /co-curricular-programmes/sports-and-games/school-track-and-field-tea
 description: ""
 third_nav_title: Sports & Games
 ---
-PL Track and Field Team is a family of athletics that train together as a team. Our mission is to build a team of national athletics and to do our school proud. We aim to achieve more in the future national championships. Currently, our main coach, Mr Alfred Sim, who was a former national sprinter, coaches us at least twice a week. We aim to expand our track family, welcoming new track members with a sense of belonging, to become members of the team, and achieving something together in the future.  
+PL Track and Field Team is a family of athletics who train together as a team. We endeavour to develop in our athletics the true spirit of sportsmanship and teamwork. Together we work towards our goals to achieve more in National Championship in the future so as to bring pride and glory to our school.
 
   
 
@@ -14,26 +14,34 @@ Faster, Higher, Stronger
 **Our Mission**  <br>
 To build a team of National athletics with passion and discipline to live a full life!  
   
-**Achievements for 2019**  
+**Achievements**  
+2023<br>
+National School Games (East Zone) C Division – Finalist 
+*	Shot-put (8th Position)
+*	Triple Jump (12th Position)
 
-*   Finals for National School Games C Div 4 x100 m,
-*   Finals for National School Games C Div Shot-put (7th Position),
-*   8th and 10th Position for Cougar Race under 14.  
+National School Games (East Zone) B Division – Semifinalist
+*	100m
+*	200m
+*	400m
     
 
-  
 **Teachers-in-charge**  <br>
-Mr Chai Wee Jie (i/c)  <br>
-Mr Andrew Martin  <br>
-Mdm Lim Pei Yng  <br>
-Ms Lin Lihui  
+Mdm Lim Pei Yng (i/c)<br>
+Mr Lin Bin Chuan<br>
+Ms Rachael Wu Cai Fen<br>
+Ms Lin Li Hui
+
+
   
 **Coaches**  <br>
-Mr Joseph Soh  <br>
-Mr Daryl Liew  
+Ms Ng Yew Cheo <br>
+Ms Ter Wei Ting Brenda
+
 
 **Training Schedule**  <br>
-Every Monday and Friday, 3.30pm to&nbsp; 6.00pm @ School Track (Off Peak Season)  <br>
-Every Tuesday, 3.30pm to&nbsp; 6.00pm @ School Track (Peak Season)
+Every Monday and Friday, 3.30pm to 6.00pm <br>
+Tuesday, 3.30pm to 6.00pm (during competition season)
 
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSJX4l9NneerDhea6Wd7gsQi9_RG29J9jyO-0e2ieucWOjAR6Vg-DVGXUWPh9PmTNPQNt5Cxlu6C1rS/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/1teuJRcawE9P7UlR06Yv0vLl1APlEH5eMoe78N4XXtzk/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>

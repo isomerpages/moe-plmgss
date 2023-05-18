@@ -14,19 +14,20 @@ To develop in each member an excellent mind set and team spirit through the lear
 **Mission**  <br>
 We Ring to the Glory of His Name.  
   
-**Achievements** <br>  
-SYF Arts Presentation 2021 - Certificate of Accomplishment  <br>
-Distinction for the Singapore Youth Festival Arts Presentation 2019  
+**Achievements**<br>
+SYF Arts Presentation 2023 - Certificate of Distinction <br>
+SYF Arts Presentation 2021 - Certificate of Accomplishment
+
   
 **Teachers-in-charge**  <br>
-Ms Sin Eileen (i/c)  <br>
-Ms Hee Yeun Jen  <br>
-Ms Ho Lian Ya  
+Ms Hee Yeun Jen (i/c) <br>
+Ms Ho Lian Ya
+
   
 **Coach**  <br>
 Ms Angela Tsugane Ikumi  
   
 **Training Schedule**  <br>
-Every Monday and Tuesday, 3.30pm to 6.15pm @ Handbell Room
+Every Monday and Tuesday, 3.30pm to 6pm
 
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQv5na93MTfSz7C7kSHJrsl68Mvc4eOjwrL3ke_dNcva5G--Micp8_RvTlQJ2O_toQDkfJqFrlKriLj/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/16Ps-8EmTpFeYm9Vv2nObJCDglNkg4Ntn8EdhTbgAPyM/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
