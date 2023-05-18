@@ -45,4 +45,4 @@ Mrs Koh Mei Chin
 **Training Schedule**  <br>
 Every Friday, 3.30pm to 6pm
 
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTrwol2Y39hecGcI_OosVc1PoEetRVs0uIVJH3WC_05F-pz1FcoyuEWZgTE_QECWd8kgaZT--s7dGf2/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/1E2XI2ZJfPp8oCfW3yHLFO-aLGhIQEkSLrubOvilr8AU/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
