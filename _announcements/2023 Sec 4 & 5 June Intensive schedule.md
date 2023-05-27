@@ -7,4 +7,4 @@ Dear Parents/Students,
 
 Attached is the June intensive lessons schedule for Sec 4/5 students.
 
-[2023 June Intensive Timetable.pdf](/files/2023%20june%20intensive%20timetable.pdf)
+[June Intensive Timetable (updated).pdf](/files/june%20intensive%20timetable%20(updated).pdf)
