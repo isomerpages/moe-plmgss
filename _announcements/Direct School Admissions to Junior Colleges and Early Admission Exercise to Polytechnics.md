@@ -8,7 +8,7 @@ Dear parents,&nbsp;
 
   
 
-The **Direct School Admission Exercise for Junior Colleges** has commenced since May. For more information, please refer:&nbsp;[Direct School Admission for junior colleges (DSA-JC): Overview | MOE](https://www.moe.gov.sg/post-secondary/admissions/dsa/).&nbsp;
+The **Direct School Admission Exercise for Junior Colleges** has commenced since May. For more information, please refer: [Direct School Admission for junior colleges (DSA-JC)](https://www.moe.gov.sg/post-secondary/admissions/dsa/)
 
   
 
@@ -17,7 +17,7 @@ Students are reminded to submit their application to the relevant junior college
 
   
 
-The **Early Admission Exercise to Polytechnic** will take place from Thu, 22 Jun to Wed, 28 Jun 2023. For more information, please refer to:&nbsp;[Polytechnic Early Admissions Exercise (Poly EAE): Overview | MOE](https://www.moe.gov.sg/post-secondary/admissions/poly-eae).
+The **Early Admission Exercise to Polytechnic** will take place from Thu, 22 Jun to Wed, 28 Jun 2023. For more information, please refer to: [Polytechnic Early Admissions Exercise (Poly EAE)](https://www.moe.gov.sg/post-secondary/admissions/poly-eae)
 
   
 
