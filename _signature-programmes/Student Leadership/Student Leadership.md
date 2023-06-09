@@ -27,7 +27,7 @@ PL Lead is also strongly aligned to PLMGS(S)’ Desired Outcomes of Education, w
 
 ![](/images/student_leader02.png)
 
-**DSA Student Leadership (can be a separate page under PL Lead)**  
+**DSA Student Leadership**  
 
   
 
@@ -76,4 +76,3 @@ Student leaders also receive training for their specific roles.&nbsp; In additio
 **Photo Gallery**
 
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTsiOt-7-gflXHh25bBuX541TAkPbK-ZnC4wxD6q-1kkLNpQGnU-m-h_Qh5Nur8-A0kSbXTgQ0Welxy/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
-
