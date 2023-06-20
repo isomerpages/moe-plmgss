@@ -40,11 +40,11 @@ Wheelchair Users: There are ramps and a lift to facilitate access for wheelchair
 
 Please see attached for the Agape Hall Rental Booking details:
 
-[PLMGSS Agape Concert Hall Booking Form 2023.pdf](/files/PLMGSS%20Agape%20Concert%20Hall%20Booking%20Form%202023.pdf)
+[PLMGSS Agape Concert Hall Booking Form 2023 (updated 20 June 2023)](/files/plmgss%20agape%20concert%20hall%20booking%20form%202023v2.pdf)
 
-Kindly email completed booking form to [plmgss@moe.edu.sg](mailto:plmgss@moe.edu.sg) if you wish to make a reservation. 
+Kindly email completed booking form to&nbsp;[plmgss@moe.edu.sg](mailto:plmgss@moe.edu.sg)&nbsp;if you wish to make a reservation. 
   
-**_Note:_** _Deposit paid would not be refundable if Covid situation disallows reservation but can be postponed to the following year. Thank you._ 
+**_Note:_**&nbsp;_Deposit paid would not be refundable if Covid situation disallows reservation but can be postponed to the following year. Thank you._&nbsp;
 
 Educational Institutions, pre-schools and kindergartens, and organizations associated with MOE or the School, may request for rental of the Agape Concert Hall. All requests are subject to approval by the Principal.
 
