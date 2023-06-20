@@ -2,6 +2,7 @@ collections:
   announcements:
     output: true
     order:
+      - Night Study for Sec 4 & 5 Students.md
       - Direct School Admissions to Junior Colleges and Early Admission Exercise
         to Polytechnics.md
       - Sec 2 PMP Briefing Slides.md
