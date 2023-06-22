@@ -2,6 +2,7 @@ collections:
   announcements:
     output: true
     order:
+      - 2023 Semester 1 Timetable.md
       - Night Study for Sec 4 & 5 Students.md
       - Direct School Admissions to Junior Colleges and Early Admission Exercise
         to Polytechnics.md
@@ -9,7 +10,6 @@ collections:
       - SGC Collection.md
       - Principal's Letter to Parents.md
       - Open Houses 2023 Post Secondary Options.md
-      - 2023 Semester 1 Timetable.md
       - Principal’s Message 2023.md
       - PLMGS(S) Annual Magazine 2022.md
       - PLMGS(Sec) Booklist for 2023.md
