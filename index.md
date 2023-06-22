@@ -12,7 +12,7 @@ sections:
       key_highlights:
         - title: Announcements & Events
           description: Click here to read more
-          url: /announcements/night-study-s4-5-students
+          url: /announcements/2023-semester-2-timetable/
       subtitle: 巴耶礼峇美以美女校（中学）
   - infopic:
       title: Direct School Admission Information Session for P6 Pupils
