@@ -745,7 +745,19 @@ third_nav_title: Our Staff
     <td class="tg-0lax"><img src="/images/mr_indra.jpg" alt="mr_indra.jpg" style="width:25%"><br>Mr Indra Bin Ahmad<br><a href="mailto:indra_ahmad@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#454545">indra_ahmad@moe.edu.sg</span></a></td>
     <td class="tg-0lax"><img src="/images/Angullia.jpg" style="width:22%"><br>Mrs Angullia Irene<br><a href="mailto:irene_angullia@moe.edu.sg"><span style="text-decoration:underline;color:#454545">irene_angullia@moe.edu.sg</span></a></td>
 	</tr>
-  <tr>
+<tr>
+<td class="tg-0lax"><img src="/images/inr.jpg" alt="Lin Lihui.JPG" style="width:25%"><br>Mrs Chen Jennifer</td>
+<td class="tg-0lax"><img src="/images/inr.jpg" alt="Lin Lihui.JPG" style="width:22%"><br>Mrs Lai Yee Tng</td>
+	</tr>  
+<tr>
+<td class="tg-0lax"><img src="/images/inr.jpg" alt="Lin Lihui.JPG" style="width:25%"><br>Ms Lim Sok Lan Grace</td>
+<td class="tg-0lax"><img src="/images/inr.jpg" alt="Lin Lihui.JPG" style="width:22%"><br>Mrs Ong Adeline</td>
+	</tr> 
+<tr>
+<td class="tg-0lax"><img src="/images/inr.jpg" alt="Lin Lihui.JPG" style="width:25%"><br>Ms Soh Wei-Yi Pamela</td>
+<td class="tg-0lax"><img src="/images/inr.jpg" alt="Lin Lihui.JPG" style="width:22%"><br>Mr Toh Pek Chuan, Vincent</td>
+	</tr> 
+<tr>
     <td class="tg-0lax">-</td>
     <td class="tg-0lax">-</td>
   </tr>
