@@ -560,11 +560,11 @@ third_nav_title: Our Staff
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-9678{background-color:#E5E5E5;text-align:left;vertical-align:top}
-.tg .tg-0lax{text-align:left;vertical-align:top}
+.tg .tg-fwnj{background-color:#FFF;color:#454545;text-align:left;vertical-align:top}
+.tg .tg-iual{background-color:#E5E5E5;color:#454545;text-align:left;vertical-align:top}
+.tg .tg-sdzj{background-color:#FFF;color:#454545;text-align:left;vertical-align:middle}
 </style>
-
-     &lt;<table class="tg">
+<table class="tg">
 <thead>
   <tr>
     <th class="tg-0lax">Class</th>
