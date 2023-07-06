@@ -12,7 +12,7 @@ sections:
       key_highlights:
         - title: Announcements & Events
           description: Click here to read more
-          url: /announcements/2023-semester-2-timetable/
+          url: /announcements/4nant-prelim-2023/
       subtitle: 巴耶礼峇美以美女校（中学）
   - infopic:
       title: Direct School Admission Information Session for P6 Pupils
