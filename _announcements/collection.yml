@@ -2,10 +2,11 @@ collections:
   announcements:
     output: true
     order:
-      - MOE Edusave Character Award (ECHA).md
+      - 4E & 5N O Level Prelim Timetable 2023.md
       - Sec 4NA & NT Prelim Time Table 2023.md
-      - 2023 Semester 2 Timetable.md
+      - MOE Edusave Character Award (ECHA).md
       - Night Study for Sec 4 & 5 Students.md
+      - 2023 Semester 2 Timetable.md
       - Direct School Admissions to Junior Colleges and Early Admission Exercise
         to Polytechnics.md
       - Sec 2 PMP Briefing Slides.md
