@@ -2,6 +2,7 @@ collections:
   announcements:
     output: true
     order:
+      - 4E & 5N O Level Prelim Timetable 2023.md
       - MOE Edusave Character Award (ECHA).md
       - Sec 4NA & NT Prelim Time Table 2023.md
       - 2023 Semester 2 Timetable.md
