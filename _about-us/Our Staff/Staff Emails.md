@@ -151,10 +151,7 @@ third_nav_title: Our Staff
     <td class="tg-citn"><img src="/images/Zhuang%20Yingmeng.jpg" alt="Zhuang Yingmeng.jpg" style="width:30%"><br>Ms Zhuang Ying Meng<br><a href="mailto:zhuang_yingmeng@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#454545">zhuang_yingmeng@moe.edu.sg</span></a><br></td>
     <td class="tg-citn"><span style="color:black">Chinese Language</span><br></td>
   </tr>
-  <tr>
-    <td class="tg-citn"><img src="/images/mr_indra.jpg" alt="mr_indra.jpg" style="width:30%"><br>Mr Indra Ahmad<br><a href="mailto:indra_ahmad@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#454545">indra_ahmad@moe.edu.sg</span></a><br></td>
-    <td class="tg-citn">Design &amp; Technology</td>
-  </tr>
+ 
   <tr>
     <td class="tg-citn"><img src="/images/Tan Xiuru.jpg" alt="Image" style="width:30%"><br>Ms Yan Xiu Ru<br><a href="mailto:yan_xiuru@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="color:#454545">yan_xiuru@moe.edu.sg</span></a><br></td>
     <td class="tg-citn">English Language &amp; Literature</td>
