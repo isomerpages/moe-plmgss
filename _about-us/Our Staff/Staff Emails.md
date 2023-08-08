@@ -151,10 +151,7 @@ third_nav_title: Our Staff
     <td class="tg-citn"><img src="/images/Zhuang%20Yingmeng.jpg" alt="Zhuang Yingmeng.jpg" style="width:30%"><br>Ms Zhuang Ying Meng<br><a href="mailto:zhuang_yingmeng@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#454545">zhuang_yingmeng@moe.edu.sg</span></a><br></td>
     <td class="tg-citn"><span style="color:black">Chinese Language</span><br></td>
   </tr>
-  <tr>
-    <td class="tg-citn"><img src="/images/mr_indra.jpg" alt="mr_indra.jpg" style="width:30%"><br>Mr Indra Ahmad<br><a href="mailto:indra_ahmad@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#454545">indra_ahmad@moe.edu.sg</span></a><br></td>
-    <td class="tg-citn">Design &amp; Technology</td>
-  </tr>
+ 
   <tr>
     <td class="tg-citn"><img src="/images/Tan Xiuru.jpg" alt="Image" style="width:30%"><br>Ms Yan Xiu Ru<br><a href="mailto:yan_xiuru@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="color:#454545">yan_xiuru@moe.edu.sg</span></a><br></td>
     <td class="tg-citn">English Language &amp; Literature</td>
@@ -315,17 +312,13 @@ third_nav_title: Our Staff
 .tg .tg-pz2b{background-color:#E5E5E5;color:#333;text-align:left;vertical-align:top}
 </style>
 <table class="tg">
-<thead>
-  <tr>
-  <th class="tg-0lax"><img src="/images/Ms%20Rachel%20Lee%20Siew%20Fen1.jpg" alt="Ms Rachel Lee Siew Fen1.jpg" style="width:22%"><br>Ms Rachel Lee<br><a href="mailto:rachel_lee_siew_fen@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#454545">rachel_lee_siew_fen@moe.edu.sg</span></a></th>
+<thead>	 <tr>
+  <th class="tg-0lax"><img src="/images/Cynthia Ang Lay Leng.jpg" alt="Cynthia Ang Lay Leng.jpg" style="width:22%"><br>Mrs Yeong Cynthia<br><a href="mailto:cynthia_ang_lay_leng@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#454545">cynthia_ang_lay_leng@moe.edu.sg</span></a></th>
     <th class="tg-citn"><span style="color:black">Christian Ministry Staff</span></th>
   </tr>
 	</thead>
 	<tbody>
-	 <tr>
-  <td class="tg-0lax"><img src="/images/Cynthia Ang Lay Leng.jpg" alt="Cynthia Ang Lay Leng.jpg" style="width:22%"><br>Mrs Yeong Cynthia<br><a href="mailto:cynthia_ang_lay_leng@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#454545">cynthia_ang_lay_leng@moe.edu.sg</span></a></td>
-    <td class="tg-citn"><span style="color:black">Christian Ministry Staff</span></td>
-  </tr>
+
 <tr>
   <td class="tg-0lax"><img src="/images/Jasmine Toh.jpg" alt="Jasmine Toh.jpg" style="width:22%"><br>Ms Toh Jasmine<br><a href="mailto:toh_hui_yi_jasmine@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#454545">toh_hui_yi_jasmine@moe.edu.sg</span></a></td>
     <td class="tg-citn"><span style="color:black">Christian Ministry Staff</span></td>
