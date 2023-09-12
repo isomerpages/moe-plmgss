@@ -18,8 +18,8 @@ description: ""
 <table class="tg">
 <thead>
   <tr>
-    <td class="tg-ncov">Please visit the MOE Local Scholarships website via <a href="https://www.moe.gov.sg/admissions/scholarships"><span style="text-decoration:underline;color:#454545">https://www.moe.gov.sg/admissions/scholarships</span></a><br>or with the QR code to find out more. </td>
-    <td class="tg-sxkx"><img src="/images/unleash_qr.png" style="width:80%" alt="unleash_qr.png"></td>
+    <td class="tg-ncov">Please visit the MOE Local Scholarships website via <a href="https://www.moe.gov.sg/financial-matters/awards-scholarships"><span style="text-decoration:underline;color:#454545">https://www.moe.gov.sg/financial-matters/awards-scholarships</span></a><br>or with the QR code to find out more. </td>
+    <td class="tg-sxkx"><img src="/images/unleash_qr2.png" style="width:80%" alt="unleash_qr2.png"></td>
   </tr>
 </thead>
 </table>
@@ -45,12 +45,12 @@ The following MOE Pre-University Scholarships are open for applications for dese
 *   National Elective Tamil Language Programme Scholarship (NETPS); and
 *   Regional Studies Programme Scholarship (RSPS)
 
-Please [click on this link](https://www.moe.gov.sg/financial-matters/awards-scholarships) for detailed information of the scholarships can be found in **APPLICATIONS**.  
+Please&nbsp;[click on this link](https://www.moe.gov.sg/financial-matters/awards-scholarships)&nbsp;for detailed information of the scholarships can be found in&nbsp;**APPLICATIONS**.  
 
 PL-Lites may apply for the above scholarships using their GCE O-Level Examinations results.
 
-Interested students can access the online scholarship applications at [http://www.moe.gov.sg/admissions/scholarships/](http://www.moe.gov.sg/admissions/scholarships/).  
-For scholarship application, Students have to login to the application system using **their valid Singpass**.
+Interested students can access the online scholarship applications at&nbsp;[http://www.moe.gov.sg/admissions/scholarships/](http://www.moe.gov.sg/admissions/scholarships/).  
+For scholarship application, Students have to login to the application system using&nbsp;**their valid Singpass**.
 
 **For students without a SingPass account**
 
@@ -112,13 +112,13 @@ Students will be selected for the scholarship selection interview based on their
 </thead>
 <tbody>
   <tr>
-    <td class="tg-9u4g">DSTA Scholarship<br>•      Have achieved excellent results, with an aggregate of not more than 8 points for first language and 5 relevant subjects for those doing GCE ‘O’ Level;<br>•      Be studying in science stream with a keen interest in Physics / Mathematics’<br>•      Has interest to explore Defence Engineering or Defence Research as a career.<br>•      See more at: <a href="http://brightsparks.com.sg/profile/dsta/index.php?&schid=7259&"><span style="text-decoration:underline;color:#454545">http://brightsparks.com.sg/profile/dsta/index.php?&amp;schid=7259&amp;</span></a></td>
+    <td class="tg-9u4g">DSTA Scholarship<br>•      Have achieved excellent results, with an aggregate of not more than 8 points for first language and 5 relevant subjects for those doing GCE ‘O’ Level;<br>•      Be studying in science stream with a keen interest in Physics / Mathematics’<br>•      Has interest to explore Defence Engineering or Defence Research as a career.<br>•      See more at: <a href="http://brightsparks.com.sg/profile/dsta/index.php?&amp;schid=7259&amp;"><span style="text-decoration:underline;color:#454545">http://brightsparks.com.sg/profile/dsta/index.php?&amp;schid=7259&amp;</span></a></td>
   </tr>
   <tr>
     <td class="tg-9u4g">Nursing Scholarship<br>Integrated Nursing Scholarship (INS) &amp; Community Nursing Scholarship (CNS)<br>•      See more at: <a href="https://bit.ly/2GJ9BKE"><span style="text-decoration:underline;color:#454545">https://bit.ly/2GJ9BKE</span></a></td>
   </tr>
   <tr>
-    <td class="tg-9u4g">Polytechnic Foundation Programme (PFP) Profession - Nursing<br>•      See more at: <br><br><a href="http://brightsparks.com.sg/profile/juronghealthcampus/?&schid=7482&"><span style="text-decoration:underline;color:#454545">http://brightsparks.com.sg/profile/juronghealthcampus/?&amp;schid=7482&amp;</span></a></td>
+    <td class="tg-9u4g">Polytechnic Foundation Programme (PFP) Profession - Nursing<br>•      See more at: <br><br><a href="http://brightsparks.com.sg/profile/juronghealthcampus/?&amp;schid=7482&amp;"><span style="text-decoration:underline;color:#454545">http://brightsparks.com.sg/profile/juronghealthcampus/?&amp;schid=7482&amp;</span></a></td>
   </tr>
   <tr>
     <td class="tg-9u4g">Sailors' Society - MaritimeONE Scholarship (SMA-SP)<br>•      See more at: <a href="https://brightsparks.com.sg/profile/smf/index.php"><span style="text-decoration:underline;color:#454545">https://brightsparks.com.sg/profile/smf/index.php</span></a></td>
@@ -171,7 +171,7 @@ These include the following:
 </thead>
 <tbody>
   <tr>
-    <td class="tg-9u4g">BCA-Industry Built Environment ITE Scholarship<br>•      See more at: <br><a href="http://brightsparks.com.sg/profile/bca/scholarships.php?&schid=7536&"><span style="text-decoration:underline;color:#454545">http://brightsparks.com.sg/profile/bca/scholarships.php?&amp;schid=7536&amp;</span></a></td>
+    <td class="tg-9u4g">BCA-Industry Built Environment ITE Scholarship<br>•      See more at: <br><a href="http://brightsparks.com.sg/profile/bca/scholarships.php?&amp;schid=7536&amp;"><span style="text-decoration:underline;color:#454545">http://brightsparks.com.sg/profile/bca/scholarships.php?&amp;schid=7536&amp;</span></a></td>
   </tr>
   <tr>
     <td class="tg-9u4g">Nursing Sponsorship for NITEC in Nursing<br>•      Gain admission to the NITEC course at ITE Simei<br>•      3 ‘N’ Levels or 2 ‘O’ Levels passes<br>•      Possess a good co-curricular activities (CCA) record<br>•      Have a passion for public healthcare sector<br>•      Demonstrate strong leadership qualities and excellent communication skills<br>•      See more at: <a href="https://www.ite.edu.sg/docs/default-source/scholarships-awards-busaries/scholarships-for-ite-courses_9jun2020.pdf?sfvrsn=f82709c2_2"><span style="text-decoration:underline;color:#454545">https://www.ite.edu.sg/docs/default-source/scholarships-awards-busaries/scholarships-for-ite-courses_9jun2020.pdf?sfvrsn=f82709c2_2</span></a></td>
