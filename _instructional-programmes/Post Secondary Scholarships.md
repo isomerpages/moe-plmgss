@@ -49,7 +49,7 @@ Please&nbsp;[click on this link](https://www.moe.gov.sg/financial-matters/awards
 
 PL-Lites may apply for the above scholarships using their GCE O-Level Examinations results.
 
-Interested students can access the online scholarship applications at&nbsp;[http://www.moe.gov.sg/admissions/scholarships/](http://www.moe.gov.sg/admissions/scholarships/).  
+Interested students can access the online scholarship applications at&nbsp;[https://www.moe.gov.sg/financial-matters/awards-scholarships](https://www.moe.gov.sg/financial-matters/awards-scholarships).  
 For scholarship application, Students have to login to the application system using&nbsp;**their valid Singpass**.
 
 **For students without a SingPass account**
