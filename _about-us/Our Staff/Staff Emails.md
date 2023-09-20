@@ -274,8 +274,12 @@ third_nav_title: Our Staff
   </tr>
 
 <tr>
-    <td class="tg-citn"><img src="/images/inr.jpg" alt="inr.jpg" style="width:25%"><br>Mr Lau Ern<br><a href="mailto:lau_ern_a@@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#454545">lau_ern_a@moe.edu.sg</span></a><br></td>
-    <td class="tg-citn">Operations Manager</td>
+    <td class="tg-citn"><img src="/images/melvin foo.jpg" alt="inr.jpg" style="width:25%"><br>Mr Foo Melvin<br><a href="mailto:foo_siew_wah_melvin@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#454545">foo_siew_wah_melvin@moe.edu.sg</span></a><br></td>
+    <td class="tg-citn">Operations Manager (Relief)</td>
+  </tr>
+<tr>
+    <td class="tg-citn"><img src="/images/kelvin lim.jpg" alt="inr.jpg" style="width:25%"><br>Mr Lim Kelvin<br><a href="mailto:lim_fook_tong@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#454545">lim_fook_tong@moe.edu.sg</span></a><br></td>
+    <td class="tg-citn">Workshop Instructor</td>
   </tr>
 </tbody>
 </table>
