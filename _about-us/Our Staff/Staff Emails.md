@@ -172,10 +172,6 @@ third_nav_title: Our Staff
     <td class="tg-citn"><img src="/images/Ho%20Lian%20Ya.jpg" alt="Ho Lian Ya.JPG" style="width:30%"><br>Ms Ho Lian Ya<br><a href="mailto:ho_lian_ya@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#454545">ho_lian_ya@moe.edu.sg</span></a><br></td>
     <td class="tg-citn">Student Leadership</td>
   </tr>
-  <tr>
-    <td class="tg-citn"><img src="/images/veena%20lee.jpg" alt="veena lee.jpg" style="width:30%"><br>Ms Veena Lee <br><a href="mailto:lee_chai_ching_veena@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#454545">lee_chai_ching_veena@moe.edu.sg</span></a><br></td>
-    <td class="tg-citn"><span style="color:black">Student Management</span><br></td>
-  </tr>
 
   <tr>
     <td class="tg-citn"><img src="/images/clarabelle.jpg" alt="clarabelle.jpg" style="width:30%"><br>Mrs Yeo Clarabelle<br><a href="mailto:wang_siqi_clarabelle@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#454545">wang_siqi_clarabelle@moe.edu.sg</span></a><br></td>
@@ -186,6 +182,29 @@ third_nav_title: Our Staff
     <td class="tg-citn"><img src="/images/Heng%20Ci%20Pei.jpg" alt="Heng Ci Pei.jpg" style="width:30%"><br>Ms Heng Ci Pei<br><a href="mailto:heng_ci_pei@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#454545">heng_ci_pei@moe.edu.sg</span></a><br></td>
     <td class="tg-citn">Science</td>
   </tr>
+
+</tbody>
+</table>
+
+### Lead Teacher
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-citn{background-color:#FFF;color:#333;text-align:left;vertical-align:top}
+.tg .tg-pz2b{background-color:#E5E5E5;color:#333;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+		<th class="tg-citn"><img src="/images/tek yong shoun.jpg" alt="joyce_chong.jpg" style="width:21%"><br>Mr Tek Yong Shoun<br><a href="mailto:tek_yong_shoun@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#454545">tek_yong_shoun@moe.edu.sg</span></a><br></th>
+    <th class="tg-citn">Physics</th>
+  </tr>
+	</thead>
+<tbody>
 
 </tbody>
 </table>
@@ -213,10 +232,7 @@ third_nav_title: Our Staff
     <td class="tg-citn"><img src="/images/ramesh.jpg" style="width:21%"><br>Mrs Ramesh Christina<br><a href="mailto:ramesh_maria_christina@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#454545">ramesh_maria_christina@moe.edu.sg</span></a><br></td>
     <td class="tg-citn"><span style="color:black">English Language</span></td>
   </tr>
-  <tr>
-    <td class="tg-citn"><img src="/images/ambika%20nair.jpg" style="width:21%"><br>Mrs Nair Ambika<br><a href="mailto:ambika_nair@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#454545">ambika_nair@moe.edu.sg</span></a><br></td>
-    <td class="tg-citn">Food and Consumer<br>Education</td>
-  </tr>
+
   <tr>
     <td class="tg-citn"><img src="/images/Mdm%20Lim%20Terh%20Ling.jpg" alt="Mdm Lim Terh Ling.jpg" style="width:21%"><br>Mrs Neoh Terh Ling<br><a href="mailto:lim_terh_ling@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#454545">lim_terh_ling@moe.edu.sg</span></a><br></td>
     <td class="tg-citn">History<br></td>
