@@ -12,7 +12,7 @@ sections:
       key_highlights:
         - title: Announcements & Events
           description: Click here to read more
-          url: /announcements/2023eoy-s1-3
+          url: /announcements/2024-sec3-subject-combinations/
       subtitle: 巴耶礼峇美以美女校（中学）
   - infopic:
       title: Direct School Admission Information Session for P6 Pupils
