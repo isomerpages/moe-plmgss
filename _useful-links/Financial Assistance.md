@@ -27,7 +27,7 @@ description: ""
 *   MENDAKI Assistance Website: [https://www.mendaki.org.sg/assistance-landing/](https://www.mendaki.org.sg/assistance-landing/)
 
 
-*   Mrs Lee Siew Choo Education Award for Sponsorship of Post-Secondary Education needs of PL-Lites: [Click here for the application form.](/files/Mrs%20Lee%20Siew%20Choo%20Award%202023%20Application%20Form.pdf)
+*   Mrs Lee Siew Choo Education Award for Sponsorship of Post-Secondary Education needs of PL-Lites: [Click here for the application form.](/files/mrs%20lee%20siew%20choo%20award%202024%20application%20form.pdf)
   
 **Others**  
   
