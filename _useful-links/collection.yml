@@ -2,6 +2,7 @@ collections:
   useful-links:
     output: true
     order:
+      - School Canteen Advertisement.md
       - Financial Assistance.md
       - Student Services.md
       - For Parents.md
