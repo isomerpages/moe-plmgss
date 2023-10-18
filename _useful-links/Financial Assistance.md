@@ -6,7 +6,7 @@ description: ""
 **For Education**
 
 *   MOE Financial Assistance: [https://www.moe.gov.sg/financial-matters/financial-assistance  
-    ](https://www.moe.gov.sg/financial-matters/financial-assistance)**[MOE FAS Application Form 2024.pdf](/files/MOE%20FAS%20Application%20Form%202024.pdf)**  
+    ](https://www.moe.gov.sg/financial-matters/financial-assistance)| **[MOE FAS Application Form 2024.pdf](/files/MOE%20FAS%20Application%20Form%202024.pdf)**  
     
 *   Home Broadband Connectivity Home Access Programme: [https://www.digitalaccess.gov.sg](https://www.digitalaccess.gov.sg/)  
       
