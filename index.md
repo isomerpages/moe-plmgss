@@ -17,7 +17,7 @@ sections:
   - infopic:
       title: PLMGS(S) Open House - 18 Nov 2023
       button: Click Here
-      url: /announcements/dsa-info-session//announcements/pl-open-house/
+      url: /announcements/pl-open-house/
       image: /images/plmgs banner2.jpg
       alt: Open House
   - infopic:
