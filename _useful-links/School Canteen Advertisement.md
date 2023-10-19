@@ -12,7 +12,7 @@ The School is located at 296 Lorong Ah Soo, Singapore 536742.
 
 | Type of Stall | Closing Date | Requirement |
 | -------- | -------- | -------- |
-| Chinese Mixed Rice     | 29 December 2023    | Nil    |
+| Chinese Mixed Rice     | 30 November 2023    | Nil    |
 
 
 
@@ -59,9 +59,3 @@ The School is located at 296 Lorong Ah Soo, Singapore 536742.
 * Successful applicant is required to apply for a food stall licence from Singapore Food Agency (SFA).
 
 *Shortlisted applicants will be notified for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant’s own expense.*
-
-
-
-
-
-
