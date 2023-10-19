@@ -26,4 +26,4 @@ Click the following link or scan the QR code below to register for the PLMGS(Sec
 
 [https://go.gov.sg/xwhxu2](https://go.gov.sg/xwhxu2)
 
-![](/images/xwhxu2.png)
+<img src="/images/xwhxu2.png" style="width:50%">
