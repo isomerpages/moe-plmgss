@@ -2,6 +2,7 @@ collections:
   announcements:
     output: true
     order:
+      - PLMGS(S) Open House.md
       - 2024 Sec 3 Subject Combinations for Sec 2 Students in 2023.md
       - 2023 Sec 1 to 3 EOY Exam Timetable.md
       - Night Study for Sec 4 & 5 Students.md

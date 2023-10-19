@@ -12,14 +12,14 @@ sections:
       key_highlights:
         - title: Announcements & Events
           description: Click here to read more
-          url: /announcements/2024-sec3-subject-combinations/
+          url: /announcements/pl-open-house/
       subtitle: 巴耶礼峇美以美女校（中学）
   - infopic:
-      title: Direct School Admission Information Session for P6 Pupils
+      title: PLMGS(S) Open House - 18 Nov 2023
       button: Click Here
-      url: /announcements/dsa-info-session/
-      image: /images/dsa_info_session2023.jpg
-      alt: DSA
+      url: /announcements/dsa-info-session//announcements/pl-open-house/
+      image: /images/plmgs banner2.jpg
+      alt: Open House
   - infopic:
       title: PL Parcel
       description: A Read Worth Your Time
