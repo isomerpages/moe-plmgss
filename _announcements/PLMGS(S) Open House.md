@@ -24,6 +24,6 @@ description: ""
 
 Click the following link or scan the QR code below to register for the PLMGS(Sec) Open House.
 
-[https://go.gov.sg/xwhxu2](https://go.gov.sg/xwhxu2)
+[https://go.gov.sg/446nty](https://go.gov.sg/446nty)
 
-<img src="/images/xwhxu2.png" style="width:50%">
+<img src="/images/446nty.png" style="width:50%">
