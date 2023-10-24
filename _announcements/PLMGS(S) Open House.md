@@ -26,4 +26,4 @@ Click the following link or scan the QR code below to register for the PLMGS(Sec
 
 [https://go.gov.sg/446nty](https://go.gov.sg/446nty)
 
-<img src="/images/446nty.png" style="width:50%">
+<img src="/images/xwhxu2.png" style="width:50%">
