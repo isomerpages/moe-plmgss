@@ -2,6 +2,7 @@ collections:
   announcements:
     output: true
     order:
+      - PLMGS(Sec) Booklist for 2023.md
       - PLMGS(S) Open House.md
       - 2024 Sec 3 Subject Combinations for Sec 2 Students in 2023.md
       - 2023 Sec 1 to 3 EOY Exam Timetable.md
@@ -16,7 +17,6 @@ collections:
       - Open Houses 2023 Post Secondary Options.md
       - Principal’s Message 2023.md
       - PLMGS(S) Annual Magazine 2022.md
-      - PLMGS(Sec) Booklist for 2023.md
       - PL Memories 2022 Flipbook (for Graduating Classes of 2022).md
       - Musical Montage Virtual Concert.md
       - PL Virtual Symphony of Praise Concert 2021.md
