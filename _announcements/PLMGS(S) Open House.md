@@ -3,7 +3,7 @@ title: PLMGS(S) Open House
 permalink: /announcements/pl-open-house/
 description: ""
 ---
-![](/images/plmgs%20banner.jpg)
+![](/images/plmgs%20banner%202.jpg)
 
 
 
