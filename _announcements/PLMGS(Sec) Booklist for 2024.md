@@ -3,31 +3,24 @@ title: PLMGS(Sec) Booklist for 2024
 permalink: /announcements/plmgs-sec-booklist-for-2024/
 description: ""
 ---
-Please click the links for below for 2023 Booklist.
+Dear Parents &amp; Guardians,  
 
-  
+G1, G2 &amp; G3 refer to the different courses of study. Do check and confirm your child's/ward's course of study before purchasing any materials from the booklist.  
 
-**Secondary 1**
+Please click the links for below for 2024 Booklist.
 
+**Secondary 1**<br>
 Booklist for Secondary 1 will be available at a later date.
 
-**Secondary 2**
+**Secondary 2**<br>
+[PLMGSS Booklist 2024 SEC 2.pdf](/files/plmgss%20booklist%202024%20sec%202.pdf)
 
-* [PLMGSS Booklist 2023 SEC 2 EXP.pdf](/files/PLMGSS%20Booklist%202023%20SEC%202%20EXP.pdf)
-* [PLMGSS Booklist 2023 SEC 2 NA.pdf](/files/PLMGSS%20Booklist%202023%20SEC%202%20NA.pdf)
-* [PLMGSS Booklist 2023 SEC2 NT.pdf](/files/PLMGSS%20Booklist%202023%20SEC%202%20NT.pdf)
+**Secondary 3**<br>
+[PLMGSS Booklist 2024 SEC 3.pdf](/files/plmgss%20booklist%202024%20sec%203.pdf)
 
-**Secondary 3**
+**Secondary 4**<br>
+[PLMGSS Booklist 2024 SEC 4.pdf](/files/plmgss%20booklist%202024%20sec%204.pdf)
 
-* [PLMGSS Booklist 2023 SEC 3 EXP.pdf](/files/PLMGSS%20Booklist%202023%20SEC%203%20EXP.pdf)
-* [PLMGSS Booklist 2023 SEC 3 NA.pdf](/files/PLMGSS%20Booklist%202023%20SEC%203%20NA.pdf)
-* [PLMGSS Booklist 2023 SEC 3 NT.pdf](/files/PLMGSS%20Booklist%202023%20SEC%203%20NT.pdf)
-
-**Secondary 4**
-
-* [PLMGSS Booklist 2023 SEC 4 EXP.pdf](/files/PLMGSS%20Booklist%202023%20SEC%204%20EXP.pdf)
-* [PLMGSS Booklist 2023 SEC 4 NA.pdf](/files/PLMGSS%20Booklist%202023%20SEC%204%20NA.pdf)
-* [PLMGSS Booklist 2023 SEC 4 NT.pdf](/files/PLMGSS%20Booklist%202023%20SEC%204%20NT.pdf)
-
-**Secondary 5**
-* [PLMGSS Booklist 2023 SEC 5 NA.pdf](/files/PLMGSS%20Booklist%202023%20SEC%205%20NA.pdf)
+**Secondary 5**<br>
+[PLMGSS Booklist 2024 SEC 5.pdf](/files/plmgss%20booklist%202024%20sec%205.pdf)
+  
