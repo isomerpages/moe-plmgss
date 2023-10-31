@@ -22,4 +22,4 @@ Booklist for Secondary 1 will be available at a later date.
 [PLMGSS Secondary 4 Booklist 2024.pdf](/files/s4_booklist_2024.pdf)
 
 **Secondary 5**<br>
--updating
+[PLMGSS Secondary 5 Booklist 2024.pdf](/files/s5_booklist_2024.pdf)
