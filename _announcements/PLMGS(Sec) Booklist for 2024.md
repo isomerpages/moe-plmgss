@@ -13,13 +13,13 @@ Please click the links for below for 2024 Booklist.
 Booklist for Secondary 1 will be available at a later date.
 
 **Secondary 2**<br>
--updating
+[PLMGSS Secondary 2 Booklist 2024.pdf](/files/s2_booklist_2024.pdf)
 
 **Secondary 3**<br>
--updating
+[PLMGSS Secondary 3 Booklist 2024.pdf](/files/s3_booklist_2024.pdf)
 
 **Secondary 4**<br>
--updating
+[PLMGSS Secondary 4 Booklist 2024.pdf](/files/s4_booklist_2024.pdf)
 
 **Secondary 5**<br>
 -updating
