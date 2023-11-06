@@ -18,7 +18,7 @@ sections:
       title: PLMGS(S) Open House - 18 Nov 2023
       button: Click Here
       url: /announcements/pl-open-house/
-      image: /images/plmgs banner2.jpg
+      image: /images/plmgs banner 2.jpg
       alt: Open House
   - infopic:
       title: PL Parcel
