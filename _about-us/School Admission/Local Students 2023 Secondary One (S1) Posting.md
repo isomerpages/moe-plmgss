@@ -15,10 +15,8 @@ If a child is studying in PLMGS (Primary) and wants to continue secondary educat
 
 Starting from 2020, there will be at least 20% in each course set aside for non-affiliated students.
 
-Primary 6 pupils from PLMGS (Primary) & other Primary Schools who have just received their secondary school posting in 2023 may use the following form to appeal for transfer to PLMGS(Sec). The appeal can only be considered:
-
-(i)  if there are available vacancies
-
+Primary 6 pupils from PLMGS (Primary) &amp; other Primary Schools who have just received their secondary school posting in 2023 may use the following form to appeal for transfer to PLMGS(Sec). The appeal can only be considered:<br>
+(i)  if there are available vacancies<br>
 (ii) if your daughter’s PSLE AL score meets the school’s minimum Achievement Level (AL) for 2024 intake.
 
 Students appealing for admissions after the secondary school posting should fill in the **[2023 Appeal Form](https://form.gov.sg/65574066733e110013a27b61)**. Deadline for submission of the form is **5pm, xx December 2023 (the day after Sec1 posting)**
