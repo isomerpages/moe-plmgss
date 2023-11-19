@@ -15,11 +15,11 @@ sections:
           url: /announcements/pl-open-house/
       subtitle: 巴耶礼峇美以美女校（中学）
   - infopic:
-      title: PLMGS(S) Open House - 18 Nov 2023
+      title: Local Students 2023 Secondary One (S1) Posting
       button: Click Here
-      url: /announcements/pl-open-house/
-      image: /images/plmgs banner 2.jpg
-      alt: Open House
+      url: /about-us/school-admission/local-students-secondary-one-s1-posting/
+      image: /images/crest.jpg
+      alt: S1 Posting
   - infopic:
       title: PL Parcel
       description: A Read Worth Your Time
