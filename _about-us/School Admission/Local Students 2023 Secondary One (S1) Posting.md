@@ -19,6 +19,6 @@ Primary 6 pupils from PLMGS (Primary) &amp; other Primary Schools who have just 
 (i)  if there are available vacancies<br>
 (ii) if your daughter’s PSLE AL score meets the school’s minimum Achievement Level (AL) for 2024 intake.
 
-Students appealing for admissions after the secondary school posting should fill in the **[2023 Appeal Form](https://form.gov.sg/65574066733e110013a27b61)**. Deadline for submission of the form is 5pm on the day after Sec1 posting result is available (which is between 20-22 December 2023)
+Students appealing for admissions after the secondary school posting should fill in the **[2023 Appeal Form](https://form.gov.sg/65574066733e110013a27b61)**. Deadline for submission of the form is **5pm on the day after Sec1 posting result is available (which is between 20-22 December 2023)**
 
 Please refer to our **[Frequently Asked Questions](/files/FAQs_for_2023_Sec_1_Posting_Exercise.pdf)** for more information about our Cut-Off AL Scores and other school programmes.
