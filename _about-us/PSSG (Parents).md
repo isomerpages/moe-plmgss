@@ -131,7 +131,7 @@ Join us to be a part of the PL’s extended family:<br> Click on the link  [PSSG
 </tr>
 <tr>
 <td width="253">
-<p><img class="ive_eobj_center" alt="Mrs Audrey Heng - Chairperson.jpeg" src="/images/Mrs Audrey Heng - Chairperson 2023.jpg" style="width:50%">Mrs Audrey Heng</p>
+<p><img class="ive_eobj_center" alt="Mrs Audrey Heng - Chairperson.jpeg" src="/images/Chairperson_Mrs_Yolanda_Gooi_2024.png" style="width:50%">Mrs Yolanda Gooi</p>
 </td>
 <td width="282">
 <p>Chairperson</p>
@@ -139,7 +139,7 @@ Join us to be a part of the PL’s extended family:<br> Click on the link  [PSSG
 </tr>
 <tr>
 <td width="253">
-<p><img class="ive_eobj_center" alt="Mrs Yolanda Gooi- Vice Chairperson.jpg" src="/images/Mrs Yolanda Gooi- Vice Chairperson 2023.jpg" style="width:50%">Mrs Yolanda Gooi</p>
+<p><img class="ive_eobj_center" alt="Mrs Yolanda Gooi- Vice Chairperson.jpg" src="/images/Vice_Chairperson_Ms_Yvonne_Koh_2024.png" style="width:50%">Ms Yvonne Koh</p>
 </td>
 <td width="282">
 <p>Vice Chairperson</p>
@@ -147,7 +147,7 @@ Join us to be a part of the PL’s extended family:<br> Click on the link  [PSSG
 </tr>
 <tr>
 <td width="253">
-<p><img class="ive_eobj_center" alt="Mrs Audrey Gomez-Secretary.JPG" src="/images/Mrs Audrey Gomez-Secretary 2023.jpg" style="width:50%">Mrs Audrey Gomez</p>
+<p><img class="ive_eobj_center" alt="Mrs Audrey Gomez-Secretary.JPG" src="/images/Secretary_Mrs_Audrey_Gomez_2024.png" style="width:50%">Mrs Audrey Gomez</p>
 </td>
 <td width="282">
 <p>Secretary</p>
@@ -155,23 +155,7 @@ Join us to be a part of the PL’s extended family:<br> Click on the link  [PSSG
 </tr>
 <tr>
 <td width="253">
-<p><img class="ive_eobj_center" alt="Mr Allan Ang - FathersSchool IC.jpeg" src="/images/Mr Allan Ang - FathersSchool IC 2023.jpg" style="width:50%">Mr Allan Ang</p>
-</td>
-<td width="282">
-<p>Fathers@School IC</p>
-</td>
-</tr>
-<tr>
-<td width="253">
-<p><img class="ive_eobj_center" alt="Mrs Josephine Eng - Praying Parents IC.jpeg" src="/images/Mrs Josephine Eng - Praying Parents IC 2023.jpg" style="width:50%">Mrs Josephine Eng</p>
-</td>
-<td width="282">
-<p>Praying Parents IC</p>
-</td>
-</tr>
-<tr>
-<td width="253">
-<p><img class="ive_eobj_center" alt="Mrs Mae Oh - Member 2023.jpg" src="/images/Mrs Mae Oh - Member 2023.jpg" style="width:50%">Mrs Mae Oh</p>
+<p><img class="ive_eobj_center" alt="Mr Allan Ang - FathersSchool IC.jpeg" src="/images/Member_Mrs_Fiona_Lim_2024.png" style="width:50%">Mrs Fiona Lim	</p>
 </td>
 <td width="282">
 <p>Member</p>
@@ -179,7 +163,23 @@ Join us to be a part of the PL’s extended family:<br> Click on the link  [PSSG
 </tr>
 <tr>
 <td width="253">
-<p><img class="ive_eobj_center" alt="Mrs Lim Ching Ching- Member.jpg" src="/images/Mrs Lim Ching Ching- Member 2023.jpg" style="width:50%">Mrs Lim Ching Ching</p>
+<p><img class="ive_eobj_center" alt="Mrs Josephine Eng - Praying Parents IC.jpeg" src="/images/Member_Mrs_Jo_Leeng_2024.png" style="width:50%">Mrs Jo Lee-Ng</p>
+</td>
+<td width="282">
+<p>Member</p>
+</td>
+</tr>
+<tr>
+<td width="253">
+<p><img class="ive_eobj_center" alt="Mrs Mae Oh - Member 2023.jpg" src="/images/Member_Mrs_Lim_Ching_Ching_2024.png" style="width:50%">Mrs Lim Ching Ching</p>
+</td>
+<td width="282">
+<p>Member</p>
+</td>
+</tr>
+<tr>
+<td width="253">
+<p><img class="ive_eobj_center" alt="Mrs Lim Ching Ching- Member.jpg" src="/images/Member_Mr_Sebastian_Teo_2024.png" style="width:50%">Mr Sebastian Teo</p>
 </td>
 <td width="282">
 <p>Member</p>
