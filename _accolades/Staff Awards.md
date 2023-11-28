@@ -11,7 +11,7 @@ Student Development Curriculum Division 1 and Paya Lebar Methodist Girls School 
 Enhancing UX with Macroenabled NodeXL
 <br>Bronze
 
-<img src="/images/weijie_moe_synergy.jpg" style="width:60%">
+<img src="/images/weijie_moe_synergy.jpg" style="width:40%">
 
 
 ### 2023 Postgraduate Diploma in Education (Secondary)
@@ -113,7 +113,7 @@ Please join our school in congratulating the following members of staff who have
 
 ### The Methodist Long Service Award Service 2021
 
-<img src="/images/j_christopher.jpg" style="width:60%"><br>
+<img src="/images/j_christopher.jpg" style="width:40%"><br>
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQrGdrIAXGYStBcreouw_8vGkGdyxcj8JrYyC-vsKyYzr6OkaASJBDb899LeOppydCf0TOIZVt3atP3/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 
