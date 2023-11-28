@@ -4,17 +4,25 @@ permalink: /accolades/staff-awards/
 description: ""
 variant: markdown
 ---
+### 2023 MOE Innergy Winning Projects - HQ (WP)
+
+**Mr Chai Wee Jie**<br>
+Student Development Curriculum Division 1 and Paya Lebar Methodist Girls School (Sec)<br>
+Enhancing UX with Macroenabled NodeXL
+<br>Bronze
+
+<img src="/images/weijie_moe_synergy.jpg" style="width:60%">
 
 
 ### 2023 Postgraduate Diploma in Education (Secondary)
 
+**Miss Rachel Ong Lin Hui**<br>
 Valedictorian of the Class of 2023
 <br>NIE Gold Medal
 <br>Association of Mathematics Educators Book Prize
 
 ![rachel_ong](/images/rachel_ong_post_dip.jpg)
 
-Miss Rachel Ong Lin Hui
 
 ### 2023 Methodist Schools’ Long Service Award &amp; Methodist Schools’ Appreciation Award
 
