@@ -4,6 +4,28 @@ permalink: /accolades/staff-awards/
 description: ""
 variant: markdown
 ---
+### 2023 National Day Award
+
+![nda_2023](/images/nda2023_siping.jpg)
+
+
+### 2023 MOE Service Excellence Award (MSEA)
+
+**Platinum Award**<br>
+Ms Lim Siok Peng, Gloria
+
+**Gold Award**<br>
+Ms Lim Siok Peng, Gloria
+
+**Silver Award**<br>
+Mr Chia Huay Heng
+
+### Associate of Academy of Singapore Teachers Award
+
+**Mrs Neoh Terh Ling**
+
+Mrs Neoh was conferred the Associate of Academy of Singapore Teachers Award in recognition of her valuable contributions to the professional development of MOE officers.
+
 ### 2022 National Day Award
 
 ![nda2022](/images/nda2022.jpg)
