@@ -4,6 +4,16 @@ permalink: /accolades/staff-awards/
 description: ""
 variant: markdown
 ---
+### 2022 National Day Award
+
+![nda2022](/images/nda2022.jpg)
+
+**THE COMMENDATION MEDAL**<br>
+Mrs Neeraja Vijayakumar, Head of Department
+
+**THE COMMENDATION MEDAL and** **THE LONG SERVICE MEDAL**
+<br>Mdm Chan Wai Ling Joyce, Senior Teacher
+
 ### 2022 Methodist Schools’ Long Service Award
 
 <iframe src="https://docs.google.com/presentation/d/1NNMUXGr2h3ODEdfHVRONhrekOjulp5ERjcVLIZlx7ro/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
