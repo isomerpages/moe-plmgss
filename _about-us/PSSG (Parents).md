@@ -191,38 +191,3 @@ Join us to be a part of the PL’s extended family:<br> Click on the link  [PSSG
 ### Photos of 2023
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/1urqSlhuGdFAypGjOlFvrtifJaSHPPk_Gaxr5j8wT2W0/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 
-<h3></h3><h3>Resources for Parents</h3>
-  
-<div>
-    
-<ul>
-      
-</ul>Please click on links to view useful information for parents to support your children through secondary and post-secondary schooling years. <br><br>
-      
-<ul>
-      
-<li style="text-align: justify;"> <a target="_blank" href="https://schoolbag.sg/story/ict-in-schools-to-use-or-not-to-use">ICT in Schools: To Use or Not to Use? </a><br>
-      
-</li> 
-<li style="text-align: justify;"> <a target="_blank" href="https://schoolbag.sg/story/when-sibling-rivalry-causes-problematic-behaviour">When sibling rivalry causes problematic behaviour… </a><br>
-      
-</li> 
-<li style="text-align: justify;"><a target="_blank" href="https://schoolbag.sg/story/when-family-problems-affect-children-in-school#.VYtChqad47O"> When family problems affect children in school </a><br>
-      
-</li> 
-<li style="text-align: justify;"><a target="_blank" href="https://schoolbag.sg/story/are-you-a-saviour-mum-or-dad"> Are you a Saviour Mum or Dad? </a><br>
-      
-</li> 
-<li style="text-align: justify;"> <a target="_blank" href="https://www.schoolbag.sg/story/communicating-with-schools-through-parent-support-groups">Communicating with schools through Parent Support Groups</a> <br>
-      
-</li> 
-<li style="text-align: justify;"> <a target="_blank" href="https://ccesinspire.blogspot.sg/2014/04/parent-support-group-psg-conference-12.html">Speech by Mr Heng Swee Keat, Minister for Education, at the MOE ExCEL Parent Support Group Conference 2014, at Suntec Convention Centre on 12 April 2014 </a><br>
-      
-</li> 
-<li style="text-align: justify;"><a target="_blank" href="https://www.moe.gov.sg/news/press-releases/new-website-for-parents-and-resource-pack-for-schools-on-home-school-community-partnership"> New Website for Parents and Resource Pack for Schools on Home-School-Community Partnership </a><br>
-      
-</li> 
-<li style="text-align: justify;"><a target="_blank" href="https://www.edutopia.org/home-school-team"> The Home-School Team: An Emphasis on Parent Involvement.&nbsp;</a>
-</li>
-</ul><br>
-</div>
