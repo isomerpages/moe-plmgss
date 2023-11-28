@@ -112,7 +112,9 @@ Congratulations to Mrs Joyce Chong, Senior Teacher, PL(Sec) for being selected a
 Please join our school in congratulating the following members of staff who have been honoured in 2021 National Day Awards.
 
 ### The Methodist Long Service Award Service 2021
-![](/images/j_christopher.jpg)
+
+<img src="/images/j_christopher.jpg" style="width:60%"><br>
+
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQrGdrIAXGYStBcreouw_8vGkGdyxcj8JrYyC-vsKyYzr6OkaASJBDb899LeOppydCf0TOIZVt3atP3/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 
 Heartiest Congratulations to the following members of staff who are honoured in this year’s Methodist Schools’ Long Service Award Presentation 2021.
