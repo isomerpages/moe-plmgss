@@ -2,7 +2,94 @@
 title: Staff Awards
 permalink: /accolades/staff-awards/
 description: ""
+variant: markdown
 ---
+### 2023 MOE Innergy Winning Projects - HQ (WP)
+
+**Mr Chai Wee Jie**<br>
+Student Development Curriculum Division 1 and Paya Lebar Methodist Girls School (Sec)<br>
+Enhancing UX with Macroenabled NodeXL
+<br>Bronze
+
+<img src="/images/weijie_moe_synergy.jpg" style="width:60%">
+
+
+### 2023 Postgraduate Diploma in Education (Secondary)
+
+**Miss Rachel Ong Lin Hui**<br>
+Valedictorian of the Class of 2023
+<br>NIE Gold Medal
+<br>Association of Mathematics Educators Book Prize
+
+![rachel_ong](/images/rachel_ong_post_dip.jpg)
+
+
+### 2023 Methodist Schools’ Long Service Award &amp; Methodist Schools’ Appreciation Award
+
+![2023mlsa](/images/2023mlsa.jpg)
+
+Ms Gloria Lim (20 years)<br>
+Mrs Annie Teo
+
+### 2023 National Day Award
+
+![nda_2023](/images/nda2023_siping.jpg)
+
+
+### 2023 MOE Service Excellence Award (MSEA)
+
+**Platinum Award**<br>
+Ms Lim Siok Peng, Gloria
+
+**Gold Award**<br>
+Ms Lim Siok Peng, Gloria
+
+**Silver Award**<br>
+Mr Chia Huay Heng
+
+### Associate of Academy of Singapore Teachers Award
+
+**Mrs Neoh Terh Ling**
+
+Mrs Neoh was conferred the Associate of Academy of Singapore Teachers Award in recognition of her valuable contributions to the professional development of MOE officers.
+
+### 2022 National Day Award
+
+![nda2022](/images/nda2022.jpg)
+
+**THE COMMENDATION MEDAL**<br>
+Mrs Neeraja Vijayakumar, Head of Department
+
+**THE COMMENDATION MEDAL and** **THE LONG SERVICE MEDAL**
+<br>Mdm Chan Wai Ling Joyce, Senior Teacher
+
+### 2022 Methodist Schools’ Long Service Award
+
+<iframe src="https://docs.google.com/presentation/d/1NNMUXGr2h3ODEdfHVRONhrekOjulp5ERjcVLIZlx7ro/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
+
+Mdm Lee Chue Hoon (50 years)<br>
+Mdm Tan Kim Huay Cecilia (35 years)<br>
+Mrs Koh Ee Lin (30 years)<br>
+Mdm Karni bte Kanan (30 years)<br>
+Mrs Joyce Chong (25 years)<br>
+Mdm Hu Min (20 years)<br>
+
+### MOE Service Excellence Award 2022
+
+
+**Platinum Award**
+<br>Mrs Joyce Chong
+
+**Gold Award**<br>
+Ms Azzalinda Binte Ariffin<br>
+Mr Chua Han Choon Glayen<br>
+Mr Indra Bin Ahmad<br>
+Ms Toh Xinyi
+
+**Silver Award**<br>
+Ms Lim Siok Peng Gloria<br>
+Ms Tan Khian Eng Lilian
+
 ### MOE Service Excellence Award 2021
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSLc3_34VguFwed3Ej5P2O3TWFCF59dqMxn7xrXzFjCSb-aCEgDXUTCO2W7vjfHFu5AIs7VjzgNUX_a/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
@@ -263,7 +350,7 @@ Heartiest Congratulations to Mr Tan Tiah Hui for successfully completing the Man
 
 ![](/images/staff_awards_ng_eng_kee_pd.jpg)
 
-The school congratulates Mr Ng Eng Kee who has been conferred the Associate of Academy of Singapore Teachers Award.  The award recognises his contribution to the professional development of fellow officers and encourages him to continue to keep up with the good work.  
+The school congratulates Mr Ng Eng Kee who has been conferred the Associate of Academy of Singapore Teachers Award.&nbsp; The award recognises his contribution to the professional development of fellow officers and encourages him to continue to keep up with the good work.  
 
   
 
@@ -286,7 +373,7 @@ The project looks at developing effective communication in Maths and Geography c
 
   
 
-To access the final report for the project, please click on this [link](/files/2015-erf-deepening-students-reasoning-summarising.pdf) .
+To access the final report for the project, please click on this&nbsp;[link](/files/2015-erf-deepening-students-reasoning-summarising.pdf)&nbsp;.
 
 We are proud of our staff!
 
@@ -374,7 +461,7 @@ We are proud of our staff!
   </tr>
   <tr>
     <td class="tg-2fwu">2010</td>
-    <td class="tg-2fwu"><img src="/images/emily_jacob.jpg" alt="Mrs Emily Jacob " width="146" height="180"><br>Mrs Emily Jacob<br>Commendation Award</td>
+    <td class="tg-2fwu"><img src="/images/emily_jacob.jpg" alt="Mrs Emily Jacob" width="146" height="180"><br>Mrs Emily Jacob<br>Commendation Award</td>
     <td class="tg-sxkx"></td>
     <td class="tg-sxkx"></td>
   </tr>
@@ -401,19 +488,16 @@ We are proud of our staff!
 
 ### Recipient of President's Award for Teachers
 
-<img src="/images/2006.png" 
-     style="width:30%">
+<img src="/images/2006.png" style="width:30%">
 		 
 ### Finalists for President's Award for Teachers
 
 
-<img src="/images/President's%20Award.png" 
-     style="width:60%">
+<img src="/images/President's%20Award.png" style="width:60%">
 		 
 ### IPS Crescendas Award (Secondary School)
 
-<img src="/images/ndp2016_mr_tan.jpg" 
-     style="width:30%">
+<img src="/images/ndp2016_mr_tan.jpg" style="width:30%">
 <center>Mr Alfred Tan</center>
 
 ### Excellent Service Award
@@ -427,14 +511,12 @@ We are proud of our staff!
 
 **2013**
 
-<img src="/images/Ong_Clare.jpg" 
-     style="width:40%">
+<img src="/images/Ong_Clare.jpg" style="width:40%">
 <center><b>Ms Clare Ong</b></center>
 
 **2018**
 
-<img src="/images/Grace.jpg" 
-     style="width:40%">
+<img src="/images/Grace.jpg" style="width:40%">
 <center><b>Ms Grace Quek</b></center>
 
 ### National Outstanding Chinese Lesson Award
