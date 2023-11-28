@@ -4,6 +4,14 @@ permalink: /accolades/staff-awards/
 description: ""
 variant: markdown
 ---
+
+### 2023 Methodist Schools’ Long Service Award &amp; Methodist Schools’ Appreciation Award
+
+![2023mlsa](/images/2023mlsa.jpg)
+
+Ms Gloria Lim (20 years)<br>
+Mrs Annie Teo
+
 ### 2023 National Day Award
 
 ![nda_2023](/images/nda2023_siping.jpg)
