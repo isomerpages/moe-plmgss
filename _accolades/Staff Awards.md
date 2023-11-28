@@ -5,6 +5,17 @@ description: ""
 variant: markdown
 ---
 
+
+### 2023 Postgraduate Diploma in Education (Secondary)
+
+Valedictorian of the Class of 2023
+<br>NIE Gold Medal
+<br>Association of Mathematics Educators Book Prize
+
+![rachel_ong](/images/rachel_ong_post_dip.jpg)
+
+Miss Rachel Ong Lin Hui
+
 ### 2023 Methodist Schools’ Long Service Award &amp; Methodist Schools’ Appreciation Award
 
 ![2023mlsa](/images/2023mlsa.jpg)
