@@ -2,12 +2,15 @@
 title: PL Parcel
 permalink: /about-us/pl-epistle/pl-parcel/
 description: ""
+variant: markdown
 ---
 **PL Parcel - A read worth your time**
 
 ![](/images/pl%20parcel.jpg)
 
 **Please click on the links below to read the PDF version.**
+
+[PL Parcel Issue #10](https://drive.google.com/file/d/1hn--c44aGo_jK4FeK4j49JOxc9z_gpkx/view?usp=share_link)
 
 [PL Parcel Issue #09- (August 2023).pdf](https://drive.google.com/file/d/1qithOgad475ERkbCoNbTzrurIQUHHexI/view?usp=share_link)
 
