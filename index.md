@@ -12,7 +12,7 @@ sections:
       key_highlights:
         - title: Announcements & Events
           description: Click here to read more
-          url: /announcements/pl-open-house/
+          url: /announcements/nlevelresults2023/
       subtitle: 巴耶礼峇美以美女校（中学）
   - infopic:
       title: Local Students 2023 Secondary One (S1) Posting
