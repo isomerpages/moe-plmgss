@@ -12,7 +12,7 @@ sections:
       key_highlights:
         - title: Announcements & Events
           description: Click here to read more
-          url: /announcements/nlevelresults2023/
+          url: /announcements/2024s1posting/
       subtitle: 巴耶礼峇美以美女校（中学）
   - infopic:
       title: 2024 Secondary One Posting and Registration
