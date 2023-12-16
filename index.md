@@ -19,7 +19,7 @@ sections:
       button: Click here
       alt: welcome
       image: /images/01_welcome.jpg
-      url: /articles/announcements/2024s1posting
+      url: /announcements/2024s1posting/
   - infopic:
       title: Local Students 2023 Secondary One (S1) Posting
       button: Click Here
