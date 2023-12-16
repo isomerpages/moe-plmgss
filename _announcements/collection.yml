@@ -2,6 +2,7 @@ collections:
   announcements:
     output: true
     order:
+      - 2024 Secondary One Posting and Registration.md
       - Information on the release of N Level results 2023.md
       - PLMGS(Sec) Booklist for 2024.md
       - PLMGS(S) Open House.md
