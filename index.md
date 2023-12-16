@@ -12,8 +12,14 @@ sections:
       key_highlights:
         - title: Announcements & Events
           description: Click here to read more
-          url: /announcements/nlevelresults2023/
+          url: /announcements/2024s1posting/
       subtitle: 巴耶礼峇美以美女校（中学）
+  - infopic:
+      title: Secondary One Posting & e-Registration
+      button: Click here
+      alt: welcome
+      image: /images/01_welcome.jpg
+      url: /articles/announcements/2024s1posting
   - infopic:
       title: Local Students 2023 Secondary One (S1) Posting
       button: Click Here
@@ -33,12 +39,6 @@ sections:
       url: https://sites.google.com/moe.edu.sg/pl-sil-pulse
       image: /images/pulse_banner.jpg
       alt: PuLSE
-  - infopic:
-      title: National Digital Literacy Programme
-      button: Click here
-      alt: NDLP
-      image: /images/NDLP.png
-      url: /articles/announcements/national-digital-literacy-programme-ndlp/
   - infopic:
       title: Instructional Programme
       button: Click Here
