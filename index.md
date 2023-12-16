@@ -15,7 +15,7 @@ sections:
           url: /announcements/2024s1posting/
       subtitle: 巴耶礼峇美以美女校（中学）
   - infopic:
-      title: 2024 Secondary One Posting and Registration
+      title: Secondary One e-Registration
       button: Click here
       alt: welcome
       image: /images/01_welcome.jpg
