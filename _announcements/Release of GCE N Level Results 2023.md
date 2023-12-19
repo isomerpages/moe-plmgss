@@ -1,6 +1,6 @@
 ---
 title: Release of GCE N Level Results 2023
-permalink: /announcements/nlevelresults2023/
+permalink: /accolades/national-examinations/gce-n-level-2023/
 variant: tiptap
 description: ""
 ---
