@@ -21,4 +21,4 @@ Primary 6 pupils from PLMGS (Primary) &amp; other Primary Schools who have just 
 
 Students appealing for admissions after the secondary school posting should fill in the **[2023 Appeal Form](https://form.gov.sg/65574066733e110013a27b61)**. **Deadline for submission of the form is Friday 22 December 2023 12 noon. Late submission will not be allowed.**
 
-Please refer to our **[Frequently Asked Questions](/files/FAQs_for_2023_Sec_1_Posting_Exercise_FINAL.pdf)** for more information about our Cut-Off AL Scores and other school programmes.
+Please refer to our **[Frequently Asked Questions](/files/FAQs_for_2023_Sec_1_Posting_Exercise.pdf)** for more information about our Cut-Off AL Scores and other school programmes.
