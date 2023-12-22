@@ -12,7 +12,7 @@ sections:
       key_highlights:
         - title: Announcements & Events
           description: Click here to read more
-          url: /announcements/2024s1posting/
+          url: /announcements/1stweekschool/
       subtitle: 巴耶礼峇美以美女校（中学）
   - infopic:
       title: Secondary One Posting & e-Registration
