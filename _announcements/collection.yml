@@ -2,6 +2,7 @@ collections:
   announcements:
     output: true
     order:
+      - First Week of School Programme.md
       - Secondary One Posting & eRegistration.md
       - Release of GCE N Level Results 2023.md
       - PLMGS(Sec) Booklist for 2024.md
