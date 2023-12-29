@@ -3,6 +3,7 @@ title: Staff Emails
 permalink: /about-us/our-staff/staff-emails/
 description: ""
 third_nav_title: Our Staff
+variant: markdown
 ---
 ### School Leaders
 
@@ -31,11 +32,11 @@ third_nav_title: Our Staff
   </tr>
   <tr>
     <td class="tg-citn"><img src="/images/Selina%20Lum.jpg" alt="Selina Lum.JPG" style="width:30%"><br>Mrs Lum Selina<br><a href="mailto:plmgss@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#454545">plmgss@moe.edu.sg</span></a></td>
-    <td class="tg-citn">Vice-Principal (EO)<br></td>
+    <td class="tg-citn">Vice-Principal<br></td>
   </tr>
   <tr>
-    <td class="tg-citn"><img src="/images/William%20Chu%20Tai%20Hong.jpg" alt="William Chu Tai Hong.JPG" style="width:30%"><br>Mr William Chu Tai Hong<br><a href="mailto:plmgss@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#454545">plmgss@moe.edu.sg</span></a></td>
-    <td class="tg-citn">Vice-Principal (Administration)<br></td>
+    <td class="tg-citn"><img src="/images/ms_toh_susan.jpg" alt="ms_toh_susan.JPG" style="width:30%"><br>Ms Toh Susan<br><a href="mailto:plmgss@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#454545">plmgss@moe.edu.sg</span></a></td>
+    <td class="tg-citn">Vice-Principal<br></td>
   </tr>
 </tbody>
 </table>
