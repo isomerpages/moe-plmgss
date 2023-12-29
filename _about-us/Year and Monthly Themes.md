@@ -14,7 +14,6 @@ variant: markdown
 **2024 Year Theme:** Be True, Pure, Strong and Brave
   
 ****2024 School Theme and Theme Verse****  
-
 _“Finally, brothers and sisters, whatever is true, whatever is noble, whatever is right, 
 whatever is pure, whatever is lovely, whatever is admirable 
 – if anything is excellent or praiseworthy – think about such things.”
