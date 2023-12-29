@@ -2,80 +2,59 @@
 title: Year and Monthly Themes
 permalink: /about-us/year-and-monthly-themes/
 description: ""
+variant: markdown
 ---
-### 2023 School Theme and Theme Verse
+### 2024 School Theme and Theme Verse
 
-![](/images/theme2023f.jpg)
+![](/images/theme2024.jpg)
 
 
-**PLMGS Age:** 107th year  
+**PLMGS Age:** 108th year  
   
-**2023 Year Theme:** Glory to God we give and pray
+**2024 Year Theme:** Be True, Pure, Strong and Brave
   
-****2023 School Theme and Theme Verse****  
+****2024 School Theme and Theme Verse****  
 
-_“Let your light shine before men; that they may see your good works, and glorify your Father who is in heaven.” - Matthew 5:16_
+_“Finally, brothers and sisters, whatever is true, whatever is noble, whatever is right, 
+whatever is pure, whatever is lovely, whatever is admirable 
+– if anything is excellent or praiseworthy – think about such things.”
+	Philippians 4:8 [NIV]_
   
-**Inspiration:** Stanza 4
+**Inspiration:**<br>
+Inspired by Our **School Creed**<br>
+Stanza 1<br>
+*I would be true for there are those who trust me<br>
+I would be pure for there are those who care<br>
+I would be strong for there is much to suffer<br>
+I would be brave for there is much to dare.*
 
-_Now let us pray and learn and trust and obey_<br>
-_To serve Him in every way_<br>
-_Glory to God we give and pray_<br>
-_For Paya Lebar MGS (2\*)_
+
 
 **Theme Song:**<br>
-**Shine Jesus Shine**
+**Little by Little**
 
-Lord, the light of Your love is shining  
-In the midst of the darkness, shining  
-Jesus, Light of the world, shine upon us  
-Set us free by the truth You now bring us  
-Shine on me, shine on meShine, Jesus, shine  
-Fill this land with the Father's glory  
-Blaze, Spirit, blaze  
-Set our hearts on fire  
-Flow, river, flow  
-Flood the nations with grace and mercy  
-Send forth Your word  
-Lord, and let there be light  
-  
-Lord, I come to Your awesome presence  
-From the shadows into Your radiance  
-By the blood I may enter Your brightness  
-Search me, try me, consume all my darkness  
-Shine on me, shine on me  
-  
-Shine, Jesus, shine  
-Fill this land with the Father's glory  
-Blaze, Spirit, blaze  
-Set our hearts on fire  
-Flow, river, flow  
-Flood the nations with grace and mercy  
-Send forth Your word  
-Lord, and let there be light  
-  
-As we gaze on Your kingly brightness  
-So our faces display Your likeness  
-Ever changing from glory to glory  
-Mirrored here may our lives tell Your story  
-Shine on me, shine on me  
-  
-Shine, Jesus, shine  
-Fill this land with the Father's glory  
-Blaze, Spirit, blaze  
-Set our hearts on fire  
-Flow, river, flow  
-Flood the nations with grace and mercy  
-Send forth Your word  
-Lord, and let there be light
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/40nUuRVbDmo?si=nkPBBkFrakbNgJXf" height="315" width="560"></iframe>
+
+Lyrics:<br>
+Little by little everyday<br>
+Little by little in every way<br>
+Jesus is changing me,<br>
+He's changing me.<br>
+Since I made that turn about face<br>
+I've been growing in His grace<br>
+Jesus is changing me.<br>
+
+He's changing me, my precious Saviour<br>
+I'm not the same person that I used to be<br>
+Well, it's been slow going<br>
+But still there's knowing<br>
+That someday perfect I will be. ......
+
+
+**2024 Monthly Themes**  
   
 
-  
-
-**2023 Monthly Themes**  
-  
-
-Our assembly programmes are also anchored on the following monthly themes. They seek to inspire our girls  to build positive psychological resilience in their pursuit of a purposeful life, making a difference for themselves and others.
+Our assembly programmes are also anchored on the following monthly themes. They seek to inspire our girls to build positive psychological resilience in their pursuit of a purposeful life, making a difference for themselves and others.
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -97,39 +76,39 @@ Our assembly programmes are also anchored on the following monthly themes. They 
 <tbody>
   <tr>
     <td class="tg-sxkx">January</td>
-    <td class="tg-sxkx">Glory to God We Give and Pray</td>
+    <td class="tg-sxkx">Be True, Pure, Strong and Brave</td>
   </tr>
   <tr>
     <td class="tg-sxkx">February</td>
-    <td class="tg-sxkx">Being the Salt and Light</td>
+    <td class="tg-sxkx">Be True to Serve and Shine</td>
   </tr>
   <tr>
     <td class="tg-sxkx">March</td>
-    <td class="tg-sxkx">Growing Through Perseverance</td>
+    <td class="tg-sxkx">Be Pure in Thoughts, Speech and Actions</td>
   </tr>
   <tr>
     <td class="tg-sxkx">April</td>
-    <td class="tg-sxkx">Loving At All Times</td>
+    <td class="tg-sxkx">Be Strong in Overcoming Adversities</td>
   </tr>
   <tr>
     <td class="tg-sxkx">May / June</td>
-    <td class="tg-sxkx">Being a Servant Leader</td>
+    <td class="tg-sxkx">Be Brave to Step Out in Faith</td>
   </tr>
   <tr>
     <td class="tg-sxkx">July</td>
-    <td class="tg-sxkx">Living Zealously In Our Youth</td>
+    <td class="tg-sxkx">Be an Example for All </td>
   </tr>
   <tr>
     <td class="tg-sxkx">August</td>
-    <td class="tg-sxkx">Going Forth to Light the World</td>
+    <td class="tg-sxkx">Be a Light to Your World</td>
   </tr>
   <tr>
     <td class="tg-sxkx">September</td>
-    <td class="tg-sxkx">Fixing Our Eyes on Our Purpose</td>
+    <td class="tg-sxkx">Be Focused on Our Purpose</td>
   </tr>
   <tr>
     <td class="tg-sxkx">October</td>
-    <td class="tg-ncov">Overflowing with Thankfulness</td>
+    <td class="tg-ncov">Be Thankful!</td>
   </tr>
 </tbody>
 </table>
