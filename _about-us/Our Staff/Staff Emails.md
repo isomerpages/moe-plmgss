@@ -279,7 +279,7 @@ variant: markdown
     <td class="tg-citn">Operations Manager</td>
   </tr>
 <tr>
-    <td class="tg-citn"><img src="/images/inr.jpg" alt="inr.jpg" style="width:25%"><br>Mr Teo Kim Che<br><a href="mailto:teo_kim_che@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#454545">teo_kim_che@moe.edu.sg</span></a><br></td>
+    <td class="tg-citn"><img src="/images/teo kim che.jpg" alt="inr.jpg" style="width:25%"><br>Mr Teo Kim Che<br><a href="mailto:teo_kim_che@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#454545">teo_kim_che@moe.edu.sg</span></a><br></td>
     <td class="tg-citn">Operations Manager</td>
   </tr>
 <tr>
@@ -380,7 +380,7 @@ variant: markdown
 </tbody>
 </table>
 
-### Year Heads (2023)
+### Year Heads (2024)
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -400,19 +400,19 @@ variant: markdown
   </tr>
 </thead>
 <tbody>
-  <tr>
-   <td class="tg-citn"><img src="/images/nur zetty abd kadir.jpg" alt="Ms Nur Zetty" style="width:30%"><br>Ms Nur Zetty<br><a href="mailto:nur_zetty_abd_kadir@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#454545">nur_zetty_abd_kadir@moe.edu.sg</span></a><br></td>
+  
+<tr>
+   <td class="tg-citn"><img src="/images/Ms Das Ruth.jpg" alt="Ms Das Ruth.jpg" style="width:30%"><br>Ms Das Ruth Hannah<br><a href="mailto:das_ruth_hannah@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#454545">das_ruth_hannah@moe.edu.sg</span></a></td>
     <td class="tg-fwnj">Lower Secondary Assistant Year Head</td>
   </tr>
-
   <tr>
    <td class="tg-citn"><img src="/images/wongkhaiyusm.jpg" alt="wongkhaiyusm.jpg" style="width:30%"><br>Mr Wong Khai Yu<br><a href="mailto:wong_khai_yu@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#454545">wong_khai_yu@moe.edu.sg</span></a></td>
     <td class="tg-fwnj">Upper Secondary Year Head</td>
   </tr>
 
-  <tr>
-   <td class="tg-citn"><img src="/images/Ms Das Ruth.jpg" alt="Ms Das Ruth.jpg" style="width:30%"><br>Ms Das Ruth Hannah<br><a href="mailto:das_ruth_hannah@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#454545">das_ruth_hannah@moe.edu.sg</span></a></td>
-    <td class="tg-fwnj">Upper Secondary Assistant Year Head</td>
+ <tr>
+   <td class="tg-citn"><img src="/images/nur zetty abd kadir.jpg" alt="Ms Nur Zetty" style="width:30%"><br>Ms Nur Zetty<br><a href="mailto:nur_zetty_abd_kadir@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#454545">nur_zetty_abd_kadir@moe.edu.sg</span></a><br></td>
+    <td class="tg-fwnj">Higher Secondary Assistant Year Head</td>
   </tr>
  
 </tbody>
