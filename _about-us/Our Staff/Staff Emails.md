@@ -665,7 +665,7 @@ variant: markdown
   <tr>
     <td class="tg-0lax">4.1</td>
     <td class="tg-0lax"><img src="/images/Jerry Tai.jpg" alt="Jerry Tai.jpg" style="width:25%"><br>Mr Tai Jerry<br><a href="mailto:tai_fook_lim_jerry@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#454545">tai_fook_lim_jerry@moe.edu.sg</span></a></td>
-    <td class="tg-0lax">-</td>
+  <td class="tg-0lax"><img src="/images/Ho Lian Ya.jpg" alt="Ho Lian Ya.jpg" style="width:25%"><br>Ms Ho Lian Ya<br><a href="mailto:ho_lian_ya@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#454545">ho_lian_ya@moe.edu.sg</span></a></td>
     <td class="tg-0lax">-</td>
   </tr>
   <tr>
