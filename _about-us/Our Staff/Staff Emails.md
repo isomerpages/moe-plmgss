@@ -279,6 +279,10 @@ variant: markdown
     <td class="tg-citn">Operations Manager</td>
   </tr>
 <tr>
+    <td class="tg-citn"><img src="/images/inr.jpg" alt="inr.jpg" style="width:25%"><br>Mr Teo Kim Che<br><a href="mailto:teo_kim_che@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#454545">teo_kim_che@moe.edu.sg</span></a><br></td>
+    <td class="tg-citn">Operations Manager</td>
+  </tr>
+<tr>
     <td class="tg-citn"><img src="/images/kelvin lim.jpg" alt="inr.jpg" style="width:25%"><br>Mr Lim Kelvin<br><a href="mailto:lim_fook_tong@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#454545">lim_fook_tong@moe.edu.sg</span></a><br></td>
     <td class="tg-citn">Workshop Instructor</td>
   </tr>
