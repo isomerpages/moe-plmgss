@@ -1,0 +1,24 @@
+collections:
+  pl-epistle:
+    output: true
+    order:
+      - 2021/.keep
+      - 2021/January 2021.md
+      - 2021/February 2021.md
+      - 2021/March 2021.md
+      - 2019/.keep
+      - 2019/November 2019.md
+      - 2019/October 2019.md
+      - 2019/September 2019.md
+      - 2019/August 2019.md
+      - 2019/July 2019.md
+      - 2019/June 2019.md
+      - 2019/May 2019.md
+      - 2019/April 2019.md
+      - 2019/March 2019.md
+      - 2019/February 2019.md
+      - 2019/January 2019.md
+      - PL Parcel.md
+      - PL100 Celebrations/.keep
+      - PL100 Celebrations/PL Musical.md
+      - PL100 Celebrations/PL100 Celebrations.md

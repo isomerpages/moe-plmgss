@@ -1,0 +1,20 @@
+collections:
+  announcements:
+    output: true
+    order:
+      - 2024 Semester 1 Timetable.md
+      - First Week of School Programme.md
+      - Secondary One Posting & eRegistration.md
+      - Release of GCE N Level Results 2023.md
+      - PLMGS(Sec) Booklist for 2024.md
+      - 2024 Sec 3 Subject Combinations for Sec 2 Students in 2023.md
+      - Direct School Admissions to Junior Colleges and Early Admission Exercise
+        to Polytechnics.md
+      - Principal's Letter to Parents.md
+      - Open Houses 2023 Post Secondary Options.md
+      - Principal’s Message 2023.md
+      - PLMGS(S) Annual Magazine 2022.md
+      - Musical Montage Virtual Concert.md
+      - PL Virtual Symphony of Praise Concert 2021.md
+      - School Canteen Feedback.md
+      - Road Safety and Traffic Management Plan.md

@@ -1,0 +1,10 @@
+collections:
+  articles:
+    output: true
+    order:
+      - JAE, JIE N & JIE O Admission Booklets.md
+      - Singapore Arts Festival (SYF) 2023 Arts Presentation.md
+      - Student’s GPA (Group Personal Accident) Submission Process.md
+      - Guidelines on Parents’ Communication with the School.md
+      - National Digital Literacy Programme (NDLP).md
+      - Musical Montage Virtual Concert.md

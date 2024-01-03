@@ -1,0 +1,37 @@
+logo: /images/school logo.jpeg
+links:
+  - title: About Us
+    url: /about-us/our-principal/
+    sublinks:
+      - title: Our Principal
+        url: /about-us/our-principal/
+      - title: Our School
+        url: /about-us/our-school/our-heritage/
+      - title: Our Staff
+        url: /about-us/Our-Staff/
+      - title: Year and Monthly Themes
+        url: /about-us/year-and-monthly-themes/
+      - title: PL Epistle
+        url: /about-us/pl-epistle/2021/march-2021/
+      - title: Published News
+        url: /about-us/published-news/
+      - title: Board of Management &Chaplains
+        url: /about-us/our-board-of-management-and-chaplains/
+      - title: Agape Concert Hall
+        url: /about-us/agape-concert-hall/
+      - title: PSSG (Parents)
+        url: /about-us/pssg/
+      - title: Alumni
+        url: /about-us/alumni/
+      - title: School Admission
+        url: /about-us/school-admission/local-students-secondary-one-s1-posting/
+  - title: Curricular
+    collection: instructional-programmes
+  - title: Co-Curricular
+    collection: co-curricular-programmes
+  - title: Signature Programmes
+    collection: signature-programmes
+  - title: Accolades
+    collection: accolades
+  - title: Useful Links
+    collection: useful-links

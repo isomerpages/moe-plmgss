@@ -1,0 +1,20 @@
+collections:
+  accolades:
+    output: true
+    order:
+      - MOE Special Awards.md
+      - Organisational Achievements/Organisational Achievements.md
+      - Organisational Achievements/.keep
+      - Organisational Achievements/School Excellence Award (SEA).md
+      - Organisational Achievements/BPA (SARD).md
+      - Staff Awards.md
+      - Student Awards/.keep
+      - Student Awards/CCA Clubs and Societies.md
+      - Student Awards/CCA UYOs.md
+      - Student Awards/CCA Performing Arts.md
+      - Student Awards/CCA Sports.md
+      - Student Awards/Student Awards.md
+      - National Examinations/.keep
+      - National Examinations/GCE O Level 2022.md
+      - National Examinations/GCE N Level 2023.md
+      - Alumni Achievements.md
