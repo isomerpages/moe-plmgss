@@ -412,7 +412,7 @@ variant: markdown
 
  <tr>
    <td class="tg-citn"><img src="/images/nur zetty abd kadir.jpg" alt="Ms Nur Zetty" style="width:30%"><br>Ms Nur Zetty<br><a href="mailto:nur_zetty_abd_kadir@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#454545">nur_zetty_abd_kadir@moe.edu.sg</span></a><br></td>
-    <td class="tg-fwnj">Higher Secondary Assistant Year Head</td>
+    <td class="tg-fwnj">Upper Secondary Assistant Year Head</td>
   </tr>
  
 </tbody>
