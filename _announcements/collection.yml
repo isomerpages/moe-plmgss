@@ -2,8 +2,8 @@ collections:
   announcements:
     output: true
     order:
-      - 2024 JCs and Polytechnics Open House.md
       - Information on the release of O Level results 2023.md
+      - 2024 JCs and Polytechnics Open House.md
       - 2024 Semester 1 Timetable.md
       - First Week of School Programme.md
       - Release of GCE N Level Results 2023.md
