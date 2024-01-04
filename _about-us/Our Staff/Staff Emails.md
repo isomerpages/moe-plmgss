@@ -617,7 +617,7 @@ variant: markdown
     <td class="tg-0lax">3.5</td>
      <td class="tg-0lax"><img src="/images/Yeo%20Siqi,%20Clarabelle.jpg" alt="Yeo Siqi, Clarabelle.JPG" style="width:25%"><br>Ms Clarabelle Yeo<br><a href="mailto:wang_siqi_clarabelle@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#454545">wang_siqi_clarabelle@moe.edu.sg</span></a></td>
     <td class="tg-0lax"><img src="/images/Mrs_Lim_Maggie.jpg" alt="Nurhudah.jpg" style="width:25%"><br>Mrs Lim Maggie<br><a href="mailto:lo_mei_ee@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#454545">lo_mei_ee@moe.edu.sg</span></a></td>
-    <td class="tg-0lax"><img src="/images/cheryl%20tan.jpg" alt="cheryl tan.jpg" style="width:25%"><br>Mrs Chew Cheryl<br><a href="mailto:tan_jue_ling_cheryl@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#454545">tan_jue_ling_cheryl@moe.edu.sg</span></a></td>
+    <td class="tg-0lax">-</td>
   </tr>
   <tr>
     <td class="tg-0lax">3.6</td>
@@ -628,7 +628,7 @@ variant: markdown
   <tr>
     <td class="tg-0lax">3.7</td>
     <td class="tg-0lax"><img src="/images/koh_mei_chin.jpg" alt="koh_mei_chin.jpg" style="width:25%"><br>Mrs Koh Mei Chin<br><a href="mailto:tang_mei_chin@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#454545">tang_mei_chin@moe.edu.sg</span></a></td>
-    <td class="tg-0lax"><img src="/images/inr.jpg" alt="koh_mei_chin.jpg" style="width:25%"><br>Mr Leung Lok Heng<br><a href="mailto:plmgss@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#454545">plmgss@moe.edu.sg</span></a></td>
+    <td class="tg-0lax">-</td>
     <td class="tg-0lax">-</td>
   </tr>
   <tr>
