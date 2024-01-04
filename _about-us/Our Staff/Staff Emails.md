@@ -162,7 +162,7 @@ variant: markdown
     <td class="tg-citn">Humanities<br></td>
   </tr>
   <tr>
-    <td class="tg-citn"><img src="/images/Paul%20Melissa.jpg" alt="Paul Melissa.JPG" style="width:30%"><br>Ms Melissa Paul<br><a href="mailto:paul_melissa@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#454545">paul_melissa@moe.edu.sg</span></a><br></td>
+    
     <td class="tg-citn">Learning Needs<br></td>
   </tr>
 <tr>
@@ -176,7 +176,7 @@ variant: markdown
 
   <tr>
     <td class="tg-citn"><img src="/images/clarabelle.jpg" alt="clarabelle.jpg" style="width:30%"><br>Mrs Yeo Clarabelle<br><a href="mailto:wang_siqi_clarabelle@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#454545">wang_siqi_clarabelle@moe.edu.sg</span></a><br></td>
-    <td class="tg-citn"><span style="color:black">Student Management (covering)</span><br></td>
+    <td class="tg-citn"><span style="color:black">Student Management</span><br></td>
   </tr>
 
   <tr>
@@ -412,7 +412,7 @@ variant: markdown
 
  <tr>
    <td class="tg-citn"><img src="/images/nur zetty abd kadir.jpg" alt="Ms Nur Zetty" style="width:30%"><br>Ms Nur Zetty<br><a href="mailto:nur_zetty_abd_kadir@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#454545">nur_zetty_abd_kadir@moe.edu.sg</span></a><br></td>
-    <td class="tg-fwnj">Higher Secondary Assistant Year Head</td>
+    <td class="tg-fwnj">Upper Secondary Assistant Year Head</td>
   </tr>
  
 </tbody>
