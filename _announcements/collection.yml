@@ -2,6 +2,7 @@ collections:
   announcements:
     output: true
     order:
+      - Information on the release of O Level results 2023.md
       - 2024 Semester 1 Timetable.md
       - First Week of School Programme.md
       - Secondary One Posting & eRegistration.md
