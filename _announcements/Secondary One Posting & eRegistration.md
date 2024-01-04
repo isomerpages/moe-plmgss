@@ -1,7 +1,0 @@
----
-title: Secondary One Posting & eRegistration
-permalink: /announcements/2024s1posting/
-variant: tiptap
-description: ""
----
-<p>Dear Parents/ Guardians and Secondary 1 students,</p><p>A very warm welcome to Paya Lebar Methodist Girls' School (Secondary)!</p><p>The Secondary One Registration process will be conducted online, so the Secondary One students are not required to report in person on Registration Day.</p><p>Please<strong> <a href="https://sites.google.com/moe.edu.sg/plmgsssec1e-registration" rel="noopener noreferrer nofollow" target="_blank">click here</a></strong> to access the Sec 1 Registration Microsite for the registration link and also for other administrative information on various matters.</p><p></p><p><strong>[20 Dec 2023, 5.00 pm] Announcement</strong></p><p>Parent Gateway is currently down for Sec 1 Posting Registration.</p><p>We are unable to provide offer letter(s) to parents of students who are eligible for the following school programmes:</p><ul data-tight="true" class="tight"><li><p>Full Subject-Based Banding (for posting group 1 and 2 students)</p></li><li><p>Higher Mother Tongue (for posting group 3 students)</p></li><li><p>Third Language (for posting group 2 and 3 students)</p></li></ul><p>We seek your understanding and patience. Your child will not require any textbooks or materials from the 2024 Sec 1 booklist in the first week of school.</p><p></p>
