@@ -2,10 +2,15 @@
 title: Principal's Letter to Parents
 permalink: /announcements/principal-letter-to-parents/
 description: ""
+variant: markdown
 ---
 Dear Parents/Guardians,&nbsp;  
 Please click on the links below to view the Principal's Letter to Parents:  
   
+### Year 2024
+[2024 - Term 1 Principal's Letter to Parents.pdf](/files/2024___Term_1_Principal_s_Letter_to_Parents.pdf)<br>
+[- Annex - Traffic Safety and School Security.pdf](/files/Annex___Traffic_Safety_and_School_Security.pdf)
+
 ### Year 2023
 
 * [2023 - Term 4 Principal's Letter to Parents.pdf](/files/2023%20-%20term%204%20principal's%20letter%20to%20parents%20(final).pdf)
