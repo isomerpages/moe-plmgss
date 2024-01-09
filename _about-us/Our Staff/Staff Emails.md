@@ -534,7 +534,7 @@ variant: markdown
   <tr>
     <td class="tg-0lax">2.4</td>
    <td class="tg-0lax"><img src="/images/lee_yen_chai2.jpg" alt="lee_yen_chai2.jpg" style="width:25%"><br>Mr Lee Yen Chai<br><a href="mailto:lee_yen_chai@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#454545">lee_yen_chai@moe.edu.sg</span></a></td>
-    <td class="tg-0lax"><img src="/images/inr.jpg" alt="tan puay teng.jpg" style="width:25%"><br>Ms Hannah Zulaiha<br><a href="mailto:hannah_zulaihah_gwynne@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#454545">hannah_zulaihah_gwynne@moe.edu.sg
+    <td class="tg-0lax"><img src="/images/inr.jpg" alt="tan puay teng.jpg" style="width:25%"><br>Ms Hannah Zulaihah<br><a href="mailto:hannah_zulaihah_gwynne@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#454545">hannah_zulaihah_gwynne@moe.edu.sg
 </span></a></td>
    <td class="tg-0lax">-</td>
   </tr>
