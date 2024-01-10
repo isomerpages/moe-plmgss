@@ -310,7 +310,7 @@ variant: markdown
     <td class="tg-citn"><span style="color:black">Allied Educator</span><br><span style="color:black">(Special Educational Needs)</span></td>
   </tr>
   <tr>
-    <td class="tg-citn"><img src="/images/Ms%20Priscilla%20Chong.jpg" alt="Ms Priscilla Chong.jpg" style="width:25%"><br><span style="color:black">Ms Priscilla Chong</span><br><a href="mailto:chong_soo_hui_priscilla@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#454545">chong_soo_hui_priscilla@schools.gov.sg</span></a><br></td>
+    <td class="tg-citn"><img src="/images/Ms%20Priscilla%20Chong.jpg" alt="Ms Priscilla Chong.jpg" style="width:25%"><br><span style="color:black">Ms Priscilla Chong</span><br><a href="mailto:chong_soo_hui_priscilla@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#454545">chong_soo_hui_priscilla@moe.edu.sg</span></a><br></td>
     <td class="tg-citn"><span style="color:black">Education and Career Guidance</span><br></td>
   </tr>
  <tr>
