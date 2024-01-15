@@ -2,7 +2,7 @@ collections:
   announcements:
     output: true
     order:
-      - Information on the release of O Level results 2023.md
+      - Release of GCE O Level Results 2023.md
       - 2024 Semester 1 Timetable.md
       - First Week of School Programme.md
       - Principal's Letter to Parents.md
