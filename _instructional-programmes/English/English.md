@@ -1,8 +1,9 @@
 ---
 title: English
-permalink: /instructional-programmes/English/
+permalink: /instructional-programmes/english/
 description: ""
 third_nav_title: English
+variant: markdown
 ---
 ### Our Mission
 
