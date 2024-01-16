@@ -756,7 +756,7 @@ variant: markdown
 	</tr>
 <tr>
 <td class="tg-0lax"><img src="/images/chen jennifer.jpg" alt="Chen Jennifer.JPG" style="width:25%"><br>Mrs Chen Jennifer<br><a href="mailto:jennifer_wong_mo_sie@moe.edu.sg"><span style="text-decoration:underline;color:#454545">jennifer_wong_mo_sie@moe.edu.sg</span></a></td>
-<td class="tg-0lax"><img src="/images/lai yee tng.jpg" alt="Lin Lihui.JPG" style="width:25%"><br>Mrs Lai Yee Tng<br><a href="mailto:lai_yee_tng@moe.edu.sg"><span style="text-decoration:underline;color:#454545">lai_yee_tng@moe.edu.sg</span></a></td>
+<td class="tg-0lax"><img src="/images/lai yee tng.jpg" alt="Lin Lihui.JPG" style="width:25%"><br>Mrs Lai Yee Tyng<br><a href="mailto:lai_yee_tng@moe.edu.sg"><span style="text-decoration:underline;color:#454545">lai_yee_tyng@moe.edu.sg</span></a></td>
 	</tr>  
 <tr>
 <td class="tg-0lax"><img src="/images/inr.jpg" alt="Lin Lihui.JPG" style="width:25%"><br>Ms Lim Sok Lan Grace<br><a href="mailto:lim_sok_lan_grace@moe.edu.sg"><span style="text-decoration:underline;color:#454545">lim_sok_lan_grace@moe.edu.sg</span></a></td>
