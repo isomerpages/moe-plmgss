@@ -3,10 +3,11 @@ title: Photo Gallery
 permalink: /instructional-programmes/english/photo-gallery/
 description: ""
 third_nav_title: English
+variant: markdown
 ---
-### Public Speaking Competition
+### Secondary 1 PL21 Project
 
-![](/images/photo%20gallery%201.png)
+
 
 ### Story-telling at PL Primary
 
