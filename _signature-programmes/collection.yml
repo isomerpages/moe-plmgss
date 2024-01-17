@@ -2,7 +2,6 @@ collections:
   signature-programmes:
     output: true
     order:
-      - CCP Overview/Student Development Team (SDT).md
       - CCP Overview/.keep
       - CCP Overview/CCP Overview.md
       - CCP Overview/PL CARE.md
@@ -13,6 +12,7 @@ collections:
       - CCP Overview/PL AESTHETICS.md
       - CCP Overview/PL TRANSFORM.md
       - CCP Overview/PL HOME.md
+      - CCP Overview/Student Development Team (SDT).md
       - Student Leadership/.keep
       - Student Leadership/Student Leadership.md
       - Student Leadership/Leadership Groups in PL.md
