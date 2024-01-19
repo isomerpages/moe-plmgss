@@ -27,7 +27,7 @@ variant: markdown
 </thead>
 <tbody>
   <tr>
-    <td class="tg-citn"><img src="/images/amy_ng2023tn.jpg" alt="amy_ng2.jpg" style="width:30%"><br>Ms Amy Ng<br><a href="mailto:plmgss@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#454545">plmgss@moe.edu.sg</span></a><br></td>
+    <td class="tg-citn"><img src="/images/mg_ng_24.jpg" alt="amy_ng2.jpg" style="width:30%"><br>Ms Amy Ng<br><a href="mailto:plmgss@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#454545">plmgss@moe.edu.sg</span></a><br></td>
     <td class="tg-citn">Principal</td>
   </tr>
   <tr>
