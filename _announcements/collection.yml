@@ -2,7 +2,6 @@ collections:
   announcements:
     output: true
     order:
-      - Secondary 3 to 5 MTP (19 Jan 2024).md
       - Meet the Parents Sessions Presentation Slides.md
       - Release of GCE O Level Results 2023.md
       - 2024 Semester 1 Timetable.md
