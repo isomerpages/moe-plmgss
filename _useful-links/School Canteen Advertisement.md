@@ -2,6 +2,7 @@
 title: School Canteen Advertisement
 permalink: /useful-links/canteen-advertisement/
 description: ""
+variant: markdown
 ---
 ## School Canteen Advertisement
 
@@ -12,7 +13,7 @@ The School is located at 296 Lorong Ah Soo, Singapore 536742.
 
 | Type of Stall | Closing Date | Requirement |
 | -------- | -------- | -------- |
-| Chinese Mixed Rice     | 30 November 2023    | Nil    |
+| Western Food     | 05 February 2024    | Nil    |
 
 
 
