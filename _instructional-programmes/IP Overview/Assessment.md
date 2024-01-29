@@ -3,8 +3,9 @@ title: Assessment
 permalink: /instructional-programmes/ip-overview/assessment/
 description: ""
 third_nav_title: IP Overview
+variant: markdown
 ---
-### 2023 Assessment for students in Sec 1, 2 and 3 Exp/NA/NT  
+### 2024 Assessment for students in Sec 1, 2 and 3 G3~Exp/G2~NA/G1~NT  
 
 - Assessment in the form of class assignments, tests and examinations are planned with the intent to enable your daughter/ward to evaluate and chart her learning progress in consultation with her teachers. These marks will be used for promotion at the end of the year. It will also enable the teachers to provide targeted assistance to strengthen her learning.
 
@@ -39,7 +40,7 @@ third_nav_title: IP Overview
 </tbody>
 </table>
 
-- Please note that assessment for some subjects will be conducted as **class tests or coursework.** For subjects such as Design & Technology (D&T) and Food & Consumer Education (FCE), there will not be any EOY Examinations for these two subjects. Hence, their assessment weighting will be:
+- Please note that assessment for some subjects will be conducted as **class tests or coursework.** For subjects such as Design &amp; Technology (D&amp;T) and Food &amp; Consumer Education (FCE), there will not be any EOY Examinations for these two subjects. Hence, their assessment weighting will be:
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -74,8 +75,8 @@ third_nav_title: IP Overview
 
 - Students will receive their assessment feedback once the grading is completed. Students will discuss and review the feedback and learning in class with their teachers. Students are encouraged to share their learning and performance with their parents/guardians. Parents/Guardians will receive your daughter/ward’s Term Result Slip at the start of the following term. 
 
-- For WAs - Should a student be absent on the day of WA, she will need to provide a valid Medical Certificate*. She will receive the assessment papers for self timed-practice and ‘MC’ status will be indicated for the paper. (*Noted that: An MC that is issued by a Chinese Physician and letter of excuse from parent are INVALID). 
+- For WAs - Should a student be absent on the day of WA, she will need to provide a&nbsp;valid Medical Certificate*. She will receive the assessment papers for self timed-practice and ‘MC’ status will be indicated for the paper. (*Noted that: An MC that is issued by a Chinese Physician and letter of excuse from parent are&nbsp;INVALID). 
 
-- For Exam - Should a student be absent on the day of exam paper, she will need to provide a valid Medical Certificate, a ‘MC’ status will be indicated for the paper. A student who is absent from an examination without a MC will get an ‘AB’ status (equivalent to zero mark attainment).
+- For Exam - Should a student be absent on the day of exam paper, she will need to provide a&nbsp;valid Medical Certificate, a ‘MC’ status will be indicated for the paper. A student who is absent from an examination without a MC will get an ‘AB’ status (equivalent to zero mark attainment).
 
-- Parents/Guardians should ensure that their daughters/wards attend school regularly. Students will not be allowed to take her Examinations at the end of the year if her attendance falls below 80% and is absent without valid reasons.
+- Parents/Guardians should ensure that their daughters/wards attend school regularly. Students will not be allowed to take her Examinations at the end of the year if her attendance&nbsp;falls below 80% and is absent without valid reasons.
