@@ -5,7 +5,7 @@ description: ""
 third_nav_title: IP Overview
 variant: markdown
 ---
-### 2024 Assessment for students in Sec 1, 2 and 3 G3~Exp/G2~NA/G1~NT  
+### 2024 Assessment for students in Sec 1, 2 and 3 G3-Exp/G2-NA/G1-NT  
 
 - Assessment in the form of class assignments, tests and examinations are planned with the intent to enable your daughter/ward to evaluate and chart her learning progress in consultation with her teachers. These marks will be used for promotion at the end of the year. It will also enable the teachers to provide targeted assistance to strengthen her learning.
 
