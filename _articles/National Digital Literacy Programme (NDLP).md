@@ -82,6 +82,8 @@ As parents, you play an important part in ensuring that your child, continues to
 To support you in keeping your child safe online, you may refer to these resources:
 
 * [MOE Handbook for 1-to-1 Learning](/files/Parent_Handbook_I_on_1_1_Learning.pdf)
+* [Parent Handbook (I) on Learning with a PLD](/files/IP2___Parent_Handbook__I__2024_FINAL.pdf)
+* [Parent Handbook (II) on Learning with a PLD](/files/IP3___Parent_Handbook__II__2024_FINAL.pdf)
 * [MOE Cyber Wellness site](http://go.gov.sg/moe-cyber-wellness)
 * [Better Internet Singapore](http://go.gov.sg/better-internet-sg)
 * [National Library’s Learning &amp; Information Literacy Resources](https://sure.nlb.gov.sg/)
