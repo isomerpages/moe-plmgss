@@ -6,8 +6,11 @@ variant: markdown
 ---
 ### PLMGS(Sec) Blended Learning Implementation (HBL) briefing on 29 Jan 2024
 
+![](/images/hbl_blend2024.jpg)
 
-Please click here for the briefing slides.
+Please [click here](/files/PLMGS_Sec__Blended_Learning_Implementation__HBL_.pdf) for the briefing slides.
+
+* [HBL Infographic and Timetable Planner](/files/PLMGS_HBL_Infographic_and_Timetable_Planner.pdf)
 
 ### Purchase of Personal Learning Device (PLD) 2024
 
