@@ -13,7 +13,7 @@ The School is located at 296 Lorong Ah Soo, Singapore 536742.
 
 | Type of Stall | Closing Date | Requirement |
 | -------- | -------- | -------- |
-| Western Food     | 05 February 2024    | Nil    |
+| Western Food     | 27 February 2024    | Nil    |
 
 
 
