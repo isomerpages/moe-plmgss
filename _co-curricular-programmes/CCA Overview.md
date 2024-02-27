@@ -83,4 +83,3 @@ CCA consist of the following Core Activities & Interest Groups:
 *   [Infocomm Technology (Media Production)](https://staging.d31lf6q9623hn3.amplifyapp.com/co-curricular-programmes/clubs-and-societies/infocomm-technology-media-production)
 *   [International Chess](https://staging.d31lf6q9623hn3.amplifyapp.com/co-curricular-programmes/clubs-and-societies/international-chess)  
     
-*   [Photography Club](https://staging.d31lf6q9623hn3.amplifyapp.com/co-curricular-programmes/clubs-and-societies/photography-club)
