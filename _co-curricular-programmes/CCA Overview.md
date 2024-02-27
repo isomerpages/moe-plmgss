@@ -2,6 +2,7 @@
 title: CCA Overview
 permalink: /co-curricular-programmes/cca-overview/
 description: ""
+variant: markdown
 ---
 **CCA – MISSION**  
   
@@ -33,7 +34,7 @@ More specifically,
 *   The Uniformed Groups develop students into good citizens by inculcating in them self-reliance, resilience, discipline and a spirit of service to others
 *   The Clubs and Societies allow students to explore and extend their interests in wide-ranging and specialised areas which may be knowledge-based or skills-based
 
-[2023 CCA Schedule and Venues.pdf](/files/2023%20CCA%20training%20Schedule%20and%20venues_updated.pdf)
+[2024 CCA Schedule and Venues.pdf](/files/2024%20CCA%20training%20Schedule%20and%20venues.pdf)
 
 [LEAPS 2.0 Overview.pdf](/files/LEAPS%202%20Overview.pdf)
 
