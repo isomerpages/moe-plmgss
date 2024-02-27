@@ -34,7 +34,7 @@ More specifically,
 *   The Uniformed Groups develop students into good citizens by inculcating in them self-reliance, resilience, discipline and a spirit of service to others
 *   The Clubs and Societies allow students to explore and extend their interests in wide-ranging and specialised areas which may be knowledge-based or skills-based
 
-[2024 CCA Schedule and Venues.pdf](/files/2024%20CCA%20training%20Schedule%20and%20venues.pdf)
+[2024 CCA Schedule and Venues.pdf](/files/2024_CCA_Schedule_and_Venues.pdf)
 
 [LEAPS 2.0 Overview.pdf](/files/LEAPS%202%20Overview.pdf)
 
