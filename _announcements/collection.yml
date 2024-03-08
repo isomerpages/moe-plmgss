@@ -2,6 +2,7 @@ collections:
   announcements:
     output: true
     order:
+      - 2024 March Holidays CCA Training Schedule.md
       - Meet the Parents Sessions Presentation Slides.md
       - Release of GCE O Level Results 2023.md
       - 2024 Semester 1 Timetable.md
