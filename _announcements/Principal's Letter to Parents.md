@@ -8,8 +8,10 @@ Dear Parents/Guardians,&nbsp;
 Please click on the links below to view the Principal's Letter to Parents:  
   
 ### Year 2024
-[2024 - Term 1 Principal's Letter to Parents.pdf](/files/2024___Term_1_Principal_s_Letter_to_Parents.pdf)<br>
+* [2024 - Term 1 Principal's Letter to Parents.pdf](/files/2024___Term_1_Principal_s_Letter_to_Parents.pdf)<br>
 [- Annex - Traffic Safety and School Security.pdf](/files/Annex___Traffic_Safety_and_School_Security.pdf)
+
+* [2024 - Term 1 Thanksgiving Principal's Letter to Parents.pdf](/files/2024___Term_1_Thanksgiving_Principal_s_Letter_to_Parents.pdf)
 
 ### Year 2023
 
