@@ -7,7 +7,7 @@ variant: markdown
 ---
 ### Assessment for students in Sec 1, 2 and 3 G3-Exp/G2-NA/G1-NT  
 
-- Assessment in the form of class assignments, tests and examinations are planned with the intent to enable your daughter/ward to evaluate and chart her learning progress in consultation with her teachers. These marks will be used for promotion at the end of the year. It will also enable the teachers to provide targeted assistance to strengthen her learning.
+- Assessment in the form of class assignments, tests and examinations are planned with the intent to enable your daughter/ward to evaluate and chart her learning progress in consultation with her teachers. These marks will be used for promotion at the end of the year. There will be no retention of Sec 1 students from 2024, in support of Full SBB efforts. Instead students will be guided to take subject(s)at a more/less demanding level based on their abilities. Our teachers will guide and work with the students to strengthen their learning. It will also enable the teachers to provide targeted assistance to strengthen her learning.
 
 - The assessment for students in the Sec 1, 2 and 3 level will include Termly Weighted Assessments (WAs) as well as one End-of-Year (EOY) Examination.
 
