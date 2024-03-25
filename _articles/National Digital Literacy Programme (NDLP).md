@@ -4,6 +4,12 @@ permalink: /articles/announcements/national-digital-literacy-programme-ndlp/
 description: ""
 variant: markdown
 ---
+### PDLP Device Collection, Care and Routines briefing on 25 March 2024
+
+![](/images/pdlp_25mar2024.png)
+
+Please click here [click here](/files/PDLP___Device_Collection__Care_and_Routines_25_March_2024.pdf) for the briefing slides.
+
 ### PLMGS(Sec) Blended Learning Implementation (HBL) briefing on 29 Jan 2024
 
 ![](/images/hbl_blend2024.jpg)
