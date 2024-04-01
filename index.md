@@ -15,18 +15,6 @@ sections:
           url: /announcements/2024-march-cca/
       subtitle: 巴耶礼峇美以美女校（中学）
   - infopic:
-      title: Secondary One Posting & e-Registration
-      button: Click here
-      alt: welcome
-      image: /images/01_welcome.jpg
-      url: /announcements/2024s1posting/
-  - infopic:
-      title: Local Students 2023 Secondary One (S1) Posting
-      button: Click Here
-      url: /about-us/school-admission/local-students-secondary-one-s1-posting/
-      image: /images/crest.jpg
-      alt: S1 Posting
-  - infopic:
       title: PL Parcel
       description: A Read Worth Your Time
       button: Click Here
