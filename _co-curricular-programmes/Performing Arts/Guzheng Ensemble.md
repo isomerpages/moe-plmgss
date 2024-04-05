@@ -28,7 +28,7 @@ Mdm Li Hongyan (i/c) <br>
 Mdm Zhuang Ying Meng  
   
 **Our Instructor and Conductor**  <br>
-Mr Thum Soon Boon  
+Ms Jessica Lu Jie  
   
 **Training Schedule**  <br>
 Every Tuesday and Friday, 3.30pm to 6.30pm @ Guzheng Room
