@@ -3,6 +3,7 @@ title: Guzheng Ensemble
 permalink: /co-curricular-programmes/performing-arts/guzheng-ensemble/
 description: ""
 third_nav_title: Performing Arts
+variant: markdown
 ---
 The PL Guzheng Ensemble was established in 1989 and made its debut in 1991 at the biennial Singapore Youth Festival (SYF) Central Judging of Instrumental Ensembles (Secondary Schools) and received a Gold Award. Since then it has been blessed with seven consecutive Gold Awards (1991 to 2003), four Gold with Honours (2005 to 2011), and five Distinction award (2013, 2015, 2017, 2019, 2021), the highest achievements possible for each SYF.  
   
@@ -23,12 +24,11 @@ To create ourselves into expressions of music.
 SYF Arts Presentation 2021 - Certificate of Distinction  
 &nbsp;  
 **Teachers-in-charge**  <br>
-Ms Yap Wee Cheng (i/c)  <br>
-Mdm Li Hongyan  <br>
+Mdm Li Hongyan (i/c) <br>
 Mdm Zhuang Ying Meng  
   
 **Our Instructor and Conductor**  <br>
-Mr Thum Soon Boon  
+Ms Jessica Lu Jie  
   
 **Training Schedule**  <br>
 Every Tuesday and Friday, 3.30pm to 6.30pm @ Guzheng Room
