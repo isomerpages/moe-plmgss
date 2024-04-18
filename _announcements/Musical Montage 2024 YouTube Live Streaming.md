@@ -14,7 +14,7 @@ with mesmerizing melodies and captivating performances.</p>
 <p>Set your reminders and mark your calendars! The link to the live stream
 will be activated 15 minutes before 7:00 PM, so you can tune in and immerse
 yourself in the magic of music.</p>
-<p> <a href="https://go.gov.sg/musical-montage2024" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/musical-montage2024</a>
+<p><a href="https://go.gov.sg/musical-montage2024" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/musical-montage2024</a>
 </p>
 <p>Don't miss out on this incredible event! Invite your friends, family,
 and fellow music enthusiasts to join us for an evening of harmony and rhythm.</p>
