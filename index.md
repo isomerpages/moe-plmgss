@@ -15,6 +15,12 @@ sections:
           url: /announcements/principal-letter-to-parents/
       subtitle: 巴耶礼峇美以美女校（中学）
   - infopic:
+      title: Musical Montage 2024 YouTube Live Streaming
+      id: infopic
+      button: Button Text
+      image: /images/mm2024.png
+      alt: Image alt text
+  - infopic:
       title: PL Parcel
       description: A Read Worth Your Time
       button: Click Here
