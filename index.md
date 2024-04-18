@@ -17,9 +17,10 @@ sections:
   - infopic:
       title: Musical Montage 2024 YouTube Live Streaming
       id: infopic
-      button: Button Text
+      button: Click here
       image: /images/mm2024.png
-      alt: Image alt text
+      alt: Musical Montage
+      url: /musical-montage-2024-youtube-live-streaming/
   - infopic:
       title: PL Parcel
       description: A Read Worth Your Time
