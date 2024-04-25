@@ -11,7 +11,7 @@ Session. The details are as follows:
 <br>Time: 9 am - 11 am
 <br>Venue: Agape Concert Hall
 <br>Address: 296 Lorong Ah Soo Singapore 537742</p>
-<p><u>Programme</u>
+<p><u>Programme</u> 
 <br>9 am - 10 am&nbsp; &nbsp;Sharing by Principal
 <br>10 am - 11 am&nbsp; Guided School Tour
 <br>Please <a href="https://form.gov.sg/6625d5d38f4364af26300f6a" rel="noopener noreferrer nofollow" target="_blank">click here</a> or
