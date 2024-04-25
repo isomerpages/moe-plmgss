@@ -12,8 +12,16 @@ sections:
       key_highlights:
         - title: Announcements & Events
           description: Click here to read more
-          url: /announcements/principal-letter-to-parents/
+          url: /dsa-information-session/
       subtitle: 巴耶礼峇美以美女校（中学）
+  - infopic:
+      title: DSA Information Session
+      subtitle: Add an image and text
+      id: infopic
+      button: REGISTER HERE
+      url: /dsa-information-session/
+      image: /images/dsa_info_session_banner.jpg
+      alt: Image alt text
   - infopic:
       title: Musical Montage 2024 YouTube Live Streaming
       id: infopic
