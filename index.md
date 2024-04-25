@@ -12,7 +12,7 @@ sections:
       key_highlights:
         - title: Announcements & Events
           description: Click here to read more
-          url: /announcements/principal-letter-to-parents/
+          url: /dsa-information-session/
       subtitle: 巴耶礼峇美以美女校（中学）
   - infopic:
       title: DSA Information Session
