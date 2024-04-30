@@ -12,7 +12,7 @@ sections:
       key_highlights:
         - title: Announcements & Events
           description: Click here to read more
-          url: /school-magazine-2023/
+          url: /school-yearbook-2023/
       subtitle: 巴耶礼峇美以美女校（中学）
   - infopic:
       title: DSA Information Session
@@ -26,7 +26,7 @@ sections:
       title: School Yearbook 2023
       id: infopic
       button: CLICK HERE
-      url: /school-magazine-2023/
+      url: /school-yearbook-2023/
       image: /images/yb2023.jpg
       alt: Image alt text
   - infopic:
