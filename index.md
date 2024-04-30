@@ -23,7 +23,7 @@ sections:
       image: /images/dsa_info_session_banner.jpg
       alt: Image alt text
   - infopic:
-      title: School Magazine 2023
+      title: School Yearbook 2023
       id: infopic
       button: CLICK HERE
       url: /school-magazine-2023/
