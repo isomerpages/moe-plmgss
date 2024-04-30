@@ -2,6 +2,8 @@ collections:
   announcements:
     output: true
     order:
+      - School Yearbook 2023.md
+      - 2025 Secondary 3 Subject Combinations.md
       - DSA Information Session.md
       - Musical Montage 2024 YouTube Live Streaming.md
       - Meet The Parents Session (28 May 2024).md
