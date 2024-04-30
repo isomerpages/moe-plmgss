@@ -23,6 +23,13 @@ sections:
       image: /images/dsa_info_session_banner.jpg
       alt: Image alt text
   - infopic:
+      title: School Magazine 2023
+      id: infopic
+      button: CLICK HERE
+      url: /school-magazine-2023/
+      image: /images/yb2023.jpg
+      alt: Image alt text
+  - infopic:
       title: Musical Montage 2024 YouTube Live Streaming
       id: infopic
       button: Click here
