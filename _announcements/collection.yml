@@ -2,6 +2,7 @@ collections:
   announcements:
     output: true
     order:
+      - 2025 Secondary 3 Subject Combinations.md
       - School Yearbook 2023.md
       - DSA Information Session.md
       - Musical Montage 2024 YouTube Live Streaming.md
