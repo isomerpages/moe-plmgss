@@ -24,6 +24,6 @@ Ms Chen Wenjuan <br>
 Ms Gu Ziqi  
   
 **Training Schedule**  <br>
-Tuesday &amp; Friday 3.30 - 6.00 pm
+Tuesday &amp; Friday, 3.30 - 6.00 pm
 
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSBK-SJZ2SygxLaaIZ7jnF6g2AolZGpYpvSVxlrlOHrNE3hsmrefqZZCdANoLibRMF_IJzCUInqvjAc/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
