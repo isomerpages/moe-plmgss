@@ -3,6 +3,7 @@ title: Chinese Drama (D'Arts)
 permalink: /co-curricular-programmes/performing-arts/chinese-drama-darts/
 description: ""
 third_nav_title: Performing Arts
+variant: markdown
 ---
 Chinese Drama (D’Arts) aims to nurture our members into confident and outspoken performers and speakers. It is a fun and enjoyable CCA with energetic and friendly members. Being the only Chinese-speaking CCA in the school, we embody strong passion and love for the Chinese language and culture. Most importantly, members of D’ARTS are constantly striving for betterment. 
 
@@ -16,7 +17,7 @@ SYF Arts Presentation 2021 – Certificate of Distinction
 
   
 **Teachers-in-charge**  <br>
-Mdm Zhu Lili (i/c)  <br>
+Ms Goh Sze Nee (i/c)  <br>
 Ms Chen Wenjuan <br>
   
 **Instructor**  <br>
