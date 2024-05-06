@@ -21,13 +21,12 @@ SYF Arts Presentation 2021 – Certificate of Accomplishment
   
 **Teachers-in-charge**   <br>
 Mr Tai Jerry (i/c)   <br>
-Mrs Ambika Nair  
+Mrs Hannah Zulaiha 
   
 **Instructor**   <br>
 Mr Oliver Nicholas Chan
   
 **Training Schedule**   <br>
-Every Monday and Tuesday, 3.30pm to 6pm <br>
-Friday sectionals, 3.30pm to 6pm (during peak season)
+Monday &amp; Tuesday (Fridays during peak periods), 3.30 - 6.00 pm
 
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/1Y7Z-zNHx7rntSFyuBG3fRevdR8nZGrbBVlrXdvGq2Eg/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
