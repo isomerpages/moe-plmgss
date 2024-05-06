@@ -21,8 +21,8 @@ PL Guzheng Ensemble will be a disciplined and united body in making a joyful noi
 To create ourselves into expressions of music.  
   
 **Achievements**  <br>
-SYF Arts Presentation 2021 - Certificate of Distinction  
-&nbsp;  
+SYF Arts Presentation 2023 - Certificate of Distinction
+
 **Teachers-in-charge**  <br>
 Mdm Li Hongyan (i/c) <br>
 Mdm Zhuang Ying Meng  
@@ -31,6 +31,6 @@ Mdm Zhuang Ying Meng
 Ms Jessica Lu Jie  
   
 **Training Schedule**  <br>
-Every Tuesday and Friday, 3.30pm to 6.30pm @ Guzheng Room
+Tuesday &amp; Friday, 3.30 - 6.00 pm
 
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQfOo9SBwymmpRQ09NabhnGCd4-4TTpNSctzJTI9eXoOpvHvqcDmAZcyfllLcZM9wyfzRYxSmphMgg8/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
