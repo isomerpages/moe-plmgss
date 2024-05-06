@@ -5,8 +5,8 @@ variant: tiptap
 description: ""
 ---
 <p>Dear Parents / Guardians,</p>
-<p>Thank you for joining us for the talk last week. We value your time and
-support.</p>
+<p>Thank you for joining us for the talk on 03 May 2024. We value your time
+and support.</p>
 <p>Please refer to the attached slides for more information.</p>
 <ul data-tight="true" class="tight">
 <li>
