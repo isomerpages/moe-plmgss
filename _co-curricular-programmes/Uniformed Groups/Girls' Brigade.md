@@ -3,6 +3,7 @@ title: Girls' Brigade
 permalink: /co-curricular-programmes/uniformed-groups/girls-brigade/
 description: ""
 third_nav_title: Uniformed Groups
+variant: markdown
 ---
 The Girls’ Brigade 4th Company (4S) is a values-driven Uniformed Group that teaches Girls to lead and serve by example – to put others before self. In The Girls’ Brigade, ‘Servant Leadership’ changes the leader in every Girl as she changes the world.
 
@@ -19,37 +20,19 @@ Every Officer a Servant Leader.
 
   
 **Achievements**  <br>
-2022 - 
-Company Gold Award
-
-Pioneer Brigader Brooch: <br>
-4 Recipients
-
-Dr Low Guat Tin Challenge: <br>
-1 Gold Award and Top in Medium<br>
-5 Silver Awards <br>
-3 Bronze Awards 
-
-2021 - 
-Company Gold Award
-
-Pioneer Brigadier Brooch: <br>
-2 Recipients
-
-Dr Low Guat Tin Challenge: <br>
-2 Gold Awards<br>
-6 Silver Awards <br>
-3 Bronze Awards
+• Company Award– Gold<br>
+• Drill Competition - Silver<br>
+• Pioneer Brigadier Brooch 3 Awardees (Kezia Yew, Karin Lee, Chloe Lee)
 
   
 **Teachers-in-charge**  <br>
-Mrs Tessa Tay (i/c)<br>
-Mrs Melissa Soh (Captain)<br>
+Mrs Tay Tessa  (i/c)<br>
 Ms Heng Ci Pei<br>
-Mrs Kirrthana Isaac<br>
+Ms Kam Rachel<br>
+Ms Kirrthana<br>
 Ms Yan Xiuru<br>
-Mrs Yeong Cynthia (Christian Ministry Staff)<br>
-Ms Toh Jasmine (Christian Ministry Staff)
+Ms Soh Pamela (FA)<br>
+Mrs Yeong Cynthia (CMS)
 
   
 **Non-teaching Officers and Warrant Officers**  <br>
@@ -60,8 +43,7 @@ Ms Catherine Teo Yi Ting
 
   
 **Training Schedule**  <br>
-Every Tuesday, 3.30pm to 5.30pm (for NCOs)<br>
-Every Friday, 3.30pm to 6.15pm
+Tuesday and Friday, 3.30 to 6pm
 
 
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRtH63aXOKox7vHDjb2dydmHYiJr2PH880nrkeNmJ_kPGlx1kScbcaxv0zc8yIiGwkA8s3fGq8fKpxQ/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
