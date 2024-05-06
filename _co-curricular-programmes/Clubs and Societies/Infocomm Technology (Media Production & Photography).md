@@ -15,10 +15,10 @@ innovative projects. Serving the school in video and audio aspects has
 led our members to develop their confidence and skills in technology with
 a heart for innovation. Furthermore, our recently introduced special segment,
 MITV, helps to hone members’ creativity and videography skills.</p>
-<p><strong>Vision</strong>
+<p><strong>Vision</strong> 
 <br>An outstanding club producing innovative women with a passion to empower
 others and make a difference in the use of technology.</p>
-<p><strong>Mission</strong>
+<p><strong>Mission</strong> 
 <br>To nurture every club member into a skillful technologist with a heart
 for innovation</p>
 <p><strong>Achievements</strong> 
