@@ -3,6 +3,7 @@ title: Choir
 permalink: /co-curricular-programmes/performing-arts/choir/
 description: ""
 third_nav_title: Performing Arts
+variant: markdown
 ---
 The Paya Lebar Methodist Girls' School (Secondary) Choir is also known as One Voice, as we aim to glorify God through singing. The love of music is a Methodist heritage and as a girls’ school with the Mission, Vision and Core Values promoting the culture of graciousness, we seek to inculcate a passion for singing in each of our choristers, and in the process mould them into all-round and gracious student leaders under the guidance of God.  
   
@@ -15,17 +16,15 @@ To be an outstanding Choir, producing women of fine character with a passion for
 To nurture each Choir member into a competent singer with good team spirit, a passion for singing, always carrying a message of hope, and touching lives with her singing  
   
 **Achievements**  <br>
-_SYF Arts Presentation 2019 - Certificate of Distinction_  
+SYF Arts Presentation 2023 - Certificate of Distinction
   
 **Teachers-in-charge**  <br>
-Ms Tan Cheryl (i/c)  <br>
-Ms Tengku Nurhudah  <br>
+Ms Tengku Nurhudah (i/c)  <br>
 Mdm Tiong Mee Choo  
   
 **Conductor**  <br>
 Ms Choy Siew Woon  
   
 **Training Schedule**  <br>
-Every Monday and Friday, 3.30pm to 6.30pm @ ISH Music Room
-
+Monday &amp; Friday, 3.30 - 6.00 pm
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT2js1SJ2Eg4dJtYeMB1pJ2ZnmmslWMMf6gZczwhVYg8nxng1gulxv4dcxFxKcrJuux84G7pJK5RJfi/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>

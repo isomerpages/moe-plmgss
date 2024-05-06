@@ -3,6 +3,7 @@ title: St John Brigade
 permalink: /co-curricular-programmes/uniformed-groups/st-john-brigade/
 description: ""
 third_nav_title: Uniformed Groups
+variant: markdown
 ---
 The St John Brigade (SJB) is a voluntary organisation in Singapore which provides training in First Aid, Home Nursing and Foot Drill. St John members also perform voluntary first aid coverage duties during school and national events.  
 
@@ -20,21 +21,24 @@ Ensure that every cadet attains proficiency in First Aid, Home Nursing and Foot 
 Equip cadets with the competency and confidence to render First Aid and Home Nursing to those in need.  
   
 **Achievements**  <br>
-The Corps Achievement Award and National First Aid Competition were suspended in 2020 and 2021 due to the ongoing Covid-19 pandemic.  
+• Annual District First Aid Competition – Second Runner Up, Best in CPR, Best in Foot Drills<br>
 
-Corps Achievement Award 2019 – Gold  <br>
-Zonal First Aid Competition 2019  
-- “Best in Foot Drill” in Nursing Cadets Category  
-- “Best in Foot Drill” in Nursing Adults Category  
+• The following cadets clinched the pinnacle award, the Chief Commissioner’s Badge, presented to them during St John’s Day Awards Ceremony:<br>
+1.Wei En Kelly (4.6)<br>
+2.Chung Si Han Lyn (4.5)<br>
+3.Koh Rui Xuan (4.1)<br>
+4.Nurfatheha Binte Abdul Latiff (4.8)<br>
+5.Nuur Aaisyah Binte Ayub (4.6)<br>
+6.Putri Nuur Arifah Binte Muhammad<br>
+7.Salleh (4.6)<br>
+8.Veerapandiyan Kavi Varssha (4.4)
   
 **Teachers-in-charge**  <br>
-Ms Bai Zhaozhi (i/c)  <br>
-Ms Tharshini  <br>
-Mr Low Joshua  <br>
-Mrs Toh Eva  <br>
-Ms Victor Anne  
+Mdm Nurzakiah   (i/c)<br>
+Mrs Christopher J<br>
+Mr Low Joshua
   
 **Training Schedule**  <br>
-Every Friday, 3:30pm to 6:15pm @ SJB Room
+Friday, 3:30pm to 6:00pm
 
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRlRxEG2F4anb20wA3_FEwWPdy5IA4IWUbYvQwActQcMjDSi-WfVar8SLF2bFt2wHd5guQC6du4QtBB/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
