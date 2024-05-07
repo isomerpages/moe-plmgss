@@ -18,4 +18,6 @@ and support.</p>
 </p>
 </li>
 </ul>
-<p></p>
+<p>We would appreciate if you&nbsp;can take some time to share your feedback
+for the&nbsp;talk by completing the form below:&nbsp;
+<br><a href="https://tinyurl.com/2024ecgsubjcombi" rel="noopener noreferrer nofollow" target="_blank">https://tinyurl.com/2024ecgsubjcombi</a>&nbsp;</p>
