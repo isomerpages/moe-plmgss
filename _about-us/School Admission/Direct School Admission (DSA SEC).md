@@ -5,6 +5,237 @@ description: ""
 third_nav_title: School Admission
 variant: tiptap
 ---
+<p><strong>PLMGS(Sec) Direct School Admission (DSA-Sec)</strong>
+</p>
+<p>Paya Lebar Methodist Girls’ School (Secondary) is a school with a family
+culture, anchored on Christian beliefs and values. We believe in providing
+a holistic education for all our students and stretching each one to their
+fullest potential. Besides a strong academic programme, we also have a
+vibrant culture of Music, Arts and Sports. Selection of students will also
+be based on the character and values displayed by candidates, aligned with
+the school’s H.E.A.R.T values of Honouring God, Excellence, Adaptability,
+Respect and Thankfulness. If you embrace these beliefs and values, we invite
+you to join our family.</p>
+<p>The Direct School Admission (DSA-Sec) selection criteria for PLMGS(Sec)
+are listed in the table below.</p>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>Talent Areas</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Selection Criteria for Individual Talent</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Selection Process</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Student Leadership</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Student Leadership</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<p>Students should possess distinctive leadership qualities/disposition such
+as</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Positive attitudes, e.g. persevering spirit, excellence mindset</p>
+</li>
+<li>
+<p>Passionatein one’s pursuit</p>
+</li>
+<li>
+<p>Confident communicators</p>
+</li>
+<li>
+<p>Ability to work in teams</p>
+</li>
+</ul>
+<p>Students should hold a leadership position in the Primary School such
+as</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>School Prefect, e.g. Head Prefect, Vice Head Prefect</p>
+</li>
+<li>
+<p>CCA Leader or other leadership position in the school</p>
+<p></p>
+</li>
+</ul>
+<p>Students should include leadership involvement (if any) in school-wide
+events or events representing schools.</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Shortlisted applicants are required to attend a face-to-face selection
+activity.
+<br>
+</p>
+<p><em><u>Selection Activity</u></em>
+</p>
+<p>Applicants will be put into small groups and different activities will
+be conducted. Through the activities, applicants will be assessed based
+on the leadership qualities/ disposition outlined in the selection criteria.</p>
+<p><em><u>Interview (when required)</u></em>
+</p>
+<p>They can bring along a hard copy portfolio of the events organised in
+the primary school to the interview.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Performing Arts</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Guzheng</p>
+</li>
+<li>
+<p>Handbells</p>
+</li>
+<li>
+<p>Harp</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<p>Students should have</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>relevant accomplishments such as certification by accredited music examination
+boards</p>
+</li>
+</ul>
+<p>or</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>performed at zone / national level (e.g. SYF Arts Presentation, National
+Music Competition etc.)</p>
+</li>
+</ul>
+<p></p>
+<p>Students should be able to</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>appreciate and enjoy making music in the style of an ensemble</p>
+</li>
+<li>
+<p>display an emotional connection to music while performing</p>
+</li>
+<li>
+<p>work well with others as a team</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<p>Shortlisted students are required to attend a face-to-face audition.</p>
+<p><em>Audition</em>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Guzheng and Harp students will perform 1 or 2 pieces of music of their
+own choice</p>
+</li>
+<li>
+<p>Handbell students are required to participate in a Handbell group audition.
+<br>
+<br><em>Interview (when required)</em>
+</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sports</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Badminton</p>
+</li>
+<li>
+<p>Netball</p>
+</li>
+<li>
+<p>Rhythmic Gymnastics</p>
+</li>
+<li>
+<p>Swimming</p>
+</li>
+<li>
+<p>Table Tennis</p>
+</li>
+<li>
+<p>Volleyball</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<p>Students</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>should have represented in zone or national competitions or equivalent
+in the talent areas listed</p>
+</li>
+</ul>
+<p>or</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>are a Member of Junior Sports Academy (JSA) or school team</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>Trials</em>
+</p>
+<p>The face-to-face Selection Trials will be based on a combination of the
+following</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Physical Ability Test</p>
+</li>
+<li>
+<p>Sports Technical Skills Test</p>
+</li>
+<li>
+<p>Personal Qualities</p>
+</li>
+</ul>
+<p>Students should bring their own equipment, if applicable.</p>
+<p></p>
+<p><em>Interview (when required)</em>
+</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="4">
+<p><strong><em>Meeting all the criteria does not guarantee the student will be shortlisted or given an offer.</em></strong>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <p><strong>Application Procedures</strong>
 </p>
 <ol data-tight="true" class="tight">
