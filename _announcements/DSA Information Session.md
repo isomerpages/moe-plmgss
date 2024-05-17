@@ -4,20 +4,13 @@ permalink: /dsa-information-session/
 variant: tiptap
 description: ""
 ---
-<p>Paya Lebar Methodist Girls' School (Secondary) is organising the DSA Information
-Session. The details are as follows:
-<br>
-<br>Date: 11 May 2024 (Saturday)
-<br>Time: 9 am - 11 am
-<br>Venue: Agape Concert Hall
-<br>Address: 296 Lorong Ah Soo Singapore 537742</p>
-<p><u>Programme</u> 
-<br>9 am - 10 am&nbsp; &nbsp;Sharing by Principal
-<br>10 am - 11 am&nbsp; Guided School Tour
-<br>Please <a href="https://form.gov.sg/6625d5d38f4364af26300f6a" rel="noopener noreferrer nofollow" target="_blank">click here</a> or
-scan QR code to register for the session. Thank you.</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/dsa_info_session_qr.jpg">
-</div>
+<p>Dear P6 Parents and Pupils,</p>
+<p>Thank you for joining us for the PLMGS(Sec) DSA Information Session.</p>
+<p>Please find below the slides shared at the session.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/PL_Sec__DSA_Info_Session_2024__11_May_.pdf" rel="noopener noreferrer nofollow" target="_blank">Sharing by Principal</a>
+</p>
+</li>
+</ul>
 <p></p>
