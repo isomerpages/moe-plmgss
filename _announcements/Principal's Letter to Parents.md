@@ -13,6 +13,7 @@ Please click on the links below to view the Principal's Letter to Parents:
 
 * [2024 - Term 1 Thanksgiving Principal's Letter to Parents.pdf](/files/2024___Term_1_Thanksgiving_Principal_s_Letter_to_Parents.pdf)
 * [2024 - Term 2 Principal's Letter to Parents.pdf](/files/2024___Term_2_Principal_s_Letter_to_Parents.pdf)
+* [2024 - Term 2 Thanksgiving Principal's Letter to Parents.pdf](/files/2024___Term_2_Thanksgiving_Principal_s_Letter_to_Parents.pdf)
 
 ### Year 2023
 
