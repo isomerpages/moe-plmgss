@@ -321,7 +321,7 @@ email by&nbsp;<strong>Monday, 9 September 2024</strong>.</p>
 <p>Notification of shortlisted applicants for Audition/Trial/Interview</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>18 Jun – 12 Aug</p>
+<p>24 Jun – 12 Aug</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>An email will be sent.</p>
@@ -332,7 +332,7 @@ email by&nbsp;<strong>Monday, 9 September 2024</strong>.</p>
 <p>Selection Exercise (Audition/Trial/Interview)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>20 Jun – 16 Aug</p>
+<p>28 Jun – 16 Aug</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Face-to-face Audition/Trial/Interview</p>
