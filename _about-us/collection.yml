@@ -2,9 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Board of Management & Chaplain/Non Financial Information.md
-      - Board of Management & Chaplain/Our Board of Management and Chaplains.md
-      - Board of Management & Chaplain/.keep
       - Our Principal.md
       - Our School/.keep
       - Our School/Our Heritage.md
@@ -26,6 +23,9 @@ collections:
       - Year and Monthly Themes.md
       - Published News.md
       - Board of Management & Chapla/.keep
+      - Board of Management & Chaplain/.keep
+      - Board of Management & Chaplain/Non Financial Information.md
+      - Board of Management & Chaplain/Our Board of Management and Chaplains.md
       - Agape Concert Hall.md
       - PSSG (Parents).md
       - Alumni/.keep
