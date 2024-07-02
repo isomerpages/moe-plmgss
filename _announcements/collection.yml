@@ -2,6 +2,7 @@ collections:
   announcements:
     output: true
     order:
+      - Night Study for Sec 4 & 5 students.md
       - 2024 Semester 2 Timetable.md
       - Principal's Letter to Parents.md
       - Sec 2 ECG & Subject Combinations Talk.md
