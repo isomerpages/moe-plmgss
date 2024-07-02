@@ -12,7 +12,7 @@ sections:
       key_highlights:
         - title: Announcements & Events
           description: Click here to read more
-          url: /announcements/2024-s2-timetable/
+          url: /night-study-for-sec-4-5-students/
       subtitle: 巴耶礼峇美以美女校（中学）
   - infopic:
       title: DSA Information Session
