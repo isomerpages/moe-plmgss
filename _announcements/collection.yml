@@ -2,6 +2,7 @@ collections:
   announcements:
     output: true
     order:
+      - Secondary 4 N Level Prelim Timetable.md
       - Night Study for Sec 4 & 5 students.md
       - 2024 Semester 2 Timetable.md
       - Principal's Letter to Parents.md
