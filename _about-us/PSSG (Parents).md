@@ -243,7 +243,7 @@ Registration is Free!</p>
 <h3>PSSG Videos 2024</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://drive.google.com/file/d/1qRWT__Wn_fEzqMGyf33gTVJSQUsg8Vyd/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">PSSG Breakfast with Dad Video</a>
+<p><a href="https://drive.google.com/file/d/1bmtcRUEFV059PxKrHXj-5UUqjaa242tN/view" rel="noopener noreferrer nofollow" target="_blank">PSSG Breakfast with Dad Video</a>
 </p>
 </li>
 <li>
