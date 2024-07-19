@@ -2,6 +2,7 @@ collections:
   announcements:
     output: true
     order:
+      - 2024 Secondary 4E5N Prelim Exam Timetable.md
       - Edusave CHaracter Award (ECHA) & EAGLES 21 CC Award.md
       - Secondary 4 N Level Prelim Timetable.md
       - Night Study for Sec 4 & 5 students.md
