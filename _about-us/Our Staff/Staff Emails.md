@@ -143,7 +143,7 @@ variant: markdown
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-citn"><img src="/images/cheryl%20tan.jpg" alt="cheryl tan.jpg" style="width:30%"><br>Ms Tan Cheryl<br><a href="mailto:tan_jue_ling_cheryl@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="color:#454545">tan_jue_ling_cheryl@moe.edu.sg</span></a><br></th>
+    <th class="tg-citn"><img src="/images/cheryl%20tan.jpg" alt="cheryl tan.jpg" style="width:30%"><br>Mrs Chew Cheryl<br><a href="mailto:tan_jue_ling_cheryl@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="color:#454545">tan_jue_ling_cheryl@moe.edu.sg</span></a><br></th>
     <th class="tg-citn"><span style="color:black">Character &amp; Citizenship Education</span><br></th>
   </tr>
 </thead>
@@ -256,7 +256,7 @@ variant: markdown
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-citn"><img src="/images/qiuling.jpg" alt="Qiuling.JPG" style="width:25%"><br>Ms Zhang Qiuling Jesseca<br><a href="mailto:Zhang_Qiuling@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#454545">Zhang_Qiuling@schools.gov.sg</span></a><br></th>
+    <th class="tg-citn"><img src="/images/inr.jpg" alt="Qiuling.JPG" style="width:25%"><br>Ms Heah Chay Tze Jenny<br><a href="mailto:heah_chay_tze@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#454545">heah_chay_tze@schools.gov.sg</span></a><br></th>
     <th class="tg-citn"><span style="color:black">Administration Manager</span></th>
   </tr>
 </thead>
@@ -338,10 +338,7 @@ variant: markdown
 	</thead>
 	<tbody>
 
-<tr>
-  <td class="tg-0lax"><img src="/images/Jasmine Toh.jpg" alt="Jasmine Toh.jpg" style="width:22%"><br>Ms Toh Jasmine<br><a href="mailto:toh_hui_yi_jasmine@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#454545">toh_hui_yi_jasmine@moe.edu.sg</span></a></td>
-    <td class="tg-citn"><span style="color:black">Christian Ministry Staff</span></td>
-  </tr>
+
 </tbody>
 </table>
 
@@ -526,8 +523,8 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-0lax">2.3</td>
-   <td class="tg-0lax"><img src="/images/Jasveen Kaur.jpg" alt="Jasveen Kaur.jpg" style="width:25%"><br>Ms Kaur Jasveen<br><a href="mailto:jasveen_kaur@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#454545">jasveen_kaur@moe.edu.sg</span></a></td>
-    <td class="tg-0lax"><img src="/images/Mdm%20Lim%20Terh%20Ling.jpg" alt="Mdm Lim Terh Ling.JPG" style="width:25%"><br>Mrs Neoh Terh Ling<br><a href="mailto:lim_terh_ling@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#454545">lim_terh_ling@moe.edu.sg</span></a></td>
+   <td class="tg-0lax"><img src="/images/Mdm%20Lim%20Terh%20Ling.jpg" alt="Mdm Lim Terh Ling.JPG" style="width:25%"><br>Mrs Neoh Terh Ling<br><a href="mailto:lim_terh_ling@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#454545">lim_terh_ling@moe.edu.sg</span></a></td>
+    <td class="tg-0lax"><img src="/images/inr.jpg" alt="Mdm Lim Terh Ling.JPG" style="width:25%"><br>Ms Kam Rachel<br><a href="mailto:rachel_kam@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#454545">rachel_kam@moe.edu.sg</span></a></td>
      <td class="tg-0lax">-</td>
 
   </tr>
@@ -559,7 +556,7 @@ variant: markdown
   <tr>
     <td class="tg-0lax">2.8<br></td>
     <td class="tg-0lax"><img src="/images/Durkha.jpg" alt="Durkha.jpg" style="width:25%"><br>Mdm Durka Kuppa Balakrishnan<br><a href="mailto:durka_kuppa_balakrishnan@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#454545">durka_kuppa_balakrishnan@moe.edu.sg</span></a><br></td>
-    <td class="tg-0lax">-</td> 
+    <td class="tg-0lax"><img src="/images/inr.jpg" alt="Durkha.jpg" style="width:25%"><br>Mr Lam Elkan<br><a href="mailto:lam_tung_ying@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#454545">lam_tung_ying@moe.edu.sg</span></a><br></td>
 <td class="tg-0lax">-</td> 
   </tr>
 </tbody>
@@ -596,7 +593,7 @@ variant: markdown
   <tr>
     <td class="tg-0lax">3.2</td>
     <td class="tg-0lax"><img src="/images/joyce_chong.jpg" alt="joyce_chong.jpg" style="width:25%"><br>Mrs Chong Joyce<br><a href="mailto:chan_wai_ling_joyce@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#454545">chan_wai_ling_joyce@moe.edu.sg</span></a></td>
-    <td class="tg-0lax">-</td>
+    <td class="tg-0lax"><img src="/images/inr.jpg" alt="joyce_chong.jpg" style="width:25%"><br>Mr Cheong Benard<br><a href="mailto:cheong_chee_kong_bernard@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#454545">cheong_chee_kong_bernard@moe.edu.sg</span></a></td>
     <td class="tg-0lax">-</td>
   </tr>
   <tr>
@@ -614,7 +611,7 @@ variant: markdown
   <tr>
     <td class="tg-0lax">3.5</td>
      <td class="tg-0lax"><img src="/images/Yeo%20Siqi,%20Clarabelle.jpg" alt="Yeo Siqi, Clarabelle.JPG" style="width:25%"><br>Ms Clarabelle Yeo<br><a href="mailto:wang_siqi_clarabelle@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#454545">wang_siqi_clarabelle@moe.edu.sg</span></a></td>
-    <td class="tg-0lax"><img src="/images/Mrs_Lim_Maggie.jpg" alt="Nurhudah.jpg" style="width:25%"><br>Mrs Lim Maggie<br><a href="mailto:lo_mei_ee@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#454545">lo_mei_ee@moe.edu.sg</span></a></td>
+    <td class="tg-0lax"><img src="/images/inr.jpg" alt="Nurhudah.jpg" style="width:25%"><br>Mdm Juliana<br><a href="mailto:juliana_jamil@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#454545">juliana_jamil@moe.edu.sg</span></a></td>
     <td class="tg-0lax">-</td>
   </tr>
   <tr>
@@ -626,7 +623,7 @@ variant: markdown
   <tr>
     <td class="tg-0lax">3.7</td>
     <td class="tg-0lax"><img src="/images/koh_mei_chin.jpg" alt="koh_mei_chin.jpg" style="width:25%"><br>Mrs Koh Mei Chin<br><a href="mailto:tang_mei_chin@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#454545">tang_mei_chin@moe.edu.sg</span></a></td>
-    <td class="tg-0lax">-</td>
+   <td class="tg-0lax"><img src="/images/inr.jpg" alt="koh_mei_chin.jpg" style="width:25%"><br>Mr Leung Lok Heng<br><a href="mailto:leung_lok_heng@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#454545">leung_lok_heng@moe.edu.sg</span></a></td>
     <td class="tg-0lax">-</td>
   </tr>
   <tr>
@@ -663,7 +660,7 @@ variant: markdown
   <tr>
     <td class="tg-0lax">4.1</td>
     <td class="tg-0lax"><img src="/images/Jerry Tai.jpg" alt="Jerry Tai.jpg" style="width:25%"><br>Mr Tai Jerry<br><a href="mailto:tai_fook_lim_jerry@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#454545">tai_fook_lim_jerry@moe.edu.sg</span></a></td>
-  <td class="tg-0lax"><img src="/images/Ho Lian Ya.jpg" alt="Ho Lian Ya.jpg" style="width:25%"><br>Ms Ho Lian Ya<br><a href="mailto:ho_lian_ya@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#454545">ho_lian_ya@moe.edu.sg</span></a></td>
+  <td class="tg-0lax"><img src="/images/cheryl%20tan.jpg" alt="Ho Lian Ya.jpg" style="width:25%"><br>Mrs Chew Cheryl<br><a href="mailto:tan_jue_ling_cheryl@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#454545">tan_jue_ling_cheryl@moe.edu.sg</span></a></td>
     <td class="tg-0lax">-</td>
   </tr>
   <tr>
@@ -739,7 +736,7 @@ variant: markdown
 </thead>
 <tbody>
   <tr>
-   <td class="tg-0lax"><img src="/images/Tang Siao Shi.jpg" alt="Tang Siao Shi.jpg" style="width:25%"><br>Mdm Tang Siao Shi<br><a href="mailto:tang_siao_shi@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#454545">tang_siao_shi@moe.edu.sg</span></a></td>
+   <td class="tg-0lax"><img src="/images/Angullia.jpg" style="width:25%"><br>Mrs Angullia Irene<br><a href="mailto:irene_angullia@moe.edu.sg"><span style="text-decoration:underline;color:#454545">irene_angullia@moe.edu.sg</span></a></td>
     <td class="tg-0lax"><img src="/images/toh vincent.jpg" alt="Toh Vincent.JPG" style="width:25%"><br>Mr Toh Pek Chuan, Vincent<br><a href="mailto:toh_pek_chuan_vincent@moe.edu.sg"><span style="text-decoration:underline;color:#454545">toh_pek_chuan_vincent@moe.edu.sg</span></a></td>
   </tr>
   <tr>
@@ -751,28 +748,16 @@ variant: markdown
     <td class="tg-0lax"><img src="/images/Kwek Chin Seng.jpg" alt="Kwek Chin Seng.jpg" style="width:25%"><br>Mr Kwek Chin Seng<br><a href="mailto:kwek_chin_seng@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#454545">kwek_chin_seng@moe.edu.sg</span></a></td>
   </tr>
 <tr>
-    <td class="tg-0lax"><img src="/images/mr_indra.jpg" alt="mr_indra.jpg" style="width:25%"><br>Mr Indra Bin Ahmad<br><a href="mailto:indra_ahmad@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#454545">indra_ahmad@moe.edu.sg</span></a></td>
-    <td class="tg-0lax"><img src="/images/Angullia.jpg" style="width:25%"><br>Mrs Angullia Irene<br><a href="mailto:irene_angullia@moe.edu.sg"><span style="text-decoration:underline;color:#454545">irene_angullia@moe.edu.sg</span></a></td>
+    <td class="tg-0lax"><img src="/images/lai yee tng.jpg" alt="Lin Lihui.JPG" style="width:25%"><br>Mrs Lai Yee Tyng<br><a href="mailto:lai_yee_tng@moe.edu.sg"><span style="text-decoration:underline;color:#454545">lai_yee_tyng@moe.edu.sg</span></a></td>
+    <td class="tg-0lax"><img src="/images/inr.jpg" style="width:25%"><br>Mdm Lim Suat Meng Jenny<br><a href="mailto:jenny_lim_suat_meng@moe.edu.sg"><span style="text-decoration:underline;color:#454545">jenny_lim_suat_meng@moe.edu.sg</span></a></td>
 	</tr>
 <tr>
-<td class="tg-0lax"><img src="/images/chen jennifer.jpg" alt="Chen Jennifer.JPG" style="width:25%"><br>Mrs Chen Jennifer<br><a href="mailto:jennifer_wong_mo_sie@moe.edu.sg"><span style="text-decoration:underline;color:#454545">jennifer_wong_mo_sie@moe.edu.sg</span></a></td>
-<td class="tg-0lax"><img src="/images/lai yee tng.jpg" alt="Lin Lihui.JPG" style="width:25%"><br>Mrs Lai Yee Tyng<br><a href="mailto:lai_yee_tng@moe.edu.sg"><span style="text-decoration:underline;color:#454545">lai_yee_tyng@moe.edu.sg</span></a></td>
+<td class="tg-0lax"><img src="/images/inr.jpg" alt="Chen Jennifer.JPG" style="width:25%"><br>Ms Ng jolly<br><a href="mailto:jolly_ng_chin_yee@moe.edu.sg"><span style="text-decoration:underline;color:#454545">jolly_ng_chin_yee@moe.edu.sg</span></a></td>
+<td class="tg-0lax"><img src="/images/inr.jpg" alt="Lin Lihui.JPG" style="width:25%"><br>Ms Sia Bee Keng<br><a href="mailto:sia_bee_leng_a@moe.edu.sg"><span style="text-decoration:underline;color:#454545">sia_bee_leng_a@moe.edu.sg</span></a></td>
 	</tr>  
 <tr>
-<td class="tg-0lax"><img src="/images/inr.jpg" alt="Lin Lihui.JPG" style="width:25%"><br>Ms Lim Sok Lan Grace<br><a href="mailto:lim_sok_lan_grace@moe.edu.sg"><span style="text-decoration:underline;color:#454545">lim_sok_lan_grace@moe.edu.sg</span></a></td>
+<td class="tg-0lax"><img src="/images/inr.jpg" alt="Lin Lihui.JPG" style="width:25%"><br>Ms Zhou Yun<br><a href="mailto:zhou_yun@moe.edu.sg"><span style="text-decoration:underline;color:#454545">zhou_yun@moe.edu.sg</span></a></td>
 <td class="tg-0lax"><img src="/images/inr.jpg" alt="Lin Lihui.JPG" style="width:25%"><br>Ms Soh Wei-Yi Pamela<br><a href="mailto:soh_weiyi_pamela@moe.edu.sg"><span style="text-decoration:underline;color:#454545">soh_weiyi_pamela@moe.edu.sg</span></a></td>
-	</tr> 
-<tr>
-<td class="tg-0lax"><img src="/images/inr.jpg" alt="image.JPG" style="width:25%"><br>Mrs Er Hwee Chin<br><a href="mailto:plmgss@moe.edu.sg"><span style="text-decoration:underline;color:#454545">plmgss@moe.edu.sg</span></a></td>
-<td class="tg-0lax"><img src="/images/inr.jpg" alt="image.JPG" style="width:25%"><br>Ms Cheng Lee Cherh<br><a href="mailto:plmgss@moe.edu.sg"><span style="text-decoration:underline;color:#454545">plmgss@moe.edu.sg</span></a></td>
-	</tr> 
-<tr>
-<td class="tg-0lax"><img src="/images/inr.jpg" alt="image.JPG" style="width:25%"><br>Ms Martha<br><a href="mailto:plmgss@moe.edu.sg"><span style="text-decoration:underline;color:#454545">plmgss@moe.edu.sg</span></a></td>
-<td class="tg-0lax"><img src="/images/inr.jpg" alt="image.JPG" style="width:25%"><br>Mdm Syafiah<br><a href="mailto:plmgss@moe.edu.sg"><span style="text-decoration:underline;color:#454545">plmgss@moe.edu.sg</span></a></td>
-	</tr> 
-<tr>
-<td class="tg-0lax"><img src="/images/inr.jpg" alt="image.JPG" style="width:25%"><br>Mdm Jaya<br><a href="mailto:plmgss@moe.edu.sg"><span style="text-decoration:underline;color:#454545">plmgss@moe.edu.sg</span></a></td>
-<td class="tg-0lax">-</td>
 	</tr> 
 <tr>
     <td class="tg-0lax">-</td>
