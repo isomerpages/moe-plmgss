@@ -524,7 +524,7 @@ variant: markdown
   <tr>
     <td class="tg-0lax">2.3</td>
    <td class="tg-0lax"><img src="/images/Mdm%20Lim%20Terh%20Ling.jpg" alt="Mdm Lim Terh Ling.JPG" style="width:25%"><br>Mrs Neoh Terh Ling<br><a href="mailto:lim_terh_ling@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#454545">lim_terh_ling@moe.edu.sg</span></a></td>
-    <td class="tg-0lax"><img src="/images/inr.jpg" alt="Mdm Lim Terh Ling.JPG" style="width:25%"><br>Ms Kam Rachel<br><a href="mailto:rachel_kam@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#454545">rachel_kam@moe.edu.sg</span></a></td>
+    <td class="tg-0lax"><img src="/images/inr.jpg" alt="Mdm Lim Terh Ling.JPG" style="width:25%"><br>Mrs Kam Rachel<br><a href="mailto:rachel_kam@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#454545">rachel_kam@moe.edu.sg</span></a></td>
      <td class="tg-0lax">-</td>
 
   </tr>
