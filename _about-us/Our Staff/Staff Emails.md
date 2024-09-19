@@ -166,10 +166,7 @@ variant: markdown
 	<td class="tg-citn"><img src="/images/Lim Binchuan.jpg" alt="Lim Binchuan.jpg" style="width:30%"><br>Mr Lin Bin Chuan<br><a href="mailto:lin_binchuan@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#454545">lin_binchuan@moe.edu.sg</span></a><br></td>
     <td class="tg-citn">Mathematics<br></td>
   </tr>
-  <tr>
-    <td class="tg-citn"><img src="/images/Ho%20Lian%20Ya.jpg" alt="Ho Lian Ya.JPG" style="width:30%"><br>Ms Ho Lian Ya<br><a href="mailto:ho_lian_ya@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#454545">ho_lian_ya@moe.edu.sg</span></a><br></td>
-    <td class="tg-citn">Student Leadership</td>
-  </tr>
+
 
   <tr>
     <td class="tg-citn"><img src="/images/clarabelle.jpg" alt="clarabelle.jpg" style="width:30%"><br>Mrs Yeo Clarabelle<br><a href="mailto:wang_siqi_clarabelle@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#454545">wang_siqi_clarabelle@moe.edu.sg</span></a><br></td>
