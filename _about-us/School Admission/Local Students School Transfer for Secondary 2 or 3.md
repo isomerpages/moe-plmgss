@@ -3,9 +3,10 @@ title: Local Students School Transfer for Secondary 2 or 3
 permalink: /about-us/school-admission/local-students-school-transfer-for-secondary-2-or-3/
 description: ""
 third_nav_title: School Admission
+variant: markdown
 ---
-Admission to Secondary 2 or 3 are subject to availability of vacancies for the relevant level, streams and subject combination.  
-  
-Students who wish to apply to be transferred for admission to Secondary 2 or 3 must submit their application forms with the necessary supporting documents. Shortlisted applicants may need to sit for admission tests in the following subjects, English, Mother Tongue, Mathematics and Science. Admission tests, if held, are conducted in early November. Successful applicants are chosen based on merit and the availability of places.  
-  
-Download Sec 2 / 3 School Transfer [**Application Form**](/files/application%20for%20transfer%20to%20paya%20lebar%20methodist%20girls%20for%20sec%202%20or%203%20(updated).pdf). (Note: We are currently full and will not be able to accept any students.)
+**Transfer to Secondary 2 or 3**
+
+Students who wish to transfer from their current secondary school to our school at the beginning of academic year 2025 are to submit the [Application Form](/files/Application_Form_for_Transfer_to_PLMGS_Sec__Sec_2_or_3_School_Website_GQ_8_Oct_2024.pdf) with their school results for consideration by 30 October 2024.
+
+The application for transfer can only be considered if there are available vacancies. Shortlisted applicants will be informed via email and may need to sit for Placement Tests.
