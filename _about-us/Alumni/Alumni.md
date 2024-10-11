@@ -3,6 +3,7 @@ title: Alumni
 permalink: /about-us/alumni/
 description: ""
 third_nav_title: Alumni
+variant: markdown
 ---
 <table class="tg">
 <thead>
@@ -25,17 +26,25 @@ third_nav_title: Alumni
     <td class="tg-fwnj"><img alt="face_amy_quek.jpg" src="/images/Alumni2023-Ms Veronica Seetho - Honorary Treasurer.jpg" style="width:50%"><br>Ms Veronica Seetho</td>
   </tr>
   <tr>
-    <td class="tg-sdzj">Assistant Treasurer<br></td>
-    <td class="tg-fwnj"><img alt="Jean Lim.jpeg" src="/images/Alumni2023-Ms Jean Ong - Assistant Treasurer.jpg" style="width:50%"><br>Ms Jean Ong<br></td>
+    <td class="tg-sdzj">Honorary Assistant Treasurer<br></td>
+    <td class="tg-fwnj"><img alt="face_seahyanghee.jpg" src="/images/Alumni2023-Ms Gladys Goh - Co-opted committee member.jpg" style="width:50%"><br>Ms Gladys Goh<br></td>
   </tr>
   <tr>
-    <td class="tg-yvtv">Executive Committee<br></td>
-    <td class="tg-iual"><img alt="face_annieteo.jpg" src="/images/Alumni2023-Dr Amy Quek - Committee Member.jpg" style="width:50%"><br>Dr Amy Quek<br><br><img alt="face_amelia.jpg" src="/images/Alumni2023-Ms Seah Yang Hee - Committee Member.jpg" style="width:50%"><br>Ms Seah Yang Hee<br><br><img alt="face_angela.jpg" src="/images/Alumni2023-Ms Angela Tan - Committee Member.jpg" style="width:50%"><br>Ms Angela Tan<br><br><img alt="face_seebeowtuan.jpg" src="/images/Alumni2023-Ms See Beow Tuan-Committee Member.jpg" style="width:50%"><br>Ms See Beow Tuan<br><br><img alt="face_seahyanghee.jpg" src="/images/Alumni2023-Ms Amelia Champion-Committee Member.jpg" style="width:50%"><br>Ms Amelia Champion<br><br><img alt="face_seahyanghee.jpg" src="/images/Alumni2023-Ms Gladys Goh - Co-opted committee member.jpg" style="width:50%"><br>Ms Gladys Goh<br></td>
-  </tr>
-  <tr>
-    <td class="tg-sdzj">Honorary Members<br></td>
+    <td class="tg-sdzj">Honorary Committee Member<br></td>
     <td class="tg-fwnj"><img alt="face_winnietan.jpg" src="/images/Alumni2023-Mrs Winnie Tan-Honorary Member.jpg" style="width:50%"><br>Mrs Winnie Tan<br></td>
   </tr>
+	<tr>
+    <td class="tg-yvtv">Committee Members<br></td>
+    <td class="tg-iual">
+		<img alt="face_seahyanghee.jpg" src="/images/Alumni2023-Ms Amelia Champion-Committee Member.jpg" style="width:50%"><br>Ms Amelia Champion<br><br>
+			<img src="/images/Alumni2023-Ms Amelia Champion-Committee Member.jpg" style="width:50%"><br>Ms Joy Chia<br><br>
+			<img alt="face_angela.jpg" src="/images/Alumni2023-Ms Angela Tan - Committee Member.jpg" style="width:50%"><br>Ms Angela Tan<br><br>
+			<img alt="face_seahyanghee.jpg" src="/images/Alumni2023-Ms Amelia Champion-Committee Member.jpg" style="width:50%"><br>Ms Ginny Tan<br><br>
+			<img alt="face_seebeowtuan.jpg" src="/images/Alumni2023-Ms See Beow Tuan-Committee Member.jpg" style="width:50%"><br>Ms See Beow Tuan<br><br>
+			<img alt="face_annieteo.jpg" src="/images/Alumni2023-Dr Amy Quek - Committee Member.jpg" style="width:50%"><br>Dr Amy Quek<br>
+</td>
+  </tr>
+  
   <tr>
     <td class="tg-yvtv">Honorary Auditor<br></td>
     <td class="tg-yvtv">Ms Joyce Goh<br></td>
