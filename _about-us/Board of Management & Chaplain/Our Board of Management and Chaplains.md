@@ -37,12 +37,12 @@ variant: markdown
 ### Members
 
 <figure>
-<img src="/images/Rev%20David%20Koh.jpg" style="width:40%">
+<img src="/images/Rev_David_Koh.jpg" style="width:40%">
 <figcaption>Rev David Koh</figcaption>
 </figure>
 
 <figure>
-<img src="/images/Rev_Dr_Kow_Shih_Ming.jpg" style="width:40%">
+<img src="/images/Rev_Dr_Kow_Shih_Ming2.jpg" style="width:40%">
 <figcaption>Rev Kow Shih Ming</figcaption>
 </figure>
 
