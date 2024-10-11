@@ -37,9 +37,9 @@ variant: markdown
     <td class="tg-yvtv">Committee Members<br></td>
     <td class="tg-iual">
 		<img alt="face_seahyanghee.jpg" src="/images/Alumni2023-Ms Amelia Champion-Committee Member.jpg" style="width:50%"><br>Ms Amelia Champion<br><br>
-			<img src="/images/Alumni2023-Ms Amelia Champion-Committee Member.jpg" style="width:50%"><br>Ms Joy Chia<br><br>
+			<img src="/images/inr2.jpg" style="width:50%"><br>Ms Joy Chia<br><br>
 			<img alt="face_angela.jpg" src="/images/Alumni2023-Ms Angela Tan - Committee Member.jpg" style="width:50%"><br>Ms Angela Tan<br><br>
-			<img alt="face_seahyanghee.jpg" src="/images/Alumni2023-Ms Amelia Champion-Committee Member.jpg" style="width:50%"><br>Ms Ginny Tan<br><br>
+			<img alt="face_seahyanghee.jpg" src="/images/inr2.jpg" style="width:50%"><br>Ms Ginny Tan<br><br>
 			<img alt="face_seebeowtuan.jpg" src="/images/Alumni2023-Ms See Beow Tuan-Committee Member.jpg" style="width:50%"><br>Ms See Beow Tuan<br><br>
 			<img alt="face_annieteo.jpg" src="/images/Alumni2023-Dr Amy Quek - Committee Member.jpg" style="width:50%"><br>Dr Amy Quek<br>
 </td>
