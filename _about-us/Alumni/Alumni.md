@@ -3,50 +3,59 @@ title: Alumni
 permalink: /about-us/alumni/
 description: ""
 third_nav_title: Alumni
+variant: markdown
 ---
 <table class="tg">
 <thead>
   <tr>
     <th class="tg-fwnj"><span style="font-weight:normal">President</span></th>
-    <th class="tg-fwnj"><img alt="face_sulynn.jpg" src="/images/Alumni2023-Ms Lim Su-Lynn-President.jpg" style="width:50%"><br><span style="font-weight:normal">Mrs Quahe-Lim Su-Lynn</span><br></th>
+    <th class="tg-fwnj"><img alt="face_sulynn.jpg" src="/images/alu24_01.jpg" style="width:50%"><br><span style="font-weight:normal">Mrs Quahe-Lim Su-Lynn</span><br></th>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td class="tg-yvtv">Vice President<br></td>
-    <td class="tg-iual"><img alt="face_tanchorhiang.jpg" src="/images/Alumni2023-Dr Tan Chor Hiang-Vice-President.jpg" style="width:50%"><br>Dr Tan Chor Hiang<br></td>
+    <td class="tg-iual"><img alt="face_tanchorhiang.jpg" src="/images/alu24_02.jpg" style="width:50%"><br>Dr Tan Chor Hiang<br></td>
   </tr>
   <tr>
     <td class="tg-sdzj">Honorary Secretary                                                <br></td>
-    <td class="tg-fwnj"><img alt="face_amy_quek.jpg" src="/images/Alumni2023-Ms Catherine Foo - Honorary Secretary.jpg" style="width:50%"><br>Ms Catherine Foo</td>
+    <td class="tg-fwnj"><img alt="face_amy_quek.jpg" src="/images/alu24_03.jpg" style="width:50%"><br>Ms Catherine Foo</td>
   </tr>
   <tr>
     <td class="tg-yvtv">Honorary Treasurer<br></td>
-    <td class="tg-fwnj"><img alt="face_amy_quek.jpg" src="/images/Alumni2023-Ms Veronica Seetho - Honorary Treasurer.jpg" style="width:50%"><br>Ms Veronica Seetho</td>
+    <td class="tg-fwnj"><img alt="face_amy_quek.jpg" src="/images/alu24_04.jpg" style="width:50%"><br>Ms Veronica Seetho</td>
   </tr>
   <tr>
-    <td class="tg-sdzj">Assistant Treasurer<br></td>
-    <td class="tg-fwnj"><img alt="Jean Lim.jpeg" src="/images/Alumni2023-Ms Jean Ong - Assistant Treasurer.jpg" style="width:50%"><br>Ms Jean Ong<br></td>
+    <td class="tg-sdzj">Honorary Assistant Treasurer<br></td>
+    <td class="tg-fwnj"><img alt="face_seahyanghee.jpg" src="/images/alu24_05.jpg" style="width:50%"><br>Ms Gladys Goh<br></td>
   </tr>
   <tr>
-    <td class="tg-yvtv">Executive Committee<br></td>
-    <td class="tg-iual"><img alt="face_annieteo.jpg" src="/images/Alumni2023-Dr Amy Quek - Committee Member.jpg" style="width:50%"><br>Dr Amy Quek<br><br><img alt="face_amelia.jpg" src="/images/Alumni2023-Ms Seah Yang Hee - Committee Member.jpg" style="width:50%"><br>Ms Seah Yang Hee<br><br><img alt="face_angela.jpg" src="/images/Alumni2023-Ms Angela Tan - Committee Member.jpg" style="width:50%"><br>Ms Angela Tan<br><br><img alt="face_seebeowtuan.jpg" src="/images/Alumni2023-Ms See Beow Tuan-Committee Member.jpg" style="width:50%"><br>Ms See Beow Tuan<br><br><img alt="face_seahyanghee.jpg" src="/images/Alumni2023-Ms Amelia Champion-Committee Member.jpg" style="width:50%"><br>Ms Amelia Champion<br><br><img alt="face_seahyanghee.jpg" src="/images/Alumni2023-Ms Gladys Goh - Co-opted committee member.jpg" style="width:50%"><br>Ms Gladys Goh<br></td>
+    <td class="tg-sdzj">Honorary Committee Member<br></td>
+    <td class="tg-fwnj"><img alt="face_winnietan.jpg" src="/images/alu24_06.jpg" style="width:50%"><br>Mrs Winnie Tan<br></td>
   </tr>
-  <tr>
-    <td class="tg-sdzj">Honorary Members<br></td>
-    <td class="tg-fwnj"><img alt="face_winnietan.jpg" src="/images/Alumni2023-Mrs Winnie Tan-Honorary Member.jpg" style="width:50%"><br>Mrs Winnie Tan<br></td>
+	<tr>
+    <td class="tg-yvtv">Committee Members<br></td>
+    <td class="tg-iual">
+		<img alt="face_seahyanghee.jpg" src="/images/alu24_07.jpg" style="width:50%"><br>Ms Amelia Champion<br><br>
+			<img src="/images/alu24_08.jpg" style="width:50%"><br>Ms Joy Chia<br><br>
+			<img src="/images/alu24_09.jpg" style="width:50%"><br>Ms Angela Tan<br><br>
+			<img alt="face_seahyanghee.jpg" src="/images/alu24_10.jpg" style="width:50%"><br>Ms Ginny Tan<br><br>
+			<img alt="face_seebeowtuan.jpg" src="/images/alu24_11.jpg" style="width:50%"><br>Ms See Beow Tuan<br><br>
+			<img alt="face_annieteo.jpg" src="/images/alu24_12.jpg" style="width:50%"><br>Dr Amy Quek<br>
+</td>
   </tr>
+  
   <tr>
     <td class="tg-yvtv">Honorary Auditor<br></td>
     <td class="tg-yvtv">Ms Joyce Goh<br></td>
   </tr>
   <tr>
     <td class="tg-sdzj">School Representatives (PLMGS Primary)<br></td>
-    <td class="tg-sdzj">Mrs Joyce Ang<br></td>
+    <td class="tg-sdzj"><img alt="amy_ng2.jpg" src="/images/Mrs_Joyce_Ang.jpg" style="width:50%"><br>Mrs Joyce Ang<br></td>
   </tr>
   <tr>
     <td class="tg-yvtv">School Representatives (PLMGS Secondary)<br></td>
-    <td class="tg-iual"><img alt="amy_ng2.jpg" src="/images/amy_ng2-1.jpg" style="width:50%"><br>Ms Amy Ng</td>
+    <td class="tg-iual"><img alt="amy_ng2.jpg" src="/images/Ms_Amy_Ng.jpg" style="width:50%"><br>Ms Amy Ng</td>
   </tr>
 </tbody>
 </table>
