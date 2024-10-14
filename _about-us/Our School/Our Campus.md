@@ -3,18 +3,19 @@ title: Our Campus
 permalink: /about-us/our-school/our-campus/
 description: ""
 third_nav_title: Our School
+variant: markdown
 ---
 ### PL Facilities
 
 Our School’s facilities is constantly being refreshed and upgraded to serve the students better and it also creates a more conducive environment for both the staff and students of the school.  
   
-Our facilities include a 771 seat air-conditioned Agape Concert Hall (ACH). This concert hall is used to hold student performances regularly. The ACH is also available for lease and the rental fee is reflected in the link provided: [Agape Hall Rental](https://plmgss.moe.edu.sg/partners/agape-concert-hall)
+Our facilities include a 771 seat air-conditioned Agape Concert Hall (ACH). This concert hall is used to hold student performances regularly. The ACH is also available for lease and the rental fee is reflected in the link provided:&nbsp;[Agape Hall Rental](https://www.plmgss.moe.edu.sg/about-us/agape-concert-hall/)
 
 ![](/images/campus01.jpg)
 ![](/images/campus02.jpg)
 ![](/images/campus03.jpg)
 
-Other facilities include an air-conditioned Gymnasium, a School Family Education cum Alumni Room, a Dance Studio, 4 Music Rooms, 2 Art Rooms, 2 Kitchens, 6 Science Labs, a D & T Workshop, a covered Parade Square, 2 Netball Courts in the PL Track, a roof-top Basketball/ Tennis Courts and a Counselling Room, an air-conditioned Multi-purpose Hall, Canteen, 2 AV Theatrettes, glass-walled Library, 4 Computer Labs, a General Office, Staff Room and HOD Room, IT Resource Room, Career Guidance Room, Classrooms and CCA Rooms.  
+Other facilities include an air-conditioned Gymnasium, a School Family Education cum Alumni Room, a Dance Studio, 4 Music Rooms, 2 Art Rooms, 2 Kitchens, 6 Science Labs, a D &amp; T Workshop, a covered Parade Square, 2 Netball Courts in the PL Track, a roof-top Basketball/ Tennis Courts and a Counselling Room, an air-conditioned Multi-purpose Hall, Canteen, 2 AV Theatrettes, glass-walled Library, 4 Computer Labs, a General Office, Staff Room and HOD Room, IT Resource Room, Career Guidance Room, Classrooms and CCA Rooms.  
   
 All facilities aim to provide PL-Lites with more opportunities to be exposed to the various forms of activities that are commonly held in the school.  
   
