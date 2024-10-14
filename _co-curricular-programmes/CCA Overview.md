@@ -42,29 +42,29 @@ CCA consist of the following Core Activities & Interest Groups:
 
 **a. Sports & Games**
 
-*   [School Badminton Team](https://staging.d31lf6q9623hn3.amplifyapp.com/co-curricular-programmes/sports-and-games/school-badminton-team)
-*   [School Netball Team](https://staging.d31lf6q9623hn3.amplifyapp.com/co-curricular-programmes/sports-and-games/school-netball-team)
-*   [School Rhythmic Gymnastics Team](https://staging.d31lf6q9623hn3.amplifyapp.com/co-curricular-programmes/sports-and-games/school-rhythmic-gymnastics-team)
-*   [School Swimming Team](https://staging.d31lf6q9623hn3.amplifyapp.com/co-curricular-programmes/sports-and-games/school-swimming-team)
-*   [School Table Tennis Team](https://staging.d31lf6q9623hn3.amplifyapp.com/co-curricular-programmes/sports-and-games/school-table-tennis-team)
-*   [School Track and Field Team](https://staging.d31lf6q9623hn3.amplifyapp.com/co-curricular-programmes/sports-and-games/school-track-and-field-team)
-*   [School Volleyball Team](https://staging.d31lf6q9623hn3.amplifyapp.com/co-curricular-programmes/sports-and-games/school-volleyball-team)
+*   [School Badminton Team](https://www.plmgss.moe.edu.sg/co-curricular-programmes/sports-and-games/school-badminton-team)
+*   [School Netball Team](https://www.plmgss.moe.edu.sg/co-curricular-programmes/sports-and-games/school-netball-team)
+*   [School Rhythmic Gymnastics Team](https://www.plmgss.moe.edu.sg/co-curricular-programmes/sports-and-games/school-rhythmic-gymnastics-team)
+*   [School Swimming Team](https://www.plmgss.moe.edu.sg/co-curricular-programmes/sports-and-games/school-swimming-team)
+*   [School Table Tennis Team](https://www.plmgss.moe.edu.sg/co-curricular-programmes/sports-and-games/school-table-tennis-team)
+*   [School Track and Field Team](https://www.plmgss.moe.edu.sg/co-curricular-programmes/sports-and-games/school-track-and-field-team)
+*   [School Volleyball Team](https://www.plmgss.moe.edu.sg/co-curricular-programmes/sports-and-games/school-volleyball-team)
 
   
 
 **b. Uniformed Youth Organisations**
 
-*   [Girls' Brigade](https://staging.d31lf6q9623hn3.amplifyapp.com/co-curricular-programmes/uniform-groups/girls-brigade)
-*   [National Police Cadet Corps](https://staging.d31lf6q9623hn3.amplifyapp.com/co-curricular-programmes/uniform-groups/national-police-cadet-corps)
-*   [St John Brigade](https://staging.d31lf6q9623hn3.amplifyapp.com/co-curricular-programmes/uniform-groups/st-john-brigade)
+*   [Girls' Brigade](https://www.plmgss.moe.edu.sg/co-curricular-programmes/uniform-groups/girls-brigade)
+*   [National Police Cadet Corps](https://www.plmgss.moe.edu.sg/co-curricular-programmes/uniform-groups/national-police-cadet-corps)
+*   [St John Brigade](https://www.plmgss.moe.edu.sg/co-curricular-programmes/uniform-groups/st-john-brigade)
 
   
 
 **c. Performing Arts**
 
-*   [Chinese Drama (D'Arts)](https://staging.d31lf6q9623hn3.amplifyapp.com/co-curricular-programmes/performing-arts/chinese-drama-darts)  
+*   [Chinese Drama (D'Arts)](https://www.plmgss.moe.edu.sg/co-curricular-programmes/performing-arts/chinese-drama-darts)  
     
-*   [Choir](https://staging.d31lf6q9623hn3.amplifyapp.com/co-curricular-programmes/performing-arts/choir)  
+*   [Choir](https://www.plmgss.moe.edu.sg/co-curricular-programmes/performing-arts/choir)  
     
 *   [Concert Band](https://www.plmgss.moe.edu.sg/co-curricular-programmes/performing-arts/concert-band)
 *   [English Drama](https://www.plmgss.moe.edu.sg/co-curricular-programmes/performing-arts/english-drama)
