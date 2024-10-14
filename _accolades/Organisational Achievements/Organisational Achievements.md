@@ -125,7 +125,6 @@ The SEC-StarHub School Green Awards (SGA) is a self-audited voluntary environmen
 </table>
 
 
-For more information, please refer to&nbsp;[https://sec.org.sg/sga/awards-criteria/](https://sec.org.sg/sga/awards-criteria/)
 
 **2017 - Sembcorp Go Green Fund 2017 - Secondary School / Tertiary Category**
 
@@ -186,7 +185,7 @@ The Building and Construction Authority (BCA) has worked closely with the Minist
 
 ![](/images/lotus01.png)
 
-The SEC-StarHub School Green Awards (SGA) is a self-audited voluntary environmental programme which serves as a platform for students to develop and showcase their environmental efforts, through customised activities which will help them gain better understanding of the environment. (source:&nbsp;[https://www.sec.org.sg/sga/about-sga.php](https://www.sec.org.sg/sga/about-sga.php))
+The SEC-StarHub School Green Awards (SGA) is a self-audited voluntary environmental programme which serves as a platform for students to develop and showcase their environmental efforts, through customised activities which will help them gain better understanding of the environment.
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
