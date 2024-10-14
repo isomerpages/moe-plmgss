@@ -3,6 +3,7 @@ title: Student Awards
 permalink: /accolades/student-awards/
 description: ""
 third_nav_title: Student Awards
+variant: markdown
 ---
 ### NYP E-Science and Technology Challenge 2021
 
@@ -420,7 +421,7 @@ Well done! To God Be The Glory!
 
 <img src="/images/VAS_U16_Volleyball.jpg" style="width:80%">
 		 
-Our volleyball girls came in at the 2nd Runner Up placing in VAS National U16 Volleyball Championship 2017 held on 24 Nov 2017 at Hougang Sports Hall . Read more at&nbsp;[https://www.vas.org.sg/vasu16-2017](https://www.vas.org.sg/vasu16-2017). Well done, team PL. To God be the Glory!
+Our volleyball girls came in at the 2nd Runner Up placing in VAS National U16 Volleyball Championship 2017 held on 24 Nov 2017 at Hougang Sports Hall .  Well done, team PL. To God be the Glory!
 
 ### World Robot Games 2017
 
@@ -450,7 +451,7 @@ To God be the Glory!
 
 ![](/images/SDMA%202017%20prize%20winners.jpg)
 
-Representing the Media and Information Technology Club, Jamie Ho Pei Qi (Sec 3A1), Leong Yiling (Sec 3A1) and Chloe Lee Ying Xuan (Sec 3A2)&nbsp; clinched the Merit Award in the the Schools Digital Media Awards 2017 with their photo essay, 'Moribund: a dying state'. Their award-winning photo essay explored the dying trades of Singapore; those that are vanishing and fading with time. It captured the older generation's passion for their line of work, and their determination to keep the trade alive for as long as possible. Follow&nbsp;[this link](https://sdma.moe.edu.sg/cos/o.x?ptid=588&amp;c=/sdma/sdma_gal&amp;func=view&amp;rid=4494)&nbsp;to view their photo essay.  
+Representing the Media and Information Technology Club, Jamie Ho Pei Qi (Sec 3A1), Leong Yiling (Sec 3A1) and Chloe Lee Ying Xuan (Sec 3A2)&nbsp; clinched the Merit Award in the the Schools Digital Media Awards 2017 with their photo essay, 'Moribund: a dying state'. Their award-winning photo essay explored the dying trades of Singapore; those that are vanishing and fading with time. It captured the older generation's passion for their line of work, and their determination to keep the trade alive for as long as possible. 
 
   
 
@@ -1260,35 +1261,32 @@ The school congratulates Cheok Xin Rong Isabelle (Sec 2.5) and Ngia Jin Yi Lucia
   
 ### National Inter-School Archery Championship
 
-<img src="/images/sept2016_laura_lee_sm.jpg" 
-     style="width:60%">
+<img src="/images/sept2016_laura_lee_sm.jpg" style="width:60%">
 		 
-The school congratulates Laura Lee (4B2) on clinching the 2nd prize in the at the National Inter-School Archery Championship. She took part in the 'B' Division Individual Recurve Women Category  
+The school congratulates&nbsp;Laura&nbsp;Lee (4B2) on clinching the 2nd prize in the at the National Inter-School Archery Championship. She took part in the 'B' Division Individual Recurve Women Category  
   
-### Zoey Ho receives Colours Award by SSSC
+### Zoey&nbsp;Ho receives Colours Award by SSSC
 
-<img src="/images/sept2016_zoe_ho_sm.jpg" 
-     style="width:60%">
+<img src="/images/sept2016_zoe_ho_sm.jpg" style="width:60%">
 		 
-The school congratulates Zoey Ho on receiving the Colours Award conferred by the Singapore Schools Sports Council in recognition of her achievements in swimming.
+The school congratulates&nbsp;Zoey&nbsp;Ho on receiving the Colours Award conferred by the Singapore Schools Sports Council in recognition of her achievements in swimming.
 
   
 ### NKF Photography Contest 2016 “Love Your Kidneys: Get Healthy, Love Life” Vote for our PL-Lites!
 
-Our PL-Lites participated in The NKF Photography Contest 2016 **“Love Your Kidneys: Get Healthy, Love Life”** and two of their entries were among the top 10!
+Our PL-Lites participated in The NKF Photography Contest 2016&nbsp;**“Love Your Kidneys: Get Healthy, Love Life”**&nbsp;and two of their entries were among the top 10!
 
-<img src="/images/NKF%20Photography%20contest.png" 
-     style="width:60%">
+<img src="/images/NKF%20Photography%20contest.png" style="width:60%">
 		 
-This contest provided our students with an opportunity to express their imagination and creativity by taking a photo that inspires others to get healthy and love life. 
+This contest provided our students with an opportunity to express their imagination and creativity by taking a photo that inspires others to get healthy and love life.&nbsp;
 
   
 
-Let us celebrate this wonderful honour with our friends and support them through voting for their works at the NKF exhibition. The public vote will account for 20% of the final judging process. 
+Let us celebrate this wonderful honour with our friends and support them through voting for their works at the NKF exhibition. The public vote will account for 20% of the final judging process.&nbsp;
 
   
 
-Well done, girls! 
+Well done, girls!&nbsp;
 
   
 
@@ -1296,7 +1294,7 @@ Well done, girls! 
 
 ![](/images/ASEAN_SCHOOLS_GAMES_2016.jpg)
 
-Zoey Ho (4A1) represented Singapore schools in the 5th ASIAN Schools Swimming Championships 2016 will be held in Palembang, Indonesia from 24 to 31 May 2016 and the 8th ASEAN Schools Games in Chiang Mai, Thailand from 21 to 29 July 2016. 
+Zoey Ho (4A1) represented Singapore schools in the 5th ASIAN Schools Swimming Championships 2016 will be held in Palembang, Indonesia from 24 to 31 May 2016 and the 8th ASEAN Schools Games in Chiang Mai, Thailand from 21 to 29 July 2016.&nbsp;
 
   
 
@@ -1304,75 +1302,75 @@ Zoey Ho (4A1) represented Singapore schools in the 5th ASIAN Schools Swimming Ch
 
 ![](/images/guitar%20ensemble.png)
 
-The school congratulates the PLMGS (Sec) Guitar Ensemble for achieving the highest score of 96/100 at the Victoria College Music Guitar Ensemble Examination 2016, held on 23 April 2016 at the RELC Auditorium. 
+The school congratulates the PLMGS (Sec) Guitar Ensemble for achieving the highest score of 96/100 at the Victoria College Music Guitar Ensemble Examination 2016, held on 23 April 2016 at the RELC Auditorium.&nbsp;
 
   
 
 ### 2016 Singapore Maths Project Festival
 
-Mentored by our own teachers, PL’s ACE (Maths team) 3 Maths research projects have been awarded Honourable Mention in the 2016 Singapore Maths Project Festival competition held in Aug 2016. 
+Mentored by our own teachers, PL’s ACE (Maths team) 3 Maths research projects have been awarded Honourable Mention in the 2016 Singapore Maths Project Festival competition held in Aug 2016.&nbsp;
 
   
 
-Our ACE (Maths) students participarted in this year Singapore Mathematics Project Festival organised by Singapore Mathematics Society in Jan~March. 
+Our ACE (Maths) students participarted in this year Singapore Mathematics Project Festival organised by Singapore Mathematics Society in Jan~March.&nbsp;
 
   
 
-We've participated in both Junior Category (1 Lower Sec team) & Senior Category (2 Upper Sec teams). 
+We've participated in both Junior Category (1 Lower Sec team) &amp; Senior Category (2 Upper Sec teams).&nbsp;
 
-We're overjoyed that our all 3 research projects have been awarded Honourable Mention in this competition. 
+We're overjoyed that our all 3 research projects have been awarded Honourable Mention in this competition.&nbsp;
 
-This competition is really very high level and this is the 1st time in history that all projects won = ) PTL!!! 
-
-  
-
-The winning Maths research are: 
-
-Senior Category - (led by Miss Kok Lai Fong) 
-
-"I'm not Small" by Sec 4ACE (Cheyenne Jan Lee, Liang Jing, Nicolette Lau Jia Wen & Sim Lee Ting) 
-
-"Selfie Syndrome" by Sec 4ACE (Angela Tan Jia Yi, Naomi Faustina Limarno, Shuan Ye Ru Nicole & Wong Min Hui) 
+This competition is really very high level and this is the 1st time in history that all projects won = ) PTL!!!&nbsp;
 
   
 
-Junior Category - (Led by Mr Wong Khai Yu) 
+The winning Maths research are:&nbsp;
 
-"Making Impossible Problems Possible" by Sec 3ACE (Amanda Tan Yu En, Fong Chuyi, Raeanne, Lim Kai En & Pheobe Eyo Zhi Qing) 
+Senior Category&nbsp;- (led by Miss Kok Lai Fong)&nbsp;
+
+"I'm not Small" by Sec 4ACE (Cheyenne Jan Lee, Liang Jing, Nicolette Lau Jia Wen &amp; Sim Lee Ting)&nbsp;
+
+"Selfie Syndrome" by Sec 4ACE (Angela Tan Jia Yi, Naomi Faustina Limarno, Shuan Ye Ru Nicole &amp; Wong Min Hui)&nbsp;
 
   
 
-To God be the Glory 
+Junior Category&nbsp;- (Led by Mr Wong Khai Yu)&nbsp;
+
+"Making Impossible Problems Possible" by Sec 3ACE (Amanda Tan Yu En, Fong Chuyi, Raeanne, Lim Kai En &amp; Pheobe Eyo Zhi Qing)&nbsp;
+
+  
+
+To God be the Glory&nbsp;
 
   
 
 ### A*STAR Science Award 2016
 
-Deborah Victoria Poon (3A1) and Phoebe Eyo Zhi Qing (3A1) have been selected as the 2016 A\*STAR Science Awardees (Upper Sec). They are given a chance to work with A8STAR to aspire towards future studies and careers in R&D and to develop their interest in Science to the fullest potential. 
+Deborah Victoria Poon (3A1) and Phoebe Eyo Zhi Qing (3A1) have been selected as the 2016 A\*STAR Science Awardees (Upper Sec). They are given a chance to work with A8STAR to aspire towards future studies and careers in R&amp;D and to develop their interest in Science to the fullest potential.&nbsp;
 
   
 
 ### SPF-NPCC badge 2016
 
-Chiu Weina (4A4) and Ho Wan Ting Rachel (4B1) were awarded the SPF-NPCC Badge. This is the pinnacle award that cadets can look forward to achieving. The objective of awarding the SPF-NPCC badge to cadets is to identify and recognise outstanding cadets with good leadership qualities. The presentation ceremony was held on 1 April 2016 at the Home Team Academy. 
+Chiu Weina (4A4) and Ho Wan Ting Rachel (4B1) were awarded the SPF-NPCC Badge. This is the pinnacle award that cadets can look forward to achieving. The objective of awarding the SPF-NPCC badge to cadets is to identify and recognise outstanding cadets with good leadership qualities. The presentation ceremony was held on 1 April 2016 at the Home Team Academy.&nbsp;
 
   
 
 ### Voice Up Challenge 2016
 
-Isabel Ang (2.6B), Casey Lim (2.4), Jaslyn Ng (2.1) and Rachel Sng (2.2) made it to the finals in the Voice Up Challenge 2016 organised by Innova JC. 
+Isabel Ang (2.6B), Casey Lim (2.4), Jaslyn Ng (2.1) and Rachel Sng (2.2) made it to the finals in the Voice Up Challenge 2016 organised by Innova JC.&nbsp;
 
   
 
 ### 2016 EZ Music Competition Audition
 
-Claris Ang Kyle Xin (3A1) has been selected to be a finalist in the 2016 EZ Music Competition Audition organized by East Zone Centre of Excellence for Creative Arts –Music Satellite@ Pasir Ris Crest Secondary School in Jul 2016. 
+Claris Ang Kyle Xin (3A1) has been selected to be a finalist in the 2016 EZ Music Competition Audition organized by East Zone Centre of Excellence for Creative Arts –Music Satellite@ Pasir Ris Crest Secondary School in Jul 2016.&nbsp;
 
   
 
 ### St John Ambulance Chief Commissioner’s Badge 2016
 
-15 of our St John Brigadiers were awarded the Chief Commissioner’s Badge, as part of the Cadet Proficiency Badge Scheme (CPBS) in April 2016. The Chief Commissioner's Badge is the highest award for a cadet in St John. 
+15 of our St John Brigadiers were awarded the Chief Commissioner’s Badge, as part of the Cadet Proficiency Badge Scheme (CPBS) in April 2016. The Chief Commissioner's Badge is the highest award for a cadet in St John.&nbsp;
 
   
 
@@ -1380,45 +1378,44 @@ Claris Ang Kyle Xin (3A1) has been selected to be a finalist in the 2016 EZ Musi
 
 ![](/images/wrg2016.png)
 
-The World Robot Games 2016 Singapore being the first of its kind in Singapore, promotes Science, Technology, Electrical & Mechanical Engineering and the Arts. This event provides the platform where participants pit their wits against one another, design and test their robotic creations in 3 different games, SUMOROBOT, LINE TRACING, and SEARCH & RESCUE. WRG 2016 theme focuses on "DISASTER RECOVERY". Teams will be challenged to design robots to search and rescue victims in a disaster situation. Winning Teams of WRG Singapore 2016 will also get to represent Singapore to compete in the WRG 2016 International, Indonesia (Bandung) in August. 
+The World Robot Games 2016 Singapore being the first of its kind in Singapore, promotes Science, Technology, Electrical &amp; Mechanical Engineering and the Arts. This event provides the platform where participants pit their wits against one another, design and test their robotic creations in 3 different games, SUMOROBOT, LINE TRACING, and SEARCH &amp; RESCUE. WRG 2016 theme focuses on "DISASTER RECOVERY". Teams will be challenged to design robots to search and rescue victims in a disaster situation. Winning Teams of WRG Singapore 2016 will also get to represent Singapore to compete in the WRG 2016 International, Indonesia (Bandung) in August.&nbsp;
 
   
 
 We are proud to announce that one team comprising of Woo Jie Lyn of Sec 3A2 and Esther Chan of Sec 2.3 clinched the Bronze Award in Line Tracing Secondary School Category. For Search and Rescue Secondary School Category, Ling Yin and Wee Chun Hui of 3A1 achieved the Silver Award while Tan Jia Min of 3A1 and Julia Chacko of 3A3 attained the Gold Award. Congratulations to all the robotic teams of PLMGSS!
 
 
-<img src="/images/letter_of_congratulations_WRGS2016.jpg" 
-     style="width:60%">
+<img src="/images/letter_of_congratulations_WRGS2016.jpg" style="width:60%">
 		 
-**Students' Reflections:** 
+**Students' Reflections:**&nbsp;
 
-“In this competition, our robot had quite a few breakdowns. During the competition itself, the unit faced tough competitions from other competitors. Through teamwork, communication and tolerance, we all managed to pull through, and that is really worth all the effort.”  <br>
-**_Wee Chun Hui, 3A1_** 
-
-  
-
-“I feel that participating in this year’s World Robotics Games was definitely an enriching opportunity as I felt that it trained myself mentally and physically into adapting to different changes as well as new challenges to solve. I have learnt a lot from this experience and it has been a great learning opportunity.”  <br>
-**_Lee Wen, 3A4_** 
+“In this competition, our robot had quite a few breakdowns. During the competition itself, the unit faced tough competitions from other competitors. Through teamwork, communication and tolerance, we all managed to pull through, and that is really worth all the effort.”&nbsp; <br>
+**_Wee Chun Hui, 3A1_**&nbsp;
 
   
 
-“During the two days of the competition we met with many setbacks such as the wheels of the robot falling off or the screws coming lose on various parts of the robot. However, this competition has allowed me to be closer with my team mate, Chun Hui and exposed us to different forms of robotic technologies. When we first walked in for practice, many people from other schools, including parents and teachers looked at us, probably in disbelief. However, as we practiced and got the hang of things together with teamwork and communication, we eventually managed to emerge victorious and made our mark. The sense of satisfaction and euphoria that we felt when we finished the task was truly amazing. The experience has also taught me that nothing is impossible if you set your heart and mind to accomplishing it.”  <br>
-**_Ling Yin, 3A1_** 
+“I feel that participating in this year’s World Robotics Games was definitely an enriching opportunity as I felt that it trained myself mentally and physically into adapting to different changes as well as new challenges to solve. I have learnt a lot from this experience and it has been a great learning opportunity.”&nbsp; <br>
+**_Lee Wen, 3A4_**&nbsp;
 
   
 
-“This competition was a thrilling one compared to previous competitions our robotics unit had participated in. We entered this competition fully prepared but not knowing what the main challenges are. Though some problems came up on the competition day itself, we were able to fix them. Can't wait for our next competition to show other schools that our school can do robotics.”  <br>
-**_Woo Jie Lyn, 3A2_** 
+“During the two days of the competition we met with many setbacks such as the wheels of the robot falling off or the screws coming lose on various parts of the robot. However, this competition has allowed me to be closer with my team mate, Chun Hui and exposed us to different forms of robotic technologies. When we first walked in for practice, many people from other schools, including parents and teachers looked at us, probably in disbelief. However, as we practiced and got the hang of things together with teamwork and communication, we eventually managed to emerge victorious and made our mark. The sense of satisfaction and euphoria that we felt when we finished the task was truly amazing. The experience has also taught me that nothing is impossible if you set your heart and mind to accomplishing it.”&nbsp; <br>
+**_Ling Yin, 3A1_**&nbsp;
 
   
 
-“As this is my first competition in robotics, I feel very honoured to be selected for participation. The competition gave me a lot of experience and I felt very happy having contributed my best. There were also challenges we faced. We struggled with the speed and tuning of the line tracer. Through this competition, I learnt that teamwork and sportsmanship is very important. Thank you PLMGSS for this experience!” <br>
-**_Angel Yip, 1.2_** 
+“This competition was a thrilling one compared to previous competitions our robotics unit had participated in. We entered this competition fully prepared but not knowing what the main challenges are. Though some problems came up on the competition day itself, we were able to fix them. Can't wait for our next competition to show other schools that our school can do robotics.”&nbsp; <br>
+**_Woo Jie Lyn, 3A2_**&nbsp;
 
   
 
-“I really enjoyed participating in WRG Singapore as it was a new experience for me. During the competition itself I learnt a lot about teamwork as my partner, Jia Min, and I had to work closely together to ensure that our robot could complete all challenges. I’m really glad I had the chance to take part in this competition along with the rest of the PL Robotics Unit!”  <br>
-**_Julia, 3A3_** 
+“As this is my first competition in robotics, I feel very honoured to be selected for participation. The competition gave me a lot of experience and I felt very happy having contributed my best. There were also challenges we faced. We struggled with the speed and tuning of the line tracer. Through this competition, I learnt that teamwork and sportsmanship is very important. Thank you PLMGSS for this experience!”&nbsp;<br>
+**_Angel Yip, 1.2_**&nbsp;
+
+  
+
+“I really enjoyed participating in WRG Singapore as it was a new experience for me. During the competition itself I learnt a lot about teamwork as my partner, Jia Min, and I had to work closely together to ensure that our robot could complete all challenges. I’m really glad I had the chance to take part in this competition along with the rest of the PL Robotics Unit!”&nbsp; <br>
+**_Julia, 3A3_**&nbsp;
 
   
 
@@ -1426,14 +1423,14 @@ We are proud to announce that one team comprising of Woo Jie Lyn of Sec 3A2 and 
 
 ![](/images/iChef.png)
 
-The NFS unit participated in this year’s ichef competition which was organised by Republic Polytechnic. A total of 3 teams from our PLMGSS participated in the above competition. The teams had to undergo 2 challenges, the first challenge was to create a fusion bento box lunch presentation and the other was to do a menu design for a Café in the qualifying round. A total of 108 teams from various schools participated in the qualifying round. One of our 3 teams, “PL Angels” qualified for the finals. In the finals the teams were to prepare 5 different types of Butler Passed Canapes featuring ingredients from the East to the West ends of the globe. The team practiced hard for the finals and worked diligently to present the canapes attractively. “PL Angels” came in 4 th place in this competition. 
+The NFS unit participated in this year’s ichef competition which was organised by Republic Polytechnic. A total of 3 teams from our PLMGSS participated in the above competition. The teams had to undergo 2 challenges, the first challenge was to create a fusion bento box lunch presentation and the other was to do a menu design for a Café in the qualifying round. A total of 108 teams from various schools participated in the qualifying round. One of our 3 teams, “PL Angels” qualified for the finals. In the finals the teams were to prepare 5 different types of Butler Passed Canapes featuring ingredients from the East to the West ends of the globe. The team practiced hard for the finals and worked diligently to present the canapes attractively. “PL Angels” came in 4&nbsp;th&nbsp;place in this competition.&nbsp;
 
   
 
 **Students' Reflections:***
 
-“The subject, Food and Nutrition, motivated us to cook different types of food. We are inspired and challenged to cook different type of interesting food. The creation of the menu, the process of brainstorming for the bento box and the workshops that we attended during the first round of competition had given us an eye opening experience. We never knew food can be infused and created in such a way. Through this competition we learned that teamwork and communication skills are important life skills in the working life. We have to learn how to communicate and work in a group to get things done. We sat down as a team to talk about the problems. As we talked and brainstormed, we found solutions to our problems and sometimes we can be very creative in our solutions.”  <br>
-**_By Charmaine, Cloris, Rachel (Sec 3NA)_** 
+“The subject, Food and Nutrition, motivated us to cook different types of food. We are inspired and challenged to cook different type of interesting food. The creation of the menu, the process of brainstorming for the bento box and the workshops that we attended during the first round of competition had given us an eye opening experience. We never knew food can be infused and created in such a way. Through this competition we learned that teamwork and communication skills are important life skills in the working life. We have to learn how to communicate and work in a group to get things done. We sat down as a team to talk about the problems. As we talked and brainstormed, we found solutions to our problems and sometimes we can be very creative in our solutions.”&nbsp; <br>
+**_By Charmaine, Cloris, Rachel (Sec 3NA)_**&nbsp;
 
   
 
@@ -1441,11 +1438,11 @@ The NFS unit participated in this year’s ichef competition which was organised
 
 <figure>
 <img src="/images/july2016_behind_the_lens01sm.jpg">
-<figcaption>Behind the Lens by Magdalene Tan <br>
+<figcaption>Behind the Lens by Magdalene Tan&nbsp;<br>
 (4B1, Class of 2015)</figcaption>
 </figure>
 
-The school congratulates Magdalene Tan (4B1, Class of 2015) for achieving the Certificate of Recognition in the Singapore Youth Festival Art Exhibition 2016. 
+The school congratulates Magdalene Tan (4B1, Class of 2015) for achieving the Certificate of Recognition in the Singapore Youth Festival Art Exhibition 2016.&nbsp;
 
   
 
@@ -1453,19 +1450,19 @@ The school congratulates Magdalene Tan (4B1, Class of 2015) for achieving the Ce
 
 ![](/images/C%20Div%20Volleyball.png)
 
-8 years after PL first established the Volleyball team, the PL ‘C’ Division Volleyball Team finally made history by clinching 3 d position in the East Zone ‘C’ Division Volleyball Championships and qualified for the nationals. The Volleyball girls trained 3 times a week and took part in a number of competitions to prepare themselves. During the East Zone ‘C’ Division Volleyball Championships 2016, the girls displayed great resilience to overcome injuries and illnesses and managed to beat some traditionally strong teams. The Volleyball girls will continue to put in their best effort during the nationals to bring honour to the school. 
+8 years after PL first established the Volleyball team, the PL ‘C’ Division Volleyball Team finally made history by clinching 3&nbsp;d&nbsp;position in the East Zone ‘C’ Division Volleyball Championships and qualified for the nationals. The Volleyball girls trained 3 times a week and took part in a number of competitions to prepare themselves. During the East Zone ‘C’ Division Volleyball Championships 2016, the girls displayed great resilience to overcome injuries and illnesses and managed to beat some traditionally strong teams. The Volleyball girls will continue to put in their best effort during the nationals to bring honour to the school.&nbsp;
 
   
 
 **Students' Reflections:**
 
-"To achieve something no one had ever achieved before in this school during our school’s 100 th anniversary is definitely unforgettable. I have learnt to push myself beyond my boundaries and always to persevere. Also, I have learnt the importance of teamwork and team spirit. I am looking forward to more of these experiences to come!"  <br>
-**_Yap Jing Yi, Nadia, Vice-Captain of the PL C Division Volleyball Team_** 
+"To achieve something no one had ever achieved before in this school during our school’s 100&nbsp;th&nbsp;anniversary is definitely unforgettable. I have learnt to push myself beyond my boundaries and always to persevere. Also, I have learnt the importance of teamwork and team spirit. I am looking forward to more of these experiences to come!"&nbsp; <br>
+**_Yap Jing Yi, Nadia, Vice-Captain of the PL C Division Volleyball Team_**&nbsp;
 
   
 
-"On the first day of the competition, we were surprised that we managed to beat our strong opponent despite playing the match immediately after our Sec 2 Camp. What was even more unimaginable was that we actually reached the nationals. This was beyond my expectations and it will be an experience I can never forget."  <br>
-**_Faith Andreali M. Bunoan, team member of the PL C Division Volleyball Team_** 
+"On the first day of the competition, we were surprised that we managed to beat our strong opponent despite playing the match immediately after our Sec 2 Camp. What was even more unimaginable was that we actually reached the nationals. This was beyond my expectations and it will be an experience I can never forget."&nbsp; <br>
+**_Faith Andreali M. Bunoan, team member of the PL C Division Volleyball Team_**&nbsp;
 
   
 
@@ -1473,47 +1470,47 @@ The school congratulates Magdalene Tan (4B1, Class of 2015) for achieving the Ce
 
 ![](/images/idigix.png)
 
-The iDigix 3D-Tronics Challenge @ Labs 2016 is a competition that encourages students to think out of the box, develop problem solving and applied learning skills. It also allows team spirit among participation and learning through meaningful experiences. 
+The iDigix 3D-Tronics Challenge @ Labs 2016 is a competition that encourages students to think out of the box, develop problem solving and applied learning skills. It also allows team spirit among participation and learning through meaningful experiences.&nbsp;
 
   
 
-The challenge is designed to enable students to hone their skills in robotics programming, as well as to 3D-printing technology can come into place to solve or enhance the design of the robot and performance function. In addition, the theme of "Upcycling" is introduced for 2016's competition. Teams can also put their creativity to test by making use of recyclables to build their robots, transforming the recycled or unused materials at home into other useful applications. 
+The challenge is designed to enable students to hone their skills in robotics programming, as well as to 3D-printing technology can come into place to solve or enhance the design of the robot and performance function. In addition, the theme of "Upcycling" is introduced for 2016's competition. Teams can also put their creativity to test by making use of recyclables to build their robots, transforming the recycled or unused materials at home into other useful applications.&nbsp;
 
   
 
-We are proud to announce that one team comprising of Woo Jie Lyn of 3A2, Charissa Wee of Sec 2.2 and Angel Yip of Sec 1.1 won the 2 nd Runner Up position in the Maze Explorer Senior Category. In the Arena Battle Open Category, our robotic girls Lee Wen of Sec 3A4, Andrea Seng of 3B1 and Christina Tan of Sec 2.4 were the champions defeating other competitors from institute of higher learning. Congratulation to the Robotic Teams of PLMGSS! 
+We are proud to announce that one team comprising of Woo Jie Lyn of 3A2, Charissa Wee of Sec 2.2 and Angel Yip of Sec 1.1 won the 2&nbsp;nd&nbsp;Runner Up position in the Maze Explorer Senior Category. In the Arena Battle Open Category, our robotic girls Lee Wen of Sec 3A4, Andrea Seng of 3B1 and Christina Tan of Sec 2.4 were the champions defeating other competitors from institute of higher learning. Congratulation to the Robotic Teams of PLMGSS!&nbsp;
 
   
 
-**Students' Reflections: **
+**Students' Reflections:&nbsp;**
 
-“Going for the 3D-tronics Challenge was a wonderful experience for me. In the competition, there were many people of different ages taking part in different categories with different styles. The competition made us step out of our comfort zones to learn from others and improve from there. I would like to thank our Principal Mrs Quek and our teacher Mr Indra for giving us the chance to broaden our knowledge about robotics by attending such competitions. I hope I will be able to attend more of such competitions in the future.”  <br>
-**_Charissa Wee, 2.2_** 
-
-  
-
-“I feel that participating in this year’s 3D-Tronics Challenge was definitely an enriching opportunity as I felt that it trained me mentally and physically to adapt to different challenges during the Arena Battle games as well as having to think independently to solve new problems. I have learnt a lot from this experience and I am very thankful for this great learning opportunity.”  <br>
-**_Lee Wen, 3A4_** 
+“Going for the 3D-tronics Challenge was a wonderful experience for me. In the competition, there were many people of different ages taking part in different categories with different styles. The competition made us step out of our comfort zones to learn from others and improve from there. I would like to thank our Principal Mrs Quek and our teacher Mr Indra for giving us the chance to broaden our knowledge about robotics by attending such competitions. I hope I will be able to attend more of such competitions in the future.”&nbsp; <br>
+**_Charissa Wee, 2.2_**&nbsp;
 
   
 
-“This competition was once again a challenge with the new category and tough program coding. We were all afraid that our robot may not work and we will not be able to make the school proud. We worked together to figure out all the problems with whatever tools available. This competition once again provided me with very enjoyable times that I can spend working together with my teammates.”  <br>
-**_Woo Jie Lyn, 3A2_** 
+“I feel that participating in this year’s 3D-Tronics Challenge was definitely an enriching opportunity as I felt that it trained me mentally and physically to adapt to different challenges during the Arena Battle games as well as having to think independently to solve new problems. I have learnt a lot from this experience and I am very thankful for this great learning opportunity.”&nbsp; <br>
+**_Lee Wen, 3A4_**&nbsp;
 
   
 
-“Taking part in the 2016 3D-tronics Challenge was very interesting especially when the challenges were different from last year. This year, my team and I entered the battle robot category and clinched champion position. I am proud of my team as we competed against institutes of higher learning such as the ITE. Through this competition, I managed to have more patience and strategise the movement for my robots depending on the situations. I am extremely thankful for the opportunity to take part in this year's 3D-tronics Challenge. I would like to thank our teacher-in-charge, Mr Indra, for guiding us through this competition and for giving us opportunities to take part in competitions and do the school proud.”  <br>
-**_Andrea Seng, 3B1_** 
+“This competition was once again a challenge with the new category and tough program coding. We were all afraid that our robot may not work and we will not be able to make the school proud. We worked together to figure out all the problems with whatever tools available. This competition once again provided me with very enjoyable times that I can spend working together with my teammates.”&nbsp; <br>
+**_Woo Jie Lyn, 3A2_**&nbsp;
 
   
 
-“This competition gave me a great opportunity to train up my focus. We needed to be focused and not get distracted by the people around us. We persevered to prepare the robot for the competition through Arduino Programming. I am happy that we were the 2nd runner up for the competition and hope to win more prizes for the school.”  <br>
-**_Angel Yip, 1.1_** 
+“Taking part in the 2016 3D-tronics Challenge was very interesting especially when the challenges were different from last year. This year, my team and I entered the battle robot category and clinched champion position. I am proud of my team as we competed against institutes of higher learning such as the ITE. Through this competition, I managed to have more patience and strategise the movement for my robots depending on the situations. I am extremely thankful for the opportunity to take part in this year's 3D-tronics Challenge. I would like to thank our teacher-in-charge, Mr Indra, for guiding us through this competition and for giving us opportunities to take part in competitions and do the school proud.”&nbsp; <br>
+**_Andrea Seng, 3B1_**&nbsp;
 
   
 
-“I felt honoured as it is a rare opportunity and not everyone would have the chance to do what I did. I learnt a lot in the competition as we participated in the open category which allowed me to compete with older competitors and also learn from them. Given the opportunity, I would love to represent our school again.”  <br>
-**_Christina Tan, 2.4_** 
+“This competition gave me a great opportunity to train up my focus. We needed to be focused and not get distracted by the people around us. We persevered to prepare the robot for the competition through Arduino Programming. I am happy that we were the 2nd runner up for the competition and hope to win more prizes for the school.”&nbsp; <br>
+**_Angel Yip, 1.1_**&nbsp;
+
+  
+
+“I felt honoured as it is a rare opportunity and not everyone would have the chance to do what I did. I learnt a lot in the competition as we participated in the open category which allowed me to compete with older competitors and also learn from them. Given the opportunity, I would love to represent our school again.”&nbsp; <br>
+**_Christina Tan, 2.4_**&nbsp;
 
   
 
@@ -1521,15 +1518,15 @@ We are proud to announce that one team comprising of Woo Jie Lyn of 3A2, Chariss
 
 ![](/images/Literature%20Festival.png)
 
-PL Shines! PL's strength in Literature has been proven yet again! About 40 students and 10 teachers attended the National Schools Literature Festival on 16 July 2016. We took part in 6 competitions and are blessed with amazing results as follows: 
+PL Shines! PL's strength in Literature has been proven yet again! About 40 students and 10 teachers attended the National Schools Literature Festival on 16 July 2016. We took part in 6 competitions and are blessed with amazing results as follows:&nbsp;
 
   
 
-(1) Unseen Debate against Kuo Chuan Presbyterian Sec - PL won! 
+(1) Unseen Debate against Kuo Chuan Presbyterian Sec - PL won!&nbsp;
 
-(2) Drama competition against 12 schools - PL clinched 1st Prize! 
+(2) Drama competition against 12 schools - PL clinched 1st Prize!&nbsp;
 
-(3) Book Parade competition against 15 schools - PL achieved 2nd prize! 
+(3) Book Parade competition against 15 schools - PL achieved 2nd prize!&nbsp;
 
   
 
@@ -1544,24 +1541,23 @@ Our lower and upper secondary teams both came in tops at the Lam Soon salad sand
   
 ### 38th International CB Paul Science Quiz
 
-<img src="/images/38th_ICBPS_quiz.jpg" 
-     style="width:60%">
+<img src="/images/38th_ICBPS_quiz.jpg" style="width:60%">
 
-8 of our PL-Lites were presented with the following awards at the 38th International CB Paul Science Quiz. 
+8 of our PL-Lites were presented with the following awards at the 38th International CB Paul Science Quiz.&nbsp;
 
   
 
-Honourable Mention: Putri Pearl Koswara (3A1) 
+Honourable Mention: Putri Pearl Koswara (3A1)&nbsp;
 
-Merit: 
+Merit:&nbsp;
 
-Kalyn Kor (3A1)  <br>
-Yam Hui Jing (3A1)  <br>
-Deborah Victoria Poon (3A1)  <br>
-Lau Jing Xuan (3A1)  <br>
-Janice Chen (3A1)  <br>
-Tan Peng Ying (3A1)  <br>
-Tan Hui Xian Eleyna (2.1) 
+Kalyn Kor (3A1)&nbsp; <br>
+Yam Hui Jing (3A1)&nbsp; <br>
+Deborah Victoria Poon (3A1)&nbsp; <br>
+Lau Jing Xuan (3A1)&nbsp; <br>
+Janice Chen (3A1)&nbsp; <br>
+Tan Peng Ying (3A1)&nbsp; <br>
+Tan Hui Xian Eleyna (2.1)&nbsp;
 
   
 
@@ -1569,67 +1565,66 @@ Tan Hui Xian Eleyna (2.1) 
 
 ![](/images/designer%20in%20the%20making.png)
 
-The school congratulates Sherry Koh Pan Yi and Amanda Woo Kai Yi for winning the ADAPTATION Award in the 2016 Design & Technology Awards. Their winning artefact will be displayed at The Marquee @ Science Centre Singapore on 1 Jun 2016. To God be the Glory! 
+The school congratulates Sherry Koh Pan Yi and Amanda Woo Kai Yi for winning the ADAPTATION Award in the 2016 Design &amp; Technology Awards. Their winning artefact will be displayed at The Marquee @ Science Centre Singapore on 1 Jun 2016. To God be the Glory!&nbsp;
 
   
 
 **Students' Reflections:**
 
-"During the process of making the artefact, I felt frustrated as we faced many problems. One of the challenges was the motor not being able to work properly and this was the crucial part of the artefact. I was afraid that we could not finish making the product. After many times of trying, we managed to overcome the problem. I was quite nervous during the interview due to the short time given for us to prepare. But I soon eased up as the words just came out naturally. I felt a sense if accomplishment when I heard the good news. We had put in a lot of effort and spent long hours in coming up with the idea and making the product. I feel proud and happy that our hard work had paid off."  <br>
-**_Amanda Woo, Sec 3A1_** 
+"During the process of making the artefact, I felt frustrated as we faced many problems. One of the challenges was the motor not being able to work properly and this was the crucial part of the artefact. I was afraid that we could not finish making the product. After many times of trying, we managed to overcome the problem. I was quite nervous during the interview due to the short time given for us to prepare. But I soon eased up as the words just came out naturally. I felt a sense if accomplishment when I heard the good news. We had put in a lot of effort and spent long hours in coming up with the idea and making the product. I feel proud and happy that our hard work had paid off."&nbsp; <br>
+**_Amanda Woo, Sec 3A1_**&nbsp;
 
   
 
-"During the process of making the artefact, there were many frustrating moments but I felt a sense of accomplishment and satisfaction whenever we complete parts of the artefact. I felt that our artefact was not good enough when compared to the rest. However, we still did our best in trying to promote our product to the judges. I was thrilled and overjoyed as our hard work paid off in the end."  <br>
-**_Sheryl Koh, Sec 3A4_** 
+"During the process of making the artefact, there were many frustrating moments but I felt a sense of accomplishment and satisfaction whenever we complete parts of the artefact. I felt that our artefact was not good enough when compared to the rest. However, we still did our best in trying to promote our product to the judges. I was thrilled and overjoyed as our hard work paid off in the end."&nbsp; <br>
+**_Sheryl Koh, Sec 3A4_**&nbsp;
 
   
 
-### Innovation, Design & Engineering (IDE) Robotics & Challenge 2016
+### Innovation, Design &amp; Engineering (IDE) Robotics &amp; Challenge 2016
 
 ![](/images/IDE%202016.png)
 
-The Innovation, Design and Engineering (IDE) Challenge held on 17 March 2016 was a hands-on competition with one or more engineering challenges. The IDE Robotics which was held also on the same, on the other hand, gave the PL-Lites the opportunity to be exposed to the world pf robotics programming. The task will only be released in the morning of the competition. 
+The Innovation, Design and Engineering (IDE) Challenge held on 17 March 2016 was a hands-on competition with one or more engineering challenges. The IDE Robotics which was held also on the same, on the other hand, gave the PL-Lites the opportunity to be exposed to the world pf robotics programming. The task will only be released in the morning of the competition.&nbsp;
 
   
 
-We are proud to announce that one team comprising of Tan Jia Min (Sec 3A1), Julia Vadukkoot Chacko (Sec 3A3) and Joan Sim (Sec 3A3) won the Innovation Award. Another team comprising Woo Jie Lyn (Sec 3A2), Lee Wen (Sec 3A4) and Charissa Wee (Sec 2.2) attained the Judges’ Special Mention Award. 
+We are proud to announce that one team comprising of Tan Jia Min (Sec 3A1), Julia Vadukkoot Chacko (Sec 3A3) and Joan Sim (Sec 3A3) won the Innovation Award. Another team comprising Woo Jie Lyn (Sec 3A2), Lee Wen (Sec 3A4) and Charissa Wee (Sec 2.2) attained the Judges’ Special Mention Award.&nbsp;
 
   
 
-****Students' Reflections:**** 
+****Students' Reflections:****&nbsp;
 
-“Having the chance to participate in this competition was a great opportunity for all of us to learn more about a whole different type of programming. As a team, we have worked well together and have all grown and learnt many things with and from each other. I have learnt the basics of this new programme. I would like to thank Mr Indra, our teacher-in-charge, for guiding us along the way and giving us the opportunity to go for the training and competition.”  <br>
-**_Andrea Seng, Sec 3B1_** 
-
-  
-
-“As part the IDE robotics challenge, we had a boot camp before the actual day of competition. We learned different things during the boot camp such as how to create different shapes and letters with the programming for the robot. We also managed to program the robot according to the brief provided. I also learnt different things from other groups and I am proud of our achievements.”  <br>
-**_Christina Tan, Sec 2.4_** 
+“Having the chance to participate in this competition was a great opportunity for all of us to learn more about a whole different type of programming. As a team, we have worked well together and have all grown and learnt many things with and from each other. I have learnt the basics of this new programme. I would like to thank Mr Indra, our teacher-in-charge, for guiding us along the way and giving us the opportunity to go for the training and competition.”&nbsp; <br>
+**_Andrea Seng, Sec 3B1_**&nbsp;
 
   
 
-“I feel that participating in this year’s IDE challenge was definitely an enriching opportunity as I felt that it had trained my mental and physical stamina, adaptability and flexibility to overcome problems and challenges. It was certainly been a great learning experience.”  <Br>
-**_Lee Wen, Sec 3A4_** 
+“As part the IDE robotics challenge, we had a boot camp before the actual day of competition. We learned different things during the boot camp such as how to create different shapes and letters with the programming for the robot. We also managed to program the robot according to the brief provided. I also learnt different things from other groups and I am proud of our achievements.”&nbsp; <br>
+**_Christina Tan, Sec 2.4_**&nbsp;
 
   
 
-“Participating in IDE 2016 was an enriching experience. My group took part in the IDE challenge where we were given certain materials to complete three tasks. With the incredibly limited resources provided, we had to wreck our brains to come up with feasible solutions. Thankfully, we were able to pull through in the end. I am extremely grateful for the chance to participate in such an event.”  <Br>
-**_Tan Jia Min, Sec 3A1_** 
+“I feel that participating in this year’s IDE challenge was definitely an enriching opportunity as I felt that it had trained my mental and physical stamina, adaptability and flexibility to overcome problems and challenges. It was certainly been a great learning experience.”&nbsp; <br>
+**_Lee Wen, Sec 3A4_**&nbsp;
 
   
 
-“Taking part in the IDE Robotics was an extremely fun experience. In the IDE challenge, I had the opportunity to learn from other schools which is very meaningful. I hope I would be able to take part in more of such events.”  <br>
-**_Charissa Wee, Sec 2.2, Wee Chun Hui, Sec 3A1 and Woo Jie Lyn, Sec 3A2_** 
+“Participating in IDE 2016 was an enriching experience. My group took part in the IDE challenge where we were given certain materials to complete three tasks. With the incredibly limited resources provided, we had to wreck our brains to come up with feasible solutions. Thankfully, we were able to pull through in the end. I am extremely grateful for the chance to participate in such an event.”&nbsp; <br>
+**_Tan Jia Min, Sec 3A1_**&nbsp;
+
+  
+
+“Taking part in the IDE Robotics was an extremely fun experience. In the IDE challenge, I had the opportunity to learn from other schools which is very meaningful. I hope I would be able to take part in more of such events.”&nbsp; <br>
+**_Charissa Wee, Sec 2.2, Wee Chun Hui, Sec 3A1 and Woo Jie Lyn, Sec 3A2_**&nbsp;
 
   
 
 ### United Nations Association of Singapore Model United Nations
 
-<img src="/images/UNASMUN01.jpg" 
-     style="width:25%">
+<img src="/images/UNASMUN01.jpg" style="width:25%">
 		 
-Founded in 2011, the United Nations Association of Singapore Model United Nations (UNASMUN) is a resource platform for Model UN, ASEAN, and simulation programmes in Singapore, powered by the National Youth Council. The flagship of the UNASMUN is the Preparatory Conference held annually in December. Elizabeth Lian from Sec 3A2 was awarded the Best Position Paper at UNASMUN. 
+Founded in 2011, the United Nations Association of Singapore Model United Nations (UNASMUN) is a resource platform for Model UN, ASEAN, and simulation programmes in Singapore, powered by the National Youth Council. The flagship of the UNASMUN is the Preparatory Conference held annually in December. Elizabeth Lian from Sec 3A2 was awarded the Best Position Paper at UNASMUN.&nbsp;
 
   
 
@@ -1638,19 +1633,19 @@ Founded in 2011, the United Nations Association of Singapore Model United Nation
 ![](/images/school%20literature%20festival%201.png)
 ![](/images/school%20literature%20festival%202.png)
 
-The National Schools Literature Festival this year was held at the National Institute of Education on 22 August 2015. PL girls took part in 4 events of the festival and enjoyed a time of learning Literature in a fun and engaging way. Upper Secondary students formed debate teams and took part in a Set Text Debate on Joy Luck Club and an Unseen Text Debate. The team who participated in the Unseen Text Debate won in their debate. For the Lower Secondary, a group of Lower Secondary students put up a Book Parade display on The Merchant of Venice , and achieved 2 nd place in their category. Another Lower Secondary group also presented a Book Trailer on Red Sky in the Morning , which attained 3 rd position in their category. The participants also had the opportunity to attend sessions on prose, poetry and drama conducted by Singaporean experts and writers in the field, in line with the SG50 celebrations. 
+The National Schools Literature Festival this year was held at the National Institute of Education on 22 August 2015. PL girls took part in 4 events of the festival and enjoyed a time of learning Literature in a fun and engaging way. Upper Secondary students formed debate teams and took part in a Set Text Debate on Joy Luck Club and an Unseen Text Debate. The team who participated in the Unseen Text Debate won in their debate. For the Lower Secondary, a group of Lower Secondary students put up a Book Parade display on The Merchant of Venice , and achieved 2&nbsp;nd&nbsp;place in their category. Another Lower Secondary group also presented a Book Trailer on Red Sky in the Morning , which attained 3&nbsp;rd&nbsp;position in their category. The participants also had the opportunity to attend sessions on prose, poetry and drama conducted by Singaporean experts and writers in the field, in line with the SG50 celebrations.&nbsp;
 
   
 
-****Students' Reflection:**** 
+****Students' Reflection:****&nbsp;
 
-“Participating in the Lit Fest was an enjoyable and enriching experience. In our preparation for the Unseen Poetry debate, my team had fun analysing the poem ad found it very intellectually stimulating. I am glad to have gotten the chance to meet many writers and listen to their writing tips. Overall, Lit Fest really enhanced my appreciation for Literature as a subject and the English Language.”  <br>
-**_– Megan Lew, 3A3_** 
+“Participating in the Lit Fest was an enjoyable and enriching experience. In our preparation for the Unseen Poetry debate, my team had fun analysing the poem ad found it very intellectually stimulating. I am glad to have gotten the chance to meet many writers and listen to their writing tips. Overall, Lit Fest really enhanced my appreciation for Literature as a subject and the English Language.”&nbsp; <br>
+**_– Megan Lew, 3A3_**&nbsp;
 
   
 
-“To me, the National Schools Literature Festival is more than a competition. It is a true celebration of the beauty of the English language. It was a joy to listen to many famous Singaporean writers, poets and playwrights as I got to learn things that can't be taught with the classroom walls. I feel truly blessed to have gotten such a wonderful opportunity.”  <br>
-**_– Neema Jayasinghe, 3A3_** 
+“To me, the National Schools Literature Festival is more than a competition. It is a true celebration of the beauty of the English language. It was a joy to listen to many famous Singaporean writers, poets and playwrights as I got to learn things that can't be taught with the classroom walls. I feel truly blessed to have gotten such a wonderful opportunity.”&nbsp; <br>
+**_– Neema Jayasinghe, 3A3_**&nbsp;
 
   
 
@@ -1658,49 +1653,48 @@ The National Schools Literature Festival this year was held at the National Inst
 
 ![](/images/national%20schools%20swimming%20championships.png)
 
-From the 16 th to 22 nd April, the PL Swim Team participated in the 56 th National Schools Swimming Championships 2015 and competed against swimming strongholds, such as Singapore Sports School, Methodist Girls’ School and Raffles Girls’ School. 
+From the 16&nbsp;th&nbsp;to 22&nbsp;nd&nbsp;April, the PL Swim Team participated in the 56&nbsp;th&nbsp;National Schools Swimming Championships 2015 and competed against swimming strongholds, such as Singapore Sports School, Methodist Girls’ School and Raffles Girls’ School.&nbsp;
 
   
 
-We are proud to announce the following results: 
+We are proud to announce the following results:&nbsp;
 
-- Mandy Fong (Sec 2.1): 8th place for 200m individual medley 
+- Mandy Fong (Sec 2.1): 8th place for 200m individual medley&nbsp;
 
-- Lau Wei Ting (Sec 2.4): 5th place for 50m breaststroke event 
+- Lau Wei Ting (Sec 2.4): 5th place for 50m breaststroke event&nbsp;
 
-- Zoey Ho (Sec 3A1): Bronze medal for 50m and 100m butterfly events 
+- Zoey Ho (Sec 3A1): Bronze medal for 50m and 100m butterfly events&nbsp;
 
-- Naomi Wong (Sec 3A4): 5th place for 200m breaststroke event 
+- Naomi Wong (Sec 3A4): 5th place for 200m breaststroke event&nbsp;
 
-- Both our B and C Divisions clinched 7th position for the 4x50m freestyle and 4x50m medley relays 
+- Both our B and C Divisions clinched 7th position for the 4x50m freestyle and 4x50m medley relays&nbsp;
 
   
 
 ### Singapore Secondary School Debating Championships 2015
 
-<img src="/images/apr2015_debate01.jpg" 
-     style="width:60%">
+<img src="/images/apr2015_debate01.jpg" style="width:60%">
 		 
-From February to April 2015, our PL Debate team competed in the Singapore Secondary School Debating Championships 2015. The team was compromised of Amanda Chia (Sec 4A1), Hannah Quek (Sec 3A1), Megan Lew (Sec 3A3), Rianne Lim (Sec 3A4), and Elisabeth Lian, (Sec 3A2). 
+From February to April 2015, our PL Debate team competed in the Singapore Secondary School Debating Championships 2015. The team was compromised of Amanda Chia (Sec 4A1), Hannah Quek (Sec 3A1), Megan Lew (Sec 3A3), Rianne Lim (Sec 3A4), and Elisabeth Lian, (Sec 3A2).&nbsp;
 
   
 
-In the preliminary rounds, the students worked hard and debated passionately, defeating Anglo-Chinese School (Independent) as well as Cedar Girls' School, before advancing to PL's first ever Division 1 Quarter Finals where they narrowly lost to Hwa Chong Institution. 
+In the preliminary rounds, the students worked hard and debated passionately, defeating Anglo-Chinese School (Independent) as well as Cedar Girls' School, before advancing to PL's first ever Division 1 Quarter Finals where they narrowly lost to Hwa Chong Institution.&nbsp;
 
   
 
-Amanda Chia was also ranked 19th best speaker out of the 80 speakers in Division 1. 
+Amanda Chia was also ranked 19th best speaker out of the 80 speakers in Division 1.&nbsp;
 
   
 
-We are proud of our debaters. To God be the glory! 
+We are proud of our debaters. To God be the glory!&nbsp;
 
   
 
-****Student's Reflections:**** 
+****Student's Reflections:****&nbsp;
 
-"My experience in this national tournament was definitely an unforgettable one. It was not just the end result of making it to quarter finals and making PL history, but also the process of getting there. Although training was intense and exhausting, I thoroughly enjoyed working with my teammates, discussing rebuttals every second that we got to spend with each other, getting to know each others' strengths and weaknesses. I enjoyed the thrilling experiences of going up against such brilliant opponents and brainstorming the cases in great details. I thank God for our teachers and coach for helping us through such an amazing and enriching experience. I would do it again in a heartbeat, and it is truly a blessing to see our hard work, determination, perseverance and teamwork pay off."  <br>
-**_from Elisabeth Lian, 3A2_** 
+"My experience in this national tournament was definitely an unforgettable one. It was not just the end result of making it to quarter finals and making PL history, but also the process of getting there. Although training was intense and exhausting, I thoroughly enjoyed working with my teammates, discussing rebuttals every second that we got to spend with each other, getting to know each others' strengths and weaknesses. I enjoyed the thrilling experiences of going up against such brilliant opponents and brainstorming the cases in great details. I thank God for our teachers and coach for helping us through such an amazing and enriching experience. I would do it again in a heartbeat, and it is truly a blessing to see our hard work, determination, perseverance and teamwork pay off."&nbsp; <br>
+**_from Elisabeth Lian, 3A2_**&nbsp;
 
   
 
@@ -1708,92 +1702,92 @@ We are proud of our debaters. To God be the glory! 
 
 ![](/images/individual%20chess%20championship.png)
 
-On 17 and 18 March 2015, the PL Chess Club participated in the annual 67 th National Schools Individuals Chess Championships. Our girls fought hard and managed to clinch several awards as follows: 
+On 17 and 18 March 2015, the PL Chess Club participated in the annual 67&nbsp;th&nbsp;National Schools Individuals Chess Championships. Our girls fought hard and managed to clinch several awards as follows:&nbsp;
 
   
 
 ### C Division Girls category
 
-Teng Shi Ying Rebecca, Sec 2.5 – Zonal 2 nd 
+Teng Shi Ying Rebecca, Sec 2.5 – Zonal 2&nbsp;nd&nbsp;
 
-Chong Ning Shiuan, Audrey, Sec 2.3 – Zonal 3 rd 
+Chong Ning Shiuan, Audrey, Sec 2.3 – Zonal 3&nbsp;rd&nbsp;
 
-Koh Poh Li, Sec 2.5 – Zonal Merit 
+Koh Poh Li, Sec 2.5 – Zonal Merit&nbsp;
 
   
 
 ### B Division Girls category
 
-Tang Yan Jun, Antoinette, Sec 3A1, Zonal Merit 
+Tang Yan Jun, Antoinette, Sec 3A1, Zonal Merit&nbsp;
 
-Mazel Ong, Sec 4B2, Zonal Merit 
+Mazel Ong, Sec 4B2, Zonal Merit&nbsp;
 
-Chiang Chyi, Shea, Sec 4B2, Zonal Merit 
+Chiang Chyi, Shea, Sec 4B2, Zonal Merit&nbsp;
 
-Gayathri Elangovan, Sec 3A1, Zonal 3 rd 
+Gayathri Elangovan, Sec 3A1, Zonal 3&nbsp;rd&nbsp;
 
-Tan Peisi, Sec 4A3, Zonal 2 nd and National Merit (Top 20) 
-
-  
-
-Anastasia Patricks, Sec 4A1, Champion in the Zonal and National Girls in the B Division Girls category. She also took home a Challenger’s Trophy. 
+Tan Peisi, Sec 4A3, Zonal 2&nbsp;nd&nbsp;and National Merit (Top 20)&nbsp;
 
   
 
-****Students' Reflections:**** 
-
-“I felt privileged to be able to take part in this competition and this would be my final opportunity before I stepped down. To me, what matters most is not about winning or losing, but the experience of being able to play against different opponents from other schools. In addition, we were able to forge new friendships with our opponents. It was a really great experience and I've enjoyed the competition.” <br>
-**_from Jessie Koh, Sec 4A2_** 
+Anastasia Patricks, Sec 4A1, Champion in the Zonal and National Girls in the B Division Girls category. She also took home a Challenger’s Trophy.&nbsp;
 
   
 
-“It was a privilege to take part in the chess competition. It was a meaningful event for me as I have learnt a lot of new skills from my opponents. I have also learnt what sportsmanship is. Despite losing several rounds, I have learnt where my weaknesses are and how to improve on my skills.” <br>
-**_from Teng Shi Ying Rebecca, Sec 2.5_** 
+****Students' Reflections:****&nbsp;
+
+“I felt privileged to be able to take part in this competition and this would be my final opportunity before I stepped down. To me, what matters most is not about winning or losing, but the experience of being able to play against different opponents from other schools. In addition, we were able to forge new friendships with our opponents. It was a really great experience and I've enjoyed the competition.”&nbsp;<br>
+**_from Jessie Koh, Sec 4A2_**&nbsp;
 
   
 
-### Innovation, Design & Engineering (IDE) Challenge 2015
+“It was a privilege to take part in the chess competition. It was a meaningful event for me as I have learnt a lot of new skills from my opponents. I have also learnt what sportsmanship is. Despite losing several rounds, I have learnt where my weaknesses are and how to improve on my skills.”&nbsp;<br>
+**_from Teng Shi Ying Rebecca, Sec 2.5_**&nbsp;
+
+  
+
+### Innovation, Design &amp; Engineering (IDE) Challenge 2015
 
 ![](/images/IDE%202015.png)
 
-The Innovation, Design and Engineering (IDE) Challenge, which took place on 20 March 2015, was a hands-on competition with one or more engineering challenges. Participating teams were required to work on their designs and solutions. On the actual day of competition, teams needed to create the most effective design under limited time using the materials provided to them. 
+The Innovation, Design and Engineering (IDE) Challenge, which took place on 20 March 2015, was a hands-on competition with one or more engineering challenges. Participating teams were required to work on their designs and solutions. On the actual day of competition, teams needed to create the most effective design under limited time using the materials provided to them.&nbsp;
 
   
 
-We are proud to announce that one of the teams representing PLMGS (Sec) clinched the IDE Engineering Award for 2015. The members comprised Zaneta Low and Tan Jia Min, both from Sec 2.3. 
+We are proud to announce that one of the teams representing PLMGS (Sec) clinched the IDE Engineering Award for 2015. The members comprised Zaneta Low and Tan Jia Min, both from Sec 2.3.&nbsp;
 
   
 
-****Students' Reflections:**** 
+****Students' Reflections:****&nbsp;
 
-“ I feel that this competition was absolutely fun and brain-triggering. In our normal lessons, we sit down, take notes and sometimes have group work, but in this competition, my team and I really pushed our brain to try to win something. Overall, this competition was fun, and was made even more so with my awesome team-mates. Thank you for giving us this opportunity.” 
+“ I feel that this competition was absolutely fun and brain-triggering. In our normal lessons, we sit down, take notes and sometimes have group work, but in this competition, my team and I really pushed our brain to try to win something. Overall, this competition was fun, and was made even more so with my awesome team-mates. Thank you for giving us this opportunity.”&nbsp;
 
-**_from Wee Chun Hui, Sec 2.2_** 
-
-  
-
-“The IDE Challenge 2015 was a wonderful learning experience. It certainly got us wrecking our brains, trying to think of a way around each challenge considering the impossibly little resources given for the construction of all three contraptions. IDE was definitely something different from any other typical competition, and I am glad I had the opportunity to participate in such an event.”  <br>
-**_from Tan Jia Min, Sec 2.3_** 
+**_from Wee Chun Hui, Sec 2.2_**&nbsp;
 
   
 
-“To be honest, when the team leaders asked me to join them, I wasn’t sure what they saw in me. I was a little shocked. Through research and all the team meetings, I became more confident about the competition. When we went into the competition with zero expectations, although we covered quite a lot of content in research. The competition was intense but overall I enjoyed the entire process of planning and making the objects. Although some artefacts may not have turned out as well as expected, I guess it was the journey that counts. I enjoyed myself throughout the entire process”  <br>
-**_from Ling Yin, Sec 2.2_** 
+“The IDE Challenge 2015 was a wonderful learning experience. It certainly got us wrecking our brains, trying to think of a way around each challenge considering the impossibly little resources given for the construction of all three contraptions. IDE was definitely something different from any other typical competition, and I am glad I had the opportunity to participate in such an event.”&nbsp; <br>
+**_from Tan Jia Min, Sec 2.3_**&nbsp;
 
   
 
-“Being part of this competition has taught me how to think on my feet. After completing my bridge, I realized that it could not hold heavy weights as well as expected. Therefore, I had to quickly plan and build a second one. Despite having their own tasks, my team mates stood by me and helped me by contributing ideas.”  <br>
-**_from Crystal Cheong, Sec 2.2_** 
+“To be honest, when the team leaders asked me to join them, I wasn’t sure what they saw in me. I was a little shocked. Through research and all the team meetings, I became more confident about the competition. When we went into the competition with zero expectations, although we covered quite a lot of content in research. The competition was intense but overall I enjoyed the entire process of planning and making the objects. Although some artefacts may not have turned out as well as expected, I guess it was the journey that counts. I enjoyed myself throughout the entire process”&nbsp; <br>
+**_from Ling Yin, Sec 2.2_**&nbsp;
 
   
 
-“I am really glad that I was able to participate in the IDE Championship 2015. The tasks that we were supposed to perform were really challenging and thought-provoking. The task that we found most challenging was building the rubber band powered car and the easiest one was building the bridge. I am really happy that my team members did their part and we all managed to put our strengths to use. Other than learning more about Innovation, Design and Engineering, I am glad that I learnt values like adaptability more in depth through the limit of materials and time provided.”  <br>
-**_from Julia, Sec 2.3_** 
+“Being part of this competition has taught me how to think on my feet. After completing my bridge, I realized that it could not hold heavy weights as well as expected. Therefore, I had to quickly plan and build a second one. Despite having their own tasks, my team mates stood by me and helped me by contributing ideas.”&nbsp; <br>
+**_from Crystal Cheong, Sec 2.2_**&nbsp;
 
   
 
-“The IDE challenge was an interesting and fun competition. In the competition, we were given limited materials to satisfy three challenges: to build a strong bridge, an efficient rubber band powered car and a structure to protect 10 eggs when dropped from a height of three floors. We were able to learn a lot through trial and error and also able to have fun in the process. It was very eventful and I would definitely like to participate again if I were given another chance.”  <br>
-**_from Esther Chew, Sec 2.2._** 
+“I am really glad that I was able to participate in the IDE Championship 2015. The tasks that we were supposed to perform were really challenging and thought-provoking. The task that we found most challenging was building the rubber band powered car and the easiest one was building the bridge. I am really happy that my team members did their part and we all managed to put our strengths to use. Other than learning more about Innovation, Design and Engineering, I am glad that I learnt values like adaptability more in depth through the limit of materials and time provided.”&nbsp; <br>
+**_from Julia, Sec 2.3_**&nbsp;
+
+  
+
+“The IDE challenge was an interesting and fun competition. In the competition, we were given limited materials to satisfy three challenges: to build a strong bridge, an efficient rubber band powered car and a structure to protect 10 eggs when dropped from a height of three floors. We were able to learn a lot through trial and error and also able to have fun in the process. It was very eventful and I would definitely like to participate again if I were given another chance.”&nbsp; <br>
+**_from Esther Chew, Sec 2.2._**&nbsp;
 
   
 
@@ -1801,7 +1795,7 @@ We are proud to announce that one of the teams representing PLMGS (Sec) clinched
 
 ![](/images/EOS%20Academy%20magazine.png)
 
-The school congratulates the following students whose photos are featured by Canon EOS Academy magazine: 
+The school congratulates the following students whose photos are featured by Canon EOS Academy magazine:&nbsp;
 
 *   Janelle Koh, Sec 4A3  
     
@@ -1816,44 +1810,43 @@ The school congratulates the following students whose photos are featured by Can
 
   
 
-The magazine seeks to recognise students who have done well in the art of photography among the educational institutions in Singapore, including junior colleges, polytechnics and universities. 
+The magazine seeks to recognise students who have done well in the art of photography among the educational institutions in Singapore, including junior colleges, polytechnics and universities.&nbsp;
 
   
 
-****Students' Reflections:**** 
+****Students' Reflections:****&nbsp;
 
-I feel honoured to have my photograph featured in the Canon EOS Academy magazine. I get to experiment with different photography genres and with the help of the magazine, I get to know which style of photography I am best at. I learn more about the styles of other photographers and what I can do to refine my photos. I am glad that the Canon EOS Academy magazine has this platform that allows students to be recognised for their works. The platform encourages me to produce better quality photos, so that I can continue to share my works with budding photographers and to learn from them.  <br>
-**_Syaza Nisrina, Sec 4A3, President of PL Photography Club_** 
+I feel honoured to have my photograph featured in the Canon EOS Academy magazine. I get to experiment with different photography genres and with the help of the magazine, I get to know which style of photography I am best at. I learn more about the styles of other photographers and what I can do to refine my photos. I am glad that the Canon EOS Academy magazine has this platform that allows students to be recognised for their works. The platform encourages me to produce better quality photos, so that I can continue to share my works with budding photographers and to learn from them.&nbsp; <br>
+**_Syaza Nisrina, Sec 4A3, President of PL Photography Club_**&nbsp;
 
   
 
-I feel that the Canon EOS Academy magazine is a great platform for photographers to learn from one another. We learnt to get the techniques right and master the skills for a specific genre of photography. It also gives the photographers the recognition they deserve for the effort they put into taking each photo. I have learnt a lot from different photographers from other schools and I am also very inspired to continue sharing my photos with others. It is indeed an honour to have my photo published in a renowned magazine.  <br>
-**_Janelle Koh, Sec 4A3, Vice President of PL Photography Club_** 
+I feel that the Canon EOS Academy magazine is a great platform for photographers to learn from one another. We learnt to get the techniques right and master the skills for a specific genre of photography. It also gives the photographers the recognition they deserve for the effort they put into taking each photo. I have learnt a lot from different photographers from other schools and I am also very inspired to continue sharing my photos with others. It is indeed an honour to have my photo published in a renowned magazine.&nbsp; <br>
+**_Janelle Koh, Sec 4A3, Vice President of PL Photography Club_**&nbsp;
 
   
 
 ### KC Humanities / NE Challenge 2015
 
-<img src="/images/feb2015_kc_hum01sm.jpg" 
-     style="width:60%">
+<img src="/images/feb2015_kc_hum01sm.jpg" style="width:60%">
 		 
-On 12 February, 5 Secondary 4 students (Amanda Tan, Jamais Ang, Sarah Ann Lim, Victoria Teng and Zhang Jingyi) took part in the KC Humanities/NE Challenge 2015 organised by CHIJ Katong Convent. They were the top 5 teams competing in the quiz segment (Humanopoly) and emerged champions. In addition, they also came in the second in the Treasure Hunt segment. 
+On 12 February, 5 Secondary 4 students (Amanda Tan, Jamais Ang, Sarah Ann Lim, Victoria Teng and Zhang Jingyi) took part in the KC Humanities/NE Challenge 2015 organised by CHIJ Katong Convent. They were the top 5 teams competing in the quiz segment (Humanopoly) and emerged champions. In addition, they also came in the second in the Treasure Hunt segment.&nbsp;
 
   
 
-All glory to God for His favour. 
+All glory to God for His favour.&nbsp;
 
   
 
-****Students' Reflections:**** 
+****Students' Reflections:****&nbsp;
 
-The KC Humanities/NE Challenge not only allowed us to put our textbook knowledge to use, but it also tested us on current events, making us more aware of what is happening in the world. We had a lot of fun taking part in the competition and also learnt things that are not taught in the classroom. Although the challenge was tough at times, we persevered and supported each other to do our best. <br>
-**_Sarah-Ann Lim, Sec 4A2_** 
+The KC Humanities/NE Challenge not only allowed us to put our textbook knowledge to use, but it also tested us on current events, making us more aware of what is happening in the world. We had a lot of fun taking part in the competition and also learnt things that are not taught in the classroom. Although the challenge was tough at times, we persevered and supported each other to do our best.&nbsp;<br>
+**_Sarah-Ann Lim, Sec 4A2_**&nbsp;
 
   
 
-I learned a lot from the taking part in the competition: both team work and knowledge. The Humanities Challenge comprised mainly of History and general knowledge questions. Thus, it is important to be updated and well informed with the latest news happening all around the world. We must work well and be united as a team in order to overcome the challenges faced when participating in the various tasks. All in all, I enjoyed myself during the KC Humanities Challenge and I am very grateful to have had such an opportunity to participate. <br>
-**_Victoria Teng, Sec 4A3_** 
+I learned a lot from the taking part in the competition: both team work and knowledge. The Humanities Challenge comprised mainly of History and general knowledge questions. Thus, it is important to be updated and well informed with the latest news happening all around the world. We must work well and be united as a team in order to overcome the challenges faced when participating in the various tasks. All in all, I enjoyed myself during the KC Humanities Challenge and I am very grateful to have had such an opportunity to participate.&nbsp;<br>
+**_Victoria Teng, Sec 4A3_**&nbsp;
 
   
 
@@ -1861,11 +1854,11 @@ I learned a lot from the taking part in the competition: both team work and know
 
 ![](/images/CB%20Paul%20Science%20Quiz%202015.png)
 
-We are pleased to announce that nine PL-Lites won prizes at the 37 th C. B. Paul Science Quiz 2015 on 21 and 28 Jan 2015. Organised by the ACJC Science and Mathematics Council, the quiz aimed to develop students’ aptitude and potential in the pure and applied sciences through independent work and applying critical thinking. 
+We are pleased to announce that nine PL-Lites won prizes at the 37&nbsp;th&nbsp;C. B. Paul Science Quiz 2015 on 21 and 28 Jan 2015. Organised by the ACJC Science and Mathematics Council, the quiz aimed to develop students’ aptitude and potential in the pure and applied sciences through independent work and applying critical thinking.&nbsp;
 
   
 
-The students were put through rigorous questions in a wide range of contexts from Biology, Chemistry, Mathematics and Physics and were challenged to solve problems, evaluate theories, and interpret work which required them to draw on a complex array of understandings. 
+The students were put through rigorous questions in a wide range of contexts from Biology, Chemistry, Mathematics and Physics and were challenged to solve problems, evaluate theories, and interpret work which required them to draw on a complex array of understandings.&nbsp;
 
   
 
@@ -1931,29 +1924,28 @@ The nine awardees are as follows:
 </tbody>
 </table>
 
-****Student's Reflections:**** 
+****Student's Reflections:****&nbsp;
 
-“ The 37 th C. B. Paul Science Quiz was really an eye opener. I was apprehensive at first.I was surprised when I passed the preliminary round to move on to the final and achieved a bronze medal! Personally I think the questions were challenging and tough, especially the chemistry and biology questions. Thankfully, I managed to brave through the application questions. The competition was a really great experience for me, as I was exposed to various, unique, think-on-the-spot questions. It gave me an opportunity to learn that sciences and math are something beyond the textbooks .”  <br>
-**_from Ignasia Hanny, Secondary 4A1 (Bronze Individual Award)_** 
-
-  
-
-“ I really liked the exposure, especially the biology questions! The questions really were something that I've never seen before and they intrigued me. Even though the questions were really quite hard, especially since some of them were not for secondary school level, I had a very enjoyable time! They made me think out of the box. I continued to wonder and research about some of the topics even after the quiz was over .”  <br>
-**_from Hannah Quek, Secondary 3A1_** 
+“ The 37&nbsp;th&nbsp;C. B. Paul Science Quiz was really an eye opener. I was apprehensive at first.I was surprised when I passed the preliminary round to move on to the final and achieved a bronze medal! Personally I think the questions were challenging and tough, especially the chemistry and biology questions. Thankfully, I managed to brave through the application questions. The competition was a really great experience for me, as I was exposed to various, unique, think-on-the-spot questions. It gave me an opportunity to learn that sciences and math are something beyond the textbooks .”&nbsp; <br>
+**_from Ignasia Hanny, Secondary 4A1 (Bronze Individual Award)_**&nbsp;
 
   
 
-“ This being my first C.B. Paul Science Quiz, I have to say it has been a valuable experience. The questions that were asked were out of my syllabus, but I have to say that I am happy I was able to answer some of them. Being a Secondary 2 student, I am glad that I was able to be exposed to such questions that are out of my syllabus. I am also thankful that I could participate in a competition like this and represent the school and give God the Glory !”  <br>
-**_from Julia Vadukkoot Chacko , Secondary 2.3_** 
+“ I really liked the exposure, especially the biology questions! The questions really were something that I've never seen before and they intrigued me. Even though the questions were really quite hard, especially since some of them were not for secondary school level, I had a very enjoyable time! They made me think out of the box. I continued to wonder and research about some of the topics even after the quiz was over .”&nbsp; <br>
+**_from Hannah Quek, Secondary 3A1_**&nbsp;
+
+  
+
+“ This being my first C.B. Paul Science Quiz, I have to say it has been a valuable experience. The questions that were asked were out of my syllabus, but I have to say that I am happy I was able to answer some of them. Being a Secondary 2 student, I am glad that I was able to be exposed to such questions that are out of my syllabus. I am also thankful that I could participate in a competition like this and represent the school and give God the Glory !”&nbsp; <br>
+**_from Julia Vadukkoot Chacko , Secondary 2.3_**&nbsp;
 
   
 
 ### Speak! Ventures Debate Championship 2015
 
-<img src="/images/jan2015_debate_top20sm.jpg" 
-     style="width:60%">
+<img src="/images/jan2015_debate_top20sm.jpg" style="width:60%">
 		 
-On 24 Jan, five of our debaters, Amanda Chia (4A1), Hannah Quek (3A1), Elisabeth Lian (3A2), Megan Lew (3A3) and Rianne Lim (3A4), competed in Speak! Ventures Debate Championship 2015. They competed with other secondary schools in Singapore and defeated 2 out of 3 schools. We are happy to announce that Amanda Chia and Hannah Quek attained the 14 th and 17 th Best Speaker positions out of a total of 160 speakers in the tournament. Well done, debaters! 
+On 24 Jan, five of our debaters, Amanda Chia (4A1), Hannah Quek (3A1), Elisabeth Lian (3A2), Megan Lew (3A3) and Rianne Lim (3A4), competed in Speak! Ventures Debate Championship 2015. They competed with other secondary schools in Singapore and defeated 2 out of 3 schools. We are happy to announce that Amanda Chia and Hannah Quek attained the 14&nbsp;th&nbsp;and 17&nbsp;th&nbsp;Best Speaker positions out of a total of 160 speakers in the tournament. Well done, debaters!&nbsp;
 
   
 
@@ -1961,49 +1953,49 @@ On 24 Jan, five of our debaters, Amanda Chia (4A1), Hannah Quek (3A1), Elisabeth
 
 ![](/images/spirit%20of%20enterprise%20rolls%20on%20PL.png)
 
-Six dedicated PL-lites from Class 3D1 represented PLMGSS in the finals of the National Pushcart Challenge 2014 organised by Republic Polytechnic. This competition required teams to collaborate with a social enterprise of their choice and develop product innovations to augment their existing merchandise for fund-raising. 
+Six dedicated PL-lites from Class 3D1 represented PLMGSS in the finals of the National Pushcart Challenge 2014 organised by Republic Polytechnic. This competition required teams to collaborate with a social enterprise of their choice and develop product innovations to augment their existing merchandise for fund-raising.&nbsp;
 
   
 
-Working with the SPCA, our girls saw an opportunity in recycling unwanted cardboard rolls into household products such as photo frames, stationery holders, torchlights, desktop lamps and even mobile phone speakers! 
+Working with the SPCA, our girls saw an opportunity in recycling unwanted cardboard rolls into household products such as photo frames, stationery holders, torchlights, desktop lamps and even mobile phone speakers!&nbsp;
 
   
 
-After a long 5 months’ work involving ideation, sourcing and development, the girls had to set up their own pushcart to market their completed products at Causeway Point over 2 days. 
+After a long 5 months’ work involving ideation, sourcing and development, the girls had to set up their own pushcart to market their completed products at Causeway Point over 2 days.&nbsp;
 
   
 
-Their hard work and aching feet eventually paid much dividends as they snagged the Most Innovative Product award as well as the overall 1 st runners-up trophy – the only team out of 16 finalists to receive 2 prizes! 
+Their hard work and aching feet eventually paid much dividends as they snagged the Most Innovative Product award as well as the overall 1&nbsp;st&nbsp;runners-up trophy – the only team out of 16 finalists to receive 2 prizes!&nbsp;
 
   
 
-The school congratulates Faith Kung, P. Maitreyah, Pan YiTong, Raeann Tan, Saraniya D/O Panichelvam and Theenmathi D/O Kanesan (all from 3D1) for their unique achievement! 
+The school congratulates Faith Kung, P. Maitreyah, Pan YiTong, Raeann Tan, Saraniya D/O Panichelvam and Theenmathi D/O Kanesan (all from 3D1) for their unique achievement!&nbsp;
 
   
 
-****Students' Reflections:**** 
+****Students' Reflections:****&nbsp;
 
-"This experience proved how important teamwork is as we stuck together throughout the competition, coming to school and working on the products even during the holidays." 
+"This experience proved how important teamwork is as we stuck together throughout the competition, coming to school and working on the products even during the holidays."&nbsp;
 
-**_\- Raeann Tan_** 
-
-  
-
-"It’s fantastic how we managed to get so many of our products out in time! The key was in how we split the workload and helped one another out." 
-
-**_\- Theenmathi_** 
+**_\- Raeann Tan_**&nbsp;
 
   
 
-"Through this competition, I’ve learnt much about taking personal responsibility, how to overcome my fear of approaching strangers and lastly, the importance of working with others. These experiences will make me a better person!" 
+"It’s fantastic how we managed to get so many of our products out in time! The key was in how we split the workload and helped one another out."&nbsp;
 
-**_\- P. Maitreyah_** 
+**_\- Theenmathi_**&nbsp;
+
+  
+
+"Through this competition, I’ve learnt much about taking personal responsibility, how to overcome my fear of approaching strangers and lastly, the importance of working with others. These experiences will make me a better person!"&nbsp;
+
+**_\- P. Maitreyah_**&nbsp;
 
   
 
 ### Natalie Soh receives Zone Colours Award
 
-The school congratulates Natalie Soh (Sec 4A1) for receiving Singapore Schools Sports Council (SSSC) Zone Schools Colours (Individual) for her achievements in Cross Country. 
+The school congratulates Natalie Soh (Sec 4A1) for receiving Singapore Schools Sports Council (SSSC) Zone Schools Colours (Individual) for her achievements in Cross Country.&nbsp;
 
   
 
@@ -2011,7 +2003,7 @@ The school congratulates Natalie Soh (Sec 4A1) for receiving Singapore Schools S
 
 ![](/images/SSMC2014.png)
 
-On 24 July 2014, 12 of our NA and NT girls took part in the ‘All Singapore Secondary Mathematics Competition for Normal Course Students 2014’. We congratulate Wee Joo Kim, Nicolene (Secondary 2.7b) who was placed seventh in the Individual Prize of the Lower Secondary Normal Academic category. 
+On 24 July 2014, 12 of our NA and NT girls took part in the ‘All Singapore Secondary Mathematics Competition for Normal Course Students 2014’. We congratulate Wee Joo Kim, Nicolene (Secondary 2.7b) who was placed seventh in the Individual Prize of the Lower Secondary Normal Academic category.&nbsp;
 
   
 
@@ -2019,87 +2011,83 @@ On 24 July 2014, 12 of our NA and NT girls took part in the ‘All Singapore Sec
 
 ![](/images/AStar%20science%20fair%202014.png)
 
-On 29 July 2014, 4 groups of students from Secondary Two ACE Science programme represented PLMGS (Sec) at the East Zone A\*Star Science Fair 2014 organised by Victoria Junior College. They presented their science projects to researchers from Agency for Science, Technology and Research. The students worked very hard for the project. They read up on science research papers to formulate their hypothesis and performed experiments using the Scientific Method. 
+On 29 July 2014, 4 groups of students from Secondary Two ACE Science programme represented PLMGS (Sec) at the East Zone A\*Star Science Fair 2014 organised by Victoria Junior College. They presented their science projects to researchers from Agency for Science, Technology and Research. The students worked very hard for the project. They read up on science research papers to formulate their hypothesis and performed experiments using the Scientific Method.&nbsp;
 
   
 
-We are proud to announce that one of the groups clinched the Bronze Award under the Lower Secondary Open Category with their project, “Removal of Heavy Metal Ions using Dried Leaves”. The members of the winning team were Chen TingYu, Chloe and Michelle Seet Su Ling, both from Secondary 2.1. 
+We are proud to announce that one of the groups clinched the Bronze Award under the Lower Secondary Open Category with their project, “Removal of Heavy Metal Ions using Dried Leaves”. The members of the winning team were Chen TingYu, Chloe and Michelle Seet Su Ling, both from Secondary 2.1.&nbsp;
 
   
 
-****Students' Reflections:**** 
+****Students' Reflections:****&nbsp;
 
-“This Ace Science project was extremely enriching and taught me to think out of the box. Through the project, I have learnt to persevere and understood the meaning of commitment even more as we had to invest time and effort into finding information and putting it together to finish our research paper. The Science Fair held in Victoria Junior College was an eye-opener. There were many different project titles and it showed me that science is in our everyday lives and it can be interesting after all. It has changed my perception on what science is all about.”  <br>
-**_from Michelle Seet Su Ling, Secondary 2.1_** 
-
-  
-
-“The ACE Science project required a lot of commitment including going back to school during the holidays, weeks of researching and editing of our research paper, and repeating the experiment to ensure fairness and accuracy. However, when the project was finally done and ready for presentation, I felt quite proud of our project as it was the result of our few months of hard work. Even though we did not win the competition, it was is a great one-time experience, and I am glad that I did not give up.”  <br>
-**_from Bethany Lim, Secondary 2.1_** 
+“This Ace Science project was extremely enriching and taught me to think out of the box. Through the project, I have learnt to persevere and understood the meaning of commitment even more as we had to invest time and effort into finding information and putting it together to finish our research paper. The Science Fair held in Victoria Junior College was an eye-opener. There were many different project titles and it showed me that science is in our everyday lives and it can be interesting after all. It has changed my perception on what science is all about.”&nbsp; <br>
+**_from Michelle Seet Su Ling, Secondary 2.1_**&nbsp;
 
   
 
-“Through this East Zone Science Fair, I have learnt that it required commitment and efforts in science experiments. Time management was also important because even though we had half a year to complete, coming up with an experiment to work on was not easy. We had to go through 2 experiments which were both unsuccessful and not so interesting before coming up with our final experiment. Our final experiment required us to filter the dried leaves and saw dust out from the solutions one by one, 54 times across 3 days. To make sure that the experiment was fair, it should be repeated more than once. In addition, I had to analyse and compare results to ensure that the hypothesis was correct. Overall, it was a good and fun learning experience.”  <br>
-**_from Chen TingYu, Chloe, Secondary 2.1_** 
+“The ACE Science project required a lot of commitment including going back to school during the holidays, weeks of researching and editing of our research paper, and repeating the experiment to ensure fairness and accuracy. However, when the project was finally done and ready for presentation, I felt quite proud of our project as it was the result of our few months of hard work. Even though we did not win the competition, it was is a great one-time experience, and I am glad that I did not give up.”&nbsp; <br>
+**_from Bethany Lim, Secondary 2.1_**&nbsp;
+
+  
+
+“Through this East Zone Science Fair, I have learnt that it required commitment and efforts in science experiments. Time management was also important because even though we had half a year to complete, coming up with an experiment to work on was not easy. We had to go through 2 experiments which were both unsuccessful and not so interesting before coming up with our final experiment. Our final experiment required us to filter the dried leaves and saw dust out from the solutions one by one, 54 times across 3 days. To make sure that the experiment was fair, it should be repeated more than once. In addition, I had to analyse and compare results to ensure that the hypothesis was correct. Overall, it was a good and fun learning experience.”&nbsp; <br>
+**_from Chen TingYu, Chloe, Secondary 2.1_**&nbsp;
 
   
 
 ### Meideline shines in badminton competitions
 
-<img src="/images/meideline%20_badminton.jpg" 
-     style="width:60%">
+<img src="/images/meideline%20_badminton.jpg" style="width:60%">
 		 
-Meideline Santika has taken part in the Victor Age Group Championships 2014 and Alpha Academy Age Group Badminton Championship 2014 during the June holidays. With her perseverance and endurance, she has done the school proud by winning the third for the Victor Age Group Championships 2014 (U15 category) and the champion for the Alpha Academy Age Group Badminton Championship 2014 (U14 category). 
+Meideline Santika has taken part in the Victor Age Group Championships 2014 and Alpha Academy Age Group Badminton Championship 2014 during the June holidays. With her perseverance and endurance, she has done the school proud by winning the third for the Victor Age Group Championships 2014 (U15 category) and the champion for the Alpha Academy Age Group Badminton Championship 2014 (U14 category).&nbsp;
 
   
 
 ### SYF Art Exhibition 2014
 
-<img src="/images/syf%20art%20exhibition%202014_2.jpg" 
-     style="width:60%">
+<img src="/images/syf%20art%20exhibition%202014_2.jpg" style="width:60%">
 		 
-For the biennial Singapore Youth Festival Art Exhibition 2014, Paya Lebar Methodist Girls’ School (Secondary) submitted art works by 6 PL-Lites to the organisers as follows: 
+For the biennial Singapore Youth Festival Art Exhibition 2014, Paya Lebar Methodist Girls’ School (Secondary) submitted art works by 6 PL-Lites to the organisers as follows:&nbsp;
 
-1) Tan Pei Qi (Sec 3B1) 
+1) Tan Pei Qi (Sec 3B1)&nbsp;
 
-2) Dorcas Foo (Sec 3A2) 
+2) Dorcas Foo (Sec 3A2)&nbsp;
 
-3) Ye Yunqi (Sec 3A1) 
+3) Ye Yunqi (Sec 3A1)&nbsp;
 
-4) Delia Lim Xiu Qing (Sec 4B2, Class of 2013) 
+4) Delia Lim Xiu Qing (Sec 4B2, Class of 2013)&nbsp;
 
-5) Ng Shi Qian (Sec 4B1, Class of 2013) 
+5) Ng Shi Qian (Sec 4B1, Class of 2013)&nbsp;
 
-6) Joslin Ong (Sec 4B2, Class of 2013) 
-
-  
-
-Delia Lim Xiu Qing (Sec 4B2, Class of 2013) received a Certification of Recognition (Special Mention) in the 2014 Singapore Youth Festival Art Exhibition. Her art work was exhibited in the Woodlands Regional Library from 10 to 23 July 2014. 
+6) Joslin Ong (Sec 4B2, Class of 2013)&nbsp;
 
   
 
-****Student's Reflection**** 
+Delia Lim Xiu Qing (Sec 4B2, Class of 2013) received a Certification of Recognition (Special Mention) in the 2014 Singapore Youth Festival Art Exhibition. Her art work was exhibited in the Woodlands Regional Library from 10 to 23 July 2014.&nbsp;
 
-“O-Level Art is so much more than a subject to me. It has allowed me to express myself and my perspective of the world around me in ways I could never have imagined. Though the process of completing the coursework was tiring, and has at times raised doubts and hopelessness within me, God's love and grace never fails. Christ is the centre of my coursework and my sole inspiration. I have truly seen the glory of Christ through this experience that has been like no others. I urge the juniors who are to take on Art at O-Level - never doubt your abilities, for when the Lord is with you, anything is possible. It has been the most amazing journey and one I will always remember. Thank you, PL, for believing in me when I least did in myself.”  <br>
-**_From Delia Lim Xiu Qing, Sec 4B2 Class of 2013_** 
+  
+
+****Student's Reflection****&nbsp;
+
+“O-Level Art is so much more than a subject to me. It has allowed me to express myself and my perspective of the world around me in ways I could never have imagined. Though the process of completing the coursework was tiring, and has at times raised doubts and hopelessness within me, God's love and grace never fails. Christ is the centre of my coursework and my sole inspiration. I have truly seen the glory of Christ through this experience that has been like no others. I urge the juniors who are to take on Art at O-Level - never doubt your abilities, for when the Lord is with you, anything is possible. It has been the most amazing journey and one I will always remember. Thank you, PL, for believing in me when I least did in myself.”&nbsp; <br>
+**_From Delia Lim Xiu Qing, Sec 4B2 Class of 2013_**&nbsp;
 
   
 
 ### National Youth Achievement Award 2014
 
-<img src="/images/nyaa2014_award.jpg" 
-     style="width:60%">
+<img src="/images/nyaa2014_award.jpg" style="width:60%">
 
-Seet Seow Chien and Tan Ling Yue, Gloria (both from Sec 4A1) represented the 202 students from PLMGS (Sec) to receive the National Youth Achievement Award (Bronze) at the Bronze/Silver Award Presentation Ceremony on 11 July 2014 (Friday). 
+Seet Seow Chien and Tan Ling Yue, Gloria (both from Sec 4A1) represented the 202 students from PLMGS (Sec) to receive the National Youth Achievement Award (Bronze) at the Bronze/Silver Award Presentation Ceremony on 11 July 2014 (Friday).&nbsp;
 
   
 
 ### NParks' Trees For Life Photography Competition
 
-<img src="/images/trees_for_life.jpg" 
-     style="width:60%">
+<img src="/images/trees_for_life.jpg" style="width:60%">
 
-__My favourite spot at my neighbourhood park where I like to unwind and read a good book.__ 
+__My favourite spot at my neighbourhood park where I like to unwind and read a good book.__&nbsp;
 
   
 
@@ -2149,22 +2137,21 @@ We rejoice with and congratulate Darla Gabrielle Tejada of 2.4, who has won a co
 
 ### Raffles Debate Academy Under-14 Debate Invitational
 
-<img src="/images/debate_award_2014sm.jpg" 
-     style="width:60%">
+<img src="/images/debate_award_2014sm.jpg" style="width:60%">
 		 
-On 24 and 31 May 2014, 5 PL Lower Sec Debaters defeated River Valley High, CHIJ Toa Payoh and CHIJ St Nicholas at the Raffles Debate Academy Under 14 Debate Championships, coming in 3rd overall, out of 24 top schools. They proceeded to compete against Hwa Chong Institution at the Quarter Finals but lost after a close fight. We are proud of their achievements! To God be the Glory! 
+On 24 and 31 May 2014, 5 PL Lower Sec Debaters defeated River Valley High, CHIJ Toa Payoh and CHIJ St Nicholas at the Raffles Debate Academy Under 14 Debate Championships, coming in 3rd overall, out of 24 top schools. They proceeded to compete against Hwa Chong Institution at the Quarter Finals but lost after a close fight. We are proud of their achievements! To God be the Glory!&nbsp;
 
   
 
-1. Elisabeth Lian (2.1) 
+1. Elisabeth Lian (2.1)&nbsp;
 
-2. Hannah Quek Sihui (2.1) 
+2. Hannah Quek Sihui (2.1)&nbsp;
 
-3. Rianne Lim Ee Shyan (2.2) 
+3. Rianne Lim Ee Shyan (2.2)&nbsp;
 
-4. Janice Sim Xinyi (2.3) 
+4. Janice Sim Xinyi (2.3)&nbsp;
 
-5. Megan Nicole Lew (2.5) 
+5. Megan Nicole Lew (2.5)&nbsp;
 
   
 
@@ -2172,27 +2159,26 @@ On 24 and 31 May 2014, 5 PL Lower Sec Debaters defeated River Valley High, CHIJ 
 
 ![](/images/National%20Schools%20Digital%20Media%20Competition%202014.png)
 
-Earlier in March, teams from the Media Information and Technology Club took part in the National Schools Digital Media Competition 2014 organised by the Singapore Civil Defence Force. Two teams were shortlisted for the second round where they spent 2 days during the March holidays completing their projects under the mentoring of students from the ITE College Central to better equip them to share the importance of Emergency Preparedness to their families and peers at school. 
+Earlier in March, teams from the Media Information and Technology Club took part in the National Schools Digital Media Competition 2014 organised by the Singapore Civil Defence Force. Two teams were shortlisted for the second round where they spent 2 days during the March holidays completing their projects under the mentoring of students from the ITE College Central to better equip them to share the importance of Emergency Preparedness to their families and peers at school.&nbsp;
 
   
 
-Out of the 100 entries and 13 finalists, the team represented by Joy Wong, Tan Pei Si, Tan Pei Qi and Mazel Ong won the 2nd Prize while the team represented by Holly Jee, Sim Lun Jean, Hosanna Tan and Brina Lim won the Consolation Prize. The winning entry 'Safety 101' has been selected by our panel of judges for the creativity and concise Emergency Preparedness messages on the dangers of Discarded Items Fire. The winning teams brought home a Canon powershot and a Sony thumbdrive together with an SCDF souvenir respectively. 
+Out of the 100 entries and 13 finalists, the team represented by Joy Wong, Tan Pei Si, Tan Pei Qi and Mazel Ong won the 2nd Prize while the team represented by Holly Jee, Sim Lun Jean, Hosanna Tan and Brina Lim won the Consolation Prize. The winning entry 'Safety 101' has been selected by our panel of judges for the creativity and concise Emergency Preparedness messages on the dangers of Discarded Items Fire. The winning teams brought home a Canon powershot and a Sony thumbdrive together with an SCDF souvenir respectively.&nbsp;
 
   
 
 ### Congratulations to the PL Debate Team
 
-<img src="/images/apr2014_debaters_SSSDC_sm.jpg" 
-     style="width:60%">
+<img src="/images/apr2014_debaters_SSSDC_sm.jpg" style="width:60%">
 		 
-PL Debaters Jessica Tedja (Sec 4A2), Man Gurshaaran Kaur (Sec 4A1), Amanda Chia (Sec 3A1), Elisabeth Lian (Sec 2.1) and Hannah Quek (Sec 2.1) competed in the Singapore Secondary Schools' Debating Championships from February to April 2014. Amanda Chia Shue Qi from Sec 3A1 has been ranked 16th Best Speaker out of 90 speakers from the Division 1 teams consisting of many top schools in Singapore, such as RI, RGS, ACSI, NYGH and SCGS. Congratulations, PL Debaters! 
+PL Debaters Jessica Tedja (Sec 4A2), Man Gurshaaran Kaur (Sec 4A1), Amanda Chia (Sec 3A1), Elisabeth Lian (Sec 2.1) and Hannah Quek (Sec 2.1) competed in the Singapore Secondary Schools' Debating Championships from February to April 2014. Amanda Chia Shue Qi from Sec 3A1 has been ranked 16th Best Speaker out of 90 speakers from the Division 1 teams consisting of many top schools in Singapore, such as RI, RGS, ACSI, NYGH and SCGS. Congratulations, PL Debaters!&nbsp;
 
   
 
 ### GB Award Ceremony 2014
 
 ![](/images/gb%202014.png)
-The school congratulates the Girls' Brigade (GB) for receiving the Sustained Gold Award (5 years from 2009 to 2013) at the GB Award Ceremony 2013 on 12 April 2014. 
+The school congratulates the Girls' Brigade (GB) for receiving the Sustained Gold Award (5 years from 2009 to 2013) at the GB Award Ceremony 2013 on 12 April 2014.&nbsp;
 
   
 
@@ -2200,49 +2186,49 @@ The school congratulates the Girls' Brigade (GB) for receiving the Sustained Gol
 
 ![](/images/66th%20national%20schools%20chess%20championship.png)
 
-On 21 and 22 March 2014, 8 of our students took part in the 66th National Schools Individual Chess Championships held in the Pasir Ris Sports Hall. 
+On 21 and 22 March 2014, 8 of our students took part in the 66th National Schools Individual Chess Championships held in the Pasir Ris Sports Hall.&nbsp;
 
   
 
-We would like to congratulate the girls on their achievement in the competition as follows: 
+We would like to congratulate the girls on their achievement in the competition as follows:&nbsp;
 
   
 
-**C Division Girls** 
+**C Division Girls**&nbsp;
 
-East Zone Merit: Audrey Chong, Sec 1.2 
-
-  
-
-**B Division Girls** 
-
-East Zone Merit: 
-
-- Gayathri Elangovan, Sec 2.1 
-
-- Tang Yan Jun Antoinette, Sec 2.1 
-
-- Teo Jia Ling, Sec 3A1 
-
-- Jessie Koh. Sec 3A2 
-
-- Tan Pei Si, Sec 3A3 
+East Zone Merit: Audrey Chong, Sec 1.2&nbsp;
 
   
 
-**East Zone** 
+**B Division Girls**&nbsp;
 
-3rd (Bronze) 
+East Zone Merit:&nbsp;
 
-- Tan Le Sze, Sec 4A1 
+- Gayathri Elangovan, Sec 2.1&nbsp;
+
+- Tang Yan Jun Antoinette, Sec 2.1&nbsp;
+
+- Teo Jia Ling, Sec 3A1&nbsp;
+
+- Jessie Koh. Sec 3A2&nbsp;
+
+- Tan Pei Si, Sec 3A3&nbsp;
 
   
 
-**East Zone** 
+**East Zone**&nbsp;
 
-1st (Gold), National 1st (Gold) 
+3rd (Bronze)&nbsp;
 
-- Anastasia Patricks, Sec 3A1 
+- Tan Le Sze, Sec 4A1&nbsp;
+
+  
+
+**East Zone**&nbsp;
+
+1st (Gold), National 1st (Gold)&nbsp;
+
+- Anastasia Patricks, Sec 3A1&nbsp;
 
   
 
@@ -2250,7 +2236,7 @@ East Zone Merit: 
 
 ![](/images/SMPF%202014.png)
 
-We congratulate Luanne Yong Yue Rong, Mildred Sim Phin, Matthea Loo Wei Ern and Natalie Soh Hann from Secondary 4A1 for receiving an Honourable Mention in the 2014 Singapore Mathematics Project Festival (Senior Category) organised by the Singapore Mathematics Society. The team came up with a research topic which was "An Extension of PIck Theorem" and wrote a mini thesis based on the research topic. 
+We congratulate Luanne Yong Yue Rong, Mildred Sim Phin, Matthea Loo Wei Ern and Natalie Soh Hann from Secondary 4A1 for receiving an Honourable Mention in the 2014 Singapore Mathematics Project Festival (Senior Category) organised by the Singapore Mathematics Society. The team came up with a research topic which was "An Extension of PIck Theorem" and wrote a mini thesis based on the research topic.&nbsp;
 
   
 
@@ -2258,15 +2244,15 @@ We congratulate Luanne Yong Yue Rong, Mildred Sim Phin, Matthea Loo Wei Ern and 
 
 ![](/images/36th%20CB%20Paul%20Science%20Quiz.png)
 
-On 26 January 2014, nine Secondary Two ACE Science pupils participated in the 36 th C.B. Paul Memorial Science Quiz organized by ACJC Science and Mathematics Council. The annual science quiz aims to provide a platform for students to apply textbook knowledge in explaining daily phenomena, and hence enabling them to exercise analytical and critical thinking skills. 
+On 26 January 2014, nine Secondary Two ACE Science pupils participated in the 36&nbsp;th&nbsp;C.B. Paul Memorial Science Quiz organized by ACJC Science and Mathematics Council. The annual science quiz aims to provide a platform for students to apply textbook knowledge in explaining daily phenomena, and hence enabling them to exercise analytical and critical thinking skills.&nbsp;
 
   
 
-The students were put through rigorous questions in a wide range of contexts including Astronomy, Biology, Chemistry, Computer Science, Mathematics and Physics. They were challenged to solve problems, evaluate theories, and interpret work which required them to draw on a complex array of understandings. 
+The students were put through rigorous questions in a wide range of contexts including Astronomy, Biology, Chemistry, Computer Science, Mathematics and Physics. They were challenged to solve problems, evaluate theories, and interpret work which required them to draw on a complex array of understandings.&nbsp;
 
   
 
-We are proud to announce that the following students have done the school proud: 
+We are proud to announce that the following students have done the school proud:&nbsp;
 
 *   Elisabeth Lian Shi-Ri, Secondary 2.1 (Bronze Individual Award)  
     
@@ -2277,25 +2263,25 @@ We are proud to announce that the following students have done the school proud:
 
   
 
-****Pupils' Reflections:**** 
+****Pupils' Reflections:****&nbsp;
 
-“After speaking to my seniors, I knew that the competition was going to be very tough and I was not counting on winning anything. The paper was indeed very tough but it was fun nonetheless. I think it was good knowing where I stand, and it was a great exposure beyond the syllabus. I would really want to do it again in the future.”  <br>
-**_Elisabeth Lian Shi-Ri, Secondary 2.1 (Bronze Individual Award)_** 
-
-  
-
-“I felt that the competition was very interesting and it was a good exposure. To be honest, the papers that we took were really tough. I actually got a shock because I have never been exposed to such questions before despite the preparation I had for this competition. Nonetheless, I believe this was a good time for me to actually try out my skills. From this competition, I learnt many sophisticated things, including new topics such as astronomy and computer science. I think that the school should continue to send the Secondary 2 girls for the competition as it actually will give them exposure to the different sciences apart from the three sciences that we learn in school.”  <br>
-**_Charis Chia, Secondary 2.3 (Bronze Individual Award)_** 
+“After speaking to my seniors, I knew that the competition was going to be very tough and I was not counting on winning anything. The paper was indeed very tough but it was fun nonetheless. I think it was good knowing where I stand, and it was a great exposure beyond the syllabus. I would really want to do it again in the future.”&nbsp; <br>
+**_Elisabeth Lian Shi-Ri, Secondary 2.1 (Bronze Individual Award)_**&nbsp;
 
   
 
-“I feel that the competition was extremely good exposure, especially for computer science and astronomy. It was very intellectually stimulating but tiring at the same time. Overall I think it was a very enriching experience that higher ability science girls should go for.”  <br>
-**_Hannah Quek , Secondary 2.1_** 
+“I felt that the competition was very interesting and it was a good exposure. To be honest, the papers that we took were really tough. I actually got a shock because I have never been exposed to such questions before despite the preparation I had for this competition. Nonetheless, I believe this was a good time for me to actually try out my skills. From this competition, I learnt many sophisticated things, including new topics such as astronomy and computer science. I think that the school should continue to send the Secondary 2 girls for the competition as it actually will give them exposure to the different sciences apart from the three sciences that we learn in school.”&nbsp; <br>
+**_Charis Chia, Secondary 2.3 (Bronze Individual Award)_**&nbsp;
 
   
 
-“I think it's a really a good exposure for me as the competition provided a wide range of questions for us to try. The questions asked during the competition were above our level, and I look forward to such a challenge.”  <br>
-**_Lim Hui Fang, Secondary 2.2_** 
+“I feel that the competition was extremely good exposure, especially for computer science and astronomy. It was very intellectually stimulating but tiring at the same time. Overall I think it was a very enriching experience that higher ability science girls should go for.”&nbsp; <br>
+**_Hannah Quek , Secondary 2.1_**&nbsp;
+
+  
+
+“I think it's a really a good exposure for me as the competition provided a wide range of questions for us to try. The questions asked during the competition were above our level, and I look forward to such a challenge.”&nbsp; <br>
+**_Lim Hui Fang, Secondary 2.2_**&nbsp;
 
   
 
@@ -2303,48 +2289,46 @@ We are proud to announce that the following students have done the school proud:
 
 ![](/images/inter-school%20cross%20country%20championship%202014.png)
 
-The PL Track and Field team participated in the 55th National Inter-School Cross Country Championships on 25 March 2014 at the Bedok Reservoir where one of our students, Soh Hann Natalie, from Secondary 4A1 won the Gold Medal in the "B" Division category. She ran the 3.6 km route with a timing of 14mins 28.07secs. We would like to thank the coach of the PL Track and Field team, Mr Alfred Sim, for helping the girls to achieve the excellent results. 
+The PL Track and Field team participated in the 55th National Inter-School Cross Country Championships on 25 March 2014 at the Bedok Reservoir where one of our students, Soh Hann Natalie, from Secondary 4A1 won the Gold Medal in the "B" Division category. She ran the 3.6 km route with a timing of 14mins 28.07secs. We would like to thank the coach of the PL Track and Field team, Mr Alfred Sim, for helping the girls to achieve the excellent results.&nbsp;
 
   
 
-There is an online newspaper article on this event reported by Today newspaper (26/03/2014). Here is an excerpt of the article: 
+There is an online newspaper article on this event reported by Today newspaper (26/03/2014). Here is an excerpt of the article:&nbsp;
 
   
 
-Natalie Soh of Paya Lebar Methodist Girls’ School Secondary delivered a surprise come-from-behind victory in the Girls ‘B’ Division race, as the gutsy 16-year-old held on to push past her rivals in the last 50m to claim the gold in 14min 28.7sec ahead of Nah Yi Xin (Cedar Girls’) and Shervon Goh (Commonwealth), who finished second and third respectively in 14:30.2 and 14:39.2. 
+Natalie Soh of Paya Lebar Methodist Girls’ School Secondary delivered a surprise come-from-behind victory in the Girls ‘B’ Division race, as the gutsy 16-year-old held on to push past her rivals in the last 50m to claim the gold in 14min 28.7sec ahead of Nah Yi Xin (Cedar Girls’) and Shervon Goh (Commonwealth), who finished second and third respectively in 14:30.2 and 14:39.2.&nbsp;
 
   
 
-“It was quite a struggle for me when I started the race as everyone was sprinting and I was still trying to get into the rhythm,” said the Secondary Four student, who finished 40th last year. “I wasn’t in the front and I struggled to keep up with them. Towards the end, I thought I would be okay with third, but at the end the two runners in front went faster and I kept up and overtook them in the last 50m. I certainly was the underdog and winning this feels great. It’s amazing, and I still can’t believe I won!” 
+“It was quite a struggle for me when I started the race as everyone was sprinting and I was still trying to get into the rhythm,” said the Secondary Four student, who finished 40th last year. “I wasn’t in the front and I struggled to keep up with them. Towards the end, I thought I would be okay with third, but at the end the two runners in front went faster and I kept up and overtook them in the last 50m. I certainly was the underdog and winning this feels great. It’s amazing, and I still can’t believe I won!”&nbsp;
 
 On 26 March 2014, The New Paper carried an article on Natalie Soh from Sec 4A1. 
 
-(Source: The New Paper © Singapore Press Holdings Limited, Reproduced with permission) 
+(Source: The New Paper © Singapore Press Holdings Limited, Reproduced with permission)&nbsp;
 
   
 
-****Pupil's Reflection:**** 
+****Pupil's Reflection:****&nbsp;
 
-"After hours of restless anticipation, the starting horn finally sounded and I kept close to the front of the pack. I was slowly burning out; that was when I drew strength from God to carry me through the race. His greatness surpassed my expectations by giving me that last dose of determination to sprint to the finish. All glory goes to Him and I really thank the school for providing me with this opportunity. Especially the teachers-in-charge, Ms Haida, Ms Tan and Ms Deepa, and of course the PL Track Team for their constant support. Thank you!"  <br>
-**_Natalie Soh, Sec 4A1_** 
+"After hours of restless anticipation, the starting horn finally sounded and I kept close to the front of the pack. I was slowly burning out; that was when I drew strength from God to carry me through the race. His greatness surpassed my expectations by giving me that last dose of determination to sprint to the finish. All glory goes to Him and I really thank the school for providing me with this opportunity. Especially the teachers-in-charge, Ms Haida, Ms Tan and Ms Deepa, and of course the PL Track Team for their constant support. Thank you!"&nbsp; <br>
+**_Natalie Soh, Sec 4A1_**&nbsp;
 
   
 
 ### 30th National Age Group Chess Championship 2013
 
-<img src="/images/dec2013_30_chess_championship2013sm.jpg" 
-     style="width:60%">
+<img src="/images/dec2013_30_chess_championship2013sm.jpg" style="width:60%">
 
-Darla Gabrielle Tejada from Sec 2.4 took part in the 30th National Age Group Chess Championship 2013 on 16-18 November 2013. She was awarded the 5th prize in the Girls Under 14 Category. 
+Darla Gabrielle Tejada from Sec 2.4 took part in the 30th National Age Group Chess Championship 2013 on 16-18 November 2013. She was awarded the 5th prize in the Girls Under 14 Category.&nbsp;
 
   
 
 ### National iBook Competition 2013
 
-<img src="/images/national_ibook_2013sm.jpg" 
-     style="width:60%">
+<img src="/images/national_ibook_2013sm.jpg" style="width:60%">
 
-The school congratulates Codie Leung (Sec 1.3), K. Vittusha (Sec 1.3) and Laura Lee (Sec 1.6) for winning the Popularity Vote Award at the National i.Books Competition jointly organised by the Nanyang Polytechnic and National Library Board in September 2013. The team from the school's Media Information & Technology (MIT) Club created an interactive storybook and presented their product to a panel of judges. They won for themselves an iPod shuffle each. 
+The school congratulates Codie Leung (Sec 1.3), K. Vittusha (Sec 1.3) and Laura Lee (Sec 1.6) for winning the Popularity Vote Award at the National i.Books Competition jointly organised by the Nanyang Polytechnic and National Library Board in September 2013. The team from the school's Media Information &amp; Technology (MIT) Club created an interactive storybook and presented their product to a panel of judges. They won for themselves an iPod shuffle each.&nbsp;
 
   
 
@@ -2352,15 +2336,15 @@ The school congratulates Codie Leung (Sec 1.3), K. Vittusha (Sec 1.3) and Laura 
 
 ![](/images/via%20project.png)
 
-PLMGSS was presented with an award by Guest of Honour, Senior Minister of State, Mr Heng Chee How, at the Intergenerational Learning Programme Appreciation and Award Ceremony 2013 for its unique Values in Action project where 50 of our Secondary Three pupils taught 30 elderly from St Luke’s ElderCare a music appreciation class with the ukulele over a span of 5 half-day sessions in May this year. The award presentation ceremony took place on 21 September 2013 (Saturday). 
+PLMGSS was presented with an award by Guest of Honour, Senior Minister of State, Mr Heng Chee How, at the Intergenerational Learning Programme Appreciation and Award Ceremony 2013 for its unique Values in Action project where 50 of our Secondary Three pupils taught 30 elderly from St Luke’s ElderCare a music appreciation class with the ukulele over a span of 5 half-day sessions in May this year. The award presentation ceremony took place on 21 September 2013 (Saturday).&nbsp;
 
   
 
-The highlight of the ceremony was the opening performance where our pupils and the elderly played the ukulele to the great delight of the audience. One of our pupils, Nivitha D/O Royston, was interviewed by the media and she shared how she learnt and benefited from her interaction with the elderly. One of the elderly who was truly a role model to our pupils is Mdm Tan, a 91-year old lady, who was a participant of our programme and a person who embodies the spirit of a life-long learner! 
+The highlight of the ceremony was the opening performance where our pupils and the elderly played the ukulele to the great delight of the audience. One of our pupils, Nivitha D/O Royston, was interviewed by the media and she shared how she learnt and benefited from her interaction with the elderly. One of the elderly who was truly a role model to our pupils is Mdm Tan, a 91-year old lady, who was a participant of our programme and a person who embodies the spirit of a life-long learner!&nbsp;
 
   
 
-PL is thankful to Council for the Third Age for their sponsorship and support, and HistoryMakers for their partnership and mentorship of our pupils in this meaningful project. 
+PL is thankful to Council for the Third Age for their sponsorship and support, and HistoryMakers for their partnership and mentorship of our pupils in this meaningful project.&nbsp;
 
   
 
@@ -2368,9 +2352,9 @@ PL is thankful to Council for the Third Age for their sponsorship and support, a
 
 ![](/images/national%20schools%20literature%20festival.png)
 
-We congratulate the following students for their achievements at the National Schools Literature Festival: 
+We congratulate the following students for their achievements at the National Schools Literature Festival:&nbsp;
 
-****Poetry Slam - 1st Prize***** 
+****Poetry Slam - 1st Prize*****&nbsp;
 
 *   Sandhya Alexandra Anand, Secondary 3A1  
     
@@ -2381,7 +2365,7 @@ We congratulate the following students for their achievements at the National Sc
 
   
 
-****Unseen Text Debate****** 
+****Unseen Text Debate******&nbsp;
 
 *   Chrystal Ng Wan Qi, Secondary 3A1  
     
@@ -2394,9 +2378,9 @@ We congratulate the following students for their achievements at the National Sc
 
   
 
-* The team received a special mention for demonstrating outstanding writing skills and won a one-to-one training with an established poet. 
+* The team received a special mention for demonstrating outstanding writing skills and won a one-to-one training with an established poet.&nbsp;
 
-** There was one round of concurrent debates. Our team won the debate they competed in. 
+** There was one round of concurrent debates. Our team won the debate they competed in.&nbsp;
 
   
 
@@ -2404,124 +2388,122 @@ We congratulate the following students for their achievements at the National Sc
 
 ![](/images/54th%20National%20Inter-school%20Team%20Chess%20Championships%202013.png)
 
-Our Chess Club took part in the 54th National Inter-school Team Chess Championships 2013 at Rulang Primary School on 31 August 2013. We congratulate the members of the Chess Club on their achievements: 
+Our Chess Club took part in the 54th National Inter-school Team Chess Championships 2013 at Rulang Primary School on 31 August 2013. We congratulate the members of the Chess Club on their achievements:&nbsp;
 
   
 
 ### Category: Secondary Girls Under 14
 
-****Team 1** 
+****Team 1**&nbsp;
 
-**2nd Prize - East Zone**** 
+**2nd Prize - East Zone****&nbsp;
 
-Teri Hwang Yong Qi 
+Teri Hwang Yong Qi&nbsp;
 
-Toh Jie Ying 
+Toh Jie Ying&nbsp;
 
-Don Ruvindya Hansani Hettig 
+Don Ruvindya Hansani Hettig&nbsp;
 
-Gilberte Jessie Koh Poh Ling 
+Gilberte Jessie Koh Poh Ling&nbsp;
 
-Wong Shi Ting 
+Wong Shi Ting&nbsp;
 
   
 
-****Team 2** 
+****Team 2**&nbsp;
 
-**1st Prize - East Zone** 
+**1st Prize - East Zone**&nbsp;
 
-**3rd Prize - Nationals**** 
+**3rd Prize - Nationals****&nbsp;
 
-Tan Pei Si 
+Tan Pei Si&nbsp;
 
-Antoinette Tang Yan Jun 
+Antoinette Tang Yan Jun&nbsp;
 
-Darla Gabrielle Tejada 
+Darla Gabrielle Tejada&nbsp;
 
-Elangovan Gayathri 
+Elangovan Gayathri&nbsp;
 
-Cristal Ang Hui Xian 
+Cristal Ang Hui Xian&nbsp;
 
   
 
 ### **Category: Secondary Open**
 
-****4th Prize - East Zone**** 
+****4th Prize - East Zone****&nbsp;
 
-Tan Le Sze 
+Tan Le Sze&nbsp;
 
-Ong Li Ying Mazel 
+Ong Li Ying Mazel&nbsp;
 
-Lee Yun Ying 
+Lee Yun Ying&nbsp;
 
-Tan Ling Yue Gloria 
+Tan Ling Yue Gloria&nbsp;
 
-Swee Jia En Alyssa 
+Swee Jia En Alyssa&nbsp;
 
   
 
 ### NPCC Inter-Unit Drills Competition
   
 
-The school congratulates the NPCC for emerging 8th out of 122 units in the NPCC Inter-Unit Drills Competition. The team members who participated in the competition are as follows: 
+The school congratulates the NPCC for emerging 8th out of 122 units in the NPCC Inter-Unit Drills Competition. The team members who participated in the competition are as follows:&nbsp;
 
-- Rachel Cheang, Secondary 3C1 
-- Grace Ang, Secondary 3A1 
-- Hing Kai Wen, Secondary 3B3 
-- Stella Wai, Secondary 3B3 
-- Jacelyn Tan, Secondary 3C1 
-- Ng Sing Yee, Secondary 2.7 
-- Amanda Jane Wong (2.3) 
-- Sonia Seow, Secondary 2.4 
-- Charmaine Ho, Secondary 2.6 
-- Jamilah Allyssa, Secondary 2.5 
-- Amanda Lai, Secondary 2.3 
-- Rebecca Tan, Secondary 2.1 
-- Phylicia Loh, Secondary 2.7 
-- Rachel Chan, Secondary 2.4 
-- Koh Wei Ling, Secondary 2. 
-- Rena Ang, Secondary 2.3 
-- Ferwynda Fylzar, Secondary 2.8 
+- Rachel Cheang, Secondary 3C1&nbsp;
+- Grace Ang, Secondary 3A1&nbsp;
+- Hing Kai Wen, Secondary 3B3&nbsp;
+- Stella Wai, Secondary 3B3&nbsp;
+- Jacelyn Tan, Secondary 3C1&nbsp;
+- Ng Sing Yee, Secondary 2.7&nbsp;
+- Amanda Jane Wong (2.3)&nbsp;
+- Sonia Seow, Secondary 2.4&nbsp;
+- Charmaine Ho, Secondary 2.6&nbsp;
+- Jamilah Allyssa, Secondary 2.5&nbsp;
+- Amanda Lai, Secondary 2.3&nbsp;
+- Rebecca Tan, Secondary 2.1&nbsp;
+- Phylicia Loh, Secondary 2.7&nbsp;
+- Rachel Chan, Secondary 2.4&nbsp;
+- Koh Wei Ling, Secondary 2.&nbsp;
+- Rena Ang, Secondary 2.3&nbsp;
+- Ferwynda Fylzar, Secondary 2.8&nbsp;
 
   
 
 ### East Zone A* Star Science Fair Symposium 2013
 
-<img src="/images/east_zone_astar2013sm.jpg" 
-     style="width:60%">
+<img src="/images/east_zone_astar2013sm.jpg" style="width:60%">
 		 
-A team of students from Secondary 3A1 participated in the East Zone A\* Star Science Fair Symposium 2013. Their research project entitled "Which common waste fruit is the most effective biofuel?" clinched a Silver Award. 
+A team of students from Secondary 3A1 participated in the East Zone A\* Star Science Fair Symposium 2013. Their research project entitled "Which common waste fruit is the most effective biofuel?" clinched a Silver Award.&nbsp;
 
   
 
-The school congratulates the team comprising the following students on their achievement: 
+The school congratulates the team comprising the following students on their achievement:&nbsp;
 
-Koh Shao Qi Natalene, Sec 3A1 <br>
-Chrystal Ng Wan Qi, Sec 3A1  <br>
-Ashley Poh Ching Lin, Sec 3A1 <br>
-Soh Hann Natalie, Sec 3A1 
+Koh Shao Qi Natalene, Sec 3A1&nbsp;<br>
+Chrystal Ng Wan Qi, Sec 3A1&nbsp; <br>
+Ashley Poh Ching Lin, Sec 3A1&nbsp;<br>
+Soh Hann Natalie, Sec 3A1&nbsp;
 
   
 
 ### S Rajaratnam Leadership Series 2013 - Story-telling Competition
 
-<img src="/images/story_telling01sm.jpg" 
-     style="width:60%">
+<img src="/images/story_telling01sm.jpg" style="width:60%">
 		 
-We congratulate the following students for their achievement in the Story-telling Competition of the S Rajaratnam Leadership Series 2013: 
+We congratulate the following students for their achievement in the Story-telling Competition of the S Rajaratnam Leadership Series 2013:&nbsp;
 
-Semi-finalist – Reena Premchand Primalani, Secondary 2.1 
+Semi-finalist – Reena Premchand Primalani, Secondary 2.1&nbsp;
 
-Finalist (Fifth Place) – Lad Komal Bhupendra, Secondary 2.2 
+Finalist (Fifth Place) – Lad Komal Bhupendra, Secondary 2.2&nbsp;
 
   
 
 ### International Competition and Assessments for Schools 2013 Science
 
 
-*   High Distinction - Lo Ern Hui Hannah (2-2) 
+*   High Distinction - Lo Ern Hui Hannah (2-2)&nbsp;
     
-*   Distinction - Seah Kai Lin (2-1) 
+*   Distinction - Seah Kai Lin (2-1)&nbsp;
     
 
   
@@ -2538,9 +2520,9 @@ Finalist (Fifth Place) – Lad Komal Bhupendra, Secondary 2.2 
 
   
 
-### S'pore Mathematics Competition & S'pore Mathematical Olympiad
+### S'pore Mathematics Competition &amp; S'pore Mathematical Olympiad
 
-Our pupils from the Accelerated Mathematics Programme (AMP) took part in the 2013 Secondary Schools Singapore Mathematics Competition with the theme of "Application of Mathematics in Planet Earth". We are pleased to announce that our team of Sec 4 AMP pupils comprising Kiong Min Yi Kimberly, Yip Juen Chen Nicole, Xu Ming Xin clinched the third prize for their essay entitled "Rate of fluid flow through porous media". 
+Our pupils from the Accelerated Mathematics Programme (AMP) took part in the 2013 Secondary Schools Singapore Mathematics Competition with the theme of "Application of Mathematics in Planet Earth". We are pleased to announce that our team of Sec 4 AMP pupils comprising Kiong Min Yi Kimberly, Yip Juen Chen Nicole, Xu Ming Xin clinched the third prize for their essay entitled "Rate of fluid flow through porous media".&nbsp;
 
   
 
@@ -2631,31 +2613,31 @@ In the Singapore Mathematical Olympiad, PLMGS (Sec) was ranked 27 out of 122 sch
 
 ![](/images/Youthoria!.png)
 
-Four PL-lites from Class 3B3 represented PLMGSS in the finals of the Tourism Innovation Challenge 2013 organised by Temasek Polytechnic on 15 and 16 July 2013. They were to conceptualise a proposal aimed at turning Singapore into an attractive destination for youth travellers. 
+Four PL-lites from Class 3B3 represented PLMGSS in the finals of the Tourism Innovation Challenge 2013 organised by Temasek Polytechnic on 15 and 16 July 2013. They were to conceptualise a proposal aimed at turning Singapore into an attractive destination for youth travellers.&nbsp;
 
   
 
-Our girls put together a tour concept entitled ‘Youthoria’ that sought to weave in their experiences gained through the school’s unique Overseas Faithful-In-Service (FIS)programme by inviting youth tourists to engage in social projects – an idea which was commended as ‘heart-warming’ by one of the judges from the Singapore Tourism Board. 
+Our girls put together a tour concept entitled ‘Youthoria’ that sought to weave in their experiences gained through the school’s unique Overseas Faithful-In-Service (FIS)programme by inviting youth tourists to engage in social projects – an idea which was commended as ‘heart-warming’ by one of the judges from the Singapore Tourism Board.&nbsp;
 
-The proposal ultimately came in 4 th overall in the competition, a testament of not only their creativity but also the school’s successful overseas service learning project! 
-
-  
-
-The school congratulates the team comprising Lim Ying, Natale Tan, Chloe Chan and Yvvyan Tan for their achievement! 
+The proposal ultimately came in 4&nbsp;th&nbsp;overall in the competition, a testament of not only their creativity but also the school’s successful overseas service learning project!&nbsp;
 
   
 
-****Pupils’ Reflections:**** 
-
-“The competition was interesting for me as I am very keen in the tourism industry and may even consider a post-secondary course in Tourism and Resort Management. It helped me to gain insights on the Singapore tourism industry.” **_– Natale Tan_** 
+The school congratulates the team comprising Lim Ying, Natale Tan, Chloe Chan and Yvvyan Tan for their achievement!&nbsp;
 
   
 
-“This competition taught me that cooperation and team work is important as the tasks were numerous. We would not have gotten things done without the efforts of one another!” **_\- Lim Ying_** 
+****Pupils’ Reflections:****&nbsp;
+
+“The competition was interesting for me as I am very keen in the tourism industry and may even consider a post-secondary course in Tourism and Resort Management. It helped me to gain insights on the Singapore tourism industry.”&nbsp;**_– Natale Tan_**&nbsp;
 
   
 
-“This competition has forced us to think out of the box and come up with new ideas and concepts.” **_– Chloe Chan_** 
+“This competition taught me that cooperation and team work is important as the tasks were numerous. We would not have gotten things done without the efforts of one another!”&nbsp;**_\- Lim Ying_**&nbsp;
+
+  
+
+“This competition has forced us to think out of the box and come up with new ideas and concepts.”&nbsp;**_– Chloe Chan_**&nbsp;
 
   
 
@@ -2663,7 +2645,7 @@ The school congratulates the team comprising Lim Ying, Natale Tan, Chloe Chan an
 
 ![](/images/lam%20soon%20cc%20salad%20competition.png)
 
-Janae Chua and Larrinna Haverkamp, both from Secondary 3B2 participated in the Lam Soon CC Salad Competition on 20 July 2013 (Saturday) . They battled against 20 other schools and won the hearts of the judges with their enticing and tangy Vietnam Thai Salad. Finally, they emerged top in the upper secondary category. 
+Janae Chua and Larrinna Haverkamp, both from Secondary 3B2 participated in the Lam Soon CC Salad Competition on 20 July 2013 (Saturday) . They battled against 20 other schools and won the hearts of the judges with their enticing and tangy Vietnam Thai Salad. Finally, they emerged top in the upper secondary category.&nbsp;
 
   
 
@@ -2671,29 +2653,29 @@ Janae Chua and Larrinna Haverkamp, both from Secondary 3B2 participated in the L
 
 ![](/images/Breathing%20new%20life%20into%20unwanted%20books.png)
 
-Five PL-lites from Class 3B3 represented PLMGSS in the finals of the National Youth Business Challenge 2013 organised by Ngee Ann Polytechnic. In this competition, teams had to put together a sustainable business plan that is promotes environmentalism. 
+Five PL-lites from Class 3B3 represented PLMGSS in the finals of the National Youth Business Challenge 2013 organised by Ngee Ann Polytechnic. In this competition, teams had to put together a sustainable business plan that is promotes environmentalism.&nbsp;
 
   
 
-Seizing the opportunity that was presented as the school library had just condemned some old books, our girls developed 5 products which massively impressed the judges and won the top prize - Gold Award for having the Most Earth Friendly Business Concept. 
+Seizing the opportunity that was presented as the school library had just condemned some old books, our girls developed 5 products which massively impressed the judges and won the top prize - Gold Award for having the Most Earth Friendly Business Concept.&nbsp;
 
   
 
-The school congratulates the team comprising of Zeona Aw, Tay Shi Ying, Valerina Tang, Natale Tan and Keziah Teo for their achievement. 
+The school congratulates the team comprising of Zeona Aw, Tay Shi Ying, Valerina Tang, Natale Tan and Keziah Teo for their achievement.&nbsp;
 
   
 
-**Pupils’ Reflections:** 
+**Pupils’ Reflections:**&nbsp;
 
-‘It was an eye-opener! We learnt how to develop our ideas and carry them through from concept into reality. We also learnt how to present our final products in a way that was appealing to our customers.’ **_\- Valerina Tang_** 
-
-  
-
-‘It was a fun experience. Through this competition we learnt about the importance of teamwork and making preparations to deal with unforeseen circumstances.’ **_– Tay Shi Ying_** 
+‘It was an eye-opener! We learnt how to develop our ideas and carry them through from concept into reality. We also learnt how to present our final products in a way that was appealing to our customers.’&nbsp;**_\- Valerina Tang_**&nbsp;
 
   
 
-‘It was really enriching on how we were able to plan out, produce and market our products. I have also picked up other recycling tips from other schools in the competition’ **_– Natale Tan_** 
+‘It was a fun experience. Through this competition we learnt about the importance of teamwork and making preparations to deal with unforeseen circumstances.’&nbsp;**_– Tay Shi Ying_**&nbsp;
+
+  
+
+‘It was really enriching on how we were able to plan out, produce and market our products. I have also picked up other recycling tips from other schools in the competition’&nbsp;**_– Natale Tan_**&nbsp;
 
   
 
@@ -2701,7 +2683,7 @@ The school congratulates the team comprising of Zeona Aw, Tay Shi Ying, Valerina
 
 ![](/images/may2013_RDA_U14_01sm.jpg)
 
-The PL lower secondary debaters defeated Fairfield Methodist School (Secondary) and NUS High School at the Raffles Debate Academy Under 14 Debate Championships held on 25 May at Raffles Institution (Junior College): 
+The PL lower secondary debaters defeated Fairfield Methodist School (Secondary) and NUS High School at the Raffles Debate Academy Under 14 Debate Championships held on 25 May at Raffles Institution (Junior College):&nbsp;
 
 1.  Amanda Chia (Sec 2.2, Team Captain)  
     
@@ -2716,14 +2698,14 @@ The PL lower secondary debaters defeated Fairfield Methodist School (Secondary) 
 
   
 
-There were 24 teams in all -- including most top schools like Raffles Institution, Raffles Girls’ School, Nanyang Girls’ High School, Methodist Girls’ School and Singapore Chinese Girls’ School. They competed in 3 matches and were defeated by HCI in the prepared round. The 2nd and 3rd rounds were impromptu rounds in which they beatFMSS and NUS High. 
+There were 24 teams in all -- including most top schools like Raffles Institution, Raffles Girls’ School, Nanyang Girls’ High School, Methodist Girls’ School and Singapore Chinese Girls’ School. They competed in 3 matches and were defeated by HCI in the prepared round. The 2nd and 3rd rounds were impromptu rounds in which they beatFMSS and NUS High.&nbsp;
 
   
 
-**Pupils’ Reflections:** 
+**Pupils’ Reflections:**&nbsp;
 
-“RDA U14s 2013 was a memorable and enriching experience as we were pitted against some of the finest debaters. We knew that to succeed, we must work together as a team and train hard. The competition provided a great platform to explore global issues and gain different perspectives. We would like to thank our coach, teachers, Mrs Ong and Ms Ong for their constant guidance and support. To God be the Glory!”  <br>
-**_Amanda Chia, Secondary 2.2_** 
+“RDA U14s 2013 was a memorable and enriching experience as we were pitted against some of the finest debaters. We knew that to succeed, we must work together as a team and train hard. The competition provided a great platform to explore global issues and gain different perspectives. We would like to thank our coach, teachers, Mrs Ong and Ms Ong for their constant guidance and support. To God be the Glory!”&nbsp; <br>
+**_Amanda Chia, Secondary 2.2_**&nbsp;
 
   
 
@@ -2731,7 +2713,7 @@ There were 24 teams in all -- including most top schools like Raffles Institutio
 
 ![](/images/National%20Schools%20Digital%20Media%20Competition%202013.png)
 
-6 Teams from the Media Information and Technology (MIT) Club participated in the National Schools Digital Media Competition (NSDMC) 2013 where they had to to create comic strips to promote Civil Defence in Singapore. They worked on topics such as 'How to make your home fire safe', 'CPR Basics 101' and 'What is Public warning System'. The teams submitted their proposals and 2 teams whose proposals were shortlisted, attended a 2-day workshop in March where they polished their projects and submitted for judging. Team 1, comprising of Ayesha Kanwal (Sec 1.2) , Angela Tan Jia Yi (Sec 1.2), Heera Farzana ( Sec 1.3) and Codie Leung Zi Ning (Sec 1.3) won the top 10 placing while Team 2, represented by Sandra Choy (Sec 1.7), K. Vittusha (Sec 1.3), Jazreel Yeo Shi Hui (Sec 1.4) and Laura Lee Yin (Sec 1.6) won the top 20 position. 
+6 Teams from the Media Information and Technology (MIT) Club participated in the National Schools Digital Media Competition (NSDMC) 2013 where they had to to create comic strips to promote Civil Defence in Singapore. They worked on topics such as 'How to make your home fire safe', 'CPR Basics 101' and 'What is Public warning System'. The teams submitted their proposals and 2 teams whose proposals were shortlisted, attended a 2-day workshop in March where they polished their projects and submitted for judging. Team 1, comprising of Ayesha Kanwal (Sec 1.2) , Angela Tan Jia Yi (Sec 1.2), Heera Farzana ( Sec 1.3) and Codie Leung Zi Ning (Sec 1.3) won the top 10 placing while Team 2, represented by Sandra Choy (Sec 1.7), K. Vittusha (Sec 1.3), Jazreel Yeo Shi Hui (Sec 1.4) and Laura Lee Yin (Sec 1.6) won the top 20 position.&nbsp;
 
   
 
@@ -2882,7 +2864,7 @@ The school congratulates the following pupils for their achievements in the Inte
 
 ![](/images/Youth_Bilingual_Speech_Competition_sm.jpg)
 
-We are proud to announce that Ng Yu Qi (Secondary 3B1) (on the left of the photo) clinched the 2nd Prize in the Singapore-China Children and Youth Bilingual Speech Competition. 
+We are proud to announce that Ng Yu Qi (Secondary 3B1) (on the left of the photo) clinched the 2nd Prize in the Singapore-China Children and Youth Bilingual Speech Competition.&nbsp;
 
   
 
@@ -2890,31 +2872,31 @@ We are proud to announce that Ng Yu Qi (Secondary 3B1) (on the left of the photo
 
 ![](/images/Photography%20Achievements%20by%20PL-Lites.png)
 
-The school congratulates the members of PL Photography Club on being featured in the 2nd edition of EOS Academy magazine. The magazine seeks to recognise pupils who have done well in the art of photography among the educational institutions in Singapore, including the junior colleges, polytechnics and universities. 
+The school congratulates the members of PL Photography Club on being featured in the 2nd edition of EOS Academy magazine. The magazine seeks to recognise pupils who have done well in the art of photography among the educational institutions in Singapore, including the junior colleges, polytechnics and universities.&nbsp;
 
   
 
-The photographs taken by the following 6 pupils were featured in the magazine: 
+The photographs taken by the following 6 pupils were featured in the magazine:&nbsp;
 
-1) Syaza Nisrina, Secondary 2-3 (1 photo) 
+1) Syaza Nisrina, Secondary 2-3 (1 photo)&nbsp;
 
-2) Magdalene Tan, Secondary 2-5 (2 photos) 
+2) Magdalene Tan, Secondary 2-5 (2 photos)&nbsp;
 
-3) Estelle Heng, Secondary 3B2 (1 photo) 
+3) Estelle Heng, Secondary 3B2 (1 photo)&nbsp;
 
-4) Hannah Chan, Secondary 3B1 (1 photo) 
+4) Hannah Chan, Secondary 3B1 (1 photo)&nbsp;
 
-5) Nicole Ng, Secondary 3A3 (1 photo) 
+5) Nicole Ng, Secondary 3A3 (1 photo)&nbsp;
 
-6) Venessa Ng, Secondary 4B3 (3 photos) 
-
-  
-
-In addition, Magdalene and Nicole were also featured in the 1st edition of the magazine. 
+6) Venessa Ng, Secondary 4B3 (3 photos)&nbsp;
 
   
 
-We are very proud of their achievement and this is indeed a significant milestone for them. 
+In addition, Magdalene and Nicole were also featured in the 1st edition of the magazine.&nbsp;
+
+  
+
+We are very proud of their achievement and this is indeed a significant milestone for them.&nbsp;
 
   
 
@@ -2926,19 +2908,19 @@ We are proud to announce that our pupils clinched 2 Individual Bronze Awards and
 
 ![](/images/Photography%20Achievements%20by%20PL-Lites%202.png)
 
-The PL Photography Club is proud to announce that the works by some of our student photographers were featured in professional photography magazines. 
+The PL Photography Club is proud to announce that the works by some of our student photographers were featured in professional photography magazines.&nbsp;
 
   
 
-The photos taken by Nicole Ng (Secondary 2-2), Megan Ng (Secondary 2-2), Magdalene Tan (Secondary 1-5) and Delia Leow (Secondary 4A2) were published by the EOS Academy magazine in September. 
+The photos taken by Nicole Ng (Secondary 2-2), Megan Ng (Secondary 2-2), Magdalene Tan (Secondary 1-5) and Delia Leow (Secondary 4A2) were published by the EOS Academy magazine in September.&nbsp;
 
   
 
-In addition, another of Megan’s photo was published in the Canon Buzzmagazine. Her work emerged as the best entry for the month of October and was also featured in the Canon EOS World portal. In the recently concluded Canon Photomarathon (November), Megan’s work was again shortlisted as one of the top 10 entries amongst all submissions in the Student Category (including university students). 
+In addition, another of Megan’s photo was published in the Canon Buzzmagazine. Her work emerged as the best entry for the month of October and was also featured in the Canon EOS World portal. In the recently concluded Canon Photomarathon (November), Megan’s work was again shortlisted as one of the top 10 entries amongst all submissions in the Student Category (including university students).&nbsp;
 
   
 
-We are indeed very proud of their achievements. 
+We are indeed very proud of their achievements.&nbsp;
 
   
 
@@ -2946,31 +2928,29 @@ We are indeed very proud of their achievements. 
 
 ![](/images/perPETually%20Yours!.png)
 
-Owning a pet is a life-long commitment – that was the message five girls from Secondary 3D1 zealously shared with shoppers at Causeway Point on 17 and18 November 2012. This entrepreneurship activity was part of the National Pushcart Challenge Finals 2012 organised by Republic Polytechnic. 
+Owning a pet is a life-long commitment – that was the message five girls from Secondary 3D1 zealously shared with shoppers at Causeway Point on 17 and18 November 2012. This entrepreneurship activity was part of the National Pushcart Challenge Finals 2012 organised by Republic Polytechnic.&nbsp;
 
   
 
-In this competition, teams had to collaborate with social enterprises to innovate and market products to help them raise funds as well as spread awareness of their causes. Our team comprising of Melissa, Durgeswary, Letchimi, Min Shan and Siu Ching worked with the Society for the Prevention of Cruelty against Animals (SPCA) and fashioned desktop clocks out of unwanted CDs. This innovation, coupled with their dedication in working twelve-hour shifts, earned them the 4 th overall position out of a total of 15 finalists. 
+In this competition, teams had to collaborate with social enterprises to innovate and market products to help them raise funds as well as spread awareness of their causes. Our team comprising of Melissa, Durgeswary, Letchimi, Min Shan and Siu Ching worked with the Society for the Prevention of Cruelty against Animals (SPCA) and fashioned desktop clocks out of unwanted CDs. This innovation, coupled with their dedication in working twelve-hour shifts, earned them the 4&nbsp;th&nbsp;overall position out of a total of 15 finalists.&nbsp;
 
   
 
 ### 6th Sudoku Challenge 2012
 
-<img src="/images/july2012_sudoku_challenge2012sm.jpg" 
-     style="width:60%">
+<img src="/images/july2012_sudoku_challenge2012sm.jpg" style="width:60%">
 		 
-1 st Runner-up at the 6 th Sudoku Challenge 2012 
+1&nbsp;st&nbsp;Runner-up at the 6&nbsp;th&nbsp;Sudoku Challenge 2012&nbsp;
 
-From left to right: Luisa Phuah (Sec 2-2), Chrystal Ng (Sec 2-2), Janice Chan (Sec 2-3) and Yong Yuan Yen (Sec 2-2 
+From left to right: Luisa Phuah (Sec 2-2), Chrystal Ng (Sec 2-2), Janice Chan (Sec 2-3) and Yong Yuan Yen (Sec 2-2&nbsp;
 
   
 
 ### Tourism Innovation Challenge 2012
 
-<img src="/images/june_2012_TourismInnovationChallenge2012_02sm.jpg" 
-     style="width:60%">
+<img src="/images/june_2012_TourismInnovationChallenge2012_02sm.jpg" style="width:60%">
 		 
-PLMGS (Sec) is 1st Runners Up at the competition organised by Temasek Polytechnic. 
+PLMGS (Sec) is 1st Runners Up at the competition organised by Temasek Polytechnic.&nbsp;
 
   
 
@@ -2979,8 +2959,7 @@ PLMGS (Sec) is 1st Runners Up at the competition organised by Temasek Polytechni
 ### SJAB East Zone First Aid and Home Nursing Competition 2012
 
 
-<img src="/images/march%202012%20stj%20first%20aid%20%201.jpg" 
-     style="width:60%">
+<img src="/images/march%202012%20stj%20first%20aid%20%201.jpg" style="width:60%">
 		 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -3090,21 +3069,18 @@ PLMGS (Sec) is 1st Runners Up at the competition organised by Temasek Polytechni
 ### National Schools Podcast Competition 2011
 
 
-<img src="/images/National%20Schools%20Podcast%20Competition%202011.png" style="width:70%" >
+<img src="/images/National%20Schools%20Podcast%20Competition%202011.png" style="width:70%">
 
 
-<img src="/images/National%20Schools%20Podcast%20Competition%202011%202.png" 
-     style="width:80%">
+<img src="/images/National%20Schools%20Podcast%20Competition%202011%202.png" style="width:80%">
 		 
 ### School Digital Media Award "Media Evolution" 2011
 
-<img src="/images/p10.png" 
-     style="width:80%" >
+<img src="/images/p10.png" style="width:80%">
 		 
 ### AEC (Alternative Energy Car) Challenge Sollar Prix 2011
 
-<img src="/images/AEC%202011.png" 
-     style="width:80%" >
+<img src="/images/AEC%202011.png" style="width:80%">
 		 
 ### Confident Speakers, Creative Writers 2011
 
@@ -3119,16 +3095,16 @@ PLMGS (Sec) is 1st Runners Up at the competition organised by Temasek Polytechni
 
 ![](/images/NJC_Photo_Comp.jpg)
 
-Congratulations to Amanda Wong from Secondary 4D1. 
+Congratulations to Amanda Wong from Secondary 4D1.&nbsp;
 
-She won the Third Prize in the Landscape Category of the 2011 NJC Nature Photography Competition. 
+She won the Third Prize in the Landscape Category of the 2011 NJC Nature Photography Competition.&nbsp;
 
   
 
 ### Mobile Animation Challenge 2010
 
 
-Theme: 'Your Singapore: the Unique Experience' 
+Theme: 'Your Singapore: the Unique Experience'&nbsp;
 
 *   To view the work of the finalists from Team 4: Lee Jia Yi Clair(1.3), Than Huey Yee Amanda(1.3) and Loh Yuan Qi Michelle(1.6)
 
@@ -3138,7 +3114,7 @@ Theme: 'Your Singapore: the Unique Experience' 
 
 ![](/images/east%20zone%20music%20competition.png)
 
-Nadia Krista Kamadjaja from Sec 3B1 won the 2nd prize at the East Zone Music Competition held at Pasir Ris Crest Secondary School on 27 August 2010. She was accompanied on the piano by Teo Charmaine from Secondary 3A4. Congratulations! 
+Nadia Krista Kamadjaja from Sec 3B1 won the 2nd prize at the East Zone Music Competition held at Pasir Ris Crest Secondary School on 27 August 2010. She was accompanied on the piano by Teo Charmaine from Secondary 3A4. Congratulations!&nbsp;
 
   
 
