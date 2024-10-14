@@ -2,6 +2,7 @@
 title: Post Secondary Scholarships
 permalink: /instructional-programmes/post-secondary-scholarships/
 description: ""
+variant: markdown
 ---
 ![](/images/PSS01a.jpg)
 ![](/images/unleash.png)
@@ -166,7 +167,7 @@ These include the following:
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-9u4g">ITE Community Scholarship<br><br>•      Open to Singaporean school leavers who have enrolled into full-time Higher Nitec and Nitec courses<br>•      Are in the top 10 per cent of the GCE ‘N’/GCE ‘O’ level entrants at each intake exercise.  <br>•      See more at: <a href="https://www.ite.edu.sg/docs/default-source/scholarships-awards-busaries/cdc_25mar20.pdf?sfvrsn=6397a481_2"><span style="text-decoration:underline;color:#454545">https://www.ite.edu.sg/docs/default-source/scholarships-awards-busaries/cdc_25mar20.pdf?sfvrsn=6397a481_2</span></a></th>
+    <th class="tg-9u4g">ITE Community Scholarship<br><br>•      Open to Singaporean school leavers who have enrolled into full-time Higher Nitec and Nitec courses<br>•      Are in the top 10 per cent of the GCE ‘N’/GCE ‘O’ level entrants at each intake exercise.  <br></th>
   </tr>
 </thead>
 <tbody>
@@ -174,7 +175,7 @@ These include the following:
     <td class="tg-9u4g">BCA-Industry Built Environment ITE Scholarship<br>•      See more at: <br><a href="http://brightsparks.com.sg/profile/bca/scholarships.php?&amp;schid=7536&amp;"><span style="text-decoration:underline;color:#454545">http://brightsparks.com.sg/profile/bca/scholarships.php?&amp;schid=7536&amp;</span></a></td>
   </tr>
   <tr>
-    <td class="tg-9u4g">Nursing Sponsorship for NITEC in Nursing<br>•      Gain admission to the NITEC course at ITE Simei<br>•      3 ‘N’ Levels or 2 ‘O’ Levels passes<br>•      Possess a good co-curricular activities (CCA) record<br>•      Have a passion for public healthcare sector<br>•      Demonstrate strong leadership qualities and excellent communication skills<br>•      See more at: <a href="https://www.ite.edu.sg/docs/default-source/scholarships-awards-busaries/scholarships-for-ite-courses_9jun2020.pdf?sfvrsn=f82709c2_2"><span style="text-decoration:underline;color:#454545">https://www.ite.edu.sg/docs/default-source/scholarships-awards-busaries/scholarships-for-ite-courses_9jun2020.pdf?sfvrsn=f82709c2_2</span></a></td>
+    <td class="tg-9u4g">Nursing Sponsorship for NITEC in Nursing<br>•      Gain admission to the NITEC course at ITE Simei<br>•      3 ‘N’ Levels or 2 ‘O’ Levels passes<br>•      Possess a good co-curricular activities (CCA) record<br>•      Have a passion for public healthcare sector<br>•      Demonstrate strong leadership qualities and excellent communication skills<br></td>
   </tr>
   <tr>
     <td class="tg-9u4g">SingHealth Nursing Sponsorship (NITEC)<br>•      Good GCE ‘N‘/’O’ Level Result<br>•      Good CCA records<br>•      Keen to have a career in the public healthcare sector as a nurse<br>•      See more at: <a href="https://brightsparks.com.sg/profile/singhealth/scholarship.php?schid=8629"><span style="text-decoration:underline;color:#454545">https://brightsparks.com.sg/profile/singhealth/scholarship.php?schid=8629</span></a></td>
