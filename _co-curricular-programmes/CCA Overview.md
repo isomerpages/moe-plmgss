@@ -66,20 +66,18 @@ CCA consist of the following Core Activities & Interest Groups:
     
 *   [Choir](https://staging.d31lf6q9623hn3.amplifyapp.com/co-curricular-programmes/performing-arts/choir)  
     
-*   [Concert Band](https://staging.d31lf6q9623hn3.amplifyapp.com/co-curricular-programmes/performing-arts/concert-band)
-*   [English Drama](https://staging.d31lf6q9623hn3.amplifyapp.com/co-curricular-programmes/performing-arts/english-drama)
+*   [Concert Band](https://www.plmgss.moe.edu.sg/co-curricular-programmes/performing-arts/concert-band)
+*   [English Drama](https://www.plmgss.moe.edu.sg/co-curricular-programmes/performing-arts/english-drama)
 *   [Modern Dance](https://staging.d31lf6q9623hn3.amplifyapp.com/co-curricular-programmes/performing-arts/modern-dance)
-*   [Guitar Ensemble](https://staging.d31lf6q9623hn3.amplifyapp.com/co-curricular-programmes/performing-arts/guitar-ensemble)
-*   [Guzheng Ensemble](https://staging.d31lf6q9623hn3.amplifyapp.com/co-curricular-programmes/performing-arts/guzheng-ensemble)
-*   [Handbell Ensemble](https://staging.d31lf6q9623hn3.amplifyapp.com/co-curricular-programmes/performing-arts/handbell-ensemble)
-*   [Harp Ensemble](https://staging.d31lf6q9623hn3.amplifyapp.com/co-curricular-programmes/performing-arts/harp-ensemble)
+*   [Guitar Ensemble](https://www.plmgss.moe.edu.sg/co-curricular-programmes/performing-arts/guitar-ensemble)
+*   [Guzheng Ensemble](https://www.plmgss.moe.edu.sg/co-curricular-programmes/performing-arts/guzheng-ensemble)
+*   [Handbell Ensemble](https://www.plmgss.moe.edu.sg/co-curricular-programmes/performing-arts/handbell-ensemble)
+*   [Harp Ensemble](https://www.plmgss.moe.edu.sg/co-curricular-programmes/performing-arts/harp-ensemble)
 
   
 
 **d. Clubs & Societies**
 
-*   [English Language, Drama and Debating](https://staging.d31lf6q9623hn3.amplifyapp.com/co-curricular-programmes/clubs-and-societies/english-language-drama-and-debating)  
+*   [English Language, Drama and Debating](https://www.plmgss.moe.edu.sg/co-curricular-programmes/clubs-and-societies/english-language-drama-and-debating)  
     
-*   [Infocomm Technology (Media Production)](https://staging.d31lf6q9623hn3.amplifyapp.com/co-curricular-programmes/clubs-and-societies/infocomm-technology-media-production)
-*   [International Chess](https://staging.d31lf6q9623hn3.amplifyapp.com/co-curricular-programmes/clubs-and-societies/international-chess)  
-    
+*   [Infocomm Technology (Media Production)](https://www.plmgss.moe.edu.sg/co-curricular-programmes/clubs-and-societies/infocomm-technology-media-production)
