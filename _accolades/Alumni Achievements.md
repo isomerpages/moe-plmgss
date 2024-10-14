@@ -2,6 +2,7 @@
 title: Alumni Achievements
 permalink: /accolades/alumni-achievements/
 description: ""
+variant: markdown
 ---
 ### Year: 2022
 
@@ -831,7 +832,7 @@ description: ""
   <tr>
     <td class="tg-ncov">37<br></td>
     <td class="tg-sxkx"><img src="/images/Fathima%20Raiza%20Rifky.jpg" alt="Fathima Raiza Rifky.jpg" width="207" height="138"><br>Fathima Raiza Rifky<br>(4A3, 2017)</td>
-    <td class="tg-ncov">Anugerah Belia Cemerlang<br>MENDAKI Award<br>(<a href="https://www.mendaki.org.sg/mendaki/programmes/educational-assistance/scholarships-n-bursaries"><span style="text-decoration:underline;color:#454545">MENDAKI Youth Promise Awards</span></a>)<br></td>
+    <td class="tg-ncov">Anugerah Belia Cemerlang<br>MENDAKI Award</td>
     <td class="tg-ncov"> Mendaki</td>
   </tr>
   <tr>

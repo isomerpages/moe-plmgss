@@ -3,6 +3,7 @@ title: Nutrition Food Science
 permalink: /instructional-programmes/aesthetics/curriculum/nutrition-food-science/
 description: ""
 third_nav_title: Aesthetics
+variant: markdown
 ---
 The Nutrition Food Science (NFS) unit comprises Food and Consumer Education (FCE) for all lower secondary classes and Food & Nutrition for upper sec students. The unit syllabus aims to equip students with basic nutritional knowledge for healthy living and provide opportunities for them to acquire life skills for effective personal management such as resource management.  
 The pedagogy adopted for NFS is Inquire-based learning for lower secondary and Problem based learning for upper secondary.  
@@ -31,15 +32,8 @@ Enrichments
 *   Sharing Platforms - Maker Faire Singapore  
     
 
-At Upper Secondary, we offer the GCE O-Level Food & Nutrition and GCE N-Level Food & Nutrition examinations. The details are found as follows:  
+At Upper Secondary, we offer the GCE O-Level Food & Nutrition and GCE N-Level Food & Nutrition examinations. 
 
-  
-
-O-Level Food & Nutrition: [https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2020syllabus/6087\_y20\_sy.pdf](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2020syllabus/6087_y20_sy.pdf)
-
-  
-
-N-Level Food & Nutrition: [https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2020syllabus/6072\_y20\_sy.pdf](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2020syllabus/6072_y20_sy.pdf)
 
 ### Photo Gallery
 
