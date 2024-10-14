@@ -235,8 +235,8 @@ The SEC-StarHub School Green Awards (SGA) is a self-audited voluntary environmen
 
 **MOE Masterplans of Awards**  
 
-(Please click&nbsp;[here](https://www.moe.gov.sg/media/press/files/2008/09/moe-masterplan-of-awards-for-schools.pdf)&nbsp;for more information)  
-  
+
+ 
 
 As an autonomous school since 2002, PLMGS(Sec) has attained the School Distinction Award (2007), Best Practice Awards (BPA) for Staff Well-Being (2003, 2007 and 2012), Teaching and Learning (2007 and 2012) and Student All Round Development (2012) and the Outstanding Development Award (Character Development) (2009 and 2012).&nbsp; In the 2012 external validation exercise, the school was accorded the School Excellence Award, the pinnacle award in the MOE’s Masterplan of Awards. The school has also achieved two SPRING Singapore Business Excellence awards, namely, the People Developer Award and the Singapore Quality Class.  
 
