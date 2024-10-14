@@ -3,13 +3,14 @@ title: October 2019
 permalink: /about-us/pl-epistle/2019/october-2019/
 description: ""
 third_nav_title: "2019"
+variant: markdown
 ---
 ### Yellow Flame Award
 
 ![](/images/72581633_2518946474861336_885442031017525248_n.jpg)
 
 We are proud to announce that PL (Secondary) was awarded the Yellow Flame Award in the Schools Green Award 2019.  
-Find out more here:&nbsp;[http://sec.org.sg/sga/awards-criteria/](http://sec.org.sg/sga/awards-criteria/)  
+
 
 ### Christmas Service
 
