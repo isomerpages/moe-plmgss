@@ -3,13 +3,12 @@ title: Syllabuses
 permalink: /instructional-programmes/ip-overview/syllabuses/
 description: ""
 third_nav_title: IP Overview
+variant: markdown
 ---
-
-<img src="/images/moe_logo.png" 
-     style="width:25%">
+<img src="/images/moe_logo.png" style="width:25%">
 		 
 To access the Subject and Examination syllabuses, please click on the following links:  
-[https://www.moe.gov.sg/education/syllabuses](https://www.moe.gov.sg/education/syllabuses)
+[https://www.moe.gov.sg/secondary/courses](https://www.moe.gov.sg/secondary/courses)
 
   
 
@@ -21,4 +20,3 @@ Subjects for Normal (Academic) course
   
 Subjects for Normal (Technical) course  
 [https://www.moe.gov.sg/secondary/courses/normal-technical/electives#subjects](https://www.moe.gov.sg/secondary/courses/normal-technical/electives#subjects)
-
