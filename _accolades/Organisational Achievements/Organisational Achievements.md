@@ -136,7 +136,7 @@ In October 2015, Paya Lebar Methodist Girls’ School (Secondary) was awarded th
   
 **2015 - Keep Singapore Clean Movement - 'Bright Spot' within school**  
 
-In June 2015, Paya Lebar Methodist Girls' School (Secondary) was selected as a 'Bright Spot' within school as part of the Keep Singapore Clean Movement. 'Bright Spots' are shared spaces adopted by its stakeholders who take ownership of its cleanliness, keep them clean and help to educate and encourage good cleanliness practices. More information on ‘Bright Spots’ may be found here.  
+In June 2015, Paya Lebar Methodist Girls' School (Secondary) was selected as a 'Bright Spot' within school as part of the Keep Singapore Clean Movement. 'Bright Spots' are shared spaces adopted by its stakeholders who take ownership of its cleanliness, keep them clean and help to educate and encourage good cleanliness practices. 
 
   
 **Building and Construction Authority (BCA)&nbsp;Green&nbsp;Mark Award**
@@ -274,7 +274,7 @@ MOE has removed the Masterplan of Awards (MOA) from 2014. In view of this, the S
     <td class="tg-sxkx">2009, 2012</td>
   </tr>
   <tr>
-    <td class="tg-sxkx">Read press release <a href="https://www.moe.gov.sg/media/press/2001/pr18072001.htm"><span style="text-decoration:underline;color:#454545">here</span></a></td>
+    <td class="tg-sxkx"></td>
     <td class="tg-sxkx"><span style="font-weight:bold">‘AUTONOMOUS SCHOOL’ STATUS</span><br><span style="font-weight:bold">Autonomous School status was accorded to schools which provides students with quality education. The Autonomous Schools give parents more options in the choice of quality schools for their children.</span></td>
     <td class="tg-sxkx">Since 2002</td>
   </tr>
