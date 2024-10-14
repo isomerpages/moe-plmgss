@@ -270,7 +270,7 @@ Please click&nbsp;[here](/files/lim_siong_guan_article2014.pdf)&nbsp;for the new
 
 **Undaunted by disability**
 
-![](/images/chia_yong_yong_sm.jpg)
+![](/images/chia_yong_yong.jpg)
 
 <small>(Source: The Straits Times © Singapore Press Holdings Limited. Reproduced with permission)</small>
 
@@ -340,16 +340,14 @@ Recently, the local newspapers featured our alumni PL-Lites in their coverage of
 
 Seetal Kaur Randhawa (Sec 4A1, Class of 2004) set up 'The Shoemaker's Elf' to plug what she saw as a gap in the market. The article describes how she overcame the challenges in setting up and operating the business.
 
-![](/images/st_uniquely79_seetal_kuar_link.jpeg)
-
+![](/images/st_uniquely79_seetal_kuar.jpg)
 <small>(Source: Today © Singapore Press Holdings Limited, Reproduced with permission)</small>
 
 **Bonding across the generational divide**
 
 Sarah Wan and Regina Koh (both from Sec 4A3, Class of 2006) and two others created a campaign called 'The Silver Yarn Project', a youth movement aimed at getting young people to communicate with their seniors. According to the newspaper article, 'The Silver Yarn Project' has reached out to more than 200 000 people. In January 2013, the group launched '#SilverYarn Instagram Contest', where youths submitted photos of their grandparents and their stories of days gone by.
 
-![](/images/today_bonding_across_generational_divide_link.jpeg)
-
+![](/images/today_bonding_across_generational_divide.jpg)
 <small>Source: The New Paper © Singapore Press Holdings Limited, Reproduced with permission)</small>
 
 ![](/images/st-citra-sets-sights-on-olympics_sm.jpeg)
