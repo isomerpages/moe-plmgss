@@ -3,26 +3,27 @@ title: ACE (Math & Science)
 permalink: /instructional-programmes/ip-overview/ace-math-n-science/
 description: ""
 third_nav_title: IP Overview
+variant: markdown
 ---
 ### Rationale of the Programme
 
-The Accelerated and Enhanced learning programme, ACE (Maths & Science) is a 2 -year programme that provides students, who have an aptitude in Mathematics & Science, with learning experiences that extend and deepen their interest and passion in the subjects. The ACE programme aims to engage learners through acquiring knowledge and skills beyond the MOE curriculum. Students are engaged in collaborative research projects with external educational institutions. They also participate in overseas twinning programmes and learning journeys. 
+The Accelerated and Enhanced learning programme, ACE (Maths &amp; Science) is a 2 -year programme that provides students, who have an aptitude in Mathematics &amp; Science, with learning experiences that extend and deepen their interest and passion in the subjects. The ACE programme aims to engage learners through acquiring knowledge and skills beyond the MOE curriculum. Students are engaged in collaborative research projects with external educational institutions. They also participate in overseas twinning programmes and learning journeys.&nbsp;
 
   
 
 ### Objectives of the Programme
 
-* Equip – To help students acquire Mathematical and Scientific knowledge, skills and attitudes through an extended curriculum 
+* Equip – To help students acquire Mathematical and Scientific knowledge, skills and attitudes through an extended curriculum&nbsp;
 
-* Explore & Expose – To nurture students’ passion and interest by providing them opportunities to pursue their area of interest through independent and self-directed learning
+* Explore &amp; Expose – To nurture students’ passion and interest by providing them opportunities to pursue their area of interest through independent and self-directed learning
 
-* Excite – To enthuse students and nurture their interest in Mathematics & Science so that they will consider pursuing careers related to Science, Technology, Engineering and Mathematics (STEM)
+* Excite – To enthuse students and nurture their interest in Mathematics &amp; Science so that they will consider pursuing careers related to Science, Technology, Engineering and Mathematics (STEM)
 
   
 
 ### Structure of the Programme
 
-All ACE (Maths & Science) sessions will be held weekly on Wed, 2.35 – 4.55 p.m.
+All ACE (Maths &amp; Science) sessions will be held weekly on Wed, 2.35 – 4.55 p.m.
 
 Students may need to go out of school in some sessions.
 
@@ -38,7 +39,7 @@ Students are free to carry out their research after the scheduled ACE sessions.
     
 *   Workshops to deepen Mathematics and Science knowledge/skills (e.g. Maths Olympiad training)  
     
-*   Learning journeys to higher educational institutions/organisations   
+*   Learning journeys to higher educational institutions/organisations&nbsp;  
     
 
   
@@ -47,9 +48,9 @@ Students are free to carry out their research after the scheduled ACE sessions.
 
 *   Application of research skills through a Mathematics / Science research project  
     
-*   Workshops to deepen Mathematics and Science knowledge/skills   
+*   Workshops to deepen Mathematics and Science knowledge/skills&nbsp;  
     
-*   Learning journeys to higher educational institutions/organisations   
+*   Learning journeys to higher educational institutions/organisations&nbsp;  
     
 *   Work Attachment to jobs in STEM fields  
     
@@ -91,7 +92,7 @@ Students are free to carry out their research after the scheduled ACE sessions.
     <td class="tg-sxkx"> Bronze</td>
     <td class="tg-sxkx">Cho Hui Mei Sharon (S2)<br>Crystal Tan Zhi Rong (S2)<br>Lee Jie Qi Janel (S2)</td>
     <td class="tg-sxkx">Ms Kok Lai Fong</td>
-    <td class="tg-sxkx"> <a href="/files/2007%20SMPF%20-%20Maxi%20Max.pdf"><span style="text-decoration:underline;color:#454545">2007 SMPF - Maxi Max.pdf</span></a></td>
+    <td class="tg-sxkx"> </td>
   </tr>
   <tr>
     <td class="tg-sxkx">2007</td>
