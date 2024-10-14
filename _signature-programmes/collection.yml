@@ -4,7 +4,6 @@ collections:
     order:
       - CCP Overview/.keep
       - CCP Overview/CCP Overview.md
-      - CCP Overview/PL HEALTH.md
       - CCP Overview/PL LiVE.md
       - CCP Overview/PL REACH.md
       - CCP Overview/PL LEAD.md
