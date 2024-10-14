@@ -3,13 +3,12 @@ title: Organisational Achievements
 permalink: /accolades/organisational-achievements/
 description: ""
 third_nav_title: Organisational Achievements
+variant: markdown
 ---
-
 ### World Robot Games 2016 Singapore
 
 
-<img src="/images/july2016_world_robotics05sm.jpg" 
-     style="width:50%">
+<img src="/images/july2016_world_robotics05sm.jpg" style="width:50%">
 		 
 In June, several teams of students from PLMGS (Sec) did the school proud by winning Gold and Silver awards in the World Robot Games Singapore 2016, in the "Search and Rescue Robot" Secondary School Category, as well as the Bronze award in the "Line Tracing Robot" Secondary School Category. PLMGS (Sec) was invited to represent Singapore in the World Robot Games International 2016 in Bandung, Indonesia, from 25 to 28 August 2016, against teams from Indonesia, China, Thailand, Philippines, Vietnam, Hong Kong and Myanmar.  
   
@@ -52,8 +51,8 @@ In June, several teams of students from PLMGS (Sec) did the school proud by winn
     <td class="tg-vdyi"><span style="font-weight:normal">Bronze</span></td>
     <td class="tg-vdyi"><span style="font-weight:normal">Bronze</span></td>
     <td class="tg-vdyi"><span style="font-weight:normal">Blaze</span></td>
-    <td class="tg-vdyi"><span style="font-weight:normal">Blaze</span><br><span style="font-weight:normal">(Click</span> <a href="https://aep.nac.gov.sg/nacaep/dam/nacaep/pdf/site/nationalArtsEducationAward/LIST-OF-AWARD-RECIPIENTS-FOR-NAEA-2013/LIST%20OF%20AWARD%20RECIPIENTS%20FOR%20NAEA%202013.pdf"><span style="text-decoration:underline;color:#454545">here</span></a> <span style="font-weight:normal">to see list of awardees)</span></td>
-    <td class="tg-vdyi"><span style="font-weight:normal">Blaze</span><br><span style="font-weight:normal">(Click</span> <a href="https://aep.nac.gov.sg/nacaep/dam/nacaep/pdf/site/nationalArtsEducationAward/List-of-NAEA-2015-Award-Recipients/List%20of%20NAEA%202015%20Award%20Recipients.pdf"><span style="text-decoration:underline;color:#454545">here</span></a> <span style="font-weight:normal">to see list of awardees)</span></td>
+    <td class="tg-vdyi"><span style="font-weight:normal">Blaze</span></td>
+    <td class="tg-vdyi"><span style="font-weight:normal">Blaze</span></td>
   </tr>
 </tbody>
 </table>
@@ -82,7 +81,7 @@ The Tan Kah Kee Young Inventors’ Award seeks to stimulate creativity among the
 ![](/images/tkk_banner%20copy.png)
 ### Our Journey in Paya Lebar Methodist Girl’s School
 
-Please [click here](/files/tan_kah_kee_young_inventors_award.pdf) to read the article
+Please&nbsp;[click here](/files/tan_kah_kee_young_inventors_award.pdf)&nbsp;to read the article
 
   
 Four teams from Paya Lebar Methodist Girls’ School (Sec) were selected for the first round interview and two teams made it to the second round interview. We are proud to announce that two of our teams attained the Commendation Awards student category and Paya Lebar Methodist Girls’ School (Sec) attained 2nd place under the School Award category.  
@@ -126,7 +125,7 @@ The SEC-StarHub School Green Awards (SGA) is a self-audited voluntary environmen
 </table>
 
 
-For more information, please refer to [https://sec.org.sg/sga/awards-criteria/](https://sec.org.sg/sga/awards-criteria/)
+For more information, please refer to&nbsp;[https://sec.org.sg/sga/awards-criteria/](https://sec.org.sg/sga/awards-criteria/)
 
 **2017 - Sembcorp Go Green Fund 2017 - Secondary School / Tertiary Category**
 
@@ -141,10 +140,9 @@ In October 2015, Paya Lebar Methodist Girls’ School (Secondary) was awarded th
 In June 2015, Paya Lebar Methodist Girls' School (Secondary) was selected as a 'Bright Spot' within school as part of the Keep Singapore Clean Movement. 'Bright Spots' are shared spaces adopted by its stakeholders who take ownership of its cleanliness, keep them clean and help to educate and encourage good cleanliness practices. More information on ‘Bright Spots’ may be found here.  
 
   
-**Building and Construction Authority (BCA) Green Mark Award**
+**Building and Construction Authority (BCA)&nbsp;Green&nbsp;Mark Award**
 
-<img src="/images/bca_icon.png" 
-     style="width:30%">
+<img src="/images/bca_icon.png" style="width:30%">
 		 
 The Building and Construction Authority (BCA) has worked closely with the Ministry of Education (MOE) to develop the new BCA Green Mark for Existing Schools, which places stronger emphasis on raising the awareness amongst students and educating our future generation on the importance of environmental sustainability and conservation.
 
@@ -188,7 +186,7 @@ The Building and Construction Authority (BCA) has worked closely with the Minist
 
 ![](/images/lotus01.png)
 
-The SEC-StarHub School Green Awards (SGA) is a self-audited voluntary environmental programme which serves as a platform for students to develop and showcase their environmental efforts, through customised activities which will help them gain better understanding of the environment. (source: [https://www.sec.org.sg/sga/about-sga.php](https://www.sec.org.sg/sga/about-sga.php))
+The SEC-StarHub School Green Awards (SGA) is a self-audited voluntary environmental programme which serves as a platform for students to develop and showcase their environmental efforts, through customised activities which will help them gain better understanding of the environment. (source:&nbsp;[https://www.sec.org.sg/sga/about-sga.php](https://www.sec.org.sg/sga/about-sga.php))
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -238,10 +236,10 @@ The SEC-StarHub School Green Awards (SGA) is a self-audited voluntary environmen
 
 **MOE Masterplans of Awards**  
 
-(Please click [here](https://www.moe.gov.sg/media/press/files/2008/09/moe-masterplan-of-awards-for-schools.pdf) for more information)  
+(Please click&nbsp;[here](https://www.moe.gov.sg/media/press/files/2008/09/moe-masterplan-of-awards-for-schools.pdf)&nbsp;for more information)  
   
 
-As an autonomous school since 2002, PLMGS(Sec) has attained the School Distinction Award (2007), Best Practice Awards (BPA) for Staff Well-Being (2003, 2007 and 2012), Teaching and Learning (2007 and 2012) and Student All Round Development (2012) and the Outstanding Development Award (Character Development) (2009 and 2012).  In the 2012 external validation exercise, the school was accorded the School Excellence Award, the pinnacle award in the MOE’s Masterplan of Awards. The school has also achieved two SPRING Singapore Business Excellence awards, namely, the People Developer Award and the Singapore Quality Class.  
+As an autonomous school since 2002, PLMGS(Sec) has attained the School Distinction Award (2007), Best Practice Awards (BPA) for Staff Well-Being (2003, 2007 and 2012), Teaching and Learning (2007 and 2012) and Student All Round Development (2012) and the Outstanding Development Award (Character Development) (2009 and 2012).&nbsp; In the 2012 external validation exercise, the school was accorded the School Excellence Award, the pinnacle award in the MOE’s Masterplan of Awards. The school has also achieved two SPRING Singapore Business Excellence awards, namely, the People Developer Award and the Singapore Quality Class.  
 
   
 MOE has removed the Masterplan of Awards (MOA) from 2014. In view of this, the School Excellence Award, Sustained Achievement Award and the Academic Value-Added awards were removed.
