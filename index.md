@@ -12,7 +12,7 @@ sections:
       key_highlights:
         - title: Announcements & Events
           description: Click here to read more
-          url: /term-4-cca-training-schedule/
+          url: /2025-secondary-3-subject-combinations/
       subtitle: 巴耶礼峇美以美女校（中学）
   - infopic:
       title: DSA Information Session
