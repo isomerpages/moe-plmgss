@@ -233,7 +233,7 @@ Our alumna, Ms Eliza Ng (Class of 2005) was featured in the NIE News (March 2015
 
 **A bus chaser and winner**
 
-![](/images/natalie_soh_TNPsm.jpeg)
+![](/images/pl_wins_cross_country2014.png)
 
 <small>(Source: The New Paper © Singapore Press Holdings Limited, Reproduced with permission)</small>
 
@@ -245,8 +245,7 @@ On 22 May 2014, Natalie Soh (Sec 4A1) was featured in the New Paper. In the news
 
 ### An act of appreciation from Keely New who demonstrates the PL G.R.A.C.E. values
 
-![](/images/keely_wanbao_sm.jpeg)
-
+![](/images/keely_wanbao.jpg)
 <small>(Source: 联合晚报 © Singapore Press Holdings Limited. Reproduced with permission)</small>
   
 
@@ -271,7 +270,6 @@ Please click&nbsp;[here](/files/lim_siong_guan_article2014.pdf)&nbsp;for the new
 **Undaunted by disability**
 
 ![](/images/chia_yong_yong.jpg)
-
 <small>(Source: The Straits Times © Singapore Press Holdings Limited. Reproduced with permission)</small>
 
   
@@ -310,7 +308,8 @@ In 2013, she was awarded the Public Service Medal (PBM) in the National Day Awar
 
 The Straits Times recently featured a winner in the 4th annual Icon de Martell Cordon Bleu 2013. This photography award recognises Singapore’s outstanding photographers based on a body of work. We are proud of Sarah Choo Jing (Sec 4B2, Class of 2006) for winning the top prize.
 
-![](/images/Alumni%20PL-Lite%20wins%20Photography%20Award.png)
+![](/images/sarah_choo_newspaper_article01.jpg)
+![](/images/sarah_choo_newspaper_article02.jpg)
 
 <small>(Source: The Straits Times © Singapore Press Holdings Limited. Reproduced with permission)</small>
 
