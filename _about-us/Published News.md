@@ -2,6 +2,7 @@
 title: Published News
 permalink: /about-us/published-news/
 description: ""
+variant: markdown
 ---
 ### 2019
 
@@ -90,10 +91,10 @@ For the newspaper articles on the school's Founder's Day Celebrations, please cl
 3. Berita Harian
 ![](/images/pl100_newspaper_bh.jpeg)
 
-<small>(Source: The Straits Times, Lianhe Zaobao & Berita Harian © Singapore Press Holdings Limited. Reproduced with permission)</small>
+<small>(Source: The Straits Times, Lianhe Zaobao &amp; Berita Harian © Singapore Press Holdings Limited. Reproduced with permission)</small>
 
-This celebratory event was captured in an article which appears in the December issue of [Methodist News](https://message.methodist.org.sg/).  
-Please [click here](/files/MM%20Dec%202016%20P7%20PL100.pdf) to read the article.
+This celebratory event was captured in an article which appears in the December issue of&nbsp;[Methodist News](https://message.methodist.org.sg/).  
+Please&nbsp;[click here](/files/MM%20Dec%202016%20P7%20PL100.pdf)&nbsp;to read the article.
 
 **World Robot Games 2016**
 
@@ -104,8 +105,8 @@ Please [click here](/files/MM%20Dec%202016%20P7%20PL100.pdf) to read the artic
 The PL power team was blessed with the following awards at the World Robot Games 2016 in Bandung!  
 
   
-1) Search & Rescue Pro Category - 1 Gold Award  
-2) Search & Rescue Senior Category - 1 Gold Award & 1 Bronze Award  
+1) Search &amp; Rescue Pro Category - 1 Gold Award  
+2) Search &amp; Rescue Senior Category - 1 Gold Award &amp; 1 Bronze Award  
 3) Sumo 5kg RC Junior Category - 1 Silver Award  
 4) Innovative Category - 1 Gold Award and 1 Bronze Award  
 5) Robots in Movie Category - 1 Silver Award  
@@ -114,7 +115,7 @@ The PL power team was blessed with the following awards at the World Robot Games
   
 Total Award 3 Gold, 2 Silver, 2 Bronze Award, 7 Performance Award and 1 Spirit of World Robot Games Award (Only given to Singapore)  
 
-**Using Macro Lenses** **- Assessment in Student Leadership Development (SLD)**  
+**Using Macro Lenses**&nbsp;**- Assessment in Student Leadership Development (SLD)**  
 
 PL is honoured that we have been given the opportunity to share the following article published on the Student Leadership Development (SLD) Programme E-Buzz Issue 8 in Sept 2016. This is a monthly online publication by Student Development Curriculum Division, MOE for schools to share best practices in the area of Student Leadership.  
 
@@ -175,7 +176,7 @@ On 11 March 2016, the deejays from UFM100.3 and Ms Su Jun Ying, a well-known pla
 
 ![](/images/tkk_banner%20copy.png)
 
- Please [click here](/files/tan_kah_kee_young_inventors_award.pdf) to read the article. 
+ Please&nbsp;[click here](/files/tan_kah_kee_young_inventors_award.pdf)&nbsp;to read the article. 
 
 ### PL Leads Learning during the Solar Eclipse
 
@@ -219,13 +220,13 @@ The EZ Beacon is a publication for all East Zone schools. The 2015 edition featu
 
 ![](/images/eliza_ng01sm.jpeg)
 
-Our alumna, Ms Eliza Ng (Class of 2005) was featured in the NIE News (March 2015). Please [click here](/files/eliza_ng_steeplerace.pdf) for the article.
+Our alumna, Ms Eliza Ng (Class of 2005) was featured in the NIE News (March 2015). Please&nbsp;[click here](/files/eliza_ng_steeplerace.pdf)&nbsp;for the article.
 
 ### 2014
 
 **My N-Level Inspiration is ....**
 
-![](/images/n_level_courtney2014sm.jpeg)
+[![](/images/n_level_courtney2014sm.jpeg)](/file/pl_wins_cross_country2014.pdf)
 
 <small>(Source: The New Paper © Singapore Press Holdings Limited, Reproduced with permission)</small>
 
@@ -249,7 +250,7 @@ On 22 May 2014, Natalie Soh (Sec 4A1) was featured in the New Paper. In the news
 <small>(Source: 联合晚报 © Singapore Press Holdings Limited. Reproduced with permission)</small>
   
 
-On 4 March 2014, the Lianhe Wanbao carried a report on an anonymous Nanyang Junior College (NYJC) student who gave teachers and students a treat at the canteen drinks stall accompanied by 32 handwritten notes in November 2013. She was an alumni PL-Lite, Miss Keely New (Sec 4A1, Class of 2011). The report noted comments from Principal ofNYJC who said he had wanted to reveal the girl’s name when the A Levels results were distributed yesterday. However, he kept it as a secret to surprise his staff and students.  The Principal of NYJC also said he would share this through the school’s official Facebook page as there were still many who were unaware of the girl’s identity. Keely was well-liked by both teachers and her peers in school and was awarded the Edusave Character Award in August 2013.
+On 4 March 2014, the Lianhe Wanbao carried a report on an anonymous Nanyang Junior College (NYJC) student who gave teachers and students a treat at the canteen drinks stall accompanied by 32 handwritten notes in November 2013. She was an alumni PL-Lite, Miss Keely New (Sec 4A1, Class of 2011). The report noted comments from Principal ofNYJC who said he had wanted to reveal the girl’s name when the A Levels results were distributed yesterday. However, he kept it as a secret to surprise his staff and students. &nbsp;The Principal of NYJC also said he would share this through the school’s official Facebook page as there were still many who were unaware of the girl’s identity. Keely was well-liked by both teachers and her peers in school and was awarded the Edusave Character Award in August 2013.
 
   
 
@@ -263,7 +264,7 @@ _Source: The Straits Times © Singapore Press Holdings Limited. Reproduced with 
 
 Mr Lim Siong Guan studied in PL when we had boys attending the school in the afternoon. In his book, he mentioned his mother, Mrs Mary Lim, who was a teacher in our school. His two sisters, Doreen and Violet, studied in PL too and Violet later also taught in PL.
 
-Please click [here](/files/lim_siong_guan_article2014.pdf) for the newspaper article about Mr Lim and his new book.
+Please click&nbsp;[here](/files/lim_siong_guan_article2014.pdf)&nbsp;for the newspaper article about Mr Lim and his new book.
 
 ### 2013
 
@@ -279,15 +280,15 @@ The school congratulates Ms Chia Yong Yong (PL Alumni, 1969-1978) on her appoint
 
 In an interview with the Straits Times, she recounted her days as a student in PLMGS.
 
-She started tripping and falling in kindergarten, but was diagnosed  with peroneal muscular atrophy only at 15. As her muscle tissue progressively weakened, she used crutches, then a wheelchair. She has not been able to stand for more than 20 years and her hands have grown limp and curled as well.
+She started tripping and falling in kindergarten, but was diagnosed &nbsp;with peroneal muscular atrophy only at 15. As her muscle tissue progressively weakened, she used crutches, then a wheelchair. She has not been able to stand for more than 20 years and her hands have grown limp and curled as well.
 
   
 
-Her alma mater, Paya Lebar Methodist  Girls' School, worked  around her mobility issues  - yet treated her as normally as possible. Her former secondary school principal, Mrs Winnie Tan, gave her ground-floor classrooms. 
+Her alma mater, Paya Lebar Methodist &nbsp;Girls' School, worked &nbsp;around her mobility issues &nbsp;- yet treated her as normally as possible. Her former secondary school principal, Mrs Winnie Tan, gave her ground-floor classrooms.&nbsp;
 
   
 
-Friends helped her to the laboratory and chapel on the second floor, exemplifying the school's ethos as a "household of love and faith", Mrs Tan says. 
+Friends helped her to the laboratory and chapel on the second floor, exemplifying the school's ethos as a "household of love and faith", Mrs Tan says.&nbsp;
 
   
 
@@ -295,11 +296,11 @@ Ms Chia says: "If I was too talkative, I would be made to stand up. The teachers
 
   
 
-She is a lawyer at Yusarn Audrey Law Firm and she has been President of the Society for the Physically Disabled since 2008. 
+She is a lawyer at Yusarn Audrey Law Firm and she has been President of the Society for the Physically Disabled since 2008.&nbsp;
 
   
 
-In 2011, she was awarded the President’s Social Service Award, by the President of the Republic of Singapore for voluntary contributions made to the social service sector. 
+In 2011, she was awarded the President’s Social Service Award, by the President of the Republic of Singapore for voluntary contributions made to the social service sector.&nbsp;
 
 In 2013, she was awarded the Public Service Medal (PBM) in the National Day Awards in recognition of her exemplary service rendered to Singapore.
 
@@ -319,13 +320,13 @@ The Straits Times recently featured a winner in the 4th annual Icon de Martell C
 
 Rhapssody is a quarterly Community Outreach Newsletter published by the Singapore Symphony Orchestra. In the Sep-Dec 2013 issue, there was article on SSO on Campus which featured PLMGS (Sec). Below is an excerpt of the article.
 
-Each school was actively involved in every stage of the process, from preparations to publicity to execution of the concert proper, and distributing concert flyers both internally and externally, promoting the concert during school assemblies and deploying student ushers to assist the SSO with audience management. They see this partnership as beneficial to both the community and the school. 
+Each school was actively involved in every stage of the process, from preparations to publicity to execution of the concert proper, and distributing concert flyers both internally and externally, promoting the concert during school assemblies and deploying student ushers to assist the SSO with audience management. They see this partnership as beneficial to both the community and the school.&nbsp;
 
-As Mr Ng Eng Kee, Aesthetics Subject Head of PLMGS (S) shares: "One of the school's strategic thrusts is Partnership, and the collaboration between the SSO and PLMGS (S) is a recognition of our school's effort in arts education. The outreach concert makes the school more accessible to the community and helps to raise public awareness of the school and its strength and focus on the arts. It provides an opportunity for the community to witness and appreciate high quality music making in the heartland of Lorong AhSoo and close to their home. 
+As Mr Ng Eng Kee, Aesthetics Subject Head of PLMGS (S) shares: "One of the school's strategic thrusts is Partnership, and the collaboration between the SSO and PLMGS (S) is a recognition of our school's effort in arts education. The outreach concert makes the school more accessible to the community and helps to raise public awareness of the school and its strength and focus on the arts. It provides an opportunity for the community to witness and appreciate high quality music making in the heartland of Lorong AhSoo and close to their home.&nbsp;
 
 The concert might be the first time some of the pupils are exposed to classical symphonic music. For those pupils with some exposure to orchestral concerts, the campus performances provide an added avenue through which the professional musicians inspire them."
 
-Please click [here](/files/sso_rhapssody_sep_2013.pdf) for the full article.
+Please click&nbsp;[here](/files/sso_rhapssody_sep_2013.pdf)&nbsp;for the full article.
 
   
 
@@ -376,17 +377,17 @@ Sarah Wan and Regina Koh (both from Sec 4A3, Class of 2006) and two others creat
 
 ![](/images/pl_choir_facebook.jpeg)
 
-The Ministry of Education has posted an SYF snippet on the MOE [Facebook](https://www.facebook.com/moesingapore) and [Twitter](https://twitter.com/MOEsg), featuring PL Choir's performance at the SYF 2013.
+The Ministry of Education has posted an SYF snippet on the MOE&nbsp;[Facebook](https://www.facebook.com/moesingapore)&nbsp;and&nbsp;[Twitter](https://twitter.com/MOEsg), featuring PL Choir's performance at the SYF 2013.
 
   
 
 The links are as follows:
 
-**Facebook:** 
+**Facebook:**&nbsp;
 
-[https://www.facebook.com/photo.php?bid=10151843904997004&set=a.10150100883752004.314002.6788957003&type=1](https://www.facebook.com/photo.php?bid=10151843904997004&set=a.10150100883752004.314002.6788957003&type=1)
+[https://www.facebook.com/photo.php?bid=10151843904997004&amp;set=a.10150100883752004.314002.6788957003&amp;type=1](https://www.facebook.com/photo.php?bid=10151843904997004&amp;set=a.10150100883752004.314002.6788957003&amp;type=1)
 
-**Twitter:** 
+**Twitter:**&nbsp;
 
 [https://twitter.com/MOEsg/status/324462817849774080](https://twitter.com/MOEsg/status/324462817849774080)
 
