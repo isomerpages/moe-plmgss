@@ -3,6 +3,7 @@ title: Art
 permalink: /instructional-programmes/aesthetics/curriculum/art/
 description: ""
 third_nav_title: Aesthetics
+variant: markdown
 ---
 The Art Programme at PLMGS (Sec) is an artistic journey for explorations, art appreciation, discoveries and sharing. The variety of learning activities is to ensure that students acquire the ability to produce and articulate about original and creative artworks. Through hands-on sessions, one-to-one consultation, group sharing and museum visits, Art students develop their individual artistic and creative inclinations as well as styles and techniques to make effective and innovative artworks.  
 
@@ -26,10 +27,9 @@ We also conduct an ACE Art programme to the Lower Secondary students who are kee
 
   
 
-We also the GCE O-Level Art programme. More details of the syllabus can be found here:  
-[https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2020syllabus/6123\_y20\_sy.pdf](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2020syllabus/6123_y20_sy.pdf)  
+We also provide the GCE O-Level Art programme. 
 
-  
+ 
 
 Students are further exposed to different genres of Art at the Secondary 2 Aesthetics Extension Class. They can opt for further enrichment in one of the three courses offered – Ceramics, Embroidery and Drama.
 
