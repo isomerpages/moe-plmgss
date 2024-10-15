@@ -11,10 +11,12 @@ system and some ECG pointers based on the available subject combinations.
 The briefing slides are accessible below:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>2025 Subject Option Admin Briefing</p>
+<p><a href="/files/2025_Sec_3_Subject_Option_Combination_briefing__14_Oct_24_.pdf" rel="noopener noreferrer nofollow" target="_blank">2025 Subject Option Admin Briefing</a>
+</p>
 </li>
 <li>
-<p>Sec 3 Subject Combination briefing by ECGC</p>
+<p><a href="/files/Sec_3_subject_combi_briefing_by_ECGC__14_Oct_24_.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 3 Subject Combination briefing by ECG</a>
+</p>
 </li>
 </ul>
 <p>We will also like to share with you the details of the Upper Secondary
