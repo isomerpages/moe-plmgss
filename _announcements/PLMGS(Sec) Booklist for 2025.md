@@ -2,25 +2,45 @@
 title: PLMGS(Sec) Booklist for 2025
 permalink: /announcements/plmgs-sec-booklist-for-2025/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-Dear Parents &amp; Guardians,  
-
-G1, G2 &amp; G3 refer to the different courses of study. Do check and confirm your child's/ward's course of study before purchasing any materials from the booklist.  
-
-Please click the links for below for 2024 Booklist.
-
-**Secondary 1**<br>
-[PLMGSS Secondary 1 Booklist 2024.pdf](/files/s1_booklist_2024.pdf)
-
-**Secondary 2**<br>
-[PLMGSS Secondary 2 Booklist 2024.pdf](/files/s2_booklist_2024.pdf)
-
-**Secondary 3**<br>
-[PLMGSS Secondary 3 Booklist 2024.pdf](/files/s3_booklist_2024.pdf)
-
-**Secondary 4**<br>
-[PLMGSS Secondary 4 Booklist 2024.pdf](/files/s4_booklist_2024.pdf)
-
-**Secondary 5**<br>
-[PLMGSS Secondary 5 Booklist 2024.pdf](/files/s5_booklist_2024.pdf)
+<p>Dear Parents/Guardians,</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Attached are the 2025 booklist for the Secondary 2 to 4/5, please download
+from the link below (no hardcopies&nbsp;will be issued).</p>
+</li>
+<li>
+<p>Parents can pre-order the&nbsp;books via website: www.pacificbookstores.com
+from our school bookshop.</p>
+</li>
+<li>
+<p>As part of the bookshop's ongoing efforts&nbsp;to promote sustainability
+and reduce plastic waste, we encourage parents to bring along their recyclable
+bags for the collection of purchases. (note: Pacific Bookstores will be
+implementing a charge of packaging&nbsp;fee for plastic bags (@$0.10) and
+recycled bags ($0.90).</p>
+</li>
+</ol>
+<ul data-tight="true" class="tight">
+<li>
+<p>Secondary 1 Booklist (to be updated at later date)</p>
+</li>
+<li>
+<p><a href="/files/s2_booklist_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 2 Booklist</a>
+</p>
+</li>
+<li>
+<p><a href="/files/s3_booklist_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 3 Booklist</a>
+</p>
+</li>
+<li>
+<p><a href="/files/s4_booklist_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 4 Booklist</a>
+</p>
+</li>
+<li>
+<p><a href="/files/s5_booklist_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 5 Booklist</a>
+</p>
+</li>
+</ul>
+<p>Thank you</p>
