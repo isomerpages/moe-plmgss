@@ -2,6 +2,7 @@ collections:
   announcements:
     output: true
     order:
+      - PLMGS(Sec) Booklist for 2025.md
       - 2025 Secondary 3 Subject Combinations.md
       - 2024 Term 4 Holidays CCA Training Schedule.md
       - Edusave CHaracter Award (ECHA) & EAGLES 21 CC Award.md
@@ -13,6 +14,5 @@ collections:
       - Musical Montage 2024 YouTube Live Streaming.md
       - Meet the Parents Sessions Presentation Slides.md
       - 2024 JCs and Polytechnics Open House.md
-      - PLMGS(Sec) Booklist for 2024.md
       - School Canteen Feedback.md
       - Road Safety and Traffic Management Plan.md
