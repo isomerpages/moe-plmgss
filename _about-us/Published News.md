@@ -23,7 +23,6 @@ Mrs Koh Mei Chin, SBB Teacher, and Low Jie Ying, Sec 3.6 student, shared their j
 **Streaming: The Past .... and the Future**
 
 ![](/images/SundayTimes_17March2019.jpeg)
-
 <small>(Source: The Sunday Times © Singapore Press Holdings Limited, Reproduced with permission)</small>
 
 Low Jie Ying, a student from Sec 3.6, shared with the reporter from the Straits Times how subject-based banding gave her a boost of confidence.
@@ -31,13 +30,11 @@ Low Jie Ying, a student from Sec 3.6, shared with the reporter from the Straits 
 **Shaped by their institutions**
 
 ![](/images/ST_15April2019.jpeg)
-
 <small>(Source: The Straits Times © Singapore Press Holdings Limited, Reproduced with permission)</small>
 
 **School's "couch potato" promotes better health habits**
 
 ![](/images/ST_25April2019.jpeg)
-
 <small>(Source: The Straits Times © Singapore Press Holdings Limited, Reproduced with permission)</small>
 
 ### 2017
@@ -46,7 +43,6 @@ Low Jie Ying, a student from Sec 3.6, shared with the reporter from the Straits 
 **Tech, the road less travelled by girls**
 
 ![](/images/SPH2017_Tech_Raod_Less_Travelled.jpeg)
-
 <small>(Source: The Straits Times © Singapore Press Holdings Limited. Reproduced with permission)</small>
 
 **PL Lites Breaking New Frontiers in Robotics!**
@@ -60,16 +56,13 @@ This volume captures good stories of how school promotes Joyful Learning. Read P
 **新年做蛋卷，品尝传统味道**
 
 ![](/images/ZB_Love_Letters_Making2017.jpeg)
-
 <small>(Source: 联合早报 © Singapore Press Holdings Limited. Reproduced with permission)</small>
 
 **Schooled in the way of old-school love letters**
 
 ![](/images/ST_PLMGSS_Love_Letters.jpeg)
-
 <small>(Source: The Straits Times © Singapore Press Holdings Limited. Reproduced with permission)</small>
 
-  
 
 On 8 February 2017, our girls were given the opportunity to learn the traditional method (using coals) of making love letters at PL Secondary. We would like to thank all parents who laboured over the coals while guiding our girls in the love letters making process. We love the smell, the taste, the feel and the joy of celebrating CNY as a family.
 
@@ -123,7 +116,7 @@ PL is honoured that we have been given the opportunity to share the following ar
 
 **Authentic Learning Through Astronomy**
 
-![](/images/EZ_Beacon_2016_Solarsm.jpeg)
+![](/images/EZ_Beacon_2016_Solar.jpg)
 
 Paya Lebar Methodist Girls' School (Secondary) has been conducting astronomy observations as part of its Science enrichment programmes since 2009. The solar eclipse on 9 March 2016 provided the school with an excellent opportunity to further use astronomy observations for learning. Please click the article above to read on how PLMGS (Sec) shares its expertise and resources to increase engagement in the Science classroom.  
 
@@ -131,8 +124,7 @@ Paya Lebar Methodist Girls' School (Secondary) has been conducting astronomy obs
 
 **Carrying Forward a Compelling Legacy**
 
-![](/images/carry_forward_legacy_sm.jpeg)
-
+![](/images/carry_forward_legacy.jpg)
 <small>(Source: The Straits Times © Singapore Press Holdings Limited. Reproduced with permission)</small>
 
 Paya Lebar Methodist Girls' School is celebrating its centennial in 2016. As the school turns 100, The Straits Times looks at at its past, present and future.  
@@ -140,16 +132,15 @@ Paya Lebar Methodist Girls' School is celebrating its centennial in 2016. As the
  
 **非主流课外活动 也为学习添姿彩**
 
-![](/images/extraordinary_cca_sm.jpeg)
+![](/images/extraordinary_cca.jpg)
 
 **与乐龄人士同欢共乐**
 
-![](/images/sharing_joy_with_elderly_sm.jpeg)
+![](/images/sharing_joy_with_elderly.jpg)
 
 **PL celebrates 100 years of God's blessings**
 
 ![](/images/pl100_celebrates_mm_article.jpeg)
-
 _This article was first published in the March 2016 issue of Methodist Message, the official monthly publication of The Methodist Church in Singapore. Used with permission.)_
 
   
@@ -164,8 +155,7 @@ n an article published by the English Language Institute of Singapore, Mrs Kamal
 
 **Using sounds to create visual images**
 
-![](/images/sph_broadcast.jpeg)
-
+![](/images/SPH_Student_Broadcasting.jpg)
 <small>(Source: 大拇指 © Singapore Press Holdings Limited, Reproduced with permission)</small>
 
 On 11 March 2016, the deejays from UFM100.3 and Ms Su Jun Ying, a well-known playwright, visited PL to conduct a workshop on script-writing for Chinese radio drama for 100 students.
@@ -180,7 +170,7 @@ On 11 March 2016, the deejays from UFM100.3 and Ms Su Jun Ying, a well-known pla
 
 ### PL Leads Learning during the Solar Eclipse
 
-![](/images/st_solar_sm.jpeg)
+![](/images/ST_Solar_Eclipse.jpg)
 
 **938 Live**
 
@@ -200,9 +190,6 @@ On 11 March 2016, the deejays from UFM100.3 and Ms Su Jun Ying, a well-known pla
 
   
 
-**An Unconventional Start**
-
-![](/images/unconventional_start_sm.jpeg)
 
 ### 2015
 
@@ -392,7 +379,6 @@ The links are as follows:
 
 <small>Source: The Straits Times©Singapore Press Holdings Limited, Reproduced with permission</small>
 
-### 2012
 
 ### 2011
 
