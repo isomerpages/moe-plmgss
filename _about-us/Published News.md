@@ -190,9 +190,6 @@ On 11 March 2016, the deejays from UFM100.3 and Ms Su Jun Ying, a well-known pla
 
   
 
-**An Unconventional Start**
-
-![](/images/unconventional_start_sm.jpeg)
 
 ### 2015
 
@@ -382,7 +379,6 @@ The links are as follows:
 
 <small>Source: The Straits Times©Singapore Press Holdings Limited, Reproduced with permission</small>
 
-### 2012
 
 ### 2011
 
