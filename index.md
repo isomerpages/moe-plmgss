@@ -18,7 +18,7 @@ sections:
       title: PLMGS (Sec) Open House 2024
       subtitle: Add an image and text
       id: infopic
-      button: Click here
+      button: Click here for more
       url: /openhouse2024/
       image: /images/openhouse_2024_sm.jpg
       alt: Image alt text
