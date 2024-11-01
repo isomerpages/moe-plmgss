@@ -15,7 +15,7 @@ sections:
           url: /2025-secondary-3-subject-combinations/
       subtitle: 巴耶礼峇美以美女校（中学）
   - infopic:
-      title: Open House 2024
+      title: PLMGS (Sec) Open House 2024
       subtitle: Add an image and text
       id: infopic
       button: Click here
