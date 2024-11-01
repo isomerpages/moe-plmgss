@@ -15,12 +15,12 @@ sections:
           url: /2025-secondary-3-subject-combinations/
       subtitle: 巴耶礼峇美以美女校（中学）
   - infopic:
-      title: DSA Information Session
+      title: PLMGS (Sec) Open House 2024
       subtitle: Add an image and text
       id: infopic
-      button: REGISTER HERE
-      url: /dsa-information-session/
-      image: /images/dsa_info_session_banner.jpg
+      button: Click here for more
+      url: /openhouse2024/
+      image: /images/openhouse_2024_sm.jpg
       alt: Image alt text
   - infopic:
       title: School Yearbook 2023
