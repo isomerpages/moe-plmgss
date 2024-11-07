@@ -11,8 +11,8 @@ variant: tiptap
 from the link below (no hardcopies&nbsp;will be issued).</p>
 </li>
 <li>
-<p>Parents can pre-order the&nbsp;books via website: <a href="www.pacificbookstores.com" rel="noopener nofollow" target="_blank">www.pacificbookstores.com</a> from our
-school bookshop.</p>
+<p>Parents can pre-order the&nbsp;books via website: <a href="https://www.pacificbookstores.com" rel="noopener nofollow" target="_blank">www.pacificbookstores.com</a> from
+our school bookshop.</p>
 </li>
 <li>
 <p>As part of the bookshop's ongoing efforts&nbsp;to promote sustainability
