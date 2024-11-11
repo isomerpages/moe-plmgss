@@ -4,6 +4,16 @@ permalink: /accolades/staff-awards/
 description: ""
 variant: tiptap
 ---
+<h3>NFTE Global Enterprising Educator award for 2024</h3>
+<p>The Global Enterprising Educator (GEE) is an award that recognises excellence
+in using the NFTE entrepreneurship curriculum to help students overcome
+their own challenges in life. Guided by research-backed attributes of the
+Entrepreneurial Mindset Index, teachers and educators play an important
+role in building youth to activate the entrepreneurial mindset and develop
+themselves towards a life-changing aspiration.</p>
+<p>Congratulations to the PLMGS Team (Mr Lam Cherng Yang, Mr Joshua Low and
+Ms Ung Zi Qing) for being awarded the NFTE Global Enterprising Educator
+award for 2024!</p>
 <h3>2024 Methodist Schools’ Long Service Award</h3>
 <div class="iframe-wrapper">
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/1jz9ZjgkaiLXcX4uCWhTfFLak5f9scHKifYu5HeNLrDs/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
