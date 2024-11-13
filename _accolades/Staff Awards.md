@@ -4,6 +4,106 @@ permalink: /accolades/staff-awards/
 description: ""
 variant: tiptap
 ---
+<h3>2024 LEAP AWARD - Certificate of Commendation</h3>
+<ul data-tight="true" class="tight">
+<li>
+<p>Mr Lin Binchuan</p>
+</li>
+<li>
+<p>Ms Hee Yuen Jen</p>
+</li>
+</ul>
+<h3>2024 Caring Teacher Award - School Level Winners (Organised by NIE)</h3>
+<ul data-tight="true" class="tight">
+<li>
+<p>Mrs Koh Si Ping</p>
+</li>
+<li>
+<p>Ms Bai Zhao Zhi</p>
+</li>
+<li>
+<p>Mr Liew Koi Chin</p>
+</li>
+<li>
+<p>Mr Lin Binchuan</p>
+</li>
+<li>
+<p>Mrs Yeo Siqi, Clarabelle</p>
+</li>
+</ul>
+<h3>2024 MOE Service Excellence Award (MSEA)</h3>
+<p><strong>Platinum Award</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Mr Chia Huay Heng</p>
+</li>
+</ul>
+<p><strong>Gold Award</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Ms Azzalinda Bte Ariffin</p>
+</li>
+<li>
+<p>Mr Chia Huay Heng</p>
+</li>
+<li>
+<p>Mr Lim Fook Tong</p>
+</li>
+<li>
+<p>Mr Quek Lip Chuan</p>
+</li>
+<li>
+<p>Ms Lynette Leong</p>
+</li>
+</ul>
+<p><strong>Silver Award</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Ms Seah Poh Lian</p>
+</li>
+<li>
+<p>Mdm Tan Soh Hua</p>
+</li>
+<li>
+<p>Mr Teo Kim Che</p>
+</li>
+</ul>
+<h3>2024 MOE Outstanding Contribution Award (Individual)</h3>
+<ul data-tight="true" class="tight">
+<li>
+<p>Mr Wong Khai Yu</p>
+</li>
+<li>
+<p>Mr Lin Binchuan</p>
+</li>
+<li>
+<p>Ms Heng Cipei</p>
+</li>
+<li>
+<p>Ms Quek Hui Ying Grace</p>
+</li>
+</ul>
+<h3>2024 MOE Outstanding Contribution Award (Team)</h3>
+<ul data-tight="true" class="tight">
+<li>
+<p>EAS</p>
+</li>
+<li>
+<p>Case Management Team/PL Transform</p>
+</li>
+<li>
+<p>PL Home / PL LiVE / PL LEAD</p>
+</li>
+<li>
+<p>SWC</p>
+</li>
+<li>
+<p>PL21 Committee</p>
+</li>
+</ul>
 <h3>NFTE Global Enterprising Educator award for 2024</h3>
 <p>The Global Enterprising Educator (GEE) is an award that recognises excellence
 in using the NFTE entrepreneurship curriculum to help students overcome
