@@ -39,4 +39,4 @@ Mr Muhammad Syafiq Bin Muhd Abbas Lim
 **Training Schedule**   <br>
 Monday &amp; Tuesday, 3.30 - 6.00 pm
 
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSu_10E_Pcx-ITcud7bTgSmgzn-CbAH8FDi-TFlYHdYpiA-pgqCnZMYlc3Wr-mfFM3HA7IXNnzhHgac/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/1AnsDjpeS8b7gsnKiebmmQjXtBOtAWRk4tnyNNbnr2qw/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
