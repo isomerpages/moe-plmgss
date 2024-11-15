@@ -37,7 +37,7 @@ of camaraderie amongst cadets and officers.
 and Foot Drill.
 <br>Equip cadets with the competency and confidence to render First Aid and
 Home Nursing to those in need.</p>
-<p><strong>Achievements</strong> 
+<p><strong>Achievements</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -57,7 +57,7 @@ Wern Hwe (4.3), Samantha Woon Ka-En (4.2), Wang Shixuan (4.2) and Wong
 Heidi (Huang Meihui) (4.4)</p>
 </li>
 </ul>
-<p><strong>Events and Activities for the Year </strong>
+<p><strong>Events and Activities for the Year</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -103,7 +103,7 @@ Heidi (Huang Meihui) (4.4)</p>
 <p>Basic and Advanced Non-Commisioned Officer Course</p>
 </li>
 </ul>
-<p><strong>Teachers-in-charge</strong> 
+<p><strong>Teachers-in-charge</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -119,7 +119,7 @@ Heidi (Huang Meihui) (4.4)</p>
 <p>Mr Chai Wee Jie</p>
 </li>
 </ul>
-<p><strong>Names of Voluntary Adult Leaders </strong>
+<p><strong>Names of Voluntary Adult Leaders</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
