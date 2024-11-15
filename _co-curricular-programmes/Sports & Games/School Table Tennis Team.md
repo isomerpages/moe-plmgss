@@ -27,14 +27,14 @@ improvement and growth.</p>
 <p><strong>Objective</strong> 
 <br>To provide opportunities for our girls to not only hone their skills but
 also to develop mental strength in facing challenges</p>
-<p><strong>Achievements</strong> 
+<p><strong>Achievements</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
 <p>NSG 2024 Table Tennis C Division Girls National – Top 16</p>
 </li>
 <li>
-<p>Our Tampines Hub Youth Table Tennis Team Challenge 2023 – 1st Place</p>
+<p>Our Tampines Hub Youth Table Tennis Team Challenge 2024 – 1st Place</p>
 </li>
 </ul>
 <p><strong>Events and Activities for the Year</strong>
