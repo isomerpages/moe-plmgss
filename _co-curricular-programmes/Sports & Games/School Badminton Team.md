@@ -17,7 +17,7 @@ Smashing through the boundaries
 **Achievements**  
 NSG C Division Girls Badminton – League 1 Top 16 Teams
 
-**Events and Activities for the Year 2024**
+**Events and Activities for the Year**
 * PL(Sec) CCA Fair
 * PL(Sec) Open House
 * Farewell for graduating members
