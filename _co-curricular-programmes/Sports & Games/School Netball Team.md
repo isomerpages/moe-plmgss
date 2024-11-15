@@ -21,7 +21,7 @@ to excel and enjoy netball.</p>
 <p><strong>Achievements</strong> 
 <br>NSG Netball C Division Girls – Pool Round and League Round
 <br>NSG Netball B Division Girls – East Zone Top 16</p>
-<p><strong>Events and Activities for the Year 2024: [point form]</strong>
+<p><strong>Events and Activities for the Year</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
