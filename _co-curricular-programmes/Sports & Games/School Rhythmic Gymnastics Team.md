@@ -5,20 +5,23 @@ description: ""
 third_nav_title: Sports & Games
 variant: tiptap
 ---
-<p>Rhythmic Gymnastics is a sport that incorporates elements of classical
-ballet, dance, gymnastics, and apparatus manipulation. High degrees of
-athletic skill and ability such as flexibility, agility, dexterity strength,
-coordination and endurance, are required in Rhythmic Gymnastics movements.</p>
-<p>Since the setting up PLMGS(S) Rhythmic Gymnastics Team in 2017, the girls
-have participated in a number of competitions. We look forward to striving
-hard to grow and build a strong team together.</p>
+<p>PLMGSS Rhythmic Gymnastics (RG) enjoyed an eventful and rewarding 2024!
+The year began with our annual Chinese New Year performance, followed by
+enthusiastic participation in the DGA Fiesta 2024 and the National School
+Games. Despite a demanding schedule, our gymnasts' hard work and dedication
+led to outstanding achievements, with the B Division earning 3rd place
+and the C Division 4th in the National Championships. Through rigorous
+training sessions, our CCA has grown stronger, fostering friendships and
+deepening team spirit. With unwavering support from our teachers and coaches,
+we are inspired to reach new heights and look forward to the challenges
+and triumphs the coming year will bring.</p>
 <p><strong>Our Vision</strong> 
 <br>To be an outstanding Rhythmic Gymnastics team, developing athletes with
 high standards in character and sportsmanship.</p>
 <p><strong>Our Mission</strong> 
 <br>To develop Rhythmic Gymnasts with a deep passion for learning and possess
 values of integrity, teamwork, resilience and an excellence mindset.</p>
-<p><strong>Achievements</strong> 
+<p><strong>Achievements</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
