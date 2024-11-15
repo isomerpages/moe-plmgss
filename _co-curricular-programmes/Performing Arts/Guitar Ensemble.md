@@ -19,7 +19,7 @@ every opportunity that comes our way.</p>
 <br>To nurture every member into a graceful and passionate guitarist of stature.</p>
 <p><strong>Achievements</strong> 
 <br>SYF Arts Presentation 2023 – Certificate of Distinction</p>
-<p><strong>Events and Activities for the Year </strong>
+<p><strong>Events and Activities for the Year</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
