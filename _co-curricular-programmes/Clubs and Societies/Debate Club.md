@@ -3,28 +3,74 @@ title: Debate Club
 permalink: /co-curricular-programmes/clubs-and-societies/english-language-drama-and-debating/
 description: ""
 third_nav_title: Clubs and Societies
-variant: markdown
+variant: tiptap
 ---
-PL Debate offers students, who are seeking intellectual and oratorical challenges, a plethora of opportunities to engage in riveting discussions that will stretch their imagination, challenge their opinions, and broaden their perspectives on critical issues. Through these, students hone their research and presentation skills as well. Debaters participate in numerous debate competitions including Singapore Secondary Schools Debating Championships (Division I), Orator’s Trophy, Raffles Debate Academy and Thoburn Cup. Through such platforms, our debaters get to interact with like-minded people who are passionate about analysing the rigour of arguments and mastering higher order thinking skills.
-
-
-**Achievements**<br>
-• Won one of three rounds in Singapore Secondary Schools Debating
-Championships SSSDC 2023<br>
-• Ranked 8th best speaker in Thoburn Cup 2023<br>
-• Ranked 10th best speaker in Thoburn Cup 2023<br>
-• Ranked Best Speaker for one of three rounds of Dialogic Academy U14 Debating Championships 2023
-
-  
-**Teachers-in-charge**  <br>
-Ms Navethira R Chandran (IC)  <br>
-Mrs Neoh Terh Ling  <br>
-
-**Instructor**  <br>
-Mr Murali S/O Kanasappa 
-
-**Training Schedule**<br>
-Tueday &amp; Friday, 3.30 - 6.00 pm
-
-
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTDUhW7zb4cubmUToK71soWv-KOxn0j5lJK6029vTCC7_pExFhQCDngo-44Q8YTfkdYLQCWSasG1LFN/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<p>PL Debate empowers students with intellectual and oratorical skills, honing
+their critical and adaptive thinking as well as their ability to articulate
+arguments from diverse perspectives. It deepens their understanding of
+key issues and policy debates, challenges assumptions, and broadens perspectives.
+This year, our debaters have significantly enhanced their research and
+presentation skills, proving their mettle in competitions such as the Singapore
+Secondary Schools Debating Championships, Raffles Debate Academy U14s Debating
+Championships, Dialogic Academy Debating Championships, and the Thoburn
+Cup. These platforms offer our students the opportunity to spar with like-minded
+peers, fostering rigorous argumentation and higher order thinking skills.</p>
+<p><strong>Achievements</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Singapore Secondary Schools Debating Championships 2024 – won one of three
+rounds</p>
+</li>
+<li>
+<p>Singapore Secondary Schools Debating Championships 2024 – 16th Best Individual
+Speaker</p>
+</li>
+<li>
+<p>Quarter Finalist in the 2024 Raffles Debate Academy U-14s Debate Championship
+– Quarter Finalist</p>
+</li>
+</ul>
+<p><strong>Events and Activities for the Year</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>PL CCA Fair</p>
+</li>
+<li>
+<p>PL Open House</p>
+</li>
+<li>
+<p>Farewell for graduating members</p>
+</li>
+<li>
+<p>Musical Montage</p>
+</li>
+<li>
+<p>Singapore Secondary Schools Debating Championships 2024</p>
+</li>
+<li>
+<p>Debate Outreach programme with PL Primary</p>
+</li>
+<li>
+<p>Dialogic Academy Debating Championship 2024</p>
+</li>
+<li>
+<p>Raffle Debate Academy U14 Debating Championship 2024</p>
+</li>
+<li>
+<p>Thoburn Cup 2024</p>
+</li>
+</ul>
+<p><strong>Teachers-in-charge</strong> 
+<br>Ms Navethira R Chandran
+<br>Mrs Neoh Terh Ling
+<br>Ms Yan Xiuru</p>
+<p><strong>Instructor</strong> 
+<br>Dialogic Academy</p>
+<p><strong>Training Schedule</strong>
+<br>Tueday &amp; Friday, 3.30 - 6.00 pm</p>
+<div class="iframe-wrapper">
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/15A7L1k_gFh06xjzz7-CkPrk3prXNuepENz88Iq0wE-I/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
+<p></p>
