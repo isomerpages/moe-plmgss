@@ -3,30 +3,55 @@ title: Guitar Ensemble
 permalink: /co-curricular-programmes/performing-arts/guitar-ensemble/
 description: ""
 third_nav_title: Performing Arts
-variant: markdown
+variant: tiptap
 ---
-The Guitar Ensemble strives to develop students to acquire strong foundations in Music and performance (guitar). Through their experience in the CCA, students will cultivate the appreciation of the Arts and Aesthetics. With guidance by our experienced and talented instructors, students will continue to appreciate and love the nuances of creating music. The collaborative nature of the CCA encourages students to work with and listen attentively to each other to create harmonious and wonderful music. The CCA has and will continue to strive to make PLMGS proud with its diligent students.
-
-  
-**Vision**  <br>
-An acclaimed and established ensemble producing performers of grace.  
-  
-**Mission**   <br>
-To nurture every member into a graceful and passionate guitarist of stature.  
-  
-**Achievements**   <br>
-SYF Arts Presentation 2023 – Certificate of Distinction<br>
-SYF Arts Presentation 2021 – Certificate of Accomplishment
-
-  
-**Teachers-in-charge**   <br>
-Mr Tai Jerry (i/c)   <br>
-Mrs Hannah Zulaiha 
-  
-**Instructor**   <br>
-Mr Oliver Nicholas Chan
-  
-**Training Schedule**   <br>
-Monday &amp; Tuesday (Fridays during peak periods), 3.30 - 6.00 pm
-
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/1Y7Z-zNHx7rntSFyuBG3fRevdR8nZGrbBVlrXdvGq2Eg/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<p>2024 has been a fulfilling year marked by growth and enriching experiences.
+Being invited to perform at the Sustainable Kids Market KIDSforKIDS Showcase
+at Marina Square was a true honour, reflecting our dedication and hard
+work. Our performances at Musical Montage and National Day provided us
+with invaluable platforms to showcase our talents and growth, both individually
+and as an ensemble. Looking back on our journey, we are proud of how far
+we have come and remain committed to learning, growing, and excelling in
+every opportunity that comes our way.</p>
+<p><strong>Vision</strong> 
+<br>An acclaimed and established ensemble producing performers of grace.</p>
+<p><strong>Mission</strong> 
+<br>To nurture every member into a graceful and passionate guitarist of stature.</p>
+<p><strong>Achievements</strong> 
+<br>SYF Arts Presentation 2023 – Certificate of Distinction</p>
+<p><strong>Events and Activities for the Year </strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>PL CCA Fair</p>
+</li>
+<li>
+<p>PL Open House</p>
+</li>
+<li>
+<p>Farewell for graduating members</p>
+</li>
+<li>
+<p>Musical Montage</p>
+</li>
+<li>
+<p>National Day Concert</p>
+</li>
+<li>
+<p>Sustainable Kids Market KIDSforKIDS Showcase at Marina Square</p>
+</li>
+<li>
+<p>Bonding sessions</p>
+</li>
+</ul>
+<p><strong>Teachers-in-charge</strong> 
+<br>Mr Tai Jerry
+<br>Ms Hannah Zulaihah</p>
+<p><strong>Instructor</strong> 
+<br>Mr Oliver Nicholas Chan</p>
+<p><strong>Training Schedule</strong> 
+<br>Monday &amp; Tuesday (Fridays during peak periods), 3.30 - 6.00 pm</p>
+<div class="iframe-wrapper">
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/1Y7Z-zNHx7rntSFyuBG3fRevdR8nZGrbBVlrXdvGq2Eg/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
+<p></p>
