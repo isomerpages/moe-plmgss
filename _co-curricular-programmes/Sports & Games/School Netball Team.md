@@ -19,8 +19,15 @@ towards netball.</p>
 <br>To equip our players with solid foundational netball skills and game experience
 to excel and enjoy netball.</p>
 <p><strong>Achievements</strong> 
-<br>NSG Netball C Division Girls – Pool Round and League Round
-<br>NSG Netball B Division Girls – East Zone Top 16</p>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>NSG Netball C Division Girls – Pool Round and League Round</p>
+</li>
+<li>
+<p>NSG Netball B Division Girls – East Zone Top 16</p>
+</li>
+</ul>
 <p><strong>Events and Activities for the Year</strong>
 </p>
 <ul data-tight="true" class="tight">
