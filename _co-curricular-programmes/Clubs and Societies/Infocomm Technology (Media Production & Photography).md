@@ -5,16 +5,17 @@ description: ""
 third_nav_title: Clubs and Societies
 variant: tiptap
 ---
-<p>Offering the best of both worlds, Media and Information Technology Club
-immerses its members in the world of media, infocomm and audio visuals.
-The club aims to excite members in the use of technology in a fun and meaningful
-way. Weekly sessions include coding, digital art, video production, DJ
-&amp; Music production and more. Leadership skills and an entrepreneurial
-spirit are cultivated through participation in various competitions and
-innovative projects. Serving the school in video and audio aspects has
-led our members to develop their confidence and skills in technology with
-a heart for innovation. Furthermore, our recently introduced special segment,
-MITV, helps to hone members’ creativity and videography skills.</p>
+<p>The Information Technology (Media Production) Club offers a unique blend
+of technological immersion and creative exploration, providing members
+with hands-on experience in photography, infocomm technology, and audio-visuals.
+Our mission is to spark enthusiasm by integrating technology into engaging
+projects and activities. Learning extends beyond the classroom, with enriching
+visits to tech companies like TrueWorld Studios. Leadership is a core focus,
+with members taking charge in student-led activities and competitions.
+Their dedication shines through in the quality of projects and contributions
+to the school community, providing essential media and technical support
+during events. The Information Technology (Media Production) Club is a
+vibrant community fostering creativity, leadership, and service.</p>
 <p><strong>Vision</strong> 
 <br>An outstanding club producing innovative women with a passion to empower
 others and make a difference in the use of technology.</p>
@@ -22,22 +23,66 @@ others and make a difference in the use of technology.</p>
 <br>To nurture every club member into a skillful technologist with a heart
 for innovation</p>
 <p><strong>Achievements</strong> 
-<br>• Schools Digital Media Award – 2 Winners
-<br>• Appreciating NSmen Video Competition – Merit Award
-<br>• Meta Spark Bootcamp 2023 – Best Creative Style</p>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>National Sticker Competition – Merit</p>
+</li>
+<li>
+<p>Schools Digital Media Competition – Participation</p>
+</li>
+<li>
+<p>Our Schools, Our Stories – Participation</p>
+</li>
+</ul>
+<p>Events and Activities for the Year</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>PL CCA Fair</p>
+</li>
+<li>
+<p>PL Open House</p>
+</li>
+<li>
+<p>Farewell for graduating members</p>
+</li>
+<li>
+<p>Musical Montage</p>
+</li>
+<li>
+<p>Coding with CoSpaces, AR &amp; VR Modules</p>
+</li>
+<li>
+<p>Video Production, Sound Production, Photography Modules</p>
+</li>
+<li>
+<p>Supporting School Events in AVA, Videography and Photography</p>
+</li>
+<li>
+<p>Sec 1 Orientation</p>
+</li>
+<li>
+<p>Photography and Infocomm Competitions</p>
+</li>
+<li>
+<p>Learning Journeys, e.g. TrueWorld Studio, Storytelling in the Sky</p>
+</li>
+</ul>
 <p><strong>Teachers-in-charge</strong> 
-<br>Mdm Zalena (i/c)
+<br>Mdm Zalena
 <br>Mr Lee Yen Chai
 <br>Ms Kaur Harjit
 <br>Mr Low Kee Heong
 <br>Mdm Yap Ming Yi</p>
 <p><strong>Instructors</strong> 
-<br>Ms Joanne Chia
-<br>Ms Cindy Wong</p>
+<br>Mr Chouw Fengrun
+<br>Mr Dennis Gordon De Souza
+<br>Mr Shahril Bin Supangat
+<br>Steven Huang Wenguang
+<br>Mdm Ainie</p>
 <p><strong>Training Schedule</strong> 
 <br>Monday and Tuesday, 3.30 - 6.00 pm</p>
-<p></p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT8npajyyzLhR9WUeJZbEE7AwxK2nYE56eGifIIq-EkjPX9vUIh7QwFwPMQzMWpgu0nbQsmOwR-9zst/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/11tFWW0CdvsUvUMl578EO9jzyNrPmC5AreeXeiiK_IS8/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p></p>

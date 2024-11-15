@@ -3,34 +3,53 @@ title: Guzheng Ensemble
 permalink: /co-curricular-programmes/performing-arts/guzheng-ensemble/
 description: ""
 third_nav_title: Performing Arts
-variant: markdown
+variant: tiptap
 ---
-The PL Guzheng Ensemble was established in 1989 and made its debut in 1991 at the biennial Singapore Youth Festival (SYF) Central Judging of Instrumental Ensembles (Secondary Schools) and received a Gold Award. Since then it has been blessed with seven consecutive Gold Awards (1991 to 2003), four Gold with Honours (2005 to 2011), and five Distinction award (2013, 2015, 2017, 2019, 2021), the highest achievements possible for each SYF.  
-  
-The ensemble has performed at various school events and concerts as well as events organised by MOE, North East CDC and many other organisations. For example, the ensemble performed at River Hongbao Chinese New Year celebration and Ministry of National Development's annual get-together dinner event to celebrate the Lunar New Year. It also presented an online showcase at the 2020 World Congress of International Association of Child and Adolescent Psychiatry and Allied Professions  
-(IACAPAP).  
-  
-Over the years, the ensemble has been working hard towards excellence and has developed strong bonding among the members, each being united by the 21 strings of their guzheng. Driven by their strong belief that their attitude determines their altitude, they therefore strive to develop everyone’s character and moral value system to bring out the best in every member.  
-  
-The ensemble also strives to live out the school values of being women after God’s own&nbsp;**H.E.A.R.T**. It holds fast to the values of&nbsp;**H**onouring God, having an&nbsp;**E**xcellence mindset and being&nbsp;**A**daptable,&nbsp;**R**espectful towards others and remains&nbsp;**T**hankful at all times.  
-  
-**Vision**  <br>
-PL Guzheng Ensemble will be a disciplined and united body in making a joyful noise unto Lord and men.  
-  
-**Mission**  <br>
-To create ourselves into expressions of music.  
-  
-**Achievements**  <br>
-SYF Arts Presentation 2023 - Certificate of Distinction
-
-**Teachers-in-charge**  <br>
-Mdm Li Hongyan (i/c) <br>
-Mdm Zhuang Ying Meng  
-  
-**Our Instructor and Conductor**  <br>
-Ms Jessica Lu Jie  
-  
-**Training Schedule**  <br>
-Tuesday &amp; Friday, 3.30 - 6.00 pm
-
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQfOo9SBwymmpRQ09NabhnGCd4-4TTpNSctzJTI9eXoOpvHvqcDmAZcyfllLcZM9wyfzRYxSmphMgg8/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<p>2024 has been a pioneering year of growth and progress for the Guzheng
+Ensemble. Under the guidance of a new Guzheng coach, the ensemble has embraced
+change with a proactive and positive attitude, showing remarkable adaptability.
+Upholding our commitment to holistic student development, we introduced
+a Student Development Plan tailored for the Guzheng team. From daily practices
+to performances and competitions both within and beyond the school, our
+students consistently embody a spirit of excellence. Their collaborative
+and heartfelt performances were warmly received at the school's New Year
+celebration and Musical Montage 2024, highlighting their dedication and
+passion.</p>
+<p><strong>Vision</strong> 
+<br>PL Guzheng Ensemble will be a disciplined and united body in making a
+joyful noise unto Lord and men.</p>
+<p><strong>Mission</strong> 
+<br>To create ourselves into expressions of music.</p>
+<p><strong>Achievements</strong> 
+<br>SYF Arts Presentation 2023 - Certificate of Distinction</p>
+<p><strong>Events and Activities for the Year</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>PL CCA Fair</p>
+</li>
+<li>
+<p>PL Open House</p>
+</li>
+<li>
+<p>Farewell for graduating members</p>
+</li>
+<li>
+<p>PL Musical Montage</p>
+</li>
+<li>
+<p>Chinese New Year Concert</p>
+</li>
+</ul>
+<p><strong>Teachers-in-charge</strong> 
+<br>Ms Li Hongyan
+<br>Ms Zhuang Yingmeng</p>
+<p><strong>Our Instructor and Conductor</strong> 
+<br>Lu Jie
+<br>Yin Hong Mei</p>
+<p><strong>Training Schedule</strong> 
+<br>Tuesday &amp; Friday, 3.30 - 6.00 pm</p>
+<div class="iframe-wrapper">
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQfOo9SBwymmpRQ09NabhnGCd4-4TTpNSctzJTI9eXoOpvHvqcDmAZcyfllLcZM9wyfzRYxSmphMgg8/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
+<p></p>

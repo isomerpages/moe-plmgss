@@ -3,32 +3,56 @@ title: Concert Band
 permalink: /co-curricular-programmes/performing-arts/concert-band/
 description: ""
 third_nav_title: Performing Arts
-variant: markdown
+variant: tiptap
 ---
-With a strength of over 70 musicians, PL Concert Band was first started in 1978, being one of the earliest music groups established in the school. The band first started as a military brass band and was previously combined with the primary school but is now an almost 60-member strong concert band. The PL Concert Band has had many opportunities over the years to perform both locally and internationally.
-
-PL Concert Band has been blessed with good conductors from the beginning. In 1997, Mr Tan Beng Wee joined PL Concert Band and equipped the main band with musical techniques and skills. In 2004, Ms Ten Rong Rong was in charge of the Training Band, providing the students with a strong musical foundation.
-
-PL Concert Band has also achieved quite a number of awards. In 2007, it attained a Gold award in the 21st Century International Band Competition held in Malaysia. The band also received the Silver Award in the Singapore Youth Festival (SYF) Central Judging for the years from 2005 to 2011. From 2015 to 2023, the PL Concert Band attained a Certificate of Accomplishment in the biennial SYF Arts Presentation. The band has also travelled to countries such as Thailand and Malaysia to participate in competitions and school bands exchanges.
-
-  
-**Achievements**  <br>
-SYF Arts Presentation 2023 - Certificate of Accomplishment <br>
-SYF Arts Presentation 2021 - Certificate of Accomplishment (2 teams)
- 
-  
-**Teachers-in-charge**  <br>
-Ms Liow Xiao Chun (i/c)<br>
-Mrs Clarabelle Yeo (i/c)<br>
-Mdm Durka<br>
-Ms Kong Pei Shan
-
-  
-**Coaches**  <br>
-Mr Tan Beng Wee  <br>
-Ms Tien Rong Rong  
-  
-**Training Schedule**  <br>
-Tuesday &amp; Friday, 3.30 - 6.00 pm  
-
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSPUXTTteVYlJpf5jUpkgmRH4Vyyk76-odgkfxDkz_JjIbZtwLxU3PwoIEsgvisAMMzGtYw_mxniWfm/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<p>2024 has been an enriching year for the PL Concert Band. From perfecting
+our craft for concerts like Musical Montage and the PL National Day Parade,
+to enjoying memorable bonding activities and the Sec 4 Farewell, we have
+had many rewarding moments. We’re especially inspired by our motivated
+and hardworking Sec 1 members who have joined the Junior Band. Though rehearsals
+can be demanding, the joy of hearing beautiful music come alive through
+the synergy of woodwinds, brass and percussion makes every effort worthwhile.
+We cherish these shared experiences and look forward to creating more wonderful
+musical memories in 2024 and 2025!</p>
+<p><strong>Achievements</strong> 
+<br>SYF Arts Presentation 2023 - Certificate of Accomplishment</p>
+<p><strong>Events and Activities for the Year </strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>PL CCA Fair</p>
+</li>
+<li>
+<p>PL Open House</p>
+</li>
+<li>
+<p>Farewell for graduating members</p>
+</li>
+<li>
+<p>Musical Montage</p>
+</li>
+<li>
+<p>PL National Day Parade</p>
+</li>
+<li>
+<p>End-of-Year Thanksgiving Concert</p>
+</li>
+</ul>
+<p><strong>Teachers-in-charge</strong> 
+<br>Ms Liow Xiao Chun
+<br>Mrs Clarabelle Yeo
+<br>Ms Kong Pei Shan
+<br>Mdm Durka</p>
+<p><strong>Coaches</strong> 
+<br>Mr Shermann Foo
+<br>Mr Jovan Neo
+<br>Mr Gavilan Neo
+<br>Mr Luo Tianze
+<br>Mr Hendrik Kwek
+<br>Ms Angeline Wee</p>
+<p><strong>Training Schedule</strong> 
+<br>Tuesday &amp; Friday, 3.30 - 6.00 pm</p>
+<div class="iframe-wrapper">
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/10tugYN8GtBE52v_BdfFSEKUu9LE83PQWM8u0XpkbKJQ/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
+<p></p>
