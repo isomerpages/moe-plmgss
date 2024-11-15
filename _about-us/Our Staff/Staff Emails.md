@@ -38,6 +38,10 @@ variant: markdown
     <td class="tg-citn"><img src="/images/ms_toh_susan.jpg" alt="ms_toh_susan.JPG" style="width:30%"><br>Ms Toh Susan<br><a href="mailto:plmgss@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#454545">plmgss@moe.edu.sg</span></a></td>
     <td class="tg-citn">Vice-Principal<br></td>
   </tr>
+	  <tr>
+    <td class="tg-citn"><img src="/images/mr_ning.jpg" alt="ms_toh_susan.JPG" style="width:30%"><br>Mr Ning Tau Yee<br><a href="mailto:plmgss@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#454545">plmgss@moe.edu.sg</span></a></td>
+    <td class="tg-citn">Vice-Principal (Admin)<br></td>
+  </tr>
 </tbody>
 </table>
 
