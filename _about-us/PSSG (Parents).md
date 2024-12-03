@@ -97,8 +97,12 @@ programme
 </ul>
 <p><strong>PSSG Programmes for 2025 Calendar (as at 3 Dec 2024)</strong>
 </p>
+<ul data-tight="true" class="tight">
+<li>
 <p><a href="/files/PSSG_Programmes_for_2025_Calendar_For_Sch_Website.pdf" rel="noopener nofollow" target="_blank">PSSG Programmes for 2025 Calendar.pdf</a>
 </p>
+</li>
+</ul>
 <p><strong>Our Regular Activities (during school term)</strong>
 <br><strong><br>Praying Parents@PL</strong>
 <br>Praying Parents@PL meets every Monday morning, via Zoom at 8am for a time
