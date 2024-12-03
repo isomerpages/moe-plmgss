@@ -255,7 +255,7 @@ Registration is Free!</p>
 </p>
 </li>
 </ul>
-<h3>PSSG Photos 2023</h3>
+<h3>PSSG Photos 2024</h3>
 <div class="iframe-wrapper">
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/1urqSlhuGdFAypGjOlFvrtifJaSHPPk_Gaxr5j8wT2W0/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
