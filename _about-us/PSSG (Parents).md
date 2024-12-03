@@ -95,9 +95,9 @@ programme
 </p>
 </li>
 </ul>
-<p><strong>PSSG Programmes for 2024 Calendar (as at 24 Nov 2023)</strong>
+<p><strong>PSSG Programmes for 2025 Calendar (as at 3 Dec 2024)</strong>
 </p>
-<p><a href="/files/PSSG_Programmes_for_2024_Calendar__dd_24_Nov_.pdf" rel="noopener noreferrer nofollow" target="_blank">PSSG Programmes for 2024 Calendar.pdf</a>
+<p><a href="/files/PSSG_Programmes_for_2025_Calendar_For_Sch_Website.pdf" rel="noopener nofollow" target="_blank">PSSG Programmes for 2025 Calendar.pdf</a>
 </p>
 <p><strong>Our Regular Activities (during school term)</strong>
 <br><strong><br>Praying Parents@PL</strong>
