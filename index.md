@@ -12,7 +12,7 @@ sections:
       key_highlights:
         - title: Announcements & Events
           description: Click here to read more
-          url: /2025-secondary-3-subject-combinations/
+          url: /release-of-2024-gce-n-level-examination-results/
       subtitle: 巴耶礼峇美以美女校（中学）
   - infopic:
       title: PLMGS (Sec) Open House 2024
