@@ -2,6 +2,7 @@ collections:
   announcements:
     output: true
     order:
+      - Release of 2024 GCE ‘N’ Level Examination Results.md
       - PLMGS(Sec) Open House 2024.md
       - PLMGS(Sec) Booklist for 2025.md
       - Principal's Letter to Parents.md
