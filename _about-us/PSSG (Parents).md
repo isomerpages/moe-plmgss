@@ -95,10 +95,14 @@ programme
 </p>
 </li>
 </ul>
-<p><strong>PSSG Programmes for 2024 Calendar (as at 24 Nov 2023)</strong>
+<p><strong>PSSG Programmes for 2025 Calendar (as at 3 Dec 2024)</strong>
 </p>
-<p><a href="/files/PSSG_Programmes_for_2024_Calendar__dd_24_Nov_.pdf" rel="noopener noreferrer nofollow" target="_blank">PSSG Programmes for 2024 Calendar.pdf</a>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/PSSG_Programmes_for_2025_Calendar_For_Sch_Website.pdf" rel="noopener nofollow" target="_blank">PSSG Programmes for 2025 Calendar.pdf</a>
 </p>
+</li>
+</ul>
 <p><strong>Our Regular Activities (during school term)</strong>
 <br><strong><br>Praying Parents@PL</strong>
 <br>Praying Parents@PL meets every Monday morning, via Zoom at 8am for a time
@@ -152,8 +156,9 @@ Registration is Free!</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="30%" alt="Mrs Audrey Heng - Chairperson.jpeg" src="/images/Chairperson_Mrs_Yolanda_Gooi_2024.png">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/PSSG2025/Chairperson_Mrs_Yolanda_Gooi.png">
 </div>
 <p>Mrs Yolanda Gooi</p>
 </td>
@@ -163,10 +168,11 @@ Registration is Free!</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="30%" alt="Mrs Yolanda Gooi- Vice Chairperson.jpg" src="/images/Vice_Chairperson_Ms_Yvonne_Koh_2024.png">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/PSSG2025/Vice_Chairperson_Mr_Sebastian_Teo.png">
 </div>
-<p>Ms Yvonne Koh</p>
+<p>Mr Sebastian Teo</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Vice Chairperson</p>
@@ -175,7 +181,7 @@ Registration is Free!</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="30%" alt="Mrs Audrey Gomez-Secretary.JPG" src="/images/Secretary_Mrs_Audrey_Gomez_2024.png">
+<img style="width: 30%;" height="auto" width="30%" alt="Mrs Audrey Gomez-Secretary.JPG" src="/images/Secretary_Mrs_Audrey_Gomez_2024.png">
 </div>
 <p>Mrs Audrey Gomez</p>
 </td>
@@ -186,7 +192,7 @@ Registration is Free!</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="30%" alt="Mr Allan Ang - FathersSchool IC.jpeg" src="/images/Member_Mr_Allan_Ang_2024.png">
+<img style="width: 30%;" height="auto" width="30%" alt="Mr Allan Ang - FathersSchool IC.jpeg" src="/images/Member_Mr_Allan_Ang_2024.png">
 </div>
 <p>Mr Allan Ang</p>
 </td>
@@ -197,7 +203,7 @@ Registration is Free!</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="30%" alt="Mr Allan Ang - FathersSchool IC.jpeg" src="/images/Member_Mrs_Fiona_Lim_2024.png">
+<img style="width: 30%;" height="auto" width="30%" alt="Mr Allan Ang - FathersSchool IC.jpeg" src="/images/Member_Mrs_Fiona_Lim_2024.png">
 </div>
 <p>Mrs Fiona Lim</p>
 </td>
@@ -208,7 +214,7 @@ Registration is Free!</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="30%" alt="Mrs Josephine Eng - Praying Parents IC.jpeg" src="/images/Member_Mrs_Jo_Leeng_2024.png">
+<img style="width: 30%;" height="auto" width="30%" alt="Mrs Josephine Eng - Praying Parents IC.jpeg" src="/images/Member_Mrs_Jo_Leeng_2024.png">
 </div>
 <p>Mrs Jo Lee-Ng</p>
 </td>
@@ -218,10 +224,11 @@ Registration is Free!</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="30%" alt="Mrs Mae Oh - Member 2023.jpg" src="/images/Member_Mrs_Lim_Ching_Ching_2024.png">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/PSSG2025/Member_Mrs__Shermeen_Wong_Ng.png">
 </div>
-<p>Mrs Lim Ching Ching</p>
+<p>Mrs. Shermeen Wong-Ng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Member</p>
@@ -229,10 +236,35 @@ Registration is Free!</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="30%" alt="Mrs Lim Ching Ching- Member.jpg" src="/images/Member_Mr_Sebastian_Teo_2024.png">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/PSSG2025/Member_Ms__Jessica_Soo.png">
 </div>
-<p>Mr Sebastian Teo</p>
+<p>Ms. Jessica Soo</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Member</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/PSSG2025/Member_Mr__Jeremy_Ng.png">
+</div>
+<p>Mr. Jeremy Ng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Member</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/PSSG2025/Ms_Joylyn_Ng__Member.png">
+</div>
+<p>Ms Joylyn Ng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Member</p>
@@ -255,7 +287,7 @@ Registration is Free!</p>
 </p>
 </li>
 </ul>
-<h3>PSSG Photos 2023</h3>
+<h3>PSSG Photos 2024</h3>
 <div class="iframe-wrapper">
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/1urqSlhuGdFAypGjOlFvrtifJaSHPPk_Gaxr5j8wT2W0/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
