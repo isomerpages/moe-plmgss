@@ -7,7 +7,7 @@ variant: tiptap
 <p>Dear Parents/Guardians,</p>
 <ol data-tight="true" class="tight">
 <li>
-<p>Attached are the 2025 booklist for the Secondary 2 to 4/5, please download
+<p>Attached are the 2025 booklist for the Secondary 1 to 4/5, please download
 from the link below (no hardcopies&nbsp;will be issued).</p>
 </li>
 <li>
@@ -24,7 +24,8 @@ recycled bags ($0.90).</p>
 </ol>
 <ul data-tight="true" class="tight">
 <li>
-<p>Secondary 1 Booklist (to be updated at later date)</p>
+<p><a href="/files/s1_booklist_2025.pdf" rel="noopener nofollow" target="_blank">Secondary 1 Booklist</a> (Pre-orders
+will start on 16 December 2024)</p>
 </li>
 <li>
 <p><a href="/files/s2_booklist_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 2 Booklist</a>
