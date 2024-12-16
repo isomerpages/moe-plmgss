@@ -8,7 +8,16 @@ variant: tiptap
 <p>We hope that the following pdf collection of our School Magazines will
 bring special, fond memories for all PL Alumni.</p>
 <p>Enjoy recalling the Lord’s goodness to PL and your life!</p>
-<table>
+<table style="minWidth: 175px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -254,6 +263,30 @@ bring special, fond memories for all PL Alumni.</p>
 <td rowspan="1" colspan="1">
 <p><a href="https://drive.google.com/file/d/1-A_S0BUwjgnA3aCzSuPVRrhGa5MG8X3N/view?usp=share_link" rel="noopener noreferrer nofollow" target="_blank">2023</a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://drive.google.com/file/d/1G7sFkyKhC8hy_F24WcO5zpcn4y7nHCts/view?usp=share_link" rel="noopener nofollow" target="_blank">2024</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
