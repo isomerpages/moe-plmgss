@@ -115,7 +115,6 @@ a term]
 <br>3. To learn new skills and knowledge to help us to be more effective fathers
 to our children</p>
 <p></p>
-<p></p>
 <p><strong>PSSG Membership drive</strong>
 </p>
 <ol data-tight="true" class="tight">
