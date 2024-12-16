@@ -125,7 +125,7 @@ to our children</p>
 </li>
 </ol>
 <p>Join us to be a part of the PL’s extended family:
-<br>Click on the link <a href="https://go.gov.sg/pssgmbrship2024" rel="noopener noreferrer nofollow" target="_blank">PSSG Membership</a> to register.
+<br>Click on the link <a href="https://go.gov.sg/pssgmbrship2025" rel="noopener noreferrer nofollow" target="_blank">PSSG Membership 2025</a> to register.
 Registration is Free!</p>
 <p>For more information, please feel free to email&nbsp;<a href="mailto:plmgss.pssg@gmail.com" rel="noopener noreferrer nofollow" target="_blank">plmgss.pssg@gmail.com</a>
 </p>
