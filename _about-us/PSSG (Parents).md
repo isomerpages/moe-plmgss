@@ -120,12 +120,7 @@ to our children</p>
 </p>
 <ol data-tight="true" class="tight">
 <li>
-<p><a href="/files/2024_PSSG_Chairperson_Welcome_Letter.pdf" rel="noopener noreferrer nofollow" target="_blank">Welcome letter from PSSG Chairperson 2024</a> 
-<br>
-</p>
-</li>
-<li>
-<p><a href="https://drive.google.com/file/d/17dTp_kApo2W8Lj1G0pAPpZsmu3ZxQEkT/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Welcome video from PSSG Chairperson 2024</a>
+<p><a href="/files/2025_PSSG_Chairperson_Welcome_Letter.pdf" rel="noopener nofollow" target="_blank">2025 PSSG Chairperson Welcome Letter</a>
 <br>
 </p>
 </li>
@@ -133,8 +128,6 @@ to our children</p>
 <p>Join us to be a part of the PL’s extended family:
 <br>Click on the link <a href="https://go.gov.sg/pssgmbrship2024" rel="noopener noreferrer nofollow" target="_blank">PSSG Membership 2024</a> to register.
 Registration is Free!</p>
-<p></p>
-<p></p>
 <p>For more information, please feel free to email&nbsp;<a href="mailto:plmgss.pssg@gmail.com" rel="noopener noreferrer nofollow" target="_blank">plmgss.pssg@gmail.com</a>
 </p>
 <h3>PSSG Executive Committee Members 2025</h3>
