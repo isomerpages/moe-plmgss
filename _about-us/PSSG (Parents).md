@@ -115,29 +115,21 @@ a term]
 <br>3. To learn new skills and knowledge to help us to be more effective fathers
 to our children</p>
 <p></p>
-<p></p>
 <p><strong>PSSG Membership drive</strong>
 </p>
 <ol data-tight="true" class="tight">
 <li>
-<p><a href="/files/2024_PSSG_Chairperson_Welcome_Letter.pdf" rel="noopener noreferrer nofollow" target="_blank">Welcome letter from PSSG Chairperson 2024</a> 
-<br>
-</p>
-</li>
-<li>
-<p><a href="https://drive.google.com/file/d/17dTp_kApo2W8Lj1G0pAPpZsmu3ZxQEkT/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Welcome video from PSSG Chairperson 2024</a>
+<p><a href="/files/2025_PSSG_Chairperson_Welcome_Letter.pdf" rel="noopener nofollow" target="_blank">2025 PSSG Chairperson Welcome Letter</a>
 <br>
 </p>
 </li>
 </ol>
 <p>Join us to be a part of the PL’s extended family:
-<br>Click on the link <a href="https://go.gov.sg/pssgmbrship2024" rel="noopener noreferrer nofollow" target="_blank">PSSG Membership 2024</a> to register.
+<br>Click on the link <a href="https://go.gov.sg/pssgmbrship2024" rel="noopener noreferrer nofollow" target="_blank">PSSG Membership</a> to register.
 Registration is Free!</p>
-<p></p>
-<p></p>
 <p>For more information, please feel free to email&nbsp;<a href="mailto:plmgss.pssg@gmail.com" rel="noopener noreferrer nofollow" target="_blank">plmgss.pssg@gmail.com</a>
 </p>
-<h3>PSSG Executive Committee Members 2024</h3>
+<h3>PSSG Executive Committee Members 2025</h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -146,7 +138,7 @@ Registration is Free!</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><em>PSSG 2024 EXCO</em></strong>
+<p><strong><em>PSSG 2025 EXCO</em></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -180,8 +172,9 @@ Registration is Free!</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="30%" alt="Mrs Audrey Gomez-Secretary.JPG" src="/images/Secretary_Mrs_Audrey_Gomez_2024.png">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/PSSG2025/Mrs_Audrey_Gomez_Secretary.png">
 </div>
 <p>Mrs Audrey Gomez</p>
 </td>
@@ -213,22 +206,11 @@ Registration is Free!</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="30%" alt="Mrs Josephine Eng - Praying Parents IC.jpeg" src="/images/Member_Mrs_Jo_Leeng_2024.png">
-</div>
-<p>Mrs Jo Lee-Ng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Member</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/PSSG2025/Member_Mrs__Shermeen_Wong_Ng.png">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/PSSG2025/Member_Mr__Jeremy_Ng.png">
 </div>
-<p>Mrs. Shermeen Wong-Ng</p>
+<p>Mr. Jeremy Ng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Member</p>
@@ -248,11 +230,10 @@ Registration is Free!</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/PSSG2025/Member_Mr__Jeremy_Ng.png">
+<img style="width: 30%;" height="auto" width="30%" alt="Mrs Josephine Eng - Praying Parents IC.jpeg" src="/images/Member_Mrs_Jo_Leeng_2024.png">
 </div>
-<p>Mr. Jeremy Ng</p>
+<p>Mrs Jo Lee-Ng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Member</p>
@@ -270,10 +251,26 @@ Registration is Free!</p>
 <p>Member</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/PSSG2025/Member_Mrs__Shermeen_Wong_Ng.png">
+</div>
+<p>Mrs. Shermeen Wong-Ng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Member</p>
+</td>
+</tr>
 </tbody>
 </table>
 <h3>PSSG Videos 2024</h3>
 <ul data-tight="true" class="tight">
+<li>
+<p><a href="https://drive.google.com/file/d/14_ovMZz6_2fhjB_oCOebuW32fYZ06Dam/view?usp=drive_link" rel="noopener nofollow" target="_blank">PSSG PL Game Hour 2024</a>
+</p>
+</li>
 <li>
 <p><a href="https://drive.google.com/file/d/1jiA3xFWYcQ8ZbIy4yLqnyRsD9Szz8KQj/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">PSSG Breakfast with Dad Video (6 August 2024)</a>
 </p>
