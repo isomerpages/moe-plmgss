@@ -137,7 +137,7 @@ Registration is Free!</p>
 <p></p>
 <p>For more information, please feel free to email&nbsp;<a href="mailto:plmgss.pssg@gmail.com" rel="noopener noreferrer nofollow" target="_blank">plmgss.pssg@gmail.com</a>
 </p>
-<h3>PSSG Executive Committee Members 2024</h3>
+<h3>PSSG Executive Committee Members 2025</h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -146,7 +146,7 @@ Registration is Free!</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><em>PSSG 2024 EXCO</em></strong>
+<p><strong><em>PSSG 2025 EXCO</em></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -180,8 +180,9 @@ Registration is Free!</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="30%" alt="Mrs Audrey Gomez-Secretary.JPG" src="/images/Secretary_Mrs_Audrey_Gomez_2024.png">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/PSSG2025/Mrs_Audrey_Gomez_Secretary.png">
 </div>
 <p>Mrs Audrey Gomez</p>
 </td>
@@ -213,22 +214,11 @@ Registration is Free!</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="30%" alt="Mrs Josephine Eng - Praying Parents IC.jpeg" src="/images/Member_Mrs_Jo_Leeng_2024.png">
-</div>
-<p>Mrs Jo Lee-Ng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Member</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/PSSG2025/Member_Mrs__Shermeen_Wong_Ng.png">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/PSSG2025/Member_Mr__Jeremy_Ng.png">
 </div>
-<p>Mrs. Shermeen Wong-Ng</p>
+<p>Mr. Jeremy Ng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Member</p>
@@ -248,11 +238,10 @@ Registration is Free!</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/PSSG2025/Member_Mr__Jeremy_Ng.png">
+<img style="width: 30%;" height="auto" width="30%" alt="Mrs Josephine Eng - Praying Parents IC.jpeg" src="/images/Member_Mrs_Jo_Leeng_2024.png">
 </div>
-<p>Mr. Jeremy Ng</p>
+<p>Mrs Jo Lee-Ng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Member</p>
@@ -265,6 +254,18 @@ Registration is Free!</p>
 <img style="width: 30%;" height="auto" width="100%" alt="" src="/images/PSSG2025/Ms_Joylyn_Ng__Member.png">
 </div>
 <p>Ms Joylyn Ng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Member</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/PSSG2025/Member_Mrs__Shermeen_Wong_Ng.png">
+</div>
+<p>Mrs. Shermeen Wong-Ng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Member</p>
