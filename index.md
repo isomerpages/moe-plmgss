@@ -23,11 +23,11 @@ sections:
       image: /images/openhouse_2024_sm.jpg
       alt: Image alt text
   - infopic:
-      title: School Yearbook 2023
+      title: School Yearbook 2024
       id: infopic
       button: CLICK HERE
-      url: /school-yearbook-2023/
-      image: /images/yb2023.jpg
+      url: /school-yearbook-2024/
+      image: /images/yearbook2024_b.png
       alt: Image alt text
   - infopic:
       title: Musical Montage 2024 YouTube Live Streaming
