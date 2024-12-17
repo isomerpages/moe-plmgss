@@ -15,19 +15,18 @@ sections:
           url: /briefing-slides-for-2024-gce-n-level-examination-results/
       subtitle: 巴耶礼峇美以美女校（中学）
   - infopic:
-      title: PLMGS (Sec) Open House 2024
-      subtitle: Add an image and text
+      title: 2024 GCE ‘N’ Level Examination Results & Briefing Slides
       id: infopic
-      button: Click here for more
-      url: /openhouse2024/
-      image: /images/openhouse_2024_sm.jpg
+      button: Click here
+      url: /accolades/national-examinations/gce-n-level-2024/
+      image: /images/Accolades/N Level2024/Slide17.jpg
       alt: Image alt text
   - infopic:
-      title: School Yearbook 2023
+      title: School Yearbook 2024
       id: infopic
       button: CLICK HERE
-      url: /school-yearbook-2023/
-      image: /images/yb2023.jpg
+      url: /school-yearbook-2024/
+      image: /images/yearbook2024_b.png
       alt: Image alt text
   - infopic:
       title: Musical Montage 2024 YouTube Live Streaming
