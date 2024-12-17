@@ -2,7 +2,7 @@ collections:
   announcements:
     output: true
     order:
-      - Briefing Slides for 2024 GCE ‘N’ Level Examination Results.md
+      - 2024 GCE ‘N’ Level Examination Results & Briefing Slides.md
       - School Yearbook 2024.md
       - PLMGS(Sec) Open House 2024.md
       - PLMGS(Sec) Booklist for 2025.md
