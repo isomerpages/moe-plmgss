@@ -24,4 +24,4 @@ Primary 6 students from PLMGS (Primary) & other Primary Schools who have just re
 
 Students appealing for admissions after the secondary school posting should fill in the **[2024 Appeal Form](https://form.gov.sg/674e964ea607f475d607e456)**.  The application for appeal is deemed to be unsuccessful if you do not hear from the school by **10 January 2025**.
 
-Please refer to our **[Frequently Asked Questions](/files/FAQs_for_2024_Sec_1_Posting_Exercise.pdf)** for more information about our Cut-off AL Scores and other school programmes.
+Please refer to our **[Frequently Asked Questions](/files/FAQs_for_2024_Sec_1_Posting_Exercise_b.pdf)** for more information about our Cut-off AL Scores and other school programmes.
