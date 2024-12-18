@@ -15,6 +15,13 @@ sections:
           url: /briefing-slides-for-2024-gce-n-level-examination-results/
       subtitle: 巴耶礼峇美以美女校（中学）
   - infopic:
+      title: Secondary One Posting and Registration (2025 intake)
+      id: infopic
+      button: Click here
+      url: /secondary-one-posting-and-registration-2025-intake/
+      image: /images/pl_lite_bulb.jpg
+      alt: Image alt text
+  - infopic:
       title: 2024 GCE ‘N’ Level Examination Results & Briefing Slides
       id: infopic
       button: Click here
