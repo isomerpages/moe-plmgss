@@ -9,5 +9,6 @@ description: ""
 <p>The Secondary One Registration process will be conducted online, so Secondary
 One students are <strong><u>NOT</u></strong> required to report in person
 on Registration Day.</p>
-<p>Please click here to access the Sec 1 Registration microsite for the registration
-link and also for other administrative information on various matters.</p>
+<p>Please <strong><a href="https://go.gov.sg/plmgss-s1registration" rel="noopener nofollow" target="_blank">click here</a></strong> to
+access the Sec 1 Registration microsite for the registration link and also
+for other administrative information on various matters.</p>
