@@ -10,7 +10,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p>Please&nbsp;<a href="https://www.plmgss.moe.edu.sg/articles/announcements/principals-letter-to-parents" rel="noopener noreferrer nofollow" target="_blank">click here</a>&nbsp;for&nbsp;<strong>Principal's Letter to Parents</strong>
+<p>Please&nbsp;<a href="https://www.plmgss.moe.edu.sg/announcements/principal-letter-to-parents/" rel="noopener noreferrer nofollow" target="_blank">click here</a>&nbsp;for&nbsp;<strong>Principal's Letter to Parents</strong>
 </p>
 </li>
 <li>
