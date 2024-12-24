@@ -161,4 +161,7 @@ to solve real-world challenges</p>
 </ul>
 </li>
 </ul>
+<div class="iframe-wrapper">
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/1ujJ3b_1OjrQaXI88dochk0cPhPS3u4DBt-XNX6prsIk/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
 <p></p>
