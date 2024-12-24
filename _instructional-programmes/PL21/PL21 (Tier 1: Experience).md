@@ -3,7 +3,7 @@ title: "PL21 (Tier 1: Experience)"
 permalink: /pl21-experience/
 variant: tiptap
 description: ""
-third_nav_title: IP Overview
+third_nav_title: PL21
 ---
 <h4>Tier 1: PL21 2.0 Experience</h4>
 <h4><strong>Equip</strong></h4>

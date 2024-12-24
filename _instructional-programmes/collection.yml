@@ -5,12 +5,13 @@ collections:
       - IP Overview/.keep
       - IP Overview/IP Overview.md
       - IP Overview/Assessment.md
-      - IP Overview/PL21.md
-      - "IP Overview/PL21 (Tier 1: Experience).md"
-      - "IP Overview/PL21 (Tier 2: ACE (STEM)).md"
-      - "IP Overview/PL21 (Tier 2: Global Scholar Programme).md"
       - IP Overview/Homework Policy.md
       - IP Overview/Syllabuses.md
+      - PL21/.keep
+      - PL21/PL21.md
+      - "PL21/PL21 (Tier 1: Experience).md"
+      - "PL21/PL21 (Tier 2: ACE (STEM)).md"
+      - "PL21/PL21 (Tier 2: Global Scholar Programme).md"
       - English/.keep
       - English/English.md
       - English/Curriculum.md
