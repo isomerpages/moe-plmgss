@@ -2,11 +2,11 @@ collections:
   instructional-programmes:
     output: true
     order:
-      - "IP Overview/PL21 (Tier 1: Experience).md"
       - IP Overview/.keep
       - IP Overview/IP Overview.md
       - IP Overview/Assessment.md
       - IP Overview/PL21.md
+      - "IP Overview/PL21 (Tier 1: Experience).md"
       - IP Overview/ACE (Math & Science).md
       - IP Overview/Homework Policy.md
       - IP Overview/Syllabuses.md
