@@ -63,7 +63,13 @@ and others.</p>
 <p>Term 1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>To be updated soon</p>
+<p><strong>A friend who grows in wisdom and stature</strong>
+</p>
+<p><em>“And Jesus grew in wisdom and stature, and in favour with God and man.” - Luke 2:52</em>
+</p>
+<p>January: I can be my best self because I’m fearfully and wonderfully made!</p>
+<p>February: Grow in wisdom and stature</p>
+<p>March: Grow in favour with God and Man</p>
 </td>
 </tr>
 <tr>
@@ -71,7 +77,15 @@ and others.</p>
 <p>Term 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>To be updated soon</p>
+<p><strong>A friend who loves all</strong>
+</p>
+<p><em>“A friend loves at all times” - Proverbs 17:17a</em>
+</p>
+<p>April: Love with HEART
+<br>(<u>H</u>onouring one another, encouraging one another to pursue <u>E</u>xcellence)</p>
+<p>May/June: Love with HEART
+<br>(<u>A</u>dapting to differences, <u>R</u>especting one another and giving <u>T</u>hanks
+for one another)</p>
 </td>
 </tr>
 <tr>
@@ -79,7 +93,13 @@ and others.</p>
 <p>Term 3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>To be updated soon</p>
+<p><strong>A friend who serves</strong>
+</p>
+<p><em>"Don’t let anyone look down on you because you are young, but set an example for the believers in speech, in conduct, in love, in faith, and in purity." - 1 Timothy 4:12</em>
+</p>
+<p>July: Serve in every way</p>
+<p>August: Serve faithfully</p>
+<p>September: Serve and be a beacon</p>
 </td>
 </tr>
 <tr>
@@ -87,7 +107,12 @@ and others.</p>
 <p>Term 4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>To be updated soon</p>
+<p><strong>A friend who will “Look up, Lift up”</strong>
+</p>
+<p><em>“I lift up my eyes to the mountains — where does my help come from? My help comes from the Lord, the Maker of heaven and earth.” - Psalms 121:1-2</em>
+</p>
+<p>October: Look up to God</p>
+<p>November/December: Lift up our praises</p>
 </td>
 </tr>
 </tbody>
