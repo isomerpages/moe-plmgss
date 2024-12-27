@@ -2,112 +2,83 @@
 title: Year and Monthly Themes
 permalink: /about-us/year-and-monthly-themes/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-### 2024 School Theme and Theme Verse
-
-![](/images/theme2024.jpg)
-
-
-**PLMGS Age:** 108th year  
-  
-**2024 Year Theme:** Be True, Pure, Strong and Brave
-  
-****2024 School Theme and Theme Verse****  
-_“Finally, brothers and sisters, whatever is true, whatever is noble, whatever is right, 
-whatever is pure, whatever is lovely, whatever is admirable 
-– if anything is excellent or praiseworthy – think about such things.”
-	Philippians 4:8 [NIV]_
-  
-**Inspiration:**<br>
-Inspired by Our **School Creed**<br>
-Stanza 1<br>
-*I would be true for there are those who trust me<br>
-I would be pure for there are those who care<br>
-I would be strong for there is much to suffer<br>
-I would be brave for there is much to dare.*
-
-
-
-**Theme Song:**<br>
-**Little by Little**
-
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/40nUuRVbDmo?si=nkPBBkFrakbNgJXf" height="315" width="560"></iframe>
-
-Lyrics:<br>
-Little by little everyday<br>
-Little by little in every way<br>
-Jesus is changing me,<br>
-He's changing me.<br>
-Since I made that turn about face<br>
-I've been growing in His grace<br>
-Jesus is changing me.<br>
-
-He's changing me, my precious Saviour<br>
-I'm not the same person that I used to be<br>
-Well, it's been slow going<br>
-But still there's knowing<br>
-That someday perfect I will be. ......
-
-
-**2024 Monthly Themes**  
-  
-
-Our assembly programmes are also anchored on the following monthly themes. They seek to inspire our girls to build positive psychological resilience in their pursuit of a purposeful life, making a difference for themselves and others.
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-sxkx{background-color:#FFF;color:#454545;text-align:center;vertical-align:top}
-.tg .tg-ncov{background-color:#FFF;color:#454545;text-align:center;vertical-align:middle}
-.tg .tg-2fwu{background-color:#FFF;color:#454545;font-weight:bold;text-align:center;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-2fwu">Month</th>
-    <th class="tg-2fwu">Theme for the month</th>
-  </tr>
-</thead>
+<h3>2025 School Theme and Theme Verse</h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/yeary_theme2025.jpg">
+</div>
+<p><strong>PLMGS Age:</strong> 109th year</p>
+<p><strong>2025 Year Theme:</strong> A Friend of All</p>
+<p><strong>2025 School Theme and Theme Verse</strong>
+<br>"<em>A Friend Loves At All Times"<br>- Proverbs 17:17a</em>
+</p>
+<p><strong>Inspiration:</strong>
+<br>Inspired by Our School Creed</p>
+<p>Stanza 2
+<br>I would be <strong>friend of all</strong>, the foe, the friendless&nbsp;
+<br>I would be giving and forget the gift
+<br>I would be humble for I know my weakness
+<br>I would look up and love and laugh and lift.</p>
+<p><strong>Theme Song:<br>A Friend Loves At All Times</strong>
+</p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/XYAGXmyp7r4?si=_hqpBb6b5wDSrbBU"></iframe>
+</div>
+<p>Lyrics:
+<br>To be updated</p>
+<p><strong>2025 Termly Themes</strong>
+</p>
+<p>Our assembly programmes are also anchored on the following monthly themes.
+They seek to inspire our girls to build positive psychological resilience
+in their pursuit of a purposeful life, making a difference for themselves
+and others.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
-  <tr>
-    <td class="tg-sxkx">January</td>
-    <td class="tg-sxkx">Be True, Pure, Strong and Brave</td>
-  </tr>
-  <tr>
-    <td class="tg-sxkx">February</td>
-    <td class="tg-sxkx">Be True to Serve and Shine</td>
-  </tr>
-  <tr>
-    <td class="tg-sxkx">March</td>
-    <td class="tg-sxkx">Be Pure in Thoughts, Speech and Actions</td>
-  </tr>
-  <tr>
-    <td class="tg-sxkx">April</td>
-    <td class="tg-sxkx">Be Strong in Overcoming Adversities</td>
-  </tr>
-  <tr>
-    <td class="tg-sxkx">May / June</td>
-    <td class="tg-sxkx">Be Brave to Step Out in Faith</td>
-  </tr>
-  <tr>
-    <td class="tg-sxkx">July</td>
-    <td class="tg-sxkx">Be an Example for All </td>
-  </tr>
-  <tr>
-    <td class="tg-sxkx">August</td>
-    <td class="tg-sxkx">Be a Light to Your World</td>
-  </tr>
-  <tr>
-    <td class="tg-sxkx">September</td>
-    <td class="tg-sxkx">Be Focused on Our Purpose</td>
-  </tr>
-  <tr>
-    <td class="tg-sxkx">October</td>
-    <td class="tg-ncov">Be Thankful!</td>
-  </tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Term</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Theme for the term</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Term 1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>To be updated</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Term 2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>To be updated</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Term 3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>To be updated</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Term 4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>To be updated</p>
+</td>
+</tr>
 </tbody>
 </table>
+<p></p>
