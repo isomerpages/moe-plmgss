@@ -63,7 +63,7 @@ and others.</p>
 <p>Term 1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>To be updated</p>
+<p>To be updated soon</p>
 </td>
 </tr>
 <tr>
@@ -71,7 +71,7 @@ and others.</p>
 <p>Term 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>To be updated</p>
+<p>To be updated soon</p>
 </td>
 </tr>
 <tr>
@@ -79,7 +79,7 @@ and others.</p>
 <p>Term 3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>To be updated</p>
+<p>To be updated soon</p>
 </td>
 </tr>
 <tr>
@@ -87,7 +87,7 @@ and others.</p>
 <p>Term 4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>To be updated</p>
+<p>To be updated soon</p>
 </td>
 </tr>
 </tbody>
