@@ -40,7 +40,7 @@ variant: tiptap
 <br>Oh, a friend loves at all times</p>
 <p></p>
 <p><strong>2025 Termly Themes</strong>
-<br>Our assembly programmes are also anchored on the following monthly themes.
+<br>Our assembly programmes are also anchored on the following termly themes.
 They seek to inspire our girls to build positive psychological resilience
 in their pursuit of a purposeful life, making a difference for themselves
 and others.</p>
