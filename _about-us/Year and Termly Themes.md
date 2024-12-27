@@ -38,9 +38,9 @@ variant: tiptap
 <br>‘Cause he’s the perfect friend
 <br>
 <br>Oh, a friend loves at all times</p>
+<p></p>
 <p><strong>2025 Termly Themes</strong>
-</p>
-<p>Our assembly programmes are also anchored on the following monthly themes.
+<br>Our assembly programmes are also anchored on the following monthly themes.
 They seek to inspire our girls to build positive psychological resilience
 in their pursuit of a purposeful life, making a difference for themselves
 and others.</p>
