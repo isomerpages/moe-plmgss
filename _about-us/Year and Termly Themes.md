@@ -26,7 +26,18 @@ variant: tiptap
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/XYAGXmyp7r4?si=_hqpBb6b5wDSrbBU"></iframe>
 </div>
 <p>Lyrics:
-<br>To be updated</p>
+<br>A friend loves at all times
+<br>Jesus is a friend of mine
+<br>Laying down his life
+<br>A friend loves at all times
+<br>
+<br>Underneath the stars at night
+<br>When the sun shines so bright
+<br>When we jump and when we fall
+<br>Jesus loves us all
+<br>‘Cause he’s the perfect friend
+<br>
+<br>Oh, a friend loves at all times</p>
 <p><strong>2025 Termly Themes</strong>
 </p>
 <p>Our assembly programmes are also anchored on the following monthly themes.
