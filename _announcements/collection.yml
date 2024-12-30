@@ -2,6 +2,7 @@ collections:
   announcements:
     output: true
     order:
+      - First Day of School.md
       - Secondary One Posting and Registration (2025 intake).md
       - 2024 GCE ‘N’ Level Examination Results & Briefing Slides.md
       - School Yearbook 2024.md
