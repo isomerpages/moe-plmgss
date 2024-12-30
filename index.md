@@ -12,7 +12,7 @@ sections:
       key_highlights:
         - title: Announcements & Events
           description: Click here to read more
-          url: /secondary-one-posting-and-registration-2025-intake/
+          url: /first-day-of-school/
       subtitle: 巴耶礼峇美以美女校（中学）
   - infopic:
       title: Secondary One Posting and Registration (2025 intake)
