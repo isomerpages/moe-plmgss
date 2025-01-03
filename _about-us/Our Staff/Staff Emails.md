@@ -35,7 +35,7 @@ variant: tiptap
 <p>Mrs Selina Lum</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Vice Principal</p>
+<p>Vice-Principal</p>
 </td>
 </tr>
 <tr>
@@ -43,7 +43,7 @@ variant: tiptap
 <p>Ms Susan Toh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Vice Principal</p>
+<p>Vice-Principal</p>
 </td>
 </tr>
 <tr>
@@ -51,7 +51,7 @@ variant: tiptap
 <p>Mr Ning Tau Yee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Vice Principal (Administration)</p>
+<p>Vice-Principal (Administration)</p>
 </td>
 </tr>
 </tbody>
@@ -233,7 +233,7 @@ variant: tiptap
 <p>Ms Lim Shu Ping</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH / Data Management and Infocom Technology</p>
+<p>SH / Infocom Technology and Knowledge Management</p>
 </td>
 </tr>
 <tr>
