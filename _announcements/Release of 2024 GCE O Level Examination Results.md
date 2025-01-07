@@ -115,6 +115,9 @@ career planning resources.</p>
 </ol>
 <p>We are keeping all of you in our prayers and look forward to supporting
 you in deciding your next educational journey.</p>
-<p>With love,
+<p></p>
+<p>See you soon!
+<br>With love,
 <br>Your Teachers and All at PLMGS(Sec)
-<br>See you soon!</p>
+<br>
+</p>
