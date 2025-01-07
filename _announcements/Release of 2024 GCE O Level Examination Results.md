@@ -6,70 +6,115 @@ description: ""
 ---
 <p><strong><u>Release&nbsp;of&nbsp;2024&nbsp;GCE&nbsp;O-Level&nbsp;Examination&nbsp;Results</u></strong>
 </p>
-<p>Results&nbsp;for&nbsp;2024&nbsp;GCE&nbsp;O-Level&nbsp;Examinations will
-be&nbsp;released&nbsp;on&nbsp;<strong><u>Friday, 10 January 2025</u></strong> at&nbsp;<strong><u>2 pm</u>&nbsp;</strong>at&nbsp;the
-Shaw Hall.</p>
-<p>Students are reminded to take note of the following:</p>
-<ol data-tight="true" class="tight">
+<p>Dear Students,</p>
+<p>The 2024 GCE O-Level Examination results will be released on <strong>Friday, 10 January 2025, at 2.30 pm&nbsp;in the Shaw Hall</strong>.</p>
+<p>Please take note of the following:</p>
+<ol>
 <li>
-<p>Please be neatly attired in your full school uniform (school badge and
-name tag, school socks and shoes&nbsp;and&nbsp;neat,&nbsp;<u>undyed</u>&nbsp;hair).</p>
-</li>
-<li>
-<p>Please gather in the Shaw Hall by <strong><u>1.45pm</u></strong>.</p>
-</li>
-<li>
-<p>Parents/guardians may accompany their child/ward to their school to collect
-their results.</p>
-</li>
-<li>
-<p>Students who are unwell or unable to collect their physical results in
-person are advised to appoint a proxy to collect the results on their behalf.
-Students recovering from respiratory-related illnesses and are in school
-to collect their results should exercise social responsibility and wear
-a mask. Proxies are required to produce an authorisation letter for verification
-purpose before collecting the results. You may contact the General Office
-for further assistance at 62816606.</p>
-</li>
-<li>
-<p>Students with outstanding school fees/ examination fees/ library fines
-must settle the payments before 1.30pm on 10 January.</p>
-</li>
-<li>
-<p>Provision of Education and Career Guidance (ECG) services:</p>
-</li>
-</ol>
-<p><strong>(a)&nbsp;&nbsp; Online or Face to Face Session with Ms Lim, ECG Counsellor</strong>
-<br>Ms Lim will be available from Tuesdays and Thursdays, 8am – 4.30pm for
-ECG Counselling.</p>
-<p>Book an appointment: <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/plmgss-ecg</a>
-</p>
-<p><strong>(b) Online Support</strong>
+<p><strong>Attire and Punctuality</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>JAE website for more details on the JAE (<a rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/jae</a>)</p>
+<p>Be neatly attired in your full school uniform (including school badge,
+name tag, school socks, and shoes) with neat and undyed hair.</p>
 </li>
 <li>
-<p>SchoolFinder for details of the offerings by and previous entry score
-ranges for JCs and MI (<a rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/schoolfinder</a>)</p>
-</li>
-<li>
-<p>MOE’s CourseFinder for courses offered by the polytechnics and ITE, based
-on aggregate type and area of interest (<a rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/coursefinder</a>)</p>
-</li>
-<li>
-<p>MySkillsFuture (<a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/mysfsec</a>)</p>
+<p>Gather in the Shaw Hall by <strong>1.45&nbsp;pm.</strong>
+</p>
 </li>
 </ul>
-<p><strong>(c) Online or Phone Counselling by ECG Centre</strong>
-<br>To complement the ECG support provided by schools, students can make an
-ECG counselling appointment via the ECG Centre at MOE (Grange Road) at
-<a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-ecg-centre</a>. The MOE ECG Centre will offer online
-or phone counselling from Monday, 6 January 2025 to Thursday, 16 January
-2025, (Weekdays: 9.00am to 5.00pm; Saturdays: 9.00am to 12.00pm).</p>
-<p>We will be keeping all of you in our prayers. We look forward to helping
-you decide on your next educational phase.
-<br>
-<br>Love you all and see you on soon,
-<br>Your teachers and all at PLMGS(Sec)</p>
+</li>
+<li>
+<p><strong>Collection of Results</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Parents/guardians are welcome to accompany their child/ward to collect
+the results.&nbsp; As there is limited parking space within the school
+for the school staff, parents are strongly advised to park your car in
+the vicinity of the HDB car park.&nbsp;&nbsp;</p>
+</li>
+<li>
+<p>Students who are unwell or unable to collect their results in person should
+appoint a proxy to collect them. Proxies must present an authorization
+letter for verification.</p>
+</li>
+<li>
+<p>Students recovering from respiratory-related illnesses are reminded to
+wear a mask if collecting results in person.</p>
+</li>
+<li>
+<p>For assistance, please contact the General Office at <strong>6281 6606</strong>.</p>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>Outstanding Payments</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Students with outstanding school fees, examination fees, or library fines
+must settle payments by <strong>1:30 PM on 10 January 2025</strong>.</p>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>Education and Career Guidance (ECG) Services</strong>
+</p>
+<ul>
+<li>
+<p><strong>Face-to-Face or Online Session with Ms. Lim, ECG Counsellor</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Available on Tuesdays and Thursdays, 8:00 AM – 4:30 PM.</p>
+</li>
+<li>
+<p>Appointment link: <a href="https://go.gov.sg/plmgss-ecg" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/plmgss-ecg</a>
+</p>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>Online Support</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://www.moe.gov.sg/jae" rel="noopener" target="_blank">JAE website</a> for
+information on the JAE.</p>
+</li>
+<li>
+<p><a href="https://www.moe.gov.sg/schoolfinder" rel="noopener" target="_blank">SchoolFinder</a> for
+JC and MI offerings and entry score ranges.</p>
+</li>
+<li>
+<p><a href="https://www.moe.gov.sg/coursefinder" rel="noopener" target="_blank">CourseFinder</a> for
+polytechnic and ITE courses.</p>
+</li>
+<li>
+<p><a href="https://go.gov.sg/mysfsec" rel="noopener" target="_blank">MySkillsFuture</a> for
+career planning resources.</p>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>Online or Phone Counselling by ECG Centre</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Appointments can be made via the <a href="https://go.gov.sg/moe-ecg-centre" rel="noopener" target="_blank">MOE ECG Centre</a>.</p>
+</li>
+<li>
+<p>Counselling is available from <strong>Monday, 6 January 2025, to Thursday, 16 January 2025</strong> (Weekdays:
+9.00 am&nbsp;– 55.00 pm; Saturdays: 9.00&nbsp;am – 12.00 pm).</p>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ol>
+<p>We are keeping all of you in our prayers and look forward to supporting
+you in deciding your next educational journey.</p>
+<p>With love,
+<br>Your Teachers and All at PLMGS(Sec)
+<br>See you soon!</p>
