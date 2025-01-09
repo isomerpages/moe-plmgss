@@ -63,17 +63,8 @@ must settle payments by <strong>1:30 PM on 10 January 2025</strong>.</p>
 </p>
 <ul>
 <li>
-<p><strong>Face-to-Face or Online Session with Ms. Lim, ECG Counsellor</strong>
+<p><strong>Face-to-Face or Online Session with an ECG Counsellor on site on the day when the exam results are released (10 Jan 2025)</strong>
 </p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Available on Tuesdays and Thursdays, 8:00 AM – 4:30 PM.</p>
-</li>
-<li>
-<p>Appointment link: <a href="https://go.gov.sg/plmgss-ecg" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/plmgss-ecg</a>
-</p>
-</li>
-</ul>
 </li>
 <li>
 <p><strong>Online Support</strong>
