@@ -2,6 +2,7 @@ collections:
   announcements:
     output: true
     order:
+      - Meet the Parents Sessions Presentation Slides.md
       - Release of 2024 GCE O Level Examination Results.md
       - START Right Programme 2025.md
       - 2025 Semester 1 Timetable.md
@@ -14,7 +15,6 @@ collections:
       - 2025 Secondary 3 Subject Combinations.md
       - Edusave CHaracter Award (ECHA) & EAGLES 21 CC Award.md
       - Musical Montage 2024 YouTube Live Streaming.md
-      - Meet the Parents Sessions Presentation Slides.md
       - 2024 JCs and Polytechnics Open House.md
       - School Canteen Feedback.md
       - Road Safety and Traffic Management Plan.md
