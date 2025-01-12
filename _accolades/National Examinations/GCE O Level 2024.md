@@ -16,4 +16,4 @@ O-Level Results:</p>
 </li>
 </ol>
 <p></p>
-<p>2024 GCE O-Level Results will be published soon.</p>
+<p>2024 GCE O-Level results will be published soon.</p>
