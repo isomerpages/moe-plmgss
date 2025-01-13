@@ -803,7 +803,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Liew Koi Chin</p>
+<p><a href="mailto:liew_koi_chin@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Liew Koi Chin</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -815,7 +816,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Ong Jin Yi</p>
+<p><a href="mailto:ong_jun_yi@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Ong Jin Yi</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -827,7 +829,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Ong Adeline</p>
+<p><a href="mailto:ng_su_mei_adeline@moe.edu.sg" rel="noopener nofollow" target="_blank">Mrs Ong Adeline</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -839,7 +842,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Hu Min</p>
+<p><a href="mailto:hu_min@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Hu Min</a>
+</p>
 </td>
 </tr>
 <tr>
