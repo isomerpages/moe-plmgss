@@ -546,7 +546,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Gloria Lim</p>
+<p><a href="mailto:lim_siok_peng_gloria@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Gloria Lim</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Corporate Support Officer</p>
@@ -554,7 +555,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Lilian Tan</p>
+<p><a href="mailto:tan_khian_eng_lilian@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Lilian Tan</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Corporate Support Officer</p>
@@ -570,7 +572,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Richard Quek</p>
+<p><a href="mailto:quek_lip_chuan@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Richard Quek</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>STEM Educator (Science Lab)</p>
@@ -602,7 +605,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Dennis De Sousa</p>
+<p><a href="mailto:de_souza_dennis_gordon@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Dennis De Sousa</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>AV Technician</p>
@@ -610,7 +614,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Ng Eng Guan</p>
+<p><a href="mailto:ng_eng_guan@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Ng Eng Guan</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Librarian</p>
