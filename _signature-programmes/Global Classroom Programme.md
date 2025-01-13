@@ -2,10 +2,13 @@
 title: Global Classroom Programme
 permalink: /signature-programmes/global-classroom-programme/
 description: ""
+variant: markdown
 ---
 Our Global Classroom Programme includes twinning programmes with overseas educational institutions, Overseas Community Involvement Programmes (OCIP), and learning journeys to various countries. This programme has provided our students with opportunities to interact with people from various parts of the world so that they will be more culturally savvy and attuned to the fast-changing global environment.
 
-  
+### Cultural Immersion Trip To Batam (7 March - 9 March 2024)
+
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/1qkEsZ5YagLiFP_Vgn-W-84ITtWgQaDdbetWA7tG8qdM/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 
 ### Overseas Faithful In Service to Brunei 2017  
 
