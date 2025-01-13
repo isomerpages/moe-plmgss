@@ -24,7 +24,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Amy Ng</p>
+<p><a href="mailto:plmgss.edu.sg" rel="noopener nofollow" target="_blank">Ms Amy Ng</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Principal</p>
@@ -32,7 +33,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Selina Lum</p>
+<p><a href="mailto:plmgss.edu.sg" rel="noopener nofollow" target="_blank">Mrs Selina Lum</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Vice-Principal</p>
@@ -40,7 +42,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Susan Toh</p>
+<p><a href="mailto:plmgss.edu.sg" rel="noopener nofollow" target="_blank">Ms Susan Toh</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Vice-Principal</p>
@@ -48,7 +51,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Ning Tau Yee</p>
+<p><a href="mailto:plmgss.edu.sg" rel="noopener nofollow" target="_blank">Mr Ning Tau Yee</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Vice-Principal (Administration)</p>
