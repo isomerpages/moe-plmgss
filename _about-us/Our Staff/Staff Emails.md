@@ -205,7 +205,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Zetty Bte Abd Kadir</p>
+<p><a href="mailto:nur_zetty_abd_kadir@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Zetty Bte Abd Kadir</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Assistant Year Head (Sec 4)</p>
@@ -213,7 +214,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Das Ruth Hannah</p>
+<p><a href="mailto:das_ruth_hannah@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Das Ruth Hannah</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Assistant Year Head (Sec 2)</p>
@@ -221,7 +223,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Navethira Chandran</p>
+<p><a href="mailto:navethira_r_chandran@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Navethira Chandran</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Assistant Year Head (Acting) (Sec 1)</p>
@@ -229,7 +232,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Cheryl Chew</p>
+<p><a href="mailto:tan_jue_ling_cheryl@moe.edu.sg" rel="noopener nofollow" target="_blank">Mrs Cheryl Chew</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SH / Character and Citizenship Education</p>
