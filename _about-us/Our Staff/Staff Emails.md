@@ -673,7 +673,8 @@ variant: tiptap
 <p>Mr Elkan Lam</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Nur Zahira</p>
+<p><a href="mailto:nur_zahira@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Nur Zahira</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -687,7 +688,8 @@ variant: tiptap
 <p>Mr Leung Lok Heng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Lim Pei Yng</p>
+<p><a href="mailto:lim_pei_yng@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Lim Pei Yng</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
