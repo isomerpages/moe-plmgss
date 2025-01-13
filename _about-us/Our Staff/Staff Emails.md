@@ -713,7 +713,8 @@ variant: tiptap
 <p>Sec 1.5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Lin Bin Chuan</p>
+<p><a href="mailto:lin_binchuan@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Lin Bin Chuan</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Zhang Yong Mei</p>
@@ -727,7 +728,8 @@ variant: tiptap
 <p>Sec 1.6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Goh Sze Nee</p>
+<p><a href="mailto:goh_sze_nee@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Goh Sze Nee</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Colin Peterson</p>
@@ -741,7 +743,8 @@ variant: tiptap
 <p>Sec 1.7</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Jerry Tai</p>
+<p><a href="mailto:tai_fook_lim_jerry@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Jerry Tai</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Leow Min Yu</p>
@@ -755,7 +758,8 @@ variant: tiptap
 <p>Sec 1.8</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Wang Jing</p>
+<p><a href="mailto:wang_jing@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Wang Jing</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Marie-Therese Pang</p>
