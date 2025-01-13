@@ -79,7 +79,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Ng Eng Kee</p>
+<p><a href="mailto:ng_eng_kee@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Ng Eng Kee</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD / Aesthetics</p>
@@ -87,7 +88,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Low Hwee Hwee</p>
+<p><a href="mailto:oh_hwee_hwee@moe.edu.sg" rel="noopener nofollow" target="_blank">Mrs Low Hwee Hwee</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD / Character and Citizenship Education</p>
@@ -103,7 +105,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Vijay Neeraja</p>
+<p><a href="mailto:neeraja_sangarapillai@moe.edu.sg" rel="noopener nofollow" target="_blank">Mrs Vijay Neeraja</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD / Humanities</p>
@@ -1067,4 +1070,5 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p></p>
+<p><a href="mailto:ng_eng_kee@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Ng Eng Kee</a>
+</p>
