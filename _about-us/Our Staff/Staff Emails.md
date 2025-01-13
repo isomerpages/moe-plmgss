@@ -963,7 +963,8 @@ variant: tiptap
 <p>Sec 3.4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Lee Yen Chai</p>
+<p><a href="mailto:lee_yen_chai@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Lee Yen Chai</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Hannah Zulaihah</p>
@@ -974,7 +975,8 @@ variant: tiptap
 <p>Sec 3.5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Li Hongyan</p>
+<p><a href="mailto:li_hongyan@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Li Hongyan</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Ong Rachel</p>
@@ -985,7 +987,8 @@ variant: tiptap
 <p>Sec 3.6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Yap Wee Cheng</p>
+<p><a href="mailto:yap_wee_cheng@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Yap Wee Cheng</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Lam Cherng Yang</p>
@@ -996,7 +999,8 @@ variant: tiptap
 <p>Sec 3.7</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Joshua Low</p>
+<p><a href="mailto:low_kay_ming_joshua@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Joshua Low</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Kaur Harjit</p>
