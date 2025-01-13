@@ -1053,7 +1053,8 @@ variant: tiptap
 <p>Sec 4.1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Kirrthana</p>
+<p><a href="mailto:kirrthana_krishnamoorthy@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Kirrthana</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Lim Shu Ping</p>
@@ -1064,7 +1065,8 @@ variant: tiptap
 <p>Sec 4.2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Chong Joyce</p>
+<p><a href="mailto:chan_wai_ling_joyce@moe.edu.sg" rel="noopener nofollow" target="_blank">Mrs Chong Joyce</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Bernard Cheong</p>
@@ -1075,7 +1077,8 @@ variant: tiptap
 <p>Sec 4.3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Ung Zi Qing</p>
+<p><a href="mailto:ung_zi_qing@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Ung Zi Qing</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Shi Fu Di</p>
@@ -1086,7 +1089,8 @@ variant: tiptap
 <p>Sec 4.4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Kong Pei Shan</p>
+<p><a href="mailto:kong_pei_shan@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Kong Pei Shan</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Divakaran</p>
@@ -1097,7 +1101,8 @@ variant: tiptap
 <p>Sec 4.5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Yeo Clarabelle</p>
+<p><a href="mailto:wang_siqi_clarabelle@moe.edu.sg" rel="noopener nofollow" target="_blank">Mrs Yeo Clarabelle</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Juliana Jamil</p>
