@@ -927,7 +927,8 @@ variant: tiptap
 <p>Sec 3.1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Brenda Colleemallay</p>
+<p><a href="mailto:colleemallay_brenda@moe.edu.sg" rel="noopener nofollow" target="_blank">Mrs Brenda Colleemallay</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Wu Caifen Rachael</p>
@@ -938,7 +939,8 @@ variant: tiptap
 <p>Sec 3.2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Nuraishah</p>
+<p><a href="mailto:nuraishah_kapoor@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Nuraishah</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Low Kee Heong</p>
@@ -949,7 +951,8 @@ variant: tiptap
 <p>Sec 3.3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Neoh Terh Ling</p>
+<p><a href="mailto:lim_terh_ling@moe.edu.sg" rel="noopener nofollow" target="_blank">Mrs Neoh Terh Ling</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Rachel Kam</p>
