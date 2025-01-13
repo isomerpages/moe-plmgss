@@ -1057,7 +1057,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Lim Shu Ping</p>
+<p><a href="mailto:lim_shu_ping@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Lim Shu Ping</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -1081,7 +1082,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Shi Fu Di</p>
+<p><a href="mailto:shi_fudi@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Shi Fu Di</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -1093,7 +1095,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Divakaran</p>
+<p><a href="mailto:divakaran_kuppusamy@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Divakaran</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -1105,7 +1108,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Juliana Jamil</p>
+<p><a href="mailto:juliana_jamil@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Juliana Jamil</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -1117,7 +1121,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Olivia Low</p>
+<p><a href="mailto:low_soo_ching@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Olivia Low</a>
+</p>
 </td>
 </tr>
 <tr>
