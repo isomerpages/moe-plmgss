@@ -655,7 +655,8 @@ variant: tiptap
 <p>Sec 1.1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Christina Ramesh</p>
+<p><a href="mailto:ramesh_maria_christina@moe.edu.sg" rel="noopener nofollow" target="_blank">Mrs Christina Ramesh</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Annie Ng</p>
@@ -697,7 +698,8 @@ variant: tiptap
 <p>Sec 1.4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Christopher J</p>
+<p><a href="mailto:jesumathy_christopher@moe.edu.sg" rel="noopener nofollow" target="_blank">Mrs Christopher J</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Ang Hui Min</p>
@@ -1111,5 +1113,4 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p><a href="mailto:ng_eng_kee@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Ng Eng Kee</a>
-</p>
+<p></p>
