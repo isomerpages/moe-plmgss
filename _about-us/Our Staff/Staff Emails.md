@@ -871,7 +871,8 @@ variant: tiptap
 <p>Sec 2.7</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Nurzakiah</p>
+<p><a href="mailto:nurzakiah_zainul_abiden@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Nurzakiah</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Ch'ng Lee Yoong</p>
@@ -882,7 +883,8 @@ variant: tiptap
 <p>Sec 2.8</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Chai Wee Jie</p>
+<p><a href="mailto:chai_wee_jie@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Chai Wee Jie</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Goh Eng Lam Sophia</p>
