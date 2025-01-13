@@ -303,7 +303,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Clarabelle Yeo</p>
+<p><a href="mailto:wang_siqi_clarabelle@moe.edu.sg" rel="noopener nofollow" target="_blank">Mrs Clarabelle Yeo</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SH / Student Management</p>
