@@ -241,7 +241,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Zhang Ying Meng</p>
+<p><a href="mailto:zhuang_yingmeng@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Zhuang Ying Meng</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SH / Chinese Language</p>
@@ -249,7 +250,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Lim Shu Ping</p>
+<p><a href="mailto:lim_shu_ping@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Lim Shu Ping</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SH / Infocom Technology and Knowledge Management</p>
@@ -265,7 +267,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Yan Xiu Ru</p>
+<p><a href="mailto:yan_xiuru@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Yan Xiu Ru</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SH / English Language and Literature</p>
