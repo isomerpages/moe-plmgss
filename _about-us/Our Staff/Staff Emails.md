@@ -366,7 +366,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Christina Ramesh</p>
+<p><a href="mailto:ramesh_maria_christina@moe.edu.sg" rel="noopener nofollow" target="_blank">Mrs Christina Ramesh</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ST / English</p>
@@ -374,7 +375,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Neoh Terh Ling</p>
+<p><a href="mailto:lim_terh_ling@moe.edu.sg" rel="noopener nofollow" target="_blank">Mrs Neoh Terh Ling</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ST / History</p>
