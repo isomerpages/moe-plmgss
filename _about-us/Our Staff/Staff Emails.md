@@ -1113,7 +1113,8 @@ variant: tiptap
 <p>Sec 4.6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Faezah Al Rashid</p>
+<p><a href="mailto:faezah_al_rashid@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Faezah Al Rashid</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Olivia Low</p>
@@ -1124,7 +1125,8 @@ variant: tiptap
 <p>Sec 4.7</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Koh Mei Chin</p>
+<p><a href="mailto:tang_mei_chin@moe.edu.sg" rel="noopener nofollow" target="_blank">Mrs Koh Mei Chin</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Tan Weiliang</p>
@@ -1135,7 +1137,8 @@ variant: tiptap
 <p>Sec 4.8</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Chen Wenjuan</p>
+<p><a href="mailto:chen_wenjuan@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Chen Wenjuan</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Hee Yeun Jen</p>
@@ -1146,7 +1149,8 @@ variant: tiptap
 <p>Sec 5.1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Wong Yu Ting</p>
+<p><a href="mailto:hiew_yu_ting@moe.edu.sg" rel="noopener nofollow" target="_blank">Mrs Wong Yu Ting</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
