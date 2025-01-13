@@ -331,7 +331,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Tek Yong Shoun</p>
+<p><a href="mailto:tek_yong_shoun@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Tek Yong Shoun</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>LT / Physics</p>
@@ -339,7 +340,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Deepa Patkunan</p>
+<p><a href="mailto:deepa_patkunan@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Deepa Patkunan</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ST / Biology</p>
@@ -347,7 +349,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Joyce Chong</p>
+<p><a href="mailto:chan_wai_ling_joyce@moe.edu.sg" rel="noopener nofollow" target="_blank">Mrs Joyce Chong</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ST / Chemistry</p>
