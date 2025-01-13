@@ -931,7 +931,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Wu Caifen Rachael</p>
+<p><a href="mailto:rachael_wu_caifen@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Wu Caifen Rachael</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -943,7 +944,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Low Kee Heong</p>
+<p><a href="mailto:low_kee_heong@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Low Kee Heong</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -955,7 +957,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Rachel Kam</p>
+<p>Mrs Rachel Low</p>
 </td>
 </tr>
 <tr>
@@ -967,7 +969,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Hannah Zulaihah</p>
+<p><a href="mailto:hannah_zulaihah_gwynne@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Hannah Zulaihah</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -1011,7 +1014,7 @@ variant: tiptap
 <p>Sec 3.8</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Durka&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p><a href="mailto:durka_kuppa_balakrishnan@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Durka</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Cheryl Chew</p>
