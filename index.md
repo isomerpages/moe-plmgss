@@ -12,7 +12,7 @@ sections:
       key_highlights:
         - title: Announcements & Events
           description: Click here to read more
-          url: /release-of-2024-gce-o-level-examination-results/
+          url: /2024-gce-o-level-examination-results/
       subtitle: 巴耶礼峇美以美女校（中学）
   - infopic:
       title: Secondary One Posting and Registration (2025 intake)
