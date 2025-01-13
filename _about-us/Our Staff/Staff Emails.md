@@ -141,7 +141,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Era Sidhu</p>
+<p><a href="mailto:cheong_era@moe.edu.sg" rel="noopener nofollow" target="_blank">Mrs Era Sidhu</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD / Physical Education and Co-Curricular Activities</p>
@@ -149,7 +150,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Heng Ci Pei</p>
+<p><a href="mailto:heng_ci_pei@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Heng Ci Pei</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD / Science (Acting)</p>
@@ -157,7 +159,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Tan Yi Na</p>
+<p><a href="mailto:tan_yi_na@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Tan Yi Na</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD / Student Management</p>
@@ -165,7 +168,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Shawna Lim</p>
+<p><a href="mailto:lim_shi_en_shawna@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Shawna Lim</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>School Staff Developer</p>
@@ -173,7 +177,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Koh Si Ping</p>
+<p><a href="mailto:chan_si_ping@moe.edu.sg" rel="noopener nofollow" target="_blank">Mrs Koh Si Ping</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Year Head (Sec 3)</p>
