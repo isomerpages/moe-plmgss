@@ -276,7 +276,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Nuraishah Kapoor</p>
+<p><a href="mailto:nuraishah_kapoor@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Nuraishah Kapoor</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SH / Humanities</p>
@@ -284,7 +285,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Lin Bin Chuan</p>
+<p><a href="mailto:lin_binchuan@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Lin Bin Chuan</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SH / Mathematics</p>
@@ -292,7 +294,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Ong Jin Yi</p>
+<p><a href="mailto:ong_jin_yi@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Ong Jin Yi</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SH / Physical Education and Co-Curricular Activities</p>
