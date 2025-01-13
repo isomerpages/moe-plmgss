@@ -438,7 +438,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Cynthnia Yeong</p>
+<p><a href="mailto:cynthia_ang_lay_leng@moe.edu.sg" rel="noopener nofollow" target="_blank">Mrs Cynthnia Yeong</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Christian Ministry Staff</p>
@@ -473,7 +474,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Heah Chay Tze Jenny</p>
+<p><a href="mailto:heah_chay_tze@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Heah Chay Tze Jenny</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Administrative Manager</p>
@@ -481,7 +483,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Melvin Foo</p>
+<p><a href="mailto:foo_siew_wah_melvin@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Melvin Foo</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Operations Manager</p>
