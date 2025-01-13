@@ -835,7 +835,8 @@ variant: tiptap
 <p>Sec 2.4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Yu Ling Ling</p>
+<p><a href="mailto:yu_ling_ling@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Yu Ling Ling</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Hu Min</p>
@@ -846,7 +847,8 @@ variant: tiptap
 <p>Sec 2.5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Deepa Patkunan</p>
+<p><a href="mailto:deepa_patkunan@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Deepa Patkunan</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Zalena</p>
@@ -857,7 +859,8 @@ variant: tiptap
 <p>Sec 2.6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Yap Ming Yi</p>
+<p><a href="mailto:yap_ming_yi@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Yap Ming Yi</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Zhuang Ying Meng</p>
