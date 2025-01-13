@@ -492,7 +492,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Karthik</p>
+<p><a href="mailto:karthik_krishnamurthy@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Karthik</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Operations Manager</p>
