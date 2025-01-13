@@ -114,7 +114,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Tan Tiah Hui</p>
+<p><a href="mailto:tan_tiah_hui@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Tan Tiah Hui</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD / Infocom Technology and Knowledge Management</p>
@@ -122,7 +123,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Kok Lai Fong</p>
+<p><a href="mailto:kok_lai_fong@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Kok Lai Fong</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD / Mathematics</p>
@@ -130,7 +132,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Lim Lin Lin</p>
+<p><a href="mailto:lim_lin_lin@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Lim Lin Lin</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD / Mother Tongue Languages</p>
