@@ -501,7 +501,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Teo Kim Che</p>
+<p><a href="mailto:teo_kim_che@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Teo Kim Che</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Operations Manager</p>
@@ -509,7 +510,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Glayen Chua</p>
+<p><a href="mailto:glayen_chua@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Glayen Chua</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Infocom Technology Manager</p>
@@ -517,7 +519,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Grace Quek</p>
+<p><a href="mailto:grace_quek@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Grace Quek</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Administrative Executive</p>
@@ -525,7 +528,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Joyce Bong</p>
+<p><a href="mailto:Bong_Kwee_Hong_Joyce@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Joyce Bong</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Administrative Executive</p>
@@ -533,7 +537,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Azzlinda</p>
+<p><a href="mailto:azzalinda_ariffin@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Azzlinda</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Corporate Support Officer</p>
