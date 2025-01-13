@@ -1134,7 +1134,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Tan Weiliang</p>
+<p><a href="mailto:tan_weiliang@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Tan Weiliang</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -1146,7 +1147,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Hee Yeun Jen</p>
+<p><a href="mailto:hee_yeun_jen@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Hee Yeun Jen</a>
+</p>
 </td>
 </tr>
 <tr>
