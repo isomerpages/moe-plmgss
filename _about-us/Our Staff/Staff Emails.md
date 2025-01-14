@@ -259,7 +259,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Marie-Therese Pang</p>
+<p><a href="mailto: pang_li_en_marie-therese@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Marie-Therese Pang</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SH / e-21<sup>st</sup> Century Competencies</p>
