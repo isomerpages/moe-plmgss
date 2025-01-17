@@ -25,7 +25,7 @@ commitment to serving and growing together.</p>
 <p><strong>Mission</strong> 
 <br>Developing each Girl and Officer to her fullest potential by Equipping,
 Empowering and Enabling: Every Girl a Leader, Every Officer a Servant Leader.</p>
-<p><strong>Achievements</strong> 
+<p><strong>Achievements</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -39,7 +39,7 @@ Empowering and Enabling: Every Girl a Leader, Every Officer a Servant Leader.</p
 <p>Loh Guat Tin Challenge – Gold and Silver</p>
 </li>
 </ul>
-<p><strong>Events and Activities for the Year </strong>
+<p><strong>Events and Activities for the Year</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -98,12 +98,14 @@ Empowering and Enabling: Every Girl a Leader, Every Officer a Servant Leader.</p
 </li>
 </ul>
 <p><strong>Teachers-in-charge</strong> 
-<br>Mrs Tay Tessa
-<br>Ms Heng Ci Pei
-<br>Ms Kam Rachel
-<br>Mrs Kirrthana Isaac
-<br>Ms Yan Xiuru
-<br>Ms Soh Pamela (FA)
+<br>Ms Heng Ci Pei (Advisor)
+<br>Mrs Rachel Low
+<br>Mrs Kirrthana Isaac (Term 1)
+<br>Ms Annie Ng
+<br>Ms Leow Min Yu
+<br>Ms Marie-Therese Pang
+<br>Mrs Melissa Soh
+<br>Mrs Novie Tan (CMS)
 <br>Mrs Yeong Cynthia (CMS)</p>
 <p><strong>Non-teaching Officers and Warrant Officers</strong> 
 <br>Dionne Leow (Officer)
@@ -112,7 +114,8 @@ Empowering and Enabling: Every Girl a Leader, Every Officer a Servant Leader.</p
 <br>Catherine Teo (Warrant Officer)
 <br>Chloe Yeo (Warrant Officer)</p>
 <p><strong>Training Schedule</strong> 
-<br>Tuesday and Friday, 3.30 to 6pm</p>
+<br>Tuesday (for Sec 2 to 5 cadets), 3.00 - 5.30 pm
+<br>Friday (for all cadets), 3.00 - 5.30 pm</p>
 <div class="iframe-wrapper">
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/1MMBq7vE7tsVl8J6QYK_PKKia-XFwfgGJyse4boj5CnA/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
