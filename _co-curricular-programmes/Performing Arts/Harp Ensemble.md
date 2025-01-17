@@ -55,7 +55,7 @@ music and learning</p>
 <p><strong>Instructors</strong> 
 <br>Ms Magdalene Wong</p>
 <p><strong>Training Schedule</strong> 
-<br>Tuesday &amp; Friday, 3.30 - 6.00 pm</p>
+<br>Tuesday &amp; Friday, 3.00 – 5.30 pm</p>
 <div class="iframe-wrapper">
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/18THup_H4QhxPWR0n9EXH6aF6vGW7Wd0brmzNRkb_dhM/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
