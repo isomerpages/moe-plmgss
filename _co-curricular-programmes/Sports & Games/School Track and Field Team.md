@@ -79,14 +79,14 @@ a full life!</p>
 <br>Mdm Lim Pei Yng
 <br>Mr Lin Bin Chuan
 <br>Ms Wu Cai Fen Rachel
-<br>Ms Nur Zetty Abd Kadir
-<br>
-</p>
+<br>Ms Nur Zetty Abd Kadir</p>
 <p><strong>Coaches</strong> 
-<br>Ms Ng Yew Cheo
-<br>Ms Ter Wei Ting Brenda</p>
+<br>Kenneth Khing
+<br>Sivagami Subramaniam
+<br>Chua Seng Chye John
+<br>Siti Noorimah Binte Mohd Salleh</p>
 <p><strong>Training Schedule</strong> 
-<br>Monday &amp; Friday, 3.30 - 6.00 pm</p>
+<br>Monday &amp; Friday, 3.30 - 5.30 pm</p>
 <div class="iframe-wrapper">
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/1teuJRcawE9P7UlR06Yv0vLl1APlEH5eMoe78N4XXtzk/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
