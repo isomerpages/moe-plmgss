@@ -17,7 +17,7 @@ encouragement and guidance. PL Volleyball remains committed to fostering
 excellence and strong character in our players. As we celebrate this year’s
 success, we look forward to continuing our journey, pushing new boundaries,
 and striving for greater heights in the future.</p>
-<p><strong>Achievements</strong> 
+<p><strong>Achievements</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -55,7 +55,7 @@ Girls 4th Place</p>
 <p><strong>Coach</strong> 
 <br>Ms Yip Wai Man Mon</p>
 <p><strong>Training Schedule</strong> 
-<br>Monday, Tuesday &amp; Thursday, 3.30 - 6.00 pm</p>
+<br>Monday, Tuesday &amp; Thursday, 3.00 - 5.30 pm</p>
 <div class="iframe-wrapper">
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/19an5y8DY9aXjjP-3M5EPQJ1AwX39oUUtMs0X3sHgQh4/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
