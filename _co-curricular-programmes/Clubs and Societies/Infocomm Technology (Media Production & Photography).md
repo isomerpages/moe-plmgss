@@ -22,7 +22,7 @@ others and make a difference in the use of technology.</p>
 <p><strong>Mission</strong> 
 <br>To nurture every club member into a skillful technologist with a heart
 for innovation</p>
-<p><strong>Achievements</strong> 
+<p><strong>Achievements</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -81,7 +81,7 @@ for innovation</p>
 <br>Steven Huang Wenguang
 <br>Mdm Ainie</p>
 <p><strong>Training Schedule</strong> 
-<br>Monday and Tuesday, 3.30 - 6.00 pm</p>
+<br>Monday and Tuesday, 3.00 - 5.30 pm</p>
 <div class="iframe-wrapper">
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/11tFWW0CdvsUvUMl578EO9jzyNrPmC5AreeXeiiK_IS8/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
