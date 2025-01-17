@@ -1,12 +1,12 @@
 ---
-title: Infocomm Technology (Media Production & Photography)
+title: Infocomm Technology (Mass Media Production)
 permalink: /co-curricular-programmes/clubs-and-societies/infocomm-technology-media-production/
 description: ""
 third_nav_title: Clubs and Societies
 variant: tiptap
 ---
-<p>The Information Technology (Media Production) Club offers a unique blend
-of technological immersion and creative exploration, providing members
+<p>The Information Technology (Mass Media Production) Club offers a unique
+blend of technological immersion and creative exploration, providing members
 with hands-on experience in photography, infocomm technology, and audio-visuals.
 Our mission is to spark enthusiasm by integrating technology into engaging
 projects and activities. Learning extends beyond the classroom, with enriching
@@ -22,7 +22,7 @@ others and make a difference in the use of technology.</p>
 <p><strong>Mission</strong> 
 <br>To nurture every club member into a skillful technologist with a heart
 for innovation</p>
-<p><strong>Achievements</strong> 
+<p><strong>Achievements</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -72,16 +72,11 @@ for innovation</p>
 <br>Mdm Zalena
 <br>Mr Lee Yen Chai
 <br>Ms Kaur Harjit
+<br>Ms Lim Shu Ping
 <br>Mr Low Kee Heong
 <br>Mdm Yap Ming Yi</p>
-<p><strong>Instructors</strong> 
-<br>Mr Chouw Fengrun
-<br>Mr Dennis Gordon De Souza
-<br>Mr Shahril Bin Supangat
-<br>Steven Huang Wenguang
-<br>Mdm Ainie</p>
 <p><strong>Training Schedule</strong> 
-<br>Monday and Tuesday, 3.30 - 6.00 pm</p>
+<br>Monday and Tuesday, 3.00 - 5.30 pm</p>
 <div class="iframe-wrapper">
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/11tFWW0CdvsUvUMl578EO9jzyNrPmC5AreeXeiiK_IS8/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
