@@ -63,14 +63,12 @@ Speaker</p>
 </li>
 </ul>
 <p><strong>Teachers-in-charge</strong> 
-<br>Mdm Zalena
-<br>Mr Lee Yen Chai
-<br>Ms Kaur Harjit
-<br>Ms Lim Shu Ping
-<br>Mr Low Kee Heong
-<br>Mdm Yap Ming Yi</p>
+<br>Mr Colin Peterson
+<br>Mrs Neoh Terh Ling</p>
 <p><strong>Training Schedule</strong>
-<br>Monday and Tuesday, 3.00 - 5.30 pm</p>
+<br>Tuesday &amp; Friday, 3.30 - 6.00 pm (only for Sec 3 &amp; 4 students)</p>
+<p>From 2024 onwards, Debates will be part of the Talent Development Programme
+with the English Department.</p>
 <div class="iframe-wrapper">
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/15A7L1k_gFh06xjzz7-CkPrk3prXNuepENz88Iq0wE-I/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
