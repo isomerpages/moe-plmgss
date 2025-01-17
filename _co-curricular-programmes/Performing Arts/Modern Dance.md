@@ -21,7 +21,7 @@ a person and an artiste</p>
 <br>To develop character, poise, elegance and confidence in every dancer</p>
 <p><strong>Achievements</strong> 
 <br>SYF Arts Presentation 2023 - Certificate of Accomplishment</p>
-<p><strong>Events and Activities for the Year </strong>
+<p><strong>Events and Activities for the Year</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -45,11 +45,11 @@ a person and an artiste</p>
 </ul>
 <p><strong>Teachers-in-charge</strong> 
 <br>Mrs Brenda Colleemallay
-<br>Mrs You Mee Choo</p>
+<br>Mrs Cheryl Chew</p>
 <p><strong>Instructor / Choreographer</strong> 
 <br>Ms Stacie Leong</p>
 <p><strong>Training Schedule</strong> 
-<br>Monday &amp; Friday, 3.30 - 6.00 pm</p>
+<br>Monday, &amp; Friday (Tuesday during peak period), 3.00 – 5.30 pm</p>
 <div class="iframe-wrapper">
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/1z1SM4LnFap_XYA8RGcaZzztd5yG6gugB0B6GjqYG_Gw/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>

@@ -48,7 +48,7 @@ joyful noise unto Lord and men.</p>
 <br>Lu Jie
 <br>Yin Hong Mei</p>
 <p><strong>Training Schedule</strong> 
-<br>Tuesday &amp; Friday, 3.30 - 6.00 pm</p>
+<br>Tuesday &amp; Friday, 3.30 - 5.30 pm</p>
 <div class="iframe-wrapper">
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQfOo9SBwymmpRQ09NabhnGCd4-4TTpNSctzJTI9eXoOpvHvqcDmAZcyfllLcZM9wyfzRYxSmphMgg8/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>

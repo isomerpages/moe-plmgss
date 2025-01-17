@@ -23,7 +23,7 @@ their craft with skills such as empathy and teamwork.</p>
 <br>National Schools Literature Festival 2023
 <br>Book trailer - Gold
 <br>Choral Speaking - Commendation</p>
-<p><strong>Events and Activities for the Year </strong>
+<p><strong>Events and Activities for the Year</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -50,13 +50,11 @@ their craft with skills such as empathy and teamwork.</p>
 </ul>
 <p><strong>Teachers-in-charge</strong> 
 <br>Mdm Nur Zahira
-<br>Mrs Christina Ramesh
-<br>Mrs Cheryl Chew</p>
+<br>Mrs Christina Ramesh</p>
 <p><strong>Instructor</strong> 
-<br>Ms Lala Gwen Thomas (Jan – Aug)
-<br>Mr Adib Kosnan (Sept onwards)</p>
+<br>Mr Adib Kosnan</p>
 <p><strong>Training Schedule</strong> 
-<br>Monday &amp; Tuesday, 3.30 - 6.00 pm</p>
+<br>Monday &amp; Tuesday,&nbsp;3.00 – 5.30 pm</p>
 <div class="iframe-wrapper">
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/1CCWN6Cn_jnp9DC0Dfgs00ZMH3FYCF5ONFAM_-LZb7bQ/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>

@@ -50,7 +50,7 @@ the learning of music.</p>
 <p><strong>Coach</strong> 
 <br>Ms Angela Tsugane Ikumi</p>
 <p><strong>Training Schedule</strong> 
-<br>Monday &amp; Tuesday, 3.30 - 6.00 pm</p>
+<br>Monday &amp; Tuesday, 3.00 – 5.30 pm</p>
 <div class="iframe-wrapper">
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/16Ps-8EmTpFeYm9Vv2nObJCDglNkg4Ntn8EdhTbgAPyM/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>

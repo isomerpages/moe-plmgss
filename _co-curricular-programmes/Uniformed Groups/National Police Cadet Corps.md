@@ -48,7 +48,7 @@ Republic of Singapore.
 <p>Best Unit Cadet (BUC) – Tia Neysa Ong (4.2) and Edna Chew (4.4)</p>
 </li>
 </ul>
-<p><strong>Events and Activities for the Year </strong>
+<p><strong>Events and Activities for the Year</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -80,7 +80,8 @@ Republic of Singapore.
 <br>Mrs Rajah Padhmeni
 <br>Mr Lam Elkan</p>
 <p><strong>Training Schedule</strong> 
-<br>Friday, 3.30 - 6.00 pm</p>
+<br>Tuesday, 3.30 - 5.30 pm (for Sec 3 cadets only)
+<br>Friday, 3.00 - 5.30 pm</p>
 <div class="iframe-wrapper">
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/1E2XI2ZJfPp8oCfW3yHLFO-aLGhIQEkSLrubOvilr8AU/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>

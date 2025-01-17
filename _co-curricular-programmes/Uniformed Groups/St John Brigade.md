@@ -104,45 +104,20 @@ Heidi (Huang Meihui) (4.4)</p>
 </li>
 </ul>
 <p><strong>Teachers-in-charge</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Mrs J Christopher</p>
-</li>
-<li>
-<p>Mdm Nurzakiah</p>
-</li>
-<li>
-<p>Mr Joshua Low</p>
-</li>
-<li>
-<p>Mr Chai Wee Jie</p>
-</li>
-</ul>
-<p><strong>Names of Voluntary Adult Leaders</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Ms Amira A R Mordiffi</p>
-</li>
-<li>
-<p>Ms Celeste Choy Wei Ni</p>
-</li>
-<li>
-<p>Ms Cheng Shin Yeen</p>
-</li>
-<li>
-<p>Ms Maysa Ng</p>
-</li>
-<li>
-<p>Ms Ilyse Quek Chin Yi</p>
-</li>
-<li>
-<p>Ms Yuen Wag Glee, Phylicia</p>
-</li>
-</ul>
+<br>Mdm Nurzakiah
+<br>Mrs J Christopher
+<br>Mr Joshua Low
+<br>Mr Chai Wee Jie
+<br>Mdm Vijaya</p>
+<p><strong>Coaches</strong>
+<br>Ms Amira A R Mordiffi
+<br>Ms Celeste Choy Wei Ni
+<br>Ms Cheng Shin Yeen
+<br>Ms Maysa Ng
+<br>Ms Ilyse Quek Chin Yi
+<br>Ms Yuen Wag Glee, Phylicia</p>
 <p><strong>Training Schedule</strong> 
-<br>Friday, 3:30pm to 6:00pm</p>
+<br>Friday, 3.00 - 5.30 pm</p>
 <div class="iframe-wrapper">
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/1nrWBnTu5-9en-vKdP1XSpRYwnojnsSaeVamp7dudG78/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>

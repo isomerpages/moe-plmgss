@@ -46,9 +46,10 @@ we look forward to another exciting year ahead.</p>
 <br>Mrs Chong Joyce
 <br>Ms Yu Lingling</p>
 <p><strong>Coach</strong>
-<br>Mr Simon Koh Gee Boo Mr Muhammad Syafiq Bin Muhd Abbas Lim</p>
+<br>Mr Simon Koh Gee Boo
+<br>Mr Muhammad Syafiq Bin Muhd Abbas Lim</p>
 <p><strong>Training Schedule</strong> 
-<br>Monday &amp; Tuesday, 3.30 - 6.00 pm</p>
+<br>Monday &amp; Tuesday, 3.00 - 5.30 pm</p>
 <div class="iframe-wrapper">
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/1AnsDjpeS8b7gsnKiebmmQjXtBOtAWRk4tnyNNbnr2qw/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>

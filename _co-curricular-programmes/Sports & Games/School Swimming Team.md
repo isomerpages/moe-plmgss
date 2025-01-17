@@ -78,13 +78,14 @@ Backstroke – Top 10</p>
 </ul>
 <p><strong>Teachers-in-charge</strong> 
 <br>Mrs Tan Puay Teng
-<br>Ms Lim Shu Ping
-<br>Ms Natasha Razman</p>
+<br>Ms Deepa Patkunan
+<br>Ms Ang Hui Min</p>
 <p><strong>Coaches</strong> 
 <br>Coach Elsie
 <br>Coach Tanny</p>
 <p><strong>Training Schedule</strong> 
-<br>Monday and Friday, 4.00 - 6.00 pm</p>
+<br>Monday, 3.30 - 5.30 pm
+<br>Friday, 3.30 – 4.30 pm</p>
 <p>In addition, the swimmers also train individually at CSC, Elite Swim Club,
 Speediswim, Temasek Club and Ace Aquatic Master usually about 3-4 times
 per week, 2 hours per day.</p>

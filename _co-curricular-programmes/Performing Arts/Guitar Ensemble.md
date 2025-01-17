@@ -50,7 +50,7 @@ every opportunity that comes our way.</p>
 <p><strong>Instructor</strong> 
 <br>Mr Oliver Nicholas Chan</p>
 <p><strong>Training Schedule</strong> 
-<br>Monday &amp; Tuesday (Fridays during peak periods), 3.30 - 6.00 pm</p>
+<br>Monday &amp; Tuesday, 3.00 – 5.30 pm</p>
 <div class="iframe-wrapper">
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/1Y7Z-zNHx7rntSFyuBG3fRevdR8nZGrbBVlrXdvGq2Eg/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>

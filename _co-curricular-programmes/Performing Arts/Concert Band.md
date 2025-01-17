@@ -16,7 +16,7 @@ We cherish these shared experiences and look forward to creating more wonderful
 musical memories in 2024 and 2025!</p>
 <p><strong>Achievements</strong> 
 <br>SYF Arts Presentation 2023 - Certificate of Accomplishment</p>
-<p><strong>Events and Activities for the Year </strong>
+<p><strong>Events and Activities for the Year</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -41,17 +41,20 @@ musical memories in 2024 and 2025!</p>
 <p><strong>Teachers-in-charge</strong> 
 <br>Ms Liow Xiao Chun
 <br>Mrs Clarabelle Yeo
+<br>Mdm Zhang Yong Mei
 <br>Ms Kong Pei Shan
-<br>Mdm Durka</p>
+<br>Mdm Durka
+<br>Ms Cherie Tse Hal Ye</p>
 <p><strong>Coaches</strong> 
 <br>Mr Shermann Foo
 <br>Mr Jovan Neo
 <br>Mr Gavilan Neo
-<br>Mr Luo Tianze
-<br>Mr Hendrik Kwek
-<br>Ms Angeline Wee</p>
+<br>Ms Angeline Wee
+<br>Mr Ronnie Quek
+<br>Mr Daniel Ong</p>
 <p><strong>Training Schedule</strong> 
-<br>Tuesday &amp; Friday, 3.30 - 6.00 pm</p>
+<br>Tuesday, 3.00 – 5.30 pm
+<br>Friday, 3.30 – 6.00 pm</p>
 <div class="iframe-wrapper">
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/10tugYN8GtBE52v_BdfFSEKUu9LE83PQWM8u0XpkbKJQ/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>

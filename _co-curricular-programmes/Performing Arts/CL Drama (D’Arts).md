@@ -46,7 +46,7 @@ inspiring others through Chinese Drama.</p>
 <br>Ms Gu Zhiqi
 <br>Ms Chao Yuting</p>
 <p><strong>Training Schedule</strong> 
-<br>Tuesday &amp; Friday, 3.30 - 6.00 pm</p>
+<br>Tuesday &amp; Friday, 3.00 - 5.30 pm</p>
 <div class="iframe-wrapper">
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/17TUXIeNvaXVXP9metOp-7WElLYH6IPBKTmjaV0HMC7o/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
