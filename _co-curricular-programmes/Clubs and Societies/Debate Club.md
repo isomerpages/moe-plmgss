@@ -63,13 +63,14 @@ Speaker</p>
 </li>
 </ul>
 <p><strong>Teachers-in-charge</strong> 
-<br>Ms Navethira R Chandran
-<br>Mrs Neoh Terh Ling
-<br>Ms Yan Xiuru</p>
-<p><strong>Instructor</strong> 
-<br>Dialogic Academy</p>
+<br>Mdm Zalena
+<br>Mr Lee Yen Chai
+<br>Ms Kaur Harjit
+<br>Ms Lim Shu Ping
+<br>Mr Low Kee Heong
+<br>Mdm Yap Ming Yi</p>
 <p><strong>Training Schedule</strong>
-<br>Tueday &amp; Friday, 3.30 - 6.00 pm</p>
+<br>Monday and Tuesday, 3.00 - 5.30 pm</p>
 <div class="iframe-wrapper">
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/15A7L1k_gFh06xjzz7-CkPrk3prXNuepENz88Iq0wE-I/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
