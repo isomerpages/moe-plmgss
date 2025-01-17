@@ -52,7 +52,7 @@ lives with her singing</p>
 <p><strong>Conductor</strong> 
 <br>Ms Choy Siew Woon</p>
 <p><strong>Training Schedule</strong> 
-<br>Monday &amp; Friday, 3.30 - 6.00 pm</p>
+<br>Monday &amp; Friday, 3.00 - 5.30 pm</p>
 <div class="iframe-wrapper">
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/1q9WjqiBOwsfd6foTjE7c2BUUkuaiY45NvI9Db9I4n4s/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
