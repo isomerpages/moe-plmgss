@@ -5,8 +5,8 @@ description: ""
 third_nav_title: Clubs and Societies
 variant: tiptap
 ---
-<p>The Information Technology (Media Production) Club offers a unique blend
-of technological immersion and creative exploration, providing members
+<p>The Information Technology (Mass Media Production) Club offers a unique
+blend of technological immersion and creative exploration, providing members
 with hands-on experience in photography, infocomm technology, and audio-visuals.
 Our mission is to spark enthusiasm by integrating technology into engaging
 projects and activities. Learning extends beyond the classroom, with enriching
@@ -72,14 +72,9 @@ for innovation</p>
 <br>Mdm Zalena
 <br>Mr Lee Yen Chai
 <br>Ms Kaur Harjit
+<br>Ms Lim Shu Ping
 <br>Mr Low Kee Heong
 <br>Mdm Yap Ming Yi</p>
-<p><strong>Instructors</strong> 
-<br>Mr Chouw Fengrun
-<br>Mr Dennis Gordon De Souza
-<br>Mr Shahril Bin Supangat
-<br>Steven Huang Wenguang
-<br>Mdm Ainie</p>
 <p><strong>Training Schedule</strong> 
 <br>Monday and Tuesday, 3.00 - 5.30 pm</p>
 <div class="iframe-wrapper">
