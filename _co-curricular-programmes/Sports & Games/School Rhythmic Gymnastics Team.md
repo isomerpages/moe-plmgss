@@ -390,14 +390,15 @@ for Sophia Tan (Class 4.5)</p>
 <p><strong>Teachers-in-charge</strong> 
 <br>Mdm Shi Fu Di
 <br>Ms Ch'ng Lee Yoong
-<br>Mdm Ee Julia</p>
+<br>Mdm Ee Julia
+<br>Mdm Wang Jing</p>
 <p><strong>Coaches</strong> 
 <br>Ms Cecilia Chia Shing Eng
+<br><strong>Assistant Coaches</strong>
 <br>Ms Juliana Lim
-<br>Ms Tang Yi Ling
-<br>Ms Koh Gai Pin</p>
+<br>Ms Tang Yi Ling</p>
 <p><strong>Training Schedule</strong> 
-<br>Monday and Tuesday, 3.30 - 6.00 pm</p>
+<br>Monday and Tuesday, 3.00 - 5.30 pm</p>
 <div class="iframe-wrapper">
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/14EwNqQmbGfyIYrT1OWPHwuXDbue75rbtWyxdak8M_yE/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
