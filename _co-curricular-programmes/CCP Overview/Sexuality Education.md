@@ -3,6 +3,7 @@ title: Sexuality Education
 permalink: /co-curricular-programmes/sexuality-education/
 description: ""
 variant: tiptap
+third_nav_title: CCP Overview
 ---
 <p><strong>MOE Sexuality Education in PLMGS(S)</strong>
 </p>

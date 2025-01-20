@@ -6,9 +6,9 @@ third_nav_title: CCP Overview
 ---
 **Background of the Programme**
 
-PL places a strong emphasis on Character & Citizenship Education as we aim to develop our PL-Lites into women of fine character with a passion for life and learning.
+PL places a strong emphasis on Character &amp; Citizenship Education as we aim to develop our PL-Lites into women of fine character with a passion for life and learning.
 
-PL LiVE covers the formal curriculum of our character development programme. The curriculum is carried out mainly through our **Li**feskills and **V**alues **E**ducation (LiVE) lessons and enrichment programmes.
+PL LiVE covers the formal curriculum of our character development programme. The curriculum is carried out mainly through our&nbsp;**Li**feskills and&nbsp;**V**alues&nbsp;**E**ducation (LiVE) lessons and enrichment programmes.
 
   
 **Goals of CCE 2021**
@@ -18,7 +18,7 @@ PL LiVE covers the formal curriculum of our character development programme. The
 In alignment with CCE 2021, we aim to develop in our students:
 
 *   **Good character**: to be anchored in sound values, think critically and ethically, make discerning judgement and take responsibility for their choices and actions.
-    *   By inculcating the PL HEART values (Honour God, Excellence, Adaptability, Respect, Thankfulness) and building the SE and 21st Century Competencies, so as to develop our students into Confident PL-Lites, Passionate Learners, Active Citizens and Inspiring Leaders (PL Desired Outcomes of Education).
+    *   By inculcating the PL HEART values (Honour God, Excellence, Adaptability, Respect, Thankfulness) and building the SE and 21st&nbsp;Century Competencies, so as to develop our students into Confident PL-Lites, Passionate Learners, Active Citizens and Inspiring Leaders (PL Desired Outcomes of Education).
 *   **Resilience and well-being**: to remain resilient when facing challenges, able to form healthy relationships and have a sense of gratitude which will contribute to their well-being.
 *   **Active citizenship**: to contribute to the people around them and the nation.
 *   **Future readiness**: to have a sense of purpose in their lives and be equipped to take on the challenges of the future.
@@ -29,7 +29,7 @@ In alignment with CCE 2021, we aim to develop in our students:
 
 The curriculum content of CCE is based on the three big ideas of Identity, Relationships and Choices. It involves the teaching and learning of core values and social-emotional competencies with a focus on developing a sense of purpose in our students. These fundamentals are taught and applied in the six curriculum content areas of CCE. The six content areas are National Education (NE), Sexuality Education (SEd), Mental Health (MH), Education and Career Guidance (ECG), Cyber Wellness (CW) and Family Education (FE).  
   
-**_A holistic approach to CCE involves explicit teaching, and reinforcement and application of learning._** Multiple learning platforms are tapped on to help students internalise values, social-emotional competencies, and citizenship dispositions. These platforms include **CCE Lessons, key Student Development Experiences (SDE), and school-based initiatives**.
+**_A holistic approach to CCE involves explicit teaching, and reinforcement and application of learning._**&nbsp;Multiple learning platforms are tapped on to help students internalise values, social-emotional competencies, and citizenship dispositions. These platforms include&nbsp;**CCE Lessons, key Student Development Experiences (SDE), and school-based initiatives**.
 
 **Structure of the Programme (Programmes and Processes)**
 
@@ -66,7 +66,7 @@ To meet students’ developmental needs, ECG lessons emphasise relevant knowledg
 *   **_Continual learning_**
 *   Adoption of Growth Mindset and Developing Enduring Dispositions
 
-As part of the CCE lessons, PL-Lites learn more about their **RIASEC profile** on the “MySkillsFuture” portal where they discover and develop their interests and abilities, and in doing so, explore possible educational and career pathways. Lesson resources have also been created to support PL-Lites in **portfolio building** and develop their **interview skills** to prepare them for their DSA and EAE applications.
+As part of the CCE lessons, PL-Lites learn more about their&nbsp;**RIASEC profile**&nbsp;on the “MySkillsFuture” portal where they discover and develop their interests and abilities, and in doing so, explore possible educational and career pathways. Lesson resources have also been created to support PL-Lites in&nbsp;**portfolio building**&nbsp;and develop their&nbsp;**interview skills**&nbsp;to prepare them for their DSA and EAE applications.
 
   
 **National Education**

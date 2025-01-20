@@ -100,4 +100,3 @@ We value our diversity and are determined to stay a united people.
 <img src="/images/plhome2016_10.jpg">
 <figcaption>SAF Rededication Day 2015</figcaption>
 </figure>
-
