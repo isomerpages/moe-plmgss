@@ -2,16 +2,16 @@ collections:
   co-curricular-programmes:
     output: true
     order:
+      - CCP Overview/.keep
+      - CCP Overview/CCP Overview.md
+      - CCP Overview/PL LiVE.md
       - CCP Overview/PL REACH.md
       - CCP Overview/PL LEAD.md
       - CCP Overview/PL AESTHETICS.md
       - CCP Overview/PL TRANSFORM.md
       - CCP Overview/PL HOME.md
       - CCP Overview/Student Development Team (SDT).md
-      - CCP Overview/PL LiVE.md
-      - CCP Overview/CCP Overview.md
       - CCP Overview/Sexuality Education.md
-      - CCP Overview/.keep
       - CCA Overview.md
       - Performing Arts/.keep
       - Performing Arts/CL Drama (D’Arts).md
