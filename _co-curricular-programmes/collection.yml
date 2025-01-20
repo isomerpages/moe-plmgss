@@ -2,6 +2,7 @@ collections:
   co-curricular-programmes:
     output: true
     order:
+      - CCP Overview/PL LiVE.md
       - CCP Overview/CCP Overview.md
       - CCP Overview/Sexuality Education.md
       - CCP Overview/.keep
