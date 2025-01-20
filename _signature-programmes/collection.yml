@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - CCP Overview/.keep
-      - CCP Overview/PL REACH.md
       - Student Leadership/.keep
       - Student Leadership/Student Leadership.md
       - Student Leadership/Leadership Groups in PL.md
