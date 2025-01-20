@@ -2,6 +2,7 @@ collections:
   co-curricular-programmes:
     output: true
     order:
+      - CCP Overview/PL TRANSFORM.md
       - CCP Overview/PL HOME.md
       - CCP Overview/Student Development Team (SDT).md
       - CCP Overview/PL LiVE.md
