@@ -2,7 +2,6 @@ collections:
   signature-programmes:
     output: true
     order:
-      - CCP Overview/.keep
       - Student Leadership/.keep
       - Student Leadership/Student Leadership.md
       - Student Leadership/Leadership Groups in PL.md
