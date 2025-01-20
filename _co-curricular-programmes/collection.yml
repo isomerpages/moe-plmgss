@@ -2,6 +2,7 @@ collections:
   co-curricular-programmes:
     output: true
     order:
+      - CCP Overview/.keep
       - CCA Overview.md
       - Performing Arts/.keep
       - Performing Arts/CL Drama (D’Arts).md
