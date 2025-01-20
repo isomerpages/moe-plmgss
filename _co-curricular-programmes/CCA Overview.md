@@ -63,7 +63,7 @@ others</p>
 in wide-ranging and specialised areas which may be knowledge-based or skills-based</p>
 </li>
 </ul>
-<p><a href="/files/2025_CCA_Training_Schedule.pdf" rel="noopener nofollow" target="_blank">2025 CCA Training Schedule.pdf</a>
+<p><a href="/files/2025_CCA_Training_Schedule_updated_v2_0.pdf" rel="noopener nofollow" target="_blank">2025 CCA Training Schedule (updated 17 Jan 2025).pdf</a>
 </p>
 <p><a href="/files/LEAPS%202%20Overview.pdf" rel="noopener noreferrer nofollow" target="_blank">LEAPS 2.0 Overview.pdf</a>
 </p>
