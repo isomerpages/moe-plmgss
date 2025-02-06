@@ -584,7 +584,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:seah_wan_xin_rachel@moe.edu.sg" rel="noopener nofollow" target="_blank">Mrs Rachel Seah</a>
+<p><a href="mailto:seah_wan_xin_rachel@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Rachel Seah</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
