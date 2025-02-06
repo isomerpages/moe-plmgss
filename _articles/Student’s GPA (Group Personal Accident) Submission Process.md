@@ -12,7 +12,7 @@ is <strong>no longer</strong> handled by school since Jan 2022, but is to
 be submitted by parents/students directly to NTUC Income.</p>
 <p>All claims should be submitted as soon as possible subjected to a cap
 of 365 days from the date of accident.</p>
-<p>Please <a href="/files/Product_Fact_Sheet__Year_2024_May__Revised.pdf" rel="noopener noreferrer nofollow" target="_blank">click here</a> for
+<p>Please <a href="/files/Product_Fact_Sheet__Year_2025_.pdf" rel="noopener nofollow" target="_blank">click here</a> for
 the FAQs and refer to more information below.</p>
 <h5>Online Submission Claiming Process:</h5>
 <ol data-tight="true" class="tight">
