@@ -6,7 +6,7 @@ variant: markdown
 ---
 ### PDLP Device Collection, Care and Routines briefing slides 
 
-Please [click here](/files/PDLP___Device_Collection__Care_and_Routines__dd_18_Feb_2025_.pdf) for the briefing slides.
+Please [click here](/files/PDLP___Device_Collection__Care_and_Routines_v2__dd_18_Feb_2025_.pdf) for the briefing slides.
 
 ### PLMGS(Sec) Blended Learning Implementation (HBL) briefing slides
 
