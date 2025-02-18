@@ -4,44 +4,16 @@ permalink: /articles/announcements/national-digital-literacy-programme-ndlp/
 description: ""
 variant: markdown
 ---
-### PDLP Device Collection, Care and Routines briefing on 25 March 2024
+### PDLP Device Collection, Care and Routines briefing slides 
 
-![](/images/pdlp_25mar2024.png)
+Please [click here](/files/PDLP___Device_Collection__Care_and_Routines__dd_18_Feb_2025_.pdf) for the briefing slides.
 
-Please click here [click here](/files/PDLP___Device_Collection__Care_and_Routines_25_March_2024.pdf) for the briefing slides.
+### PLMGS(Sec) Blended Learning Implementation (HBL) briefing slides
 
-### PLMGS(Sec) Blended Learning Implementation (HBL) briefing on 29 Jan 2024
-
-![](/images/hbl_blend2024.jpg)
-
-Please [click here](/files/PLMGS_Sec__Blended_Learning_Implementation__HBL_.pdf) for the briefing slides.
+Please [click here](/files/PLMGSS_Blended_Learning_Implementation__HBL__comms_2025.pdf) for the briefing slides.
 
 * [HBL Infographic and Timetable Planner](/files/PLMGS_HBL_Infographic_and_Timetable_Planner.pdf)
 
-### Purchase of Personal Learning Device (PLD) 2024
-
-As part of the MOE Personalised Digital Learning Programme (PDLP), all Sec 1 students in PLMGS(Sec) will be able to own a Personal Learning Device (PLD) by Term 2 2023. The device chosen by PLMGS(Sec) is the “**Lenovo Chromebook 500e 4th Gen**” (costing S$587.50). Singapore Citizens will be able to use Edusave to offset the cost of the device.  
-  
-Please access the following for more information:  
-  
-**PLMG(Sec) – Summary of PDLP Information for Parents (15 Jan 2024)**
-
-<img src="/images/pdlp briefing.png" style="width:100%">
-
-Please [click here](/files/PLMG_Sec____PDLP_Information_for_Parents__15_Jan_2024_.pdf) for the summary of PDLP information briefing slides  
-Please [click here](/files/FAQs_for_Parents_on_PLDs_Purchase__15_Jan_2024_.pdf) for the FAQs for Parents on PLDs Purchase 
-  
-For further enquiries:  
-  
-For purchase of PLDs:  
-Email PLMGSS’s IT Support Team via&nbsp; [IT_support@plmgss.edu.sg](mailto:IT_support@plmgss.edu.sg)  
-  
-For financial assistance questions:  
-PLMGS(Sec) General Office  
-Tel: 6281 6606  
-Attention to Admin Manager, Ms Zhang Qiuling 
-  
-To check the child’s Edusave account balance (for Singapore Citizen), call Tel: 6260 0777
 
 ### Parent Handbook on Learning with a Personal Learning Device (PLD)
 
@@ -58,18 +30,9 @@ To check the child’s Edusave account balance (for Singapore Citizen), call Tel
 Please&nbsp;[click here](/files/Resource%20Kit%20-%20Experiencing%20Blended%20Learning%20BL%20with%20Our%20Children.pdf)&nbsp;for the resources.
 
 
-### COS 2021 Information on Blended Learning
+### Student Device Information Kit 
 
-<img src="/images/COS%202021%20Information%20on%20Blended%20Learning.png" style="width:75%">
-		 
-		 
-Please [click here](/files/cos-2021-overview.pdf) for COS 2021 Information on Blended Learning.
-
-### Student Device Information Kit (Lenovo 500e 2nd Gen Device)
-
-<img src="/images/Student%20Device%20Information%20Kit.png" style="width:75%">
-
-Please&nbsp;[click here](/files/Student%20Device%20Information%20Kit%20Lenovo%20500e%202nd%20Gen%20Device.pdf)&nbsp;for the resources.
+Please [click here](/files/Student_Device_Information_Kit_2025__updated_14Feb25_.pdf) for the resources.
 
 
 ### Supporting Parents to Support their Child
