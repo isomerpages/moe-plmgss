@@ -2,11 +2,17 @@
 title: JAE, JIE N & JIE O Admission Booklets
 permalink: /articles/admission-booklets/
 description: ""
+variant: tiptap
 ---
-Please find the relevant Joint Admissions and Intake Admission Exercise booklets
-
-[2023 -JIE O-Admission-Booklet](https://www.ite.edu.sg/docs/default-source/admissions-docs/full-time/publications/admission-booklet/gce-o-admission-booklet-2023.pdf?sfvrsn=de1439f7_4)
-
-[2023 - JAE-Information-Booklet](https://www.plmgss.moe.edu.sg/files/2023-JAE-Information-Booklet.pdf)
-
-[2023 - JIE N-Information-Booklet](https://www.ite.edu.sg/docs/default-source/admissions-docs/full-time/publications/admission-booklet/gce-n-admission-booklet-2023.pdf?sfvrsn=182e5d54_4)
+<p>Please find the relevant information on courses offered for JAE and JIE.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/2025_JAE_Courses.pdf" rel="noopener noreferrer nofollow" target="_blank">Courses offered in 2025 JAE</a>
+</p>
+</li>
+<li>
+<p><a href="/files/admission_and_course_information_brochure_jan_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Admission and Course Information for 2025 JIE</a>
+</p>
+</li>
+</ul>
+<p></p>
