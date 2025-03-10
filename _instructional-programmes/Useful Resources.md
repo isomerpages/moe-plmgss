@@ -2,6 +2,7 @@
 title: Useful Resources
 permalink: /instructional-programmes/useful-resources/
 description: ""
+variant: markdown
 ---
 # 1. Education and Career Guidance (ECG)
 
@@ -19,7 +20,7 @@ These skills are summarized in the following posters as a handy collection of po
 5. [Reflection Skills](/files/pl21%20bites%20-%2005%20reflection%20skills.pdf)
 6. [Time Management Skills](/files/pl21%20bites%20-%2006%20time%20management%20skills.pdf)
 
-### JAE, JIE N &amp; JIE O Admission Booklets
+### **Course information for JAE and JIE**
 
 Please find the relevant Joint Admissions and Intake Admission Exercise booklets from [this link](https://plmgss.moe.edu.sg/articles/admission-booklets/).
 
