@@ -158,6 +158,9 @@ such as:</p>
 </ol>
 <p><strong>ECG Counselling and Support</strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/image_2.png">
+</div>
 <p>Our ECG Counsellor (Ms Lim Hui Ching) is stationed at the school library
 on&nbsp;<strong>Tuesdays</strong>&nbsp;and&nbsp;<strong>Thursdays</strong>&nbsp;to
 provide support to PL-lites (individually or in small groups) in making
