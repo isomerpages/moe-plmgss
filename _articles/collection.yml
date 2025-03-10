@@ -2,7 +2,7 @@ collections:
   articles:
     output: true
     order:
-      - JAE, JIE N & JIE O Admission Booklets.md
+      - Course information for JAE and JIE.md
       - Singapore Arts Festival (SYF) 2023 Arts Presentation.md
       - Student’s GPA (Group Personal Accident) Submission Process.md
       - Guidelines on Parents’ Communication with the School.md
