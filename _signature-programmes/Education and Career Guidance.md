@@ -193,12 +193,12 @@ PL Alumnae, PSEIs and external organisations.</p>
 </p>
 </li>
 </ul>
-<p><strong>JAE / JIE N and JIE O Booklets</strong>
+<p><strong>Course information for JAE and JIE</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Please <a href="https://plmgss.moe.edu.sg/articles/admission-booklets/" rel="noopener noreferrer nofollow" target="_blank">click here</a> to
-access the booklets.</p>
+access the information.</p>
 </li>
 </ul>
 <p><strong>Information on Scholarships</strong>
