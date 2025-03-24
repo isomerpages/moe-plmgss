@@ -2,6 +2,7 @@ collections:
   announcements:
     output: true
     order:
+      - Principal's Letter to Parents.md
       - Meet the Parents Sessions Presentation Slides.md
       - 2024 GCE ‘O’ Level Examination Results & Briefing Slides.md
       - START Right Programme 2025.md
@@ -11,7 +12,6 @@ collections:
       - School Yearbook 2024.md
       - PLMGS(Sec) Open House 2024.md
       - PLMGS(Sec) Booklist for 2025.md
-      - Principal's Letter to Parents.md
       - 2025 Secondary 3 Subject Combinations.md
       - Edusave CHaracter Award (ECHA) & EAGLES 21 CC Award.md
       - Musical Montage 2024 YouTube Live Streaming.md
