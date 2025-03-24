@@ -33,7 +33,7 @@ variant: tiptap
 </li>
 <li>
 <p>Mrs Lee Siew Choo Education Award for Sponsorship of Post-Secondary Education
-needs of PL-Lites: <a href="/files/mrs%20lee%20siew%20choo%20award%202024%20application%20form.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here for the application form.</a>
+needs of PL-Lites: <a href="/files/Mrs_Lee_Siew_Choo_Education_Award__Student_Application__2025.pdf" rel="noopener nofollow" target="_blank">Mrs Lee Siew Choo Education Award (Student Application) 2025.pdf</a>
 </p>
 </li>
 </ul>
