@@ -2,6 +2,7 @@ collections:
   articles:
     output: true
     order:
+      - School Library.md
       - Course information for JAE and JIE.md
       - Singapore Arts Festival (SYF) 2023 Arts Presentation.md
       - Student’s GPA (Group Personal Accident) Submission Process.md

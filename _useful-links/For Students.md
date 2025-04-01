@@ -2,15 +2,48 @@
 title: For Students
 permalink: /useful-links/for-students/
 description: ""
+variant: tiptap
 ---
-*   [Education and Career Guidance](https://staging.d31lf6q9623hn3.amplifyapp.com/signature-programmes/education-and-career-guidance)  
-*   [Student Learning Space (SLS)](https://learning.moe.edu.sg/)
-*   [School Library Catalogue](https://schoolibrary.moe.edu.sg/payalebarmethodistgirlssec)  
-*   [Alumni Application Form](/files/alumniAppForm.pdf)
-
-*   [PL Christian Ministry (PLCM)](https://sites.google.com/site/iheartplmgss/)
-*   [School Canteen Online Feedback Forms](https://staging.d31lf6q9623hn3.amplifyapp.com/articles/announcements/school-canteen-online-feedback-forms)
-*   [MySkillsFuture Portal](http://go.gov.sg/mysfsec)
-*   [Google Apps (School Email)](https://mail.google.com/a/plmgss.edu.sg)
-*   [Request for Password Reset (MIMS / PL's Email)](https://goo.gl/oiafPt)
-*   [Request for SLS Password Reset](http://bit.ly/SLS_PLMGSS)
+<ul>
+<li>
+<p><a href="https://staging.d31lf6q9623hn3.amplifyapp.com/signature-programmes/education-and-career-guidance" rel="noopener noreferrer nofollow" target="_blank">Education and Career Guidance</a>
+</p>
+</li>
+<li>
+<p><a href="https://learning.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">Student Learning Space (SLS)</a>
+</p>
+</li>
+<li>
+<p><a href="https://plmgss.moe.edu.sg/school-library/" rel="noopener nofollow" target="_blank">School Library</a>
+</p>
+</li>
+<li>
+<p><a href="/files/alumniAppForm.pdf" rel="noopener noreferrer nofollow" target="_blank">Alumni Application Form</a>
+</p>
+</li>
+<li>
+<p><a href="https://sites.google.com/site/iheartplmgss/" rel="noopener noreferrer nofollow" target="_blank">PL Christian Ministry (PLCM)</a>
+</p>
+</li>
+<li>
+<p><a href="https://staging.d31lf6q9623hn3.amplifyapp.com/articles/announcements/school-canteen-online-feedback-forms" rel="noopener noreferrer nofollow" target="_blank">School Canteen Online Feedback Forms</a>
+</p>
+</li>
+<li>
+<p><a href="http://go.gov.sg/mysfsec" rel="noopener noreferrer nofollow" target="_blank">MySkillsFuture Portal</a>
+</p>
+</li>
+<li>
+<p><a href="https://mail.google.com/a/plmgss.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Google Apps (School Email)</a>
+</p>
+</li>
+<li>
+<p><a href="https://goo.gl/oiafPt" rel="noopener noreferrer nofollow" target="_blank">Request for Password Reset (MIMS / PL's Email)</a>
+</p>
+</li>
+<li>
+<p><a href="http://bit.ly/SLS_PLMGSS" rel="noopener noreferrer nofollow" target="_blank">Request for SLS Password Reset</a>
+</p>
+</li>
+</ul>
+<p></p>
