@@ -14,7 +14,8 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p>School Libary</p>
+<p><a href="https://plmgss.moe.edu.sg/school-library/" rel="noopener nofollow" target="_blank">School Library</a>
+</p>
 </li>
 <li>
 <p><a href="/files/alumniAppForm.pdf" rel="noopener noreferrer nofollow" target="_blank">Alumni Application Form</a>
