@@ -57,7 +57,7 @@ functions:</p>
 </p>
 </li>
 <li>
-<p><a href="https://drive.google.com/file/d/1wRdnoWj4MjBGIZJhg94ZBksnTx7jK5XC/view?usp=drive_link" rel="noopener nofollow" target="_blank">Reservation of a library item on loan</a> 
+<p><a href="https://drive.google.com/file/d/1wRdnoWj4MjBGIZJhg94ZBksnTx7jK5XC/view?usp=drive_link" rel="noopener nofollow" target="_blank">Reservation of a library item on loan</a>
 </p>
 </li>
 </ul>
