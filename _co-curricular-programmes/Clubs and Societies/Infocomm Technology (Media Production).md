@@ -1,12 +1,12 @@
 ---
-title: Infocomm Technology (Mass Media Production)
+title: Infocomm Technology (Media Production)
 permalink: /co-curricular-programmes/clubs-and-societies/infocomm-technology-media-production/
 description: ""
 third_nav_title: Clubs and Societies
 variant: tiptap
 ---
-<p>The Information Technology (Mass Media Production) Club offers a unique
-blend of technological immersion and creative exploration, providing members
+<p>The Information Technology (Media Production) Club offers a unique blend
+of technological immersion and creative exploration, providing members
 with hands-on experience in photography, infocomm technology, and audio-visuals.
 Our mission is to spark enthusiasm by integrating technology into engaging
 projects and activities. Learning extends beyond the classroom, with enriching
