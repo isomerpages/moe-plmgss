@@ -21,7 +21,7 @@ you may have during the session.
 </p>
 </li>
 <li>
-<p><a href="/files/S3_Subject_Combination_2026_Booklet.pdf" rel="noopener nofollow" target="_blank">Secondary 3 Subject Combination 2026 Booklet.pdf</a>
+<p><a href="/files/S3_Subject_Combination_2026_Booklet_v2.pdf" rel="noopener nofollow" target="_blank">Secondary 3 Subject Combination 2026 Booklet.pdf</a>
 </p>
 </li>
 </ol>
