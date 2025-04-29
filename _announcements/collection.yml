@@ -2,6 +2,7 @@ collections:
   announcements:
     output: true
     order:
+      - PLMGS(S) DSA Information Session (Online).md
       - 2026 Secondary 3 Subject Combinations.md
       - Principal's Letter to Parents.md
       - Meet the Parents Sessions Presentation Slides.md
