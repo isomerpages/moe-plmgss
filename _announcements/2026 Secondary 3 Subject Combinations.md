@@ -4,6 +4,27 @@ permalink: /2026-secondary-3-subject-combinations/
 variant: tiptap
 description: ""
 ---
+<h4><strong>(2 May 2025) ECG &amp; Sec 3 Subject Option Briefing</strong></h4>
+<p>Dear Parents / Guardians,
+<br>
+<br>Thank you for joining us for the talk last Friday. We value your time
+and support.</p>
+<p>Please refer to the attached slides for your reference.</p>
+<ol data-tight="true" class="tight">
+<li>
+<p><a href="/files/For_parents_and_students__2025_S2_MTP__2_May_2025_.pdf" rel="noopener nofollow" target="_blank">(For parents and students) 2025 S2 MTP (2 May 2025).pdf</a>
+</p>
+</li>
+<li>
+<p><a href="/files/For_parents_and_students__2025_Meet_the_Parents_FAQ.pdf" rel="noopener nofollow" target="_blank">(For parents and students) 2025 Meet–the–Parents FAQ.pdf</a>
+</p>
+</li>
+<li>
+<p><a href="/files/ECG__2025_for_Sec_2_parents___Subject_Comb_and_ECG_talk.pdf" rel="noopener nofollow" target="_blank">(ECG) 2025 for Sec 2 parents - Subject Combinations and ECG talk.pdf</a>
+</p>
+</li>
+</ol>
+<h4><strong>(23 April 2025) Sec 2 ECG &amp; Subject Combinations Talk</strong></h4>
 <p>Dear Parents/Guardians,
 <br>
 <br>Your daughter/ward has been briefed on the 2026 Secondary 3 Subject Options
