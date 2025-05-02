@@ -113,9 +113,9 @@ others, communicate, and demonstrate initiative and teamwork.</p>
 </p>
 <p><em><u>Interview (if applicable)</u></em>
 </p>
-<p>Applicants may be invited for an interview. They are encouraged to bring
-a hard copy portfolio showcasing their leadership experiences and events
-they have helped organise in primary school.</p>
+<p>Applicants may be invited for an interview as part of the selection process.
+They are encouraged to bring a hard copy portfolio showcasing their leadership
+experiences and events they have helped organise in primary school.</p>
 <p></p>
 </td>
 </tr>
@@ -173,7 +173,7 @@ National Music Competition)</p>
 <p>
 <br>
 </p>
-<p><em>Audition</em>
+<p><em><u>Audition</u></em>
 </p>
 <ul>
 <li>
@@ -183,9 +183,11 @@ music or musical extracts of their own choice&nbsp;</p>
 </ul>
 <p>
 <br>
+<br>
 </p>
-<p><em>Interview (when required)</em>
+<p><em><u>Interview (if applicable)</u></em>
 </p>
+<p>Applicants may be invited for an interview as part of the selection process.</p>
 </td>
 </tr>
 <tr>
@@ -232,7 +234,7 @@ sports team</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>Selection Trials</em>
+<p><em><u>Selection Trials</u></em>
 </p>
 <p>Shortlisted applicants will be invited to attend face-to-face selection
 trials, which will assess a combination of the following:</p>
@@ -251,8 +253,8 @@ trials, which will assess a combination of the following:</p>
 <p>
 <br>
 </p>
-<p><em>Interview (if applicable)</em><strong><em><br></em></strong>Candidates
-may also be invited for an interview as part of the selection process.</p>
+<p><em><u>Interview (if applicable)</u></em><strong><em><br></em></strong>Applicants
+may be invited for an interview as part of the selection process.</p>
 <p></p>
 </td>
 </tr>
@@ -270,28 +272,30 @@ may also be invited for an interview as part of the selection process.</p>
 <ol>
 <li>
 <p>Applications for DSA-Sec can be submitted via the <a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener noreferrer nofollow" target="_blank"><u>online DSA-Sec Portal</u></a>.
-The application is free of charge and will be open from 7 May 2025 to 3
-June 2025.</p>
+The application is free of charge and will be open from <strong>7 May 2025 to 3 June 2025</strong>.</p>
 </li>
-<li>
-<p>Parents and students are encouraged to select schools thoughtfully, considering
-the student’s aptitudes and strengths, as well as the schools’ academic,
-non-academic and talent development programmes.</p>
-</li>
+</ol>
+<p></p>
+<ol start="2">
 <li>
 <p>Applicants who do not have prior experience may also apply. The school
 will assess applicants based on the selection criteria, which may include
 assessing the potential of the applicants.</p>
 </li>
+</ol>
+<p></p>
+<ol start="3">
 <li>
-<p>You will receive notification from the school between 2 July 2025 and
-16 August 2025, if your child has been shortlisted to undergo Direct School
-Admission (DSA) selection. All applicants will receive their application
-outcomes between 25 Aug and 4 Sep 2025.</p>
+<p>You will receive notification from the school between<strong> 2 July 2025 and 16 August 2025,</strong> if
+your child has been shortlisted to undergo Direct School Admission (DSA)
+selection. All applicants will receive their application outcomes between <strong>25 Aug and 4 Sep 2025</strong>.</p>
 </li>
+</ol>
+<p></p>
+<ol start="4">
 <li>
-<p>Shortlisted students who pass the trial or audition will be invited for
-an interview. Please note that:</p>
+<p>Shortlisted students who clear the trial or audition will be invited for
+an interview if applicable. Please note that:</p>
 <ul>
 <li>
 <p>Being shortlisted or attending an interview does not guarantee an offer.</p>
@@ -301,11 +305,9 @@ an interview. Please note that:</p>
 </li>
 </ul>
 </li>
-<li>
-<p>Students admitted through DSA are expected to honour their commitment
-to the school and participate in the related talent activities from Secondary
-1 to 4.</p>
-</li>
+</ol>
+<p></p>
+<ol start="5">
 <li>
 <p>Students not in MOE mainstream primary schools and not taking the PSLE
 will be required to sit for placement tests conducted by the school.</p>
@@ -316,13 +318,35 @@ Exercise for International Students (AEIS).</p>
 </li>
 </ul>
 </li>
+</ol>
+<p></p>
+<ol start="6">
 <li>
 <p>All applicants will be informed of the outcome of their DSA application
-via email between 25 August 2025 and 4 September 2025.</p>
+via email between&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <strong>25 August 2025 and 4 September 2025.</strong>
+</p>
 </li>
 </ol>
-<p>
-<br><strong>Schedule for DSA-Sec Exercise</strong>
+<p></p>
+<ol start="7">
+<li>
+<p>Students admitted through DSA are expected to honour their commitment
+to the school and participate in the activities related to the talent they
+are selected for from Secondary 1 to 4/5.</p>
+</li>
+</ol>
+<p></p>
+<ol start="8">
+<li>
+<p>Parents and students are encouraged to choose schools wisely based on
+the student’s aptitudes and strengths, bearing in mind the school’s academic
+and non-academic requirements, and the programmes available to develop
+the area of talent.&nbsp;</p>
+</li>
+</ol>
+<p></p>
+<p></p>
+<p><strong>Schedule for DSA-Sec Exercise</strong>
 </p>
 <table style="minWidth: 75px">
 <colgroup>
@@ -350,7 +374,8 @@ via email between 25 August 2025 and 4 September 2025.</p>
 <p>Application via DSA-Sec Portal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>7 May 2025 – 3 June 2025</p>
+<p>7 May 2025 –&nbsp;</p>
+<p>3 June 2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Apply at&nbsp;<strong><a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a></strong>
@@ -362,7 +387,8 @@ via email between 25 August 2025 and 4 September 2025.</p>
 <p>Notification of shortlisted applicants for Audition/Trial/Interview</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2 July 2025 – 15 August 2025</p>
+<p>2 July 2025 –&nbsp;</p>
+<p>15 August 2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>An email will be sent.</p>
@@ -373,7 +399,8 @@ via email between 25 August 2025 and 4 September 2025.</p>
 <p>Selection Exercise (Audition/Trial/Interview)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>4 July 2025 – 16 August 2025</p>
+<p>4 July 2025 –&nbsp;</p>
+<p>16 August 2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Face-to-face Audition/Trial/Interview</p>
@@ -384,7 +411,8 @@ via email between 25 August 2025 and 4 September 2025.</p>
 <p>Notification of outcome of application</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>25 August 2025 – 4 September 2025</p>
+<p>25 August 2025 –</p>
+<p>4 September 2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>An email will be sent.</p>
