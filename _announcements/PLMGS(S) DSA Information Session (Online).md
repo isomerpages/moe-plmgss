@@ -19,7 +19,10 @@ be held online on:
 <br>Platform: Microsoft Teams
 <br>Teams Link:&nbsp;<a href="https://msteams.link/M784" rel="noopener noreferrer nofollow" target="_blank">https://msteams.link/M784</a>
 <br>Teams ID: 413 498 737 763 0 (Passcode: Rs6oS3dt)
-<br>School Website: <a href="https://www.plmgss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">https://www.plmgss.moe.edu.sg<br></a>
+<br>School DSA Website: <a href="https://www.plmgss.moe.edu.sg/about-us/school-admission/direct-school-admission-dsa-sec/" rel="noopener nofollow" target="_blank">https://www.plmgss.moe.edu.sg/about-us/school-admission/direct-school-admission-dsa-sec/</a>
+<a href="https://www.plmgss.moe.edu.sg/about-us/school-admission/direct-school-admission-dsa-sec/" rel="noopener noreferrer nofollow" target="_blank">
+<br>
+</a>
 </p>
 <p>During the session, we will provide information that may support your
 pupils and their parents in making an informed decision on their choice
