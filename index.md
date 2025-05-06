@@ -15,19 +15,32 @@ sections:
           url: /plmgs-s-dsa-information-session-online/
       subtitle: 巴耶礼峇美以美女校（中学）
   - infopic:
-      title: Secondary One Posting and Registration (2025 intake)
+      title: PLMGS(S) DSA Information Session (Online)
       id: infopic
       button: Click here
-      url: /secondary-one-posting-and-registration-2025-intake/
+      url: /plmgs-s-dsa-information-session-online
+      image: /images/DSA_Info_Session_2025__ebanner_.jpg
+      alt: Image alt text
+  - infopic:
+      title: Principal's Letter to Parents
+      id: infopic
+      button: Click here
+      url: /announcements/principal-letter-to-parents
       image: /images/pl_lite_bulb.jpg
       alt: Image alt text
   - infopic:
-      title: 2024 GCE ‘N’ Level Examination Results & Briefing Slides
-      id: infopic
-      button: Click here
-      url: /accolades/national-examinations/gce-n-level-2024/
-      image: /images/Accolades/N Level2024/Slide17.jpg
-      alt: Image alt text
+      title: PL Parcel
+      description: A Read Worth Your Time
+      button: Click Here
+      url: /about-us/pl-epistle/pl-parcel/
+      image: /images/PL Parcel.png
+      alt: PL Parcel
+  - infopic:
+      title: PulSE (Student Initiated Learning)
+      button: Click Here
+      url: https://sites.google.com/moe.edu.sg/pl-sil-pulse
+      image: /images/pulse_banner.jpg
+      alt: PuLSE
   - infopic:
       title: School Yearbook 2024
       id: infopic
@@ -42,19 +55,6 @@ sections:
       image: /images/mm2024.png
       alt: Musical Montage
       url: /musical-montage-2024-youtube-live-streaming/
-  - infopic:
-      title: PL Parcel
-      description: A Read Worth Your Time
-      button: Click Here
-      url: /about-us/pl-epistle/pl-parcel/
-      image: /images/PL Parcel.png
-      alt: PL Parcel
-  - infopic:
-      title: PulSE (Student Initiated Learning)
-      button: Click Here
-      url: https://sites.google.com/moe.edu.sg/pl-sil-pulse
-      image: /images/pulse_banner.jpg
-      alt: PuLSE
   - infopic:
       title: Instructional Programme
       button: Click Here
