@@ -22,11 +22,11 @@ sections:
       image: /images/DSA_Info_Session_2025__ebanner_.jpg
       alt: Image alt text
   - infopic:
-      title: School Yearbook 2024
+      title: Principal's Letter to Parents
       id: infopic
-      button: CLICK HERE
-      url: /school-yearbook-2024/
-      image: /images/yearbook2024_b.png
+      button: Click here
+      url: /announcements/principal-letter-to-parents
+      image: /images/pl_lite_bulb.jpg
       alt: Image alt text
   - infopic:
       title: PL Parcel
@@ -41,6 +41,13 @@ sections:
       url: https://sites.google.com/moe.edu.sg/pl-sil-pulse
       image: /images/pulse_banner.jpg
       alt: PuLSE
+  - infopic:
+      title: School Yearbook 2024
+      id: infopic
+      button: CLICK HERE
+      url: /school-yearbook-2024/
+      image: /images/yearbook2024_b.png
+      alt: Image alt text
   - infopic:
       title: Musical Montage 2024 YouTube Live Streaming
       id: infopic
