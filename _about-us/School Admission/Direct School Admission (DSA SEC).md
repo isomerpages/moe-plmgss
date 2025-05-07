@@ -272,7 +272,7 @@ may be invited for an interview as part of the selection process.</p>
 <ol>
 <li>
 <p>Applications for DSA-Sec can be submitted via the <a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener noreferrer nofollow" target="_blank"><u>online DSA-Sec Portal</u></a>.
-The application is free of charge and will be open from <strong>7 May 2025 to 3 June 2025</strong>.</p>
+The application is free of charge and will be open from <strong>7 May 2025 to 3 June 2025 (3 pm)</strong>.</p>
 </li>
 </ol>
 <p></p>
@@ -375,7 +375,7 @@ the area of talent.&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>7 May 2025 –&nbsp;</p>
-<p>3 June 2025</p>
+<p>3 June 2025 (3 pm)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Apply at&nbsp;<strong><a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a></strong>
