@@ -19,7 +19,7 @@ sections:
       id: infopic
       button: Click here
       url: /plmgs-s-dsa-information-session-online
-      image: /images/DSA_Info_Session_2025__ebanner_.jpg
+      image: /images/dsa_banner02.jpg
       alt: Image alt text
   - infopic:
       title: Principal's Letter to Parents
