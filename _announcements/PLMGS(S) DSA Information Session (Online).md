@@ -4,9 +4,8 @@ permalink: /plmgs-s-dsa-information-session-online/
 variant: tiptap
 description: ""
 ---
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSA_Info_Session_2025__ebanner_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/dsa_banner02.jpg">
 </div>
 <p>Dear Parents and P6 Pupils,
 <br>
