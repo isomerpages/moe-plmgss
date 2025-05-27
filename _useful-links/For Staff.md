@@ -45,5 +45,9 @@ variant: tiptap
 <p><a href="https://plmgss.moe.edu.sg/school-library/" rel="noopener nofollow" target="_blank">School Library</a>
 </p>
 </li>
+<li>
+<p><a href="https://ams.stlogs.com/AMSWeb/login" rel="noopener nofollow" target="_blank">ST Logistics AMS</a>
+</p>
+</li>
 </ul>
 <p></p>
