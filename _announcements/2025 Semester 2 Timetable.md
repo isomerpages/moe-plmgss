@@ -11,11 +11,11 @@ your PL email this&nbsp;week.&nbsp;</p>
 <p>Have an amazing semester ahead!
 <br>
 <br><u>Secondary 1 Timetable</u>
-<br><a href="/files/Timetable/S1_2025/2025_Semester_1_Sec_1_Timetable__Odd_Week_.pdf" rel="noopener nofollow" target="_blank">2025 Semester 2 - Secondary 1 Timetable (Odd Week)</a>
-<br><a href="/files/Timetable/S1_2025/2025_Semester_1_Sec_1_Timetable__Even_Week_.pdf" rel="noopener nofollow" target="_blank">2025 Semester 2 - Secondary 1 Timetable (Even Week)</a>
+<br><a href="/files/Timetable/S2_2025/2025_Sem_2_Sec_1_Timetable__Odd_Week__22_June.pdf" rel="noopener nofollow" target="_blank">2025 Semester 2 - Secondary 1 Timetable (Odd Week)</a>
+<br><a href="/files/Timetable/S2_2025/2025_Sem_2_Sec_1_Timetable__Even_Week__22_June.pdf" rel="noopener nofollow" target="_blank">2025 Semester 2 - Secondary 1 Timetable (Even Week)</a>
 </p>
 <p><u>Secondary 2 Timetable</u>
-<br><a href="/files/Timetable/S1_2025/2025_Semester_1_Sec_2_Timetable__Odd_Week_.pdf" rel="noopener nofollow" target="_blank">2025 Semester 2 - Secondary 2 Timetable (Odd Week)</a>
-<br><a href="/files/Timetable/S1_2025/2025_Semester_1_Sec_2_Timetable__Even_Week_.pdf" rel="noopener nofollow" target="_blank">2025 Semester 2 - Secondary 2 Timetable (Even Week)</a>
+<br><a href="/files/Timetable/S2_2025/2025_Sem_2_Sec_2_Timetable__Odd_Week__22_June.pdf" rel="noopener nofollow" target="_blank">2025 Semester 2 - Secondary 2 Timetable (Odd Week)</a>
+<br><a href="/files/Timetable/S2_2025/2025_Sem_2_Sec_2_Timetable__Even_Week__22_June.pdf" rel="noopener nofollow" target="_blank">2025 Semester 2 - Secondary 2 Timetable (Even Week)</a>
 </p>
 <p></p>
