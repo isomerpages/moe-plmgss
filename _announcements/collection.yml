@@ -2,7 +2,7 @@ collections:
   announcements:
     output: true
     order:
-      - 2025 Semester 1 Timetable.md
+      - 2025 Semester 2 Timetable.md
       - 2025 June Intensive timetable.md
       - Principal's Letter to Parents.md
       - PLMGS(S) DSA Information Session (Online).md
