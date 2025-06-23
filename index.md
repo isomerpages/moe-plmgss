@@ -12,7 +12,7 @@ sections:
       key_highlights:
         - title: Announcements & Events
           description: Click here to read more
-          url: /2025-june-intensive-timetable/
+          url: /2025-s2-timetable/
       subtitle: 巴耶礼峇美以美女校（中学）
   - infopic:
       title: PLMGS(S) DSA Information Session (Online)
