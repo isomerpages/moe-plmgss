@@ -6,6 +6,10 @@ variant: tiptap
 ---
 <p></p>
 <h3>2025 Postgraduate Diploma in Education (Secondary)</h3>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Daniel_s_Rotary_Award_Photo.jpg">
+</div>
 <p><strong>Mr Lee See Yeow Daniel </strong>
 <br>Rotary International 75th Anniversary Gold Medal</p>
 <p><em>This medal is awarded to students on the basis of excelling in the final exam and of their outstanding leadership and dedication to student activities in the institute or services to the community.</em>
