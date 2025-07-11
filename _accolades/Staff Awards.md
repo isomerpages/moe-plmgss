@@ -4,6 +4,13 @@ permalink: /accolades/staff-awards/
 description: ""
 variant: tiptap
 ---
+<p></p>
+<h3>2025 Postgraduate Diploma in Education (Secondary)</h3>
+<p><strong>Mr Lee See Yeow Daniel </strong>
+<br>Rotary International 75th Anniversary Gold Medal</p>
+<p><em>This medal is awarded to students on the basis of excelling in the final exam and of their outstanding leadership and dedication to student activities in the institute or services to the community.</em>
+</p>
+<p></p>
 <h3>2024 LEAP AWARD - Certificate of Commendation</h3>
 <ul data-tight="true" class="tight">
 <li>
