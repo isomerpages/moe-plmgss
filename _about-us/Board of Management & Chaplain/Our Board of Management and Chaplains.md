@@ -70,4 +70,4 @@ variant: markdown
 
 ### Auditor
 
-<center>SH Tang &amp; Associates LLP</center>
+<center>Audit Alliance LLP</center>
