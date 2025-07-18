@@ -24,7 +24,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p>SINDA Assistance Website:&nbsp;<a href="https://www.sinda.org.sg/services/assistance/" rel="noopener noreferrer nofollow" target="_blank">https://www.sinda.org.sg/services/assistance/</a>
+<p>SINDA Bursary:&nbsp;<a href="https://www.sinda.org.sg/programme/sindabursary/" rel="noopener nofollow" target="_blank">https://www.sinda.org.sg/programme/sindabursary/</a>
 </p>
 </li>
 <li>
