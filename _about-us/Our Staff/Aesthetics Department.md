@@ -38,7 +38,7 @@ third_nav_title: Our Staff
 <h4><strong>Music</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Mr Ng Eng Kee, HOD/ Aesthetics</p>
+<p>Mr Ng Eng Kee, HOD / Aesthetics</p>
 </li>
 <li>
 <p>Ms Liow Xiao Chun</p>
