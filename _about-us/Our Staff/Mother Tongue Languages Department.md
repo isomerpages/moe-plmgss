@@ -8,22 +8,28 @@ third_nav_title: Our Staff
 <h4><strong>Chinese Language</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Ms Lim Lin Lin, HOD / Mother Tongue Languages</p>
+<p><a href="mailto:lim_lin_lin@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Lim Lin Lin</a>,
+HOD / Mother Tongue Languages</p>
 </li>
 <li>
-<p>Ms Zhuang Yingmeng, Subject Head / Chinese Language</p>
+<p><a href="mailto:zhuang_yingmeng@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Zhuang Yingmeng</a>,
+Subject Head / Chinese Language</p>
 </li>
 <li>
-<p>Ms Yuan Pin, Senior Teacher / Chinese Language</p>
+<p><a href="mailto:yuan_pin@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Yuan Pin</a>,
+Senior Teacher / Chinese Language</p>
 </li>
 <li>
-<p>Mdm Hu Min</p>
+<p><a href="mailto:hu_min@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Hu Min</a>
+</p>
 </li>
 <li>
-<p>Mdm Shi Fudi</p>
+<p><a href="mailto:shi_fudi@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Shi Fudi</a>
+</p>
 </li>
 <li>
-<p>Mdm Lim Pei Yng</p>
+<p><a href="mailto:lim_pei_yng@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Lim Pei Yng</a>
+</p>
 </li>
 <li>
 <p>Mdm Wang Jing</p>
