@@ -80,7 +80,8 @@ Senior Teacher / Biology</p>
 STEM Instructor</p>
 </li>
 <li>
-<p>Ms Lee Chue Hoon, Science Lab Support Staff</p>
+<p><a href="mailto:lee_chue_hoon@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Lee Chue Hoon</a>,
+Science Lab Support Staff</p>
 </li>
 </ul>
 <p></p>
