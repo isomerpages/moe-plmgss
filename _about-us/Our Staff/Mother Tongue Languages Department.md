@@ -44,13 +44,16 @@ Senior Teacher / Chinese Language</p>
 </p>
 </li>
 <li>
-<p>Ms Goh Sze Nee</p>
+<p><a href="mailto:goh_sze_nee@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Goh Sze Nee</a>
+</p>
 </li>
 <li>
-<p>Ms Li Hongyan</p>
+<p><a href="mailto:li_hongyan@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Li Hongyan</a>
+</p>
 </li>
 <li>
-<p>Ms Yap Wee Cheng</p>
+<p><a href="mailto:yap_wee_cheng@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Yap Wee Cheng</a>
+</p>
 </li>
 </ul>
 <h4><strong>Tamil Language</strong></h4>
