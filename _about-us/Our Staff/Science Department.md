@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Our Staff
 ---
-<p>Science</p>
+<h4><strong>Science</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Ms Heng Ci Pei, Subject Head / Science</p>
