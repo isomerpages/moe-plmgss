@@ -8,16 +8,16 @@ third_nav_title: Our Staff
 <h4><strong>Geography</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Mrs Vijay Neeraja, HOD/ Humanities</p>
+<p>Mrs Vijay Neeraja, HOD / Humanities</p>
 </li>
 <li>
-<p>Mrs Koh Si Ping, Year Head/ Sec 3</p>
+<p>Mrs Koh Si Ping, Year Head / Sec 3</p>
 </li>
 <li>
-<p>Ms Tan Yi Na, HOD/ Student Management</p>
+<p>Ms Tan Yi Na, HOD / Student Management</p>
 </li>
 <li>
-<p>Ms Lim Shu Ping, Subject Head/ Infocom Technology and Knowledge Management</p>
+<p>Ms Lim Shu Ping, Subject Head / Infocom Technology and Knowledge Management</p>
 </li>
 <li>
 <p>Mdm Nur Zahira</p>
