@@ -35,7 +35,7 @@ third_nav_title: Our Staff
 <p>Mr Kelvin Lim, STEM Instructor</p>
 </li>
 </ul>
-<h4>&nbsp;<strong>Music</strong></h4>
+<h4><strong>Music</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Mr Ng Eng Kee, HOD/ Aesthetics</p>
@@ -47,7 +47,7 @@ third_nav_title: Our Staff
 <p>Ms Jasmine Mong</p>
 </li>
 </ul>
-<h4><strong>&nbsp;Nutrition &amp; Food Science</strong></h4>
+<h4><strong>Nutrition &amp; Food Science</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Mrs Faezah Jnad</p>
