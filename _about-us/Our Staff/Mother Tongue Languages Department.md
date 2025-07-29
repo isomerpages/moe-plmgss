@@ -59,25 +59,31 @@ Senior Teacher / Chinese Language</p>
 <h4><strong>Tamil Language</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Mrs Jesumathy Christopher</p>
+<p><a href="mailto:jesumathy_christopher@moe.edu.sg" rel="noopener nofollow" target="_blank">Mrs Jesumathy Christopher</a>
+</p>
 </li>
 <li>
-<p>Mdm Durka Kuppa Balakrishnan</p>
+<p><a href="mailto:durka_kuppa_balakrishnan@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Durka Kuppa Balakrishnan</a>
+</p>
 </li>
 <li>
-<p>Mdm Vijayalakshmi</p>
+<p><a href="mailto:rosi_vijayalakshmi@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Vijayalakshmi</a>
+</p>
 </li>
 </ul>
 <h4><strong>Malay Language</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Ms Tengku Nurhudah Bte T M Khalib</p>
+<p><a href="mailto:tengku_nurhudah_t_m@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Tengku Nurhudah Bte T M Khalib</a>
+</p>
 </li>
 <li>
-<p>Mdm Nur Zetty Bte Abd Kadir, Assistant Year Head / Sec 4</p>
+<p><a href="mailto:nur_zetty_abd_kadir@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Nur Zetty Bte Abd Kadir</a>,
+Assistant Year Head / Sec 4</p>
 </li>
 <li>
-<p>Ms Ewanny Binte Alwi</p>
+<p><a href="mailto:noor_ewanny_alwi@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Ewanny Binte Alwi</a>
+</p>
 </li>
 </ul>
 <p></p>
