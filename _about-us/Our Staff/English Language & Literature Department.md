@@ -72,43 +72,55 @@ Subject Head / 21CC</p>
 </p>
 </li>
 <li>
-<p>Ms Cecelia Chia Seok Choo</p>
+<p><a href="cecilia_chia_seok_choo_a@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Cecelia Chia Seok Choo</a>
+</p>
 </li>
 <li>
-<p>Mrs Lee Poh Lin</p>
+<p><a href="lee_poh_lin_nee@moe.edu.sg" rel="noopener nofollow" target="_blank">Mrs Lee Poh Lin</a>
+</p>
 </li>
 <li>
-<p>Mr Lee See Yeow Daniel</p>
+<p><a href="lee_see_yeow_daniel@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Lee See Yeow Daniel</a>
+</p>
 </li>
 <li>
-<p>Ms Elliya Elldyna Binte Hisham</p>
+<p><a href="elliya_elldyna_hisham@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Elliya Elldyna Binte Hisham</a>
+</p>
 </li>
 <li>
-<p>Ms Mabel Wong</p>
+<p><a href="wong_xin_yuan_mabel@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Mabel Wong</a>
+</p>
 </li>
 </ul>
 <h4><strong>Literature</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Ms Das Ruth Hannah, Assistant Year Head / Lower Sec</p>
+<p><a href="das_ruth_hannah@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Das Ruth Hannah</a>,
+Assistant Year Head / Lower Sec</p>
 </li>
 <li>
-<p>Ms Marie T. Pang, Subject Head / 21CC</p>
+<p><a href="pang_li_en_marie-therese@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Marie T. Pang</a>,
+Subject Head / 21CC</p>
 </li>
 <li>
-<p>Mrs Ramesh Christina</p>
+<p><a href="ramesh_maria_christina@moe.edu.sg" rel="noopener nofollow" target="_blank">Mrs Ramesh Christina</a>
+</p>
 </li>
 <li>
-<p>Mrs Adeline Ong</p>
+<p><a href="ng_su_mei_adeline@moe.edu.sg" rel="noopener nofollow" target="_blank">Mrs Adeline Ong</a>
+</p>
 </li>
 <li>
-<p>Ms Hannah Zulaihah</p>
+<p><a href="hannah_zulaihah_gwynne@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Hannah Zulaihah</a>
+</p>
 </li>
 <li>
-<p>Mdm Zalena Bte Aman</p>
+<p><a href="zalena_aman@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Zalena Bte Aman</a>
+</p>
 </li>
 <li>
-<p>Mrs Lim Siew Gim Florence</p>
+<p><a href="lim_siew_gim_florence@moe.edu.sg" rel="noopener nofollow" target="_blank">Mrs Lim Siew Gim Florence</a>
+</p>
 </li>
 </ul>
 <p></p>
