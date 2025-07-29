@@ -35,37 +35,47 @@ Subject Head / Infocom Technology and Knowledge Management</p>
 Senior Teacher / History</p>
 </li>
 <li>
-<p>Ms Nuraishah Kapoor, Subject Head / Humanities</p>
+<p><a href="mailto:Nuraishah_kapoor@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Nuraishah Kapoor</a>,
+Subject Head / Humanities</p>
 </li>
 <li>
-<p>Ms Navethira Chandran, Assistant Year Head (Acting) / Sec 1</p>
+<p><a href="mailto:navethira_r_chandran@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Navethira Chandran</a>,
+Assistant Year Head (Acting) / Sec 1</p>
 </li>
 <li>
-<p>Mr Lam Cherng Yang</p>
+<p><a href="mailto:lam_cherng_yang@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Lam Cherng Yang</a>
+</p>
 </li>
 <li>
-<p>Ms Delia Foo</p>
+<p><a href="mailto:foo_wen_xian_delia@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Delia Foo</a>
+</p>
 </li>
 </ul>
 <h4><strong>Social Studies</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Ms Nuraishah Kapoor, Subject Head / Humanities</p>
+<p><a href="mailto:Nuraishah_kapoor@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Nuraishah Kapoor</a>,
+Subject Head / Humanities</p>
 </li>
 <li>
-<p>Mrs Neoh Terh Ling, Senior Teacher / History</p>
+<p><a href="mailto:lim_terh_ling@moe.edu.sg" rel="noopener nofollow" target="_blank">Mrs Neoh Terh Ling</a>,
+Senior Teacher / History</p>
 </li>
 <li>
-<p>Mrs Cheryl Chew, Subject Head/ Character and Citizenship Education</p>
+<p><a href="mailto:tan_jue_ling_cheryl@moe.edu.sg" rel="noopener nofollow" target="_blank">Mrs Cheryl Chew</a>,
+Subject Head/ Character and Citizenship Education</p>
 </li>
 <li>
-<p>Ms Kirrthana Krishnamoorthy-Issac</p>
+<p><a href="mailto:kirrthana_krishnamoorthy@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Kirrthana Krishnamoorthy-Issac</a>
+</p>
 </li>
 <li>
-<p>Ms Ang Hui Min</p>
+<p><a href="mailto:ang_hui_min@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Ang Hui Min</a>
+</p>
 </li>
 <li>
-<p>Ms Delia Foo</p>
+<p><a href="mailto:foo_wen_xian_delia@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Delia Foo</a>
+</p>
 </li>
 </ul>
 <p></p>
