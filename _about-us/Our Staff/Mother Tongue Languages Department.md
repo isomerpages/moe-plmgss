@@ -32,13 +32,16 @@ Senior Teacher / Chinese Language</p>
 </p>
 </li>
 <li>
-<p>Mdm Wang Jing</p>
+<p><a href="mailto:wang_jing@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Wang Jing</a>
+</p>
 </li>
 <li>
-<p>Mdm Zhang Yongmei</p>
+<p><a href="mailto:zhang_yongmei@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Zhang Yongmei</a>
+</p>
 </li>
 <li>
-<p>Ms Chen Wenjuan</p>
+<p><a href="mailto:chen_wenjuan@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Chen Wenjuan</a>
+</p>
 </li>
 <li>
 <p>Ms Goh Sze Nee</p>
