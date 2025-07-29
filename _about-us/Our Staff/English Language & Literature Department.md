@@ -71,7 +71,7 @@ third_nav_title: Our Staff
 <p>Ms Mabel Wong</p>
 </li>
 </ul>
-<h4>&nbsp;<strong>Literature</strong></h4>
+<h4><strong>Literature</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Ms Das Ruth Hannah, Assistant Year Head/ Lower Sec</p>
