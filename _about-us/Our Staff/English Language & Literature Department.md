@@ -8,19 +8,19 @@ third_nav_title: Our Staff
 <h4><strong>English Language</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Ms Yan Xiuru, Subject Head/ English Language</p>
+<p>Ms Yan Xiuru, Subject Head / English Language</p>
 </li>
 <li>
 <p>Ms Lim Shi'en Shawna, School Staff Developer</p>
 </li>
 <li>
-<p>Mrs Chew Cheryl, Subject Head/ Character &amp; Citizenship Education</p>
+<p>Mrs Chew Cheryl, Subject Head / Character &amp; Citizenship Education</p>
 </li>
 <li>
-<p>Ms Das Ruth Hannah, Assistant Year Head/ Lower Sec</p>
+<p>Ms Das Ruth Hannah, Assistant Year Head / Lower Sec</p>
 </li>
 <li>
-<p>Ms Marie T. Pang, Subject Head/ 21CC</p>
+<p>Ms Marie T. Pang, Subject Head / 21CC</p>
 </li>
 <li>
 <p>Mrs Ramesh Christina</p>
@@ -74,10 +74,10 @@ third_nav_title: Our Staff
 <h4><strong>Literature</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Ms Das Ruth Hannah, Assistant Year Head/ Lower Sec</p>
+<p>Ms Das Ruth Hannah, Assistant Year Head / Lower Sec</p>
 </li>
 <li>
-<p>Ms Marie T. Pang, Subject Head/ 21CC</p>
+<p>Ms Marie T. Pang, Subject Head / 21CC</p>
 </li>
 <li>
 <p>Mrs Ramesh Christina</p>
