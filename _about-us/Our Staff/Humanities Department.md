@@ -26,13 +26,13 @@ third_nav_title: Our Staff
 <h4><strong>History</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Mrs Neoh Terh Ling, Senior Teacher/ History</p>
+<p>Mrs Neoh Terh Ling, Senior Teacher / History</p>
 </li>
 <li>
-<p>Ms Nuraishah Kapoor, Subject Head/ Humanities</p>
+<p>Ms Nuraishah Kapoor, Subject Head / Humanities</p>
 </li>
 <li>
-<p>Ms Navethira Chandran, Assistant Year Head (Acting)/ Sec 1</p>
+<p>Ms Navethira Chandran, Assistant Year Head (Acting) / Sec 1</p>
 </li>
 <li>
 <p>Mr Lam Cherng Yang</p>
@@ -44,10 +44,10 @@ third_nav_title: Our Staff
 <h4><strong>Social Studies</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Ms Nuraishah Kapoor, Subject Head/ Humanities</p>
+<p>Ms Nuraishah Kapoor, Subject Head / Humanities</p>
 </li>
 <li>
-<p>Mrs Neoh Terh Ling, Senior Teacher/ History</p>
+<p>Mrs Neoh Terh Ling, Senior Teacher / History</p>
 </li>
 <li>
 <p>Mrs Cheryl Chew, Subject Head/ Character and Citizenship Education</p>
