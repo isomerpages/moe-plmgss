@@ -207,7 +207,7 @@ third_nav_title: Our Staff
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ong_jun_yi@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Ong Jin Yi</a>
+<p><a href="mailto:lee_see_yeow_daniel@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Daniel Lee See Yeow</a>
 </p>
 </td>
 </tr>
@@ -259,7 +259,7 @@ third_nav_title: Our Staff
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:zhuang_yingmeng@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Zhuang Ying Meng</a>
+<p><a href="mailto:ong_jin_yi@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Ong Jin Yi</a>
 </p>
 </td>
 </tr>
@@ -484,7 +484,7 @@ third_nav_title: Our Staff
 <p>Sec 4.4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:kong_pei_shan@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Kong Pei Shan</a>
+<p><a href="mailto:yan_xiuru@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Yan Xiuru</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
