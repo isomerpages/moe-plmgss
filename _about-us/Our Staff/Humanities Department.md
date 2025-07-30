@@ -1,6 +1,6 @@
 ---
 title: Humanities Department
-permalink: /humanities-department/
+permalink: /about-us/our-staff/humanities-department/
 variant: tiptap
 description: ""
 third_nav_title: Our Staff

@@ -1,6 +1,6 @@
 ---
 title: English Language & Literature Department
-permalink: /english-language-literature-department/
+permalink: /about-us/our-staff/english-language-literature-department/
 variant: tiptap
 description: ""
 third_nav_title: Our Staff

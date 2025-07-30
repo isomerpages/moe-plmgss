@@ -1,6 +1,6 @@
 ---
 title: Mathematics Department
-permalink: /mathematics-department/
+permalink: /about-us/our-staff/mathematics-department/
 variant: tiptap
 description: ""
 third_nav_title: Our Staff

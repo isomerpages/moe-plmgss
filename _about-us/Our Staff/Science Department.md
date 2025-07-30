@@ -1,6 +1,6 @@
 ---
 title: Science Department
-permalink: /science-department/
+permalink: /about-us/our-staff/science-department/
 variant: tiptap
 description: ""
 third_nav_title: Our Staff
