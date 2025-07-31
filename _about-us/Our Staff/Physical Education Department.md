@@ -1,6 +1,6 @@
 ---
-title: Physica Education Department
-permalink: /about-us/our-staff/physica-education-department/
+title: Physical Education Department
+permalink: /about-us/our-staff/physical-education-department/
 variant: tiptap
 description: ""
 third_nav_title: Our Staff
