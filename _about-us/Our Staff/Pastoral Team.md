@@ -60,7 +60,7 @@ third_nav_title: Our Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:cynthia_ang_lay_leng@moe.edu.sg" rel="noopener nofollow" target="_blank">Mrs Cynthnia Yeong</a>
+<p><a href="mailto:cynthia_ang_lay_leng@moe.edu.sg" rel="noopener nofollow" target="_blank">Mrs Cynthia Yeong</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
