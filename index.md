@@ -12,7 +12,7 @@ sections:
       key_highlights:
         - title: Announcements & Events
           description: Click here to read more
-          url: /announcements/2025-s2-timetable/
+          url: /2025-secondary-1-to-3-eoy-exams-timetable/
       subtitle: 巴耶礼峇美以美女校（中学）
   - infopic:
       title: PLMGS(S) DSA Information Session (Online)
