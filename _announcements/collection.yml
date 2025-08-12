@@ -2,6 +2,7 @@ collections:
   announcements:
     output: true
     order:
+      - 2025 Secondary 4E & 5N Prelimary Exam Timetable.md
       - 2025 Secondary 1 to 3 EOY Exams Timetable.md
       - MOE Edusave Character & EAGLES 21CC Award.md
       - 2025 Night Study Programme (NSP) for Sec 4 & Sec 5 Students (Term 3).md
