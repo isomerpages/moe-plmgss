@@ -2,10 +2,10 @@ collections:
   announcements:
     output: true
     order:
+      - 2025 Secondary 1 to 3 EOY Exams Timetable.md
       - MOE Edusave Character & EAGLES 21CC Award.md
       - 2025 Night Study Programme (NSP) for Sec 4 & Sec 5 Students (Term 3).md
       - 2025 Semester 2 Timetable.md
-      - 2025 June Intensive timetable.md
       - Principal's Letter to Parents.md
       - PLMGS(S) DSA Information Session (Online).md
       - 2026 Secondary 3 Subject Combinations.md
