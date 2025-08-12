@@ -40,7 +40,7 @@ Subject Head / 21CC</p>
 </p>
 </li>
 <li>
-<p><a href="mailto:hannah_zulaihah_gwynne@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Hannah Zulaihah</a>
+<p><a href="mailto:hannah_zulaihah@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Hannah Zulaihah</a>
 </p>
 </li>
 <li>
@@ -111,7 +111,7 @@ Subject Head / 21CC</p>
 </p>
 </li>
 <li>
-<p><a href="mailto:hannah_zulaihah_gwynne@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Hannah Zulaihah</a>
+<p><a href="mailto:hannah_zulaihah@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Hannah Zulaihah</a>
 </p>
 </li>
 <li>
