@@ -145,6 +145,7 @@ meaningfully beyond the classroom setting:</p>
 <p>Commonwealth Essay Writing Contest (QCEWC)</p>
 </li>
 </ul>
+<h4><strong>Gallery</strong></h4>
 <div class="iframe-wrapper">
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/1N3xoefAatAzCCdpGkb_QpHdtURvq3r02MmN1NGAlTgs/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
