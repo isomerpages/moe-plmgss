@@ -2,6 +2,7 @@ collections:
   curriculum:
     output: true
     order:
+      - Instructional Programme/Science.md
       - Instructional Programme/Mathematics.md
       - Instructional Programme/Aesthetics.md
       - Instructional Programme/English Language & Literature.md
