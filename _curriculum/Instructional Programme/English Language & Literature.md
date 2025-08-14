@@ -5,15 +5,15 @@ description: ""
 third_nav_title: Instructional Programme
 variant: tiptap
 ---
+<h4><strong>Vision</strong></h4>
+<p>To create a culture where students are <strong><em>articulate</em></strong><em> and </em><strong><em>confident</em></strong> in
+the use of the English Language</p>
 <h4><strong>Mission</strong></h4>
 <p>To develop students into critical thinkers, effective communicators, and
 empathetic readers through engaging and thoughtfully designed English Language
 and Literature programmes. We aim to nurture a love for language and empower
 students to express themselves with clarity, confidence, and purpose in
 both academic and real-world contexts.</p>
-<h4><strong>Vision</strong></h4>
-<p>To create a culture where students are <strong><em>articulate</em></strong><em> and </em><strong><em>confident</em></strong> in
-the use of the English Language</p>
 <h4><strong>Curriculum</strong></h4>
 <p><strong>English Language</strong>
 </p>
