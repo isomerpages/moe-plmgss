@@ -94,6 +94,7 @@ and interventions to close students’ learning gaps.&nbsp;</p>
 the different assessment objectives and represent the scope and relevance
 with appropriate pitching as required of the syllabus to inform how well
 students had learnt at various checkpoints.&nbsp;</p>
+<h4><strong>Gallery</strong></h4>
 <div class="iframe-wrapper">
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/1U71qfEngnlu4HmiRQeOSYFzVN9QdvOXn424amzHk40A/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
