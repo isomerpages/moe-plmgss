@@ -185,6 +185,7 @@ application skills</p>
 <p>By using <strong>diverse assessment modes</strong>, we ensure that every
 student is given opportunities to demonstrate their learning in ways that
 reflect their unique strengths and progress.</p>
+<h4><strong>Gallery</strong></h4>
 <div class="iframe-wrapper">
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/1PdUlyIFQKkUpwYNjVB6sKh6D-Rdp1K7LaFXy6JKYax8/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
