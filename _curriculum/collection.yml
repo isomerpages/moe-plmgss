@@ -1,5 +1,5 @@
 collections:
-  instructional-programmes:
+  curriculum:
     output: true
     order:
       - Instructional Programme/Aesthetics.md
