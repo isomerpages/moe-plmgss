@@ -5,12 +5,12 @@ description: ""
 third_nav_title: Instructional Programme
 variant: tiptap
 ---
-<h4><strong>Vision</strong></h4>
-<p>Every PL-Lite is a self-directed, creative and resilient learner who respects
-diversity and solves real world problems.</p>
 <h4><strong>Mission</strong></h4>
 <p>To develop PL-Lites into confident, independent and collaborative learners
 who have an inquiring mind and appreciate design and the arts.</p>
+<h4><strong>Vision</strong></h4>
+<p>Every PL-Lite is a self-directed, creative and resilient learner who respects
+diversity and solves real world problems.</p>
 <h4><strong>Curriculum</strong></h4>
 <p>The Aesthetics Department adopts Kolb’s Experiential Learning Theory and
 learning styles model as the foundation of its curriculum framework. Kolb’s
