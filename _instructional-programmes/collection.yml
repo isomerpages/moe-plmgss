@@ -2,6 +2,7 @@ collections:
   instructional-programmes:
     output: true
     order:
+      - Instructional Programme/Aesthetics.md
       - Instructional Programme/English.md
       - Instructional Programme/.keep
       - IP Overview/.keep
