@@ -11,7 +11,7 @@ diversity and solves real world problems.</p>
 <h4><strong>Mission</strong></h4>
 <p>To develop PL-Lites into confident, independent and collaborative learners
 who have an inquiring mind and appreciate design and the arts.</p>
-<h4><strong>The Curriculum</strong></h4>
+<h4><strong>Curriculum</strong></h4>
 <p>The Aesthetics Department adopts Kolb’s Experiential Learning Theory and
 learning styles model as the foundation of its curriculum framework. Kolb’s
 learning cycle comprises four stages, through which experience is transformed
@@ -257,8 +257,7 @@ hands-on experiences, reflection and application, deepening their understanding
 through authentic, real-life contexts.</p>
 </li>
 </ul>
-<p><strong>&nbsp;Assessment in Art, D&amp;T, Music, FCE &amp; NFS</strong>
-</p>
+<h4><strong>&nbsp;Assessment in Art, D&amp;T, Music, FCE &amp; NFS</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>At <strong>Lower Secondary</strong>, these subjects are <strong>project-based</strong>.
