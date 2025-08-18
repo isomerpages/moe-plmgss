@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Instructional Programme
 variant: tiptap
 ---
-<h3><strong>Vision / Mission</strong></h3>
+<h4><strong>Vision / Mission</strong></h4>
 <p>To cultivate <strong>confident communicators</strong> in the Mother Tongue
 Languages who demonstrate a strong passion for and appreciation of their <strong>cultural values and heritage</strong>.</p>
 <h4><strong>Curriculum</strong></h4>
