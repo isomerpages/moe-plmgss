@@ -1,0 +1,28 @@
+collections:
+  curriculum:
+    output: true
+    order:
+      - Instructional Programme/Mother Tongue Language.md
+      - Instructional Programme/Humanities.md
+      - Instructional Programme/Science.md
+      - Instructional Programme/Mathematics.md
+      - Instructional Programme/Aesthetics.md
+      - Instructional Programme/English Language & Literature.md
+      - Instructional Programme/.keep
+      - IP Overview/.keep
+      - IP Overview/IP Overview.md
+      - IP Overview/Assessment.md
+      - IP Overview/Homework Policy.md
+      - IP Overview/Syllabuses.md
+      - PL21/.keep
+      - PL21/PL21.md
+      - "PL21/PL21 (Tier 1: Experience).md"
+      - "PL21/PL21 (Tier 2: ACE (STEM)).md"
+      - "PL21/PL21 (Tier 2: Global Scholar Programme).md"
+      - Physical Education/.keep
+      - Physical Education/Physical Education.md
+      - Physical Education/Curriculum.md
+      - Physical Education/Photo Gallery.md
+      - Physical Education/Key Programmes and Competitions.md
+      - Useful Resources.md
+      - Post Secondary Scholarships.md

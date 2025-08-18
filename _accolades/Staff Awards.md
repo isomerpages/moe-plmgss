@@ -4,7 +4,14 @@ permalink: /accolades/staff-awards/
 description: ""
 variant: tiptap
 ---
-<h3>2025 Postgraduate Diploma in Education (Secondary)</h3>
+<h4>2025 National Day Award</h4>
+<p><strong>THE COMMENDATION MEDAL</strong>
+<br>Ms Heng Ci Pei
+<br>HOD / Science (Acting)</p>
+<p><strong>THE LONG SERVICE MEDAL</strong>
+<br>Mdm Cheong Era
+<br>HOD / Physical Education and Co-Curricular Activities</p>
+<h4>2025 Postgraduate Diploma in Education (Secondary)</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Daniel_s_Rotary_Award_Photo.jpg">
 </div>
@@ -12,7 +19,7 @@ variant: tiptap
 <br>Rotary International 75th Anniversary Gold Medal</p>
 <p><em>This medal is awarded to students on the basis of excelling in the final exam and of their outstanding leadership and dedication to student activities in the institute or services to the community.</em>
 </p>
-<h3>2024 LEAP AWARD - Certificate of Commendation</h3>
+<h4>2024 LEAP AWARD - Certificate of Commendation</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Mr Lin Binchuan</p>
@@ -21,7 +28,7 @@ variant: tiptap
 <p>Ms Hee Yuen Jen</p>
 </li>
 </ul>
-<h3>2024 Caring Teacher Award - School Level Winners (Organised by NIE)</h3>
+<h4>2024 Caring Teacher Award - School Level Winners (Organised by NIE)</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Mrs Koh Si Ping</p>
@@ -39,7 +46,7 @@ variant: tiptap
 <p>Mrs Yeo Siqi, Clarabelle</p>
 </li>
 </ul>
-<h3>2024 MOE Service Excellence Award (MSEA)</h3>
+<h4>2024 MOE Service Excellence Award (MSEA)</h4>
 <p><strong>Platinum Award</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -79,7 +86,7 @@ variant: tiptap
 <p>Mr Teo Kim Che</p>
 </li>
 </ul>
-<h3>2024 MOE Outstanding Contribution Award (Individual)</h3>
+<h4>2024 MOE Outstanding Contribution Award (Individual)</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Mr Wong Khai Yu</p>
@@ -94,7 +101,7 @@ variant: tiptap
 <p>Ms Quek Hui Ying Grace</p>
 </li>
 </ul>
-<h3>2024 MOE Outstanding Contribution Award (Team)</h3>
+<h4>2024 MOE Outstanding Contribution Award (Team)</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>EAS</p>
@@ -112,7 +119,7 @@ variant: tiptap
 <p>PL21 Committee</p>
 </li>
 </ul>
-<h3>NFTE Global Enterprising Educator award for 2024</h3>
+<h4>NFTE Global Enterprising Educator award for 2024</h4>
 <p>The Global Enterprising Educator (GEE) is an award that recognises excellence
 in using the NFTE entrepreneurship curriculum to help students overcome
 their own challenges in life. Guided by research-backed attributes of the
@@ -122,7 +129,7 @@ themselves towards a life-changing aspiration.</p>
 <p>Congratulations to the PLMGS Team (Mr Lam Cherng Yang, Mr Joshua Low and
 Ms Ung Zi Qing) for being awarded the NFTE Global Enterprising Educator
 award for 2024!</p>
-<h3>2024 Methodist Schools’ Long Service Award</h3>
+<h4>2024 Methodist Schools’ Long Service Award</h4>
 <div class="iframe-wrapper">
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/1jz9ZjgkaiLXcX4uCWhTfFLak5f9scHKifYu5HeNLrDs/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
@@ -135,15 +142,14 @@ award for 2024!</p>
 <br>Professor Hum Sin Hoon
 <br>Mrs Lee Boon Siew
 <br>Dr Daniel Fung</p>
-<h3>2024 National Day Award</h3>
+<h4>2024 National Day Award</h4>
 <p><strong>THE COMMENDATION MEDAL</strong>
 <br>Ms Lim Shi’en Shawna
 <br>School Staff Developer</p>
-<p></p>
 <p><strong>THE LONG SERVICE MEDAL</strong>
 <br>Mr Lim Fook Tong
 <br>STEM Instructor (Workshop)</p>
-<h3>2023 MOE Innergy Winning Projects - HQ (WP)</h3>
+<h4>2023 MOE Innergy Winning Projects - HQ (WP)</h4>
 <p><strong>Mr Chai Wee Jie</strong>
 <br>Student Development Curriculum Division 1 and Paya Lebar Methodist Girls
 School (Sec)
@@ -152,7 +158,7 @@ School (Sec)
 <div class="isomer-image-wrapper">
 <img style="width:30%" height="auto" width="100%" src="/images/weijie_moe_synergy.jpg">
 </div>
-<h3>2023 Postgraduate Diploma in Education (Secondary)</h3>
+<h4>2023 Postgraduate Diploma in Education (Secondary)</h4>
 <p><strong>Miss Rachel Ong Lin Hui</strong>
 <br>Valedictorian of the Class of 2023
 <br>NIE Gold Medal
@@ -160,30 +166,30 @@ School (Sec)
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="rachel_ong" src="/images/rachel_ong_post_dip.jpg">
 </div>
-<h3>2023 Methodist Schools’ Long Service Award &amp; Methodist Schools’ Appreciation Award</h3>
+<h4>2023 Methodist Schools’ Long Service Award &amp; Methodist Schools’ Appreciation Award</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="2023mlsa" src="/images/2023mlsa.jpg">
 </div>
 <p>Ms Gloria Lim (20 years)
 <br>Mrs Annie Teo</p>
-<h3>2023 National Day Award</h3>
+<h4>2023 National Day Award</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="nda_2023" src="/images/nda2023_siping.jpg">
 </div>
-<h3>2023 MOE Service Excellence Award (MSEA)</h3>
+<h4>2023 MOE Service Excellence Award (MSEA)</h4>
 <p><strong>Platinum Award</strong>
 <br>Ms Lim Siok Peng, Gloria</p>
 <p><strong>Gold Award</strong>
 <br>Ms Lim Siok Peng, Gloria</p>
 <p><strong>Silver Award</strong>
 <br>Mr Chia Huay Heng</p>
-<h3>Associate of Academy of Singapore Teachers Award</h3>
+<h4>Associate of Academy of Singapore Teachers Award</h4>
 <p><strong>Mrs Neoh Terh Ling</strong>
 </p>
 <p>Mrs Neoh was conferred the Associate of Academy of Singapore Teachers
 Award in recognition of her valuable contributions to the professional
 development of MOE officers.</p>
-<h3>2022 National Day Award</h3>
+<h4>2022 National Day Award</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="nda2022" src="/images/nda2022.jpg">
 </div>
