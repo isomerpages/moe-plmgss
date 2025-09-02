@@ -12,7 +12,7 @@ sections:
       key_highlights:
         - title: Announcements & Events
           description: Click here to read more
-          url: /2025-secondary-1-to-3-eoy-exams-timetable/
+          url: /2025-night-study-programme-nsp-for-sec-4-sec-5-students-term-4/
       subtitle: 巴耶礼峇美以美女校（中学）
   - infopic:
       title: PLMGS(S) DSA Information Session (Online)
