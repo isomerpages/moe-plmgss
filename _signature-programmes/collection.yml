@@ -2,6 +2,7 @@ collections:
   signature-programmes:
     output: true
     order:
+      - "PL21/PL21 (Tier 2: Global Scholar Programme).md"
       - "PL21/PL21 (Tier 2: ACE (STEM)).md"
       - "PL21/PL21 (Tier 1: Experience).md"
       - PL21/PL21.md
