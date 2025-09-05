@@ -2,6 +2,7 @@ collections:
   signature-programmes:
     output: true
     order:
+      - PL21/PL21.md
       - PL21/.keep
       - Student Leadership/.keep
       - Student Leadership/Student Leadership.md
