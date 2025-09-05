@@ -2,6 +2,7 @@ collections:
   signature-programmes:
     output: true
     order:
+      - Arts Education Programme.md
       - PL21/.keep
       - PL21/PL21.md
       - "PL21/PL21 (Tier 1: Experience).md"
