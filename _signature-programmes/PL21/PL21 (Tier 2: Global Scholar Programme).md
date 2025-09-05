@@ -1,6 +1,6 @@
 ---
 title: "PL21 (Tier 2: Global Scholar Programme)"
-permalink: /pl21-tier-2-global-scholar-programme/
+permalink: /signature-programmes/pl21-tier-2-global-scholar-programme/
 variant: tiptap
 description: ""
 third_nav_title: PL21

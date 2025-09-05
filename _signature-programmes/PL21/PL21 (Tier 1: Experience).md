@@ -1,6 +1,6 @@
 ---
 title: "PL21 (Tier 1: Experience)"
-permalink: /pl21-experience/
+permalink: /signature-programmes/pl21-experience/
 variant: tiptap
 description: ""
 third_nav_title: PL21

@@ -1,6 +1,6 @@
 ---
 title: Post Secondary Scholarships
-permalink: /instructional-programmes/post-secondary-scholarships/
+permalink: /curriculum/post-secondary-scholarships/
 description: ""
 variant: tiptap
 ---

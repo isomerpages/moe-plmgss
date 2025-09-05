@@ -1,6 +1,6 @@
 ---
 title: Assessment
-permalink: /instructional-programmes/ip-overview/assessment/
+permalink: /curriculum/ip-overview/assessment/
 description: ""
 third_nav_title: IP Overview
 variant: markdown

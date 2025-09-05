@@ -1,6 +1,6 @@
 ---
 title: Syllabuses
-permalink: /instructional-programmes/ip-overview/syllabuses/
+permalink: /curriculum/ip-overview/syllabuses/
 description: ""
 third_nav_title: IP Overview
 variant: tiptap

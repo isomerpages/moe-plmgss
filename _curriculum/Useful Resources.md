@@ -1,6 +1,6 @@
 ---
 title: Useful Resources
-permalink: /instructional-programmes/useful-resources/
+permalink: /curriculum/useful-resources/
 description: ""
 variant: markdown
 ---
