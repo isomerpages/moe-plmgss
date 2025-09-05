@@ -2,16 +2,16 @@ collections:
   signature-programmes:
     output: true
     order:
-      - Arts Education Programme.md
       - PL21/.keep
       - PL21/PL21.md
       - "PL21/PL21 (Tier 1: Experience).md"
       - "PL21/PL21 (Tier 2: ACE (STEM)).md"
       - "PL21/PL21 (Tier 2: Global Scholar Programme).md"
+      - Faithful in Service.md
       - Student Leadership/.keep
       - Student Leadership/Student Leadership.md
       - Student Leadership/Leadership Groups in PL.md
       - Student Leadership/Go Light Your World.md
+      - Arts Education Programme.md
       - Education and Career Guidance.md
       - Global Classroom Programme.md
-      - Faithful in Service.md
