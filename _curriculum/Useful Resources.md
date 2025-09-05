@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <h3>1. Education and Career Guidance (ECG)</h3>
-<h4><strong>PL 21 Resources for students</strong></h4>
+<h4>PL 21 Resources for students</h4>
 <p>The PL 21 programme is a 2-year programme for Sec 1 and Sec 2 PL-Lites
 developed by our Staff, in alignment to MOE’s Framework for 21st Century
 Competencies and Student Outcomes. The PL 21 programme seeks to develop
@@ -41,7 +41,7 @@ they have learnt.</p>
 </p>
 </li>
 </ol>
-<h4><strong>Course information for JAE and JIE</strong></h4>
+<h4>Course information for JAE and JIE</h4>
 <p>Please find the relevant Joint Admissions and Intake Admission Exercise
 booklets from <a href="https://plmgss.moe.edu.sg/articles/admission-booklets/" rel="noopener noreferrer nofollow" target="_blank">this link</a>.</p>
 <h4>Pre-U Chinese Language Elective Programme (CLEP-JC)</h4>
