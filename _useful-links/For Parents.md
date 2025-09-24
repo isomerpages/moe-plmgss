@@ -6,7 +6,7 @@ variant: tiptap
 ---
 <ul>
 <li>
-<p>Please&nbsp;<a href="https://www.plmgss.moe.edu.sg/about-us/our-staff/staff-emails" rel="noopener noreferrer nofollow" target="_blank">click here</a>&nbsp;for&nbsp;<strong>Staff Emails</strong>
+<p>Please&nbsp;<a href="https://www.plmgss.moe.edu.sg/about-us/our-staff/form-teachers/" rel="noopener noreferrer nofollow" target="_blank">click here</a>&nbsp;for&nbsp;<strong>Staff Emails</strong>
 </p>
 </li>
 <li>
