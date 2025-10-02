@@ -4,6 +4,15 @@ permalink: /accolades/staff-awards/
 description: ""
 variant: tiptap
 ---
+<h4>Academy Awards for Professional Development</h4>
+<p><strong>Mrs Neoh Terh Ling</strong>
+</p>
+<h4>2025 MOE Innergy Award</h4>
+<p><strong>Commendation</strong>
+<br>Paya Lebar Methodist Girls' School (Secondary), Pei Hwa Secondary School,
+Punggol Secondary School and Regent Secondary School</p>
+<p><em>In 2024, the SSDs of these 4 schools created The Teacher Gem Maker (TGM) Board Game to complement MOE’s Teacher Growth Model Facilitation Package to enhance professional learning efforts amongst teachers. In PL, the Teachers Leaders and KPs facilitated the TGM Board game to introduce the refreshed Teacher Grown Model to all teachers. This inter-school team was awarded the Commendation Award in recognition of the development and implementation of innovative approaches that have improved teaching and learning and/or work processes in their schools.</em>
+</p>
 <h4>2025 National Day Award</h4>
 <p><strong>THE COMMENDATION MEDAL</strong>
 <br>Ms Heng Ci Pei
