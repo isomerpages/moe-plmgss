@@ -125,8 +125,7 @@ curriculum.</p>
 </li>
 </ul>
 <p><strong>PL Gym</strong>
-</p>
-<p>The PL Gym was set up to provide staff, parents and students a conducive
+<br>The PL Gym was set up to provide staff, parents and students a conducive
 environment to work out on a regular basis. A gym instructor has been engaged
 onsite to provide advice on customized exercise programmes for each gym
 user.</p>
