@@ -208,7 +208,7 @@ access the information.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://staging.d31lf6q9623hn3.amplifyapp.com/instructional-programmes/post-secondary-scholarships" rel="noopener noreferrer nofollow" target="_blank">https://www.plmgss.moe.edu.sg/instructional-programmes/post-secondary-scholarships</a>
+<p><a href="https://www.plmgss.moe.edu.sg/curriculum/post-secondary-scholarships/" rel="noopener nofollow" target="_blank">https://www.plmgss.moe.edu.sg/curriculum/post-secondary-scholarships/</a>
 </p>
 </li>
 </ul>
