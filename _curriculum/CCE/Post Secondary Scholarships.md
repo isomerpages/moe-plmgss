@@ -1,8 +1,9 @@
 ---
 title: Post Secondary Scholarships
-permalink: /curriculum/post-secondary-scholarships/
+permalink: /curriculum/cce/post-secondary-scholarships/
 description: ""
 variant: tiptap
+third_nav_title: CCE
 ---
 <p><strong>Unlock Your Future: A Guide to Post-Secondary Scholarships</strong>
 <br>Ready to take the next step in your education? Securing a scholarship
