@@ -6,7 +6,7 @@ variant: tiptap
 ---
 <ul>
 <li>
-<p><a href="https://staging.d31lf6q9623hn3.amplifyapp.com/signature-programmes/education-and-career-guidance" rel="noopener noreferrer nofollow" target="_blank">Education and Career Guidance</a>
+<p><a href="https://www.plmgss.moe.edu.sg/curriculum/cce/education-and-career-guidance/" rel="noopener noreferrer nofollow" target="_blank">Education and Career Guidance</a>
 </p>
 </li>
 <li>
