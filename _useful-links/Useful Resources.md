@@ -1,6 +1,6 @@
 ---
 title: Useful Resources
-permalink: /curriculum/useful-resources/
+permalink: /useful-links/useful-resources/
 description: ""
 variant: tiptap
 ---
