@@ -2,14 +2,11 @@ collections:
   curriculum:
     output: true
     order:
-      - CCE/.keep
-      - CCE/Character & Citizenship Education at PL.md
-      - CCE/LiVE Lessons.md
-      - CCE/Sexuality Education.md
-      - CCE/Education and Career Guidance.md
-      - CCE/Post Secondary Scholarships.md
-      - CCE/Pastoral Care.md
-      - CCE/Disciplinary.md
+      - IP Overview/.keep
+      - IP Overview/IP Overview.md
+      - IP Overview/Assessment.md
+      - IP Overview/Homework Policy.md
+      - IP Overview/Syllabuses.md
       - Instructional Programme/.keep
       - Instructional Programme/English Language & Literature.md
       - Instructional Programme/Mathematics.md
@@ -18,8 +15,11 @@ collections:
       - Instructional Programme/Mother Tongue Language.md
       - Instructional Programme/Aesthetics.md
       - Instructional Programme/Physical Education.md
-      - IP Overview/.keep
-      - IP Overview/IP Overview.md
-      - IP Overview/Assessment.md
-      - IP Overview/Homework Policy.md
-      - IP Overview/Syllabuses.md
+      - CCE/.keep
+      - CCE/Character & Citizenship Education at PL.md
+      - CCE/LiVE Lessons.md
+      - CCE/Sexuality Education.md
+      - CCE/Education and Career Guidance.md
+      - CCE/Post Secondary Scholarships.md
+      - CCE/Pastoral Care.md
+      - CCE/Disciplinary.md
