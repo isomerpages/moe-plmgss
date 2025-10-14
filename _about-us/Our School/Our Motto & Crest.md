@@ -1,8 +1,9 @@
 ---
-title: Motto & Crest
+title: Our Motto & Crest
 permalink: /about-us/our-school/motto-n-crest/
 description: ""
 third_nav_title: Our School
+variant: tiptap
 ---
 ### Our Motto
 

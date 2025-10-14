@@ -1,9 +1,11 @@
 ---
-title: PLCM (PL Christian Ministry)
-permalink: /co-curricular-programmes/plcm-pl-christian-ministry/
+title: Our Christian Ministry (PLCM)
+permalink: /about-us/our-school/plcm-pl-christian-ministry/
 description: ""
+third_nav_title: Our School
+variant: tiptap
 ---
-The Christian ministry aligns itself with the school by teaching and reiterating good moral values based on the Bible during weekly Chapel sessions and daily morning devotions.    
+The Christian ministry aligns itself with the school by teaching and reiterating good moral values based on the Bible during weekly Chapel sessions and daily morning devotions. &nbsp;  
   
 **Mission:**  
 To proclaim the God of the Bible and to instil Christ-likeness as the way of life, as we challenge the disciples (i.e. believers) and motivating every person to live out the abundant life that God has planned for us.  
@@ -24,7 +26,7 @@ Support from the Christian ministry for staff and students are carried out throu
 *   Daily morning devotion
 *   Weekly chapel sessions
 *   Christian Fellowship (Sparx) - second CCA with no accreditation of points
-*   A group of Christians seeking to live a life of **Surrender** to God, with **Purpose**, **Aces** (i.e. showing excellence in every way) and constant **Renewal** to glorify Jesus Christ (ie. the "X" in Sparx) and bless the community.
+*   A group of Christians seeking to live a life of&nbsp;**Surrender**&nbsp;to God, with&nbsp;**Purpose**,&nbsp;**Aces**&nbsp;(i.e. showing excellence in every way) and constant&nbsp;**Renewal**&nbsp;to glorify Jesus Christ (ie. the "X" in Sparx) and bless the community.
 *   Members are called SPARKS, igniting sparks and passing on sparks.
 *   Verse: Proverbs 1:5 "Let the wise listen and add to their learning, and let the discerning get guidance."
 *   Our meetings are held twice a month on Monday afternoons, from 3.30pm to 5pm (please refer to the PLCM Notice Board or PLCM website for updated meeting dates and other information)
