@@ -2,14 +2,14 @@ collections:
   curriculum:
     output: true
     order:
-      - CCE/Disciplinary.md
-      - CCE/Pastoral Care.md
-      - CCE/Post Secondary Scholarships.md
-      - CCE/Education and Career Guidance.md
-      - CCE/Sexuality Education.md
+      - CCE/.keep
       - CCE/Character & Citizenship Education at PL.md
       - CCE/LiVE Lessons.md
-      - CCE/.keep
+      - CCE/Sexuality Education.md
+      - CCE/Education and Career Guidance.md
+      - CCE/Post Secondary Scholarships.md
+      - CCE/Pastoral Care.md
+      - CCE/Disciplinary.md
       - Instructional Programme/.keep
       - Instructional Programme/English Language & Literature.md
       - Instructional Programme/Mathematics.md
