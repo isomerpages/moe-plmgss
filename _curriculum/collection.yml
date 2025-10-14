@@ -2,6 +2,7 @@ collections:
   curriculum:
     output: true
     order:
+      - CCE/Sexuality Education.md
       - CCE/Character & Citizenship Education at PL.md
       - CCE/LiVE Lessons.md
       - CCE/.keep
