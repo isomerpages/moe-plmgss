@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Our Principal.md
-      - Our School/PLCM (PL Christian Ministry).md
       - Our School/.keep
       - Our School/Our Heritage.md
       - Our School/Motto & Crest.md
@@ -17,6 +16,7 @@ collections:
       - Our School/Our Songs.md
       - Our School/Our Cheer.md
       - Our School/Our School Prayer.md
+      - Our School/PLCM (PL Christian Ministry).md
       - Our Staff/.keep
       - Our Staff/Key Personnel.md
       - Our Staff/School Admin Team.md
