@@ -8,7 +8,7 @@ variant: tiptap
 <p><strong>Platinum Award</strong>
 <br>Ms Azzalinda Bte Ariffin</p>
 <p><strong>Gold Award</strong>
-<br>Mr Chua Han Hoon</p>
+<br>Mr Chua Glayen</p>
 <p><strong>Silver Award</strong>
 <br>Mrs Lee Chue Hoon
 <br>Ms Tan Khian Eng Lilian</p>
