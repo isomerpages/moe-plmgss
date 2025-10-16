@@ -11,7 +11,7 @@ description: ""
 the subject options with your child/ward.</p>
 <ol data-tight="true" class="tight">
 <li>
-<p><a href="https://drive.google.com/drive/u/1/folders/1uMU-zcTigaLOP247r7X3Ia8z72SGUcca" rel="noopener nofollow" target="_blank">2026 Secondary 3 Subject Combination Slides</a>
+<p><a href="https://drive.google.com/drive/u/1/folders/1uMU-zcTigaLOP247r7X3Ia8z72SGUcca" rel="noopener nofollow" target="_blank">Secondary 3 Subject Slides</a>
 </p>
 </li>
 <li>
