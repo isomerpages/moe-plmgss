@@ -4,6 +4,14 @@ permalink: /accolades/staff-awards/
 description: ""
 variant: tiptap
 ---
+<h4>2025 MOE Service Excellence Award (MSEA)</h4>
+<p><strong>Platinum Award</strong>
+<br>Ms Azzalinda Bte Ariffin</p>
+<p><strong>Gold Award</strong>
+<br>Mr Chua Glayen</p>
+<p><strong>Silver Award</strong>
+<br>Mrs Lee Chue Hoon
+<br>Ms Tan Khian Eng Lilian</p>
 <h4>Academy Awards for Professional Development</h4>
 <p><strong>Mrs Neoh Terh Ling</strong>
 </p>
