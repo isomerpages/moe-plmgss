@@ -10,6 +10,8 @@ variant: markdown
 
 **Please click on the links below to read the PDF version.**
 
+[PL Parcel Issue #17 - (Oct 2025).pdf](https://drive.google.com/file/d/1fEaeeXE_5-M5uJiKCHvsrB9TkV_gPMlF/view?usp=share_link)
+
 [PL Parcel Issue #16 - (May 2025).pdf](https://drive.google.com/file/d/19mzyHYZT7X60trvWggemhbD2wqdrQlTZ/view?usp=share_link)
 
 [PL Parcel Issue #15 - (March 2025).pdf](https://drive.google.com/file/d/19jzf4l_fOUrioQ3QIwjC25zT19Rg1QQT/view?usp=share_link)
