@@ -7,12 +7,12 @@ variant: tiptap
 <p>Dear Parents/Guardians,</p>
 <ol data-tight="true" class="tight">
 <li>
-<p>Attached are the 2025 booklist for the Secondary 1 to 4/5, please download
-from the link below (no hardcopies&nbsp;will be issued).</p>
+<p>Attached are the 2026 booklist for Secondary 2 to 5, please download from
+the link below (no hard copies&nbsp;will be issued).</p>
 </li>
 <li>
-<p>Parents can pre-order the&nbsp;books via website: <a href="https://www.pacificbookstores.com" rel="noopener nofollow" target="_blank">www.pacificbookstores.com</a> from
-our school bookshop.</p>
+<p>Parents can pre-order the&nbsp;books via <a href="https://www.pacificbookstores.com" rel="noopener nofollow" target="_blank">www.pacificbookstores.com</a> 
+</p>
 </li>
 <li>
 <p>As part of the bookshop's ongoing efforts&nbsp;to promote sustainability
@@ -24,23 +24,22 @@ recycled bags ($0.90).</p>
 </ol>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/s1_booklist_2025.pdf" rel="noopener nofollow" target="_blank">Secondary 1 Booklist</a> (Pre-orders
-will start on 16 December 2024)</p>
+<p>Secondary 1 Booklist (to be updated at later date)</p>
 </li>
 <li>
-<p><a href="/files/s2_booklist_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 2 Booklist</a>
+<p><a href="/files/S2_booklist_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 2 Booklist</a>
 </p>
 </li>
 <li>
-<p><a href="/files/s3_booklist_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 3 Booklist</a>
+<p><a href="/files/S3_booklist_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 3 Booklist</a>
 </p>
 </li>
 <li>
-<p><a href="/files/s4_booklist_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 4 Booklist</a>
+<p><a href="/files/S4_booklist_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 4 Booklist</a>
 </p>
 </li>
 <li>
-<p><a href="/files/s5_booklist_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 5 Booklist</a>
+<p><a href="/files/S5_booklist_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 5 Booklist</a>
 </p>
 </li>
 </ul>
