@@ -2,6 +2,7 @@ collections:
   announcements:
     output: true
     order:
+      - PLMGS(Sec) Booklist for 2025.md
       - 2026 Secondary 3 Subject Combinations.md
       - Briefing for Parents on OBS 2026.md
       - MOE Edusave Character & EAGLES 21CC Award.md
@@ -12,7 +13,6 @@ collections:
       - 2024 GCE ‘O’ Level Examination Results & Briefing Slides.md
       - 2024 GCE ‘N’ Level Examination Results & Briefing Slides.md
       - School Yearbook 2024.md
-      - PLMGS(Sec) Booklist for 2025.md
       - Musical Montage 2024 YouTube Live Streaming.md
       - JCs and Polytechnics Open House.md
       - School Canteen Feedback.md
