@@ -12,7 +12,7 @@ sections:
       key_highlights:
         - title: Announcements & Events
           description: Click here to read more
-          url: /2026-secondary-3-subject-combinations/
+          url: /announcements/plmgs-sec-booklist-for-2026/
       subtitle: 巴耶礼峇美以美女校（中学）
   - infopic:
       title: PLMGS(S) DSA Information Session (Online)
