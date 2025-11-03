@@ -11,7 +11,7 @@ variant: tiptap
 the link below (no hard copies&nbsp;will be issued).</p>
 </li>
 <li>
-<p>Parents can pre-order the&nbsp;books via <a href="https://www.pacificbookstores.com" rel="noopener nofollow" target="_blank">www.pacificbookstores.com</a> 
+<p>Parents can pre-order the&nbsp;books via <a href="https://www.pacificbookstores.com" rel="noopener nofollow" target="_blank">www.pacificbookstores.com</a>
 </p>
 </li>
 <li>
@@ -27,7 +27,7 @@ recycled bags ($0.90).</p>
 <p>Secondary 1 Booklist (to be updated at later date)</p>
 </li>
 <li>
-<p><a href="/files/S2_booklist_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 2 Booklist</a>
+<p><a href="/files/S2_booklist_2026_v2.pdf" rel="noopener nofollow" target="_blank">Secondary 2 Booklist (updated on 3 Nov 2025)</a>
 </p>
 </li>
 <li>
