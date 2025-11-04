@@ -2,6 +2,7 @@ collections:
   announcements:
     output: true
     order:
+      - PLMGS(Sec) Open House.md
       - PLMGS(Sec) Booklist for 2026.md
       - 2026 Secondary 3 Subject Combinations.md
       - Briefing for Parents on OBS 2026.md
