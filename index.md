@@ -15,7 +15,7 @@ sections:
           url: /announcements/plmgs-sec-booklist-for-2026/
       subtitle: 巴耶礼峇美以美女校（中学）
   - infopic:
-      title: PLMGS(S) DSA Information Session (Online)
+      title: PLMGS(Sec) Open House
       id: infopic
       button: Click here
       url: /plmgs-s-dsa-information-session-online
