@@ -2,10 +2,10 @@ collections:
   useful-links:
     output: true
     order:
-      - Syllabuses.md
       - For Parents.md
       - For Students.md
       - For Staff.md
+      - Syllabuses.md
       - Student Services.md
       - Financial Assistance.md
       - Useful Resources.md
