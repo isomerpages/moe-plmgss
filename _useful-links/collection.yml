@@ -2,9 +2,9 @@ collections:
   useful-links:
     output: true
     order:
-      - For Parents/Syllabuses.md
-      - For Parents/For Parents.md
       - For Parents/.keep
+      - For Parents/For Parents.md
+      - For Parents/Syllabuses.md
       - For Students.md
       - For Staff.md
       - Student Services.md
