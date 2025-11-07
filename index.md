@@ -53,6 +53,7 @@ sections:
       button: Click Here
       url: /curriculum/ip-overview/
       image: /images/Curriculum.jpg
+      alt: Curriculum
   - infopic:
       title: Co-Curricular Activities
       button: Click Here
