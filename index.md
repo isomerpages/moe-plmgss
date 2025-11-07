@@ -58,7 +58,7 @@ sections:
   - infopic:
       title: Instructional Programme
       button: Click Here
-      url: /instructional-programmes/ip-overview/
+      url: /curriculum/ip-overview/
       image: /images/instructional programmes.png
       alt: Instructional Programmes
   - infopic:
