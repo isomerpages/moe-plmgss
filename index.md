@@ -56,11 +56,10 @@ sections:
       alt: Musical Montage
       url: /musical-montage-2024-youtube-live-streaming/
   - infopic:
-      title: Instructional Programme
+      title: Curriculum
       button: Click Here
       url: /curriculum/ip-overview/
       image: /images/instructional programmes.png
-      alt: Instructional Programmes
   - infopic:
       title: Co-Curricular Programmes
       button: Click Here
