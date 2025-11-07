@@ -61,7 +61,7 @@ sections:
       url: /curriculum/ip-overview/
       image: /images/instructional programmes.png
   - infopic:
-      title: Co-Curricular Programmes
+      title: Co-Curricular Activities
       button: Click Here
       url: /co-curricular-programmes/cca-overview/
       image: /images/co-curricular programmes.png
