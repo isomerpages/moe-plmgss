@@ -49,22 +49,14 @@ sections:
       image: /images/yearbook2024_b.png
       alt: Image alt text
   - infopic:
-      title: Musical Montage 2024 YouTube Live Streaming
-      id: infopic
-      button: Click here
-      image: /images/mm2024.png
-      alt: Musical Montage
-      url: /musical-montage-2024-youtube-live-streaming/
-  - infopic:
-      title: Instructional Programme
+      title: Curriculum
       button: Click Here
-      url: /instructional-programmes/ip-overview/
-      image: /images/instructional programmes.png
-      alt: Instructional Programmes
+      url: /curriculum/ip-overview/
+      image: /images/Curriculum.jpg
   - infopic:
-      title: Co-Curricular Programmes
+      title: Co-Curricular Activities
       button: Click Here
       url: /co-curricular-programmes/cca-overview/
-      image: /images/co-curricular programmes.png
-      alt: co-curricular programmes
+      image: /images/Co_curricular_Activities.jpg
+      alt: co-curricular activities
 ---

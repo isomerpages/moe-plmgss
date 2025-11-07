@@ -2,8 +2,8 @@
 title: Syllabuses
 permalink: /curriculum/ip-overview/syllabuses/
 description: ""
-third_nav_title: IP Overview
 variant: tiptap
+third_nav_title: For Parents
 ---
 <div class="isomer-image-wrapper">
 <img style="width:25%" height="auto" width="100%" src="/images/moe_logo.png">

@@ -129,4 +129,8 @@ curriculum.</p>
 environment to work out on a regular basis. A gym instructor has been engaged
 onsite to provide advice on customized exercise programmes for each gym
 user.</p>
+<h4><strong>Gallery</strong></h4>
+<div class="iframe-wrapper">
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/1Sro0RCPqVOc978nrAK4TToRuxa0X3erj0ErBBvms9TY/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
 <p></p>

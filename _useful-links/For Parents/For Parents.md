@@ -3,6 +3,7 @@ title: For Parents
 permalink: /useful-links/for-parents/
 description: ""
 variant: tiptap
+third_nav_title: For Parents
 ---
 <ul>
 <li>

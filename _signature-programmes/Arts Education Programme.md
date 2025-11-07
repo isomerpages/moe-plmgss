@@ -39,8 +39,9 @@ This holistic approach helps us achieve our Desired Outcomes of Education
 (DOE).</p>
 <p>Ultimately, our initiatives are about empowering every student to <strong>create, connect and contribute</strong> through
 the arts. We aim to cultivate a vibrant arts culture that helps every student
-become a <strong>Confident PL-Lite, Passionate Learner, Active Citizen</strong> and <strong>Inspiring Leader</strong>.</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+become a <strong>Confident PL-Lite, Passionate Learner, Active Citizen</strong> and <strong>Inspiring Leader</strong>.&nbsp;</p>
+<h4><strong>Gallery</strong></h4>
+<div class="iframe-wrapper">
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/1IXB7HvzanJH7Whis8TY4JhAPkZzc2sbG5KDQSd2KnXA/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
 <p>&nbsp;</p>
