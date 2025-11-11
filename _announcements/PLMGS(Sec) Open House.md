@@ -45,7 +45,7 @@ description: ""
 <p>Performing Arts booths – School Canteen</p>
 </li>
 <li>
-<p>Sports, Uniformed Groups, Clubs &amp; Socieities – Parade Square</p>
+<p>Sports, Uniformed Groups, Clubs &amp; Societies – Parade Square</p>
 </li>
 </ul>
 </td>
@@ -90,7 +90,7 @@ description: ""
 <p>1030 am – 1115 am</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sharing by Principal</p>
+<p>Sharing by Vice-Principal</p>
 </td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
