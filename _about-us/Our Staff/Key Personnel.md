@@ -341,6 +341,15 @@ third_nav_title: Our Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><a href="mailto:lim_terh_ling@moe.edu.sg" rel="noopener nofollow" target="_blank">Mrs Neoh Terh Ling</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LT / History</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><a href="mailto:deepa_patkunan@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Deepa Patkunan</a>
 </p>
 </td>
@@ -373,15 +382,6 @@ third_nav_title: Our Staff
 </td>
 <td rowspan="1" colspan="1">
 <p>ST / English</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:lim_terh_ling@moe.edu.sg" rel="noopener nofollow" target="_blank">Mrs Neoh Terh Ling</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ST / History</p>
 </td>
 </tr>
 </tbody>
