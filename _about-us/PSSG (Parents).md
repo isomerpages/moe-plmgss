@@ -148,6 +148,10 @@ to our children</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/PSSG2026/1__Mr_Sebastian_Teo__Chairperson.jpg">
+</div>
 <p>Mr Sebastian Teo</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -156,6 +160,10 @@ to our children</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/PSSG2026/2__Mr_Jeremy_Ng__Vice_Chairperson.jpg">
+</div>
 <p>Mr Jeremy Ng</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -164,6 +172,10 @@ to our children</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/PSSG2026/3__Ms_Julian_Lim__Secretary.jpg">
+</div>
 <p>Ms Julian Lim</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -172,6 +184,10 @@ to our children</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/PSSG2026/4__Mr_Allan_Ang__Member.jpg">
+</div>
 <p>Mr Allan Ang</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -180,6 +196,10 @@ to our children</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/PSSG2026/5__Dr_Elaine_Tan__Member.jpg">
+</div>
 <p>Dr Elaine Tan</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -188,6 +208,10 @@ to our children</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/PSSG2026/6__Mrs_Fiona_Lim__Member.jpg">
+</div>
 <p>Mrs Fiona Lim</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -196,6 +220,10 @@ to our children</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/PSSG2026/7__Ms_Jessica_Soo__Member.jpg">
+</div>
 <p>Ms Jessica Soo</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -204,6 +232,10 @@ to our children</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/PSSG2026/8__Ms_Joylyn_Ng__Member.jpg">
+</div>
 <p>Ms Joylyn Ng</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -212,6 +244,10 @@ to our children</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/PSSG2026/9__Mrs_Shermeen_Wong__Member.jpg">
+</div>
 <p>Mrs Shermeen Wong-Ng</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -220,27 +256,23 @@ to our children</p>
 </tr>
 </tbody>
 </table>
-<h3>PSSG Videos 2024</h3>
+<h3>PSSG Videos 2025</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://drive.google.com/file/d/14_ovMZz6_2fhjB_oCOebuW32fYZ06Dam/view?usp=drive_link" rel="noopener nofollow" target="_blank">PSSG PL Game Hour 2024</a>
+<p><a href="https://drive.google.com/file/d/1Bvf2wVT54j_2g8gX2rZEVlIa94KStdEP/view?usp=drive_link" rel="noopener nofollow" target="_blank">PLMGSS Sparkle Recess 1</a>
 </p>
 </li>
 <li>
-<p><a href="https://drive.google.com/file/d/1jiA3xFWYcQ8ZbIy4yLqnyRsD9Szz8KQj/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">PSSG Breakfast with Dad Video (6 August 2024)</a>
+<p><a href="https://drive.google.com/file/d/1cymnCrNO0WXjptgQl4RkDUbmkEs-aBmK/view?usp=drive_link" rel="noopener nofollow" target="_blank">PLMGSS Sparkle Recess 2</a>
 </p>
 </li>
 <li>
-<p><a href="https://drive.google.com/file/d/1bmtcRUEFV059PxKrHXj-5UUqjaa242tN/view" rel="noopener noreferrer nofollow" target="_blank">PSSG Breakfast with Dad Video (23 April 2024)</a>
-</p>
-</li>
-<li>
-<p><a href="https://drive.google.com/file/d/1kONcg3SMAqBnWm2n4rM_wWwCoW5WmIbc/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">PSSG PL Movie Under the Stars 2024 Video</a>
+<p><a href="https://drive.google.com/file/d/1qo9o9HKWeqBHjMm0NNGnwWu4Ls19l3_b/view?usp=sharing" rel="noopener nofollow" target="_blank">Ultimate Family Hop</a>
 </p>
 </li>
 </ul>
-<h3>PSSG Photos 2024</h3>
+<h3>PSSG Photos 2025</h3>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/1urqSlhuGdFAypGjOlFvrtifJaSHPPk_Gaxr5j8wT2W0/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/13SfB5UZwSITzJPWo6h1rvS2NUQ6BR4f-7ZjtqzKpxeY/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p></p>
