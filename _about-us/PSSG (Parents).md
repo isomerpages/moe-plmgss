@@ -95,11 +95,11 @@ programme
 </p>
 </li>
 </ul>
-<p><strong>PSSG Programmes for 2025 Calendar (as at 3 Dec 2024)</strong>
+<p><strong>PSSG Programmes for 2026 Calendar (as at 21 Nov 2025)</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/PSSG_Programmes_for_2025_Calendar_For_Sch_Website.pdf" rel="noopener nofollow" target="_blank">PSSG Programmes for 2025 Calendar.pdf</a>
+<p><a href="/files/PSSG_Programmes_for_2026_Calendar_For_Sch_Website.pdf" rel="noopener nofollow" target="_blank">PSSG Programmes for 2026 Calendar.pdf</a>
 </p>
 </li>
 </ul>
@@ -119,17 +119,17 @@ to our children</p>
 </p>
 <ol data-tight="true" class="tight">
 <li>
-<p><a href="/files/2025_PSSG_Chairperson_Welcome_Letter.pdf" rel="noopener nofollow" target="_blank">2025 PSSG Chairperson Welcome Letter</a>
+<p><a href="/files/2026_PSSG_Chairperson_Welcome_Letter.pdf" rel="noopener nofollow" target="_blank">2026 PSSG Chairperson Welcome Letter</a>
 <br>
 </p>
 </li>
 </ol>
 <p>Join us to be a part of the PL’s extended family:
-<br>Click on the link <a href="https://go.gov.sg/pssgmbrship2025" rel="noopener noreferrer nofollow" target="_blank">PSSG Membership 2025</a> to register.
-Registration is Free!</p>
-<p>For more information, please feel free to email&nbsp;<a href="mailto:plmgss.pssg@gmail.com" rel="noopener noreferrer nofollow" target="_blank">plmgss.pssg@gmail.com</a>
+<br>
+<br>Registration is Free!
+<br>For more information, please feel free to email&nbsp;<a href="mailto:plmgss.pssg@gmail.com" rel="noopener noreferrer nofollow" target="_blank">plmgss.pssg@gmail.com</a>
 </p>
-<h3>PSSG Executive Committee Members 2025</h3>
+<h3>PSSG Executive Committee Members 2026</h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -138,7 +138,7 @@ Registration is Free!</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><em>PSSG 2025 EXCO</em></strong>
+<p><strong><em>PSSG 2026 EXCO</em></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -150,9 +150,9 @@ Registration is Free!</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/PSSG2025/Chairperson_Mrs_Yolanda_Gooi.png">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/PSSG2026/1__Mr_Sebastian_Teo__Chairperson.jpg">
 </div>
-<p>Mrs Yolanda Gooi</p>
+<p>Mr Sebastian Teo</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Chairperson</p>
@@ -162,9 +162,9 @@ Registration is Free!</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/PSSG2025/Vice_Chairperson_Mr_Sebastian_Teo.png">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/PSSG2026/2__Mr_Jeremy_Ng__Vice_Chairperson.jpg">
 </div>
-<p>Mr Sebastian Teo</p>
+<p>Mr Jeremy Ng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Vice Chairperson</p>
@@ -174,9 +174,9 @@ Registration is Free!</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/PSSG2025/Mrs_Audrey_Gomez_Secretary.png">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/PSSG2026/3__Ms_Julian_Lim__Secretary.jpg">
 </div>
-<p>Mrs Audrey Gomez</p>
+<p>Ms Julian Lim</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Secretary</p>
@@ -184,8 +184,9 @@ Registration is Free!</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="30%" alt="Mr Allan Ang - FathersSchool IC.jpeg" src="/images/Member_Mr_Allan_Ang_2024.png">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/PSSG2026/4__Mr_Allan_Ang__Member.jpg">
 </div>
 <p>Mr Allan Ang</p>
 </td>
@@ -195,8 +196,21 @@ Registration is Free!</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="30%" alt="Mr Allan Ang - FathersSchool IC.jpeg" src="/images/Member_Mrs_Fiona_Lim_2024.png">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/PSSG2026/5__Dr_Elaine_Tan__Member.jpg">
+</div>
+<p>Dr Elaine Tan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Member</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/PSSG2026/6__Mrs_Fiona_Lim__Member.jpg">
 </div>
 <p>Mrs Fiona Lim</p>
 </td>
@@ -208,9 +222,9 @@ Registration is Free!</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/PSSG2025/Member_Mr__Jeremy_Ng.png">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/PSSG2026/7__Ms_Jessica_Soo__Member.jpg">
 </div>
-<p>Mr. Jeremy Ng</p>
+<p>Ms Jessica Soo</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Member</p>
@@ -220,30 +234,7 @@ Registration is Free!</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/PSSG2025/Member_Ms__Jessica_Soo.png">
-</div>
-<p>Ms. Jessica Soo</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Member</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="30%" alt="Mrs Josephine Eng - Praying Parents IC.jpeg" src="/images/Member_Mrs_Jo_Leeng_2024.png">
-</div>
-<p>Mrs Jo Lee-Ng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Member</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/PSSG2025/Ms_Joylyn_Ng__Member.png">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/PSSG2026/8__Ms_Joylyn_Ng__Member.jpg">
 </div>
 <p>Ms Joylyn Ng</p>
 </td>
@@ -255,9 +246,9 @@ Registration is Free!</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/PSSG2025/Member_Mrs__Shermeen_Wong_Ng.png">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/PSSG2026/9__Mrs_Shermeen_Wong__Member.jpg">
 </div>
-<p>Mrs. Shermeen Wong-Ng</p>
+<p>Mrs Shermeen Wong-Ng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Member</p>
@@ -265,27 +256,23 @@ Registration is Free!</p>
 </tr>
 </tbody>
 </table>
-<h3>PSSG Videos 2024</h3>
+<h3>PSSG Videos 2025</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://drive.google.com/file/d/14_ovMZz6_2fhjB_oCOebuW32fYZ06Dam/view?usp=drive_link" rel="noopener nofollow" target="_blank">PSSG PL Game Hour 2024</a>
+<p><a href="https://drive.google.com/file/d/1Bvf2wVT54j_2g8gX2rZEVlIa94KStdEP/view?usp=drive_link" rel="noopener nofollow" target="_blank">PLMGSS Sparkle Recess 1</a>
 </p>
 </li>
 <li>
-<p><a href="https://drive.google.com/file/d/1jiA3xFWYcQ8ZbIy4yLqnyRsD9Szz8KQj/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">PSSG Breakfast with Dad Video (6 August 2024)</a>
+<p><a href="https://drive.google.com/file/d/1cymnCrNO0WXjptgQl4RkDUbmkEs-aBmK/view?usp=drive_link" rel="noopener nofollow" target="_blank">PLMGSS Sparkle Recess 2</a>
 </p>
 </li>
 <li>
-<p><a href="https://drive.google.com/file/d/1bmtcRUEFV059PxKrHXj-5UUqjaa242tN/view" rel="noopener noreferrer nofollow" target="_blank">PSSG Breakfast with Dad Video (23 April 2024)</a>
-</p>
-</li>
-<li>
-<p><a href="https://drive.google.com/file/d/1kONcg3SMAqBnWm2n4rM_wWwCoW5WmIbc/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">PSSG PL Movie Under the Stars 2024 Video</a>
+<p><a href="https://drive.google.com/file/d/1qo9o9HKWeqBHjMm0NNGnwWu4Ls19l3_b/view?usp=sharing" rel="noopener nofollow" target="_blank">Ultimate Family Hop</a>
 </p>
 </li>
 </ul>
-<h3>PSSG Photos 2024</h3>
+<h3>PSSG Photos 2025</h3>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/1urqSlhuGdFAypGjOlFvrtifJaSHPPk_Gaxr5j8wT2W0/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/13SfB5UZwSITzJPWo6h1rvS2NUQ6BR4f-7ZjtqzKpxeY/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p></p>
