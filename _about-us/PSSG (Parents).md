@@ -95,11 +95,11 @@ programme
 </p>
 </li>
 </ul>
-<p><strong>PSSG Programmes for 2025 Calendar (as at 3 Dec 2024)</strong>
+<p><strong>PSSG Programmes for 2026 Calendar (as at 21 Nov 2025)</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/PSSG_Programmes_for_2025_Calendar_For_Sch_Website.pdf" rel="noopener nofollow" target="_blank">PSSG Programmes for 2025 Calendar.pdf</a>
+<p><a href="/files/PSSG_Programmes_for_2026_Calendar_For_Sch_Website.pdf" rel="noopener nofollow" target="_blank">PSSG Programmes for 2026 Calendar.pdf</a>
 </p>
 </li>
 </ul>
@@ -119,17 +119,17 @@ to our children</p>
 </p>
 <ol data-tight="true" class="tight">
 <li>
-<p><a href="/files/2025_PSSG_Chairperson_Welcome_Letter.pdf" rel="noopener nofollow" target="_blank">2025 PSSG Chairperson Welcome Letter</a>
+<p><a href="/files/2026_PSSG_Chairperson_Welcome_Letter.pdf" rel="noopener nofollow" target="_blank">2026 PSSG Chairperson Welcome Letter</a>
 <br>
 </p>
 </li>
 </ol>
 <p>Join us to be a part of the PL’s extended family:
-<br>Click on the link <a href="https://go.gov.sg/pssgmbrship2025" rel="noopener noreferrer nofollow" target="_blank">PSSG Membership 2025</a> to register.
-Registration is Free!</p>
-<p>For more information, please feel free to email&nbsp;<a href="mailto:plmgss.pssg@gmail.com" rel="noopener noreferrer nofollow" target="_blank">plmgss.pssg@gmail.com</a>
+<br>
+<br>Registration is Free!
+<br>For more information, please feel free to email&nbsp;<a href="mailto:plmgss.pssg@gmail.com" rel="noopener noreferrer nofollow" target="_blank">plmgss.pssg@gmail.com</a>
 </p>
-<h3>PSSG Executive Committee Members 2025</h3>
+<h3>PSSG Executive Committee Members 2026</h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -138,7 +138,7 @@ Registration is Free!</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><em>PSSG 2025 EXCO</em></strong>
+<p><strong><em>PSSG 2026 EXCO</em></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -148,11 +148,7 @@ Registration is Free!</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/PSSG2025/Chairperson_Mrs_Yolanda_Gooi.png">
-</div>
-<p>Mrs Yolanda Gooi</p>
+<p>Mr Sebastian Teo</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Chairperson</p>
@@ -160,11 +156,7 @@ Registration is Free!</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/PSSG2025/Vice_Chairperson_Mr_Sebastian_Teo.png">
-</div>
-<p>Mr Sebastian Teo</p>
+<p>Mr Jeremy Ng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Vice Chairperson</p>
@@ -172,11 +164,7 @@ Registration is Free!</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/PSSG2025/Mrs_Audrey_Gomez_Secretary.png">
-</div>
-<p>Mrs Audrey Gomez</p>
+<p>Ms Julian Lim</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Secretary</p>
@@ -184,9 +172,6 @@ Registration is Free!</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="30%" alt="Mr Allan Ang - FathersSchool IC.jpeg" src="/images/Member_Mr_Allan_Ang_2024.png">
-</div>
 <p>Mr Allan Ang</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -195,9 +180,14 @@ Registration is Free!</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="30%" alt="Mr Allan Ang - FathersSchool IC.jpeg" src="/images/Member_Mrs_Fiona_Lim_2024.png">
-</div>
+<p>Dr Elaine Tan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Member</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mrs Fiona Lim</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -206,11 +196,7 @@ Registration is Free!</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/PSSG2025/Member_Mr__Jeremy_Ng.png">
-</div>
-<p>Mr. Jeremy Ng</p>
+<p>Ms Jessica Soo</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Member</p>
@@ -218,33 +204,6 @@ Registration is Free!</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/PSSG2025/Member_Ms__Jessica_Soo.png">
-</div>
-<p>Ms. Jessica Soo</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Member</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="30%" alt="Mrs Josephine Eng - Praying Parents IC.jpeg" src="/images/Member_Mrs_Jo_Leeng_2024.png">
-</div>
-<p>Mrs Jo Lee-Ng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Member</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/PSSG2025/Ms_Joylyn_Ng__Member.png">
-</div>
 <p>Ms Joylyn Ng</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -253,11 +212,7 @@ Registration is Free!</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/PSSG2025/Member_Mrs__Shermeen_Wong_Ng.png">
-</div>
-<p>Mrs. Shermeen Wong-Ng</p>
+<p>Mrs Shermeen Wong-Ng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Member</p>
