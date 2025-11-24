@@ -104,15 +104,15 @@ in wide-ranging and specialised areas which may be knowledge-based or skills-bas
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://www.plmgss.moe.edu.sg/co-curricular-programmes/uniform-groups/girls-brigade" rel="noopener noreferrer nofollow" target="_blank">Girls' Brigade</a>
+<p><a href="https://www.plmgss.moe.edu.sg/co-curricular-programmes/uniformed-groups/girls-brigade/" rel="noopener noreferrer nofollow" target="_blank">Girls' Brigade</a>
 </p>
 </li>
 <li>
-<p><a href="https://www.plmgss.moe.edu.sg/co-curricular-programmes/uniform-groups/national-police-cadet-corps" rel="noopener noreferrer nofollow" target="_blank">National Police Cadet Corps</a>
+<p><a href="https://www.plmgss.moe.edu.sg/co-curricular-programmes/uniformed-groups/national-police-cadet-corps/" rel="noopener noreferrer nofollow" target="_blank">National Police Cadet Corps</a>
 </p>
 </li>
 <li>
-<p><a href="https://www.plmgss.moe.edu.sg/co-curricular-programmes/uniform-groups/st-john-brigade" rel="noopener noreferrer nofollow" target="_blank">St John Brigade</a>
+<p><a href="https://www.plmgss.moe.edu.sg/co-curricular-programmes/uniformed-groups/st-john-brigade/" rel="noopener noreferrer nofollow" target="_blank">St John Brigade</a>
 </p>
 </li>
 </ul>
