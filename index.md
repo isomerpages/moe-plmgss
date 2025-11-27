@@ -12,7 +12,7 @@ sections:
       key_highlights:
         - title: Announcements & Events
           description: Click here to read more
-          url: /about-us/school-admission/local-students-secondary-one-s1-posting/
+          url: /announcements/local-students-2025-secondary-1-posting-appeal/
       subtitle: 巴耶礼峇美以美女校（中学）
   - infopic:
       title: PLMGS(Sec) Open House
