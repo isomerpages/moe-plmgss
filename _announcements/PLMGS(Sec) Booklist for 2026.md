@@ -24,7 +24,8 @@ recycled bags ($0.90).</p>
 </ol>
 <ul data-tight="true" class="tight">
 <li>
-<p>Secondary 1 Booklist (to be updated at later date)</p>
+<p><a href="/files/S1_booklist_2026.pdf" rel="noopener nofollow" target="_blank">Secondary 1 Booklist</a>
+</p>
 </li>
 <li>
 <p><a href="/files/S2_booklist_2026_v2.pdf" rel="noopener nofollow" target="_blank">Secondary 2 Booklist (updated on 3 Nov 2025)</a>
