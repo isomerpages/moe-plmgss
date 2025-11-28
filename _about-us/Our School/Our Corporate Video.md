@@ -3,5 +3,7 @@ title: Our Corporate Video
 permalink: /about-us/our-school/our-corporate-video/
 description: ""
 third_nav_title: Our School
+variant: tiptap
 ---
-<iframe allowfullscreen="" frameborder="0" height="360" width="640" src="https://player.vimeo.com/video/876986060?h=73916b7ac2" title="vimeo-player"></iframe>
+<p></p><a class="isomer-image-wrapper" href="https://drive.google.com/file/d/1h94SyjYAoFRO6OBC8MIdjSb4mSKWQYzT/view?usp=drive_link"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/corporate_video_ss.jpg"></a>
+<p>Please click above image to watch our Corporate Video.</p>
