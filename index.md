@@ -20,6 +20,7 @@ sections:
       button: Click here
       url: /release-of-2025-gce-n-level-examination-results/
       image: /images/pl_lite_bulb2.jpg
+      alt: pl lite bulb
   - infopic:
       title: PLMGS(Sec) Open House
       id: infopic
