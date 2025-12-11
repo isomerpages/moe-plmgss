@@ -26,7 +26,7 @@ description: ""
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Attire and Grooming </strong>
+<p><strong>Attire and Grooming</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -54,15 +54,13 @@ are required to settle these at the General Office before 1.30 pm on the
 day of the results release.</p>
 </li>
 <li>
-<p><strong>Collection by Parents/Guardians </strong>
-</p>
-<p>Parents and guardians are welcome to accompany their child/ward to the
+<p><strong>Collection by Parents/Guardians</strong>
+<br>Parents and guardians are welcome to accompany their child/ward to the
 school for the collection of results.</p>
 </li>
 <li>
-<p><strong>Collection by Proxy </strong>
-</p>
-<p>Candidates unable to collect their results in person may appoint a proxy.
+<p><strong>Collection by Proxy</strong>
+<br>Candidates unable to collect their results in person may appoint a proxy.
 Proxies must present the required documents for verification. Please contact
 the General Office at 6281 6606 if you need assistance with the appointment.</p>
 </li>
