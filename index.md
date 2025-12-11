@@ -15,6 +15,12 @@ sections:
           url: /release-of-2025-gce-n-level-examination-results/
       subtitle: 巴耶礼峇美以美女校（中学）
   - infopic:
+      title: Release of 2025 GCE N-Level Examination Results
+      id: infopic
+      button: Click here
+      url: /release-of-2025-gce-n-level-examination-results/
+      image: /images/pl_lite_bulb2.jpg
+  - infopic:
       title: PLMGS(Sec) Open House
       id: infopic
       button: Click here
