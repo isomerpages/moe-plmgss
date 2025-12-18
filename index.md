@@ -12,7 +12,7 @@ sections:
       key_highlights:
         - title: Announcements & Events
           description: Click here to read more
-          url: /release-of-2025-gce-n-level-examination-results/
+          url: /secondary-one-posting-and-registration-for-the-2026-intake/
       subtitle: 巴耶礼峇美以美女校（中学）
   - infopic:
       title: Secondary One Posting and Registration for the 2026 Intake
