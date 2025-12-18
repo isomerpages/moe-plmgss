@@ -2,6 +2,7 @@ collections:
   announcements:
     output: true
     order:
+      - Secondary One Posting and Registration for the 2026 Intake.md
       - Release of 2025 GCE N Level Examination Results.md
       - Local Students 2025 Secondary 1 Posting & Appeal.md
       - PLMGS(Sec) Open House.md
