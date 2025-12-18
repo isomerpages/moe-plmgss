@@ -56,7 +56,9 @@ day of the results release.</p>
 <li>
 <p><strong>Collection by Parents/Guardians</strong>
 <br>Parents and guardians are welcome to accompany their child/ward to the
-school for the collection of results.</p>
+school for the collection of results. Strictly no parking is allowed within
+the school premises. Parents and guardians are advised to park at the nearby
+HDB car park.</p>
 </li>
 <li>
 <p><strong>Collection by Proxy</strong>
