@@ -104,16 +104,21 @@ programme
 </li>
 </ul>
 <p><strong>Our Regular Activities (during school term)</strong>
-<br><strong><br>Praying Parents@PL</strong>
-<br>Praying Parents@PL meets every Monday morning, via Zoom at 8am for a time
-of prayer and fellowship (7.30 am at SFE room, if onsite). If you have
-a desire to uphold the school in prayer, join the Praying Parents!<strong><br><br>Fathers@School&nbsp;</strong>[Once
-a term]
-<br>Our objectives:
-<br>1. To know other fathers in the school
-<br>2. To share and support each other in our journey as fathers
-<br>3. To learn new skills and knowledge to help us to be more effective fathers
-to our children</p>
+</p>
+<ol data-tight="true" class="tight">
+<li>
+<p><strong>Praying Parents@PL</strong>
+<br>A faith-filled gathering of Christian parents to pray for the school and
+each other. Meets every Monday morning - On-site 7.30am. If you have a
+desire to uphold the school in prayer, join the Praying Parents!</p>
+</li>
+<li>
+<p><strong>Fathers@School</strong>
+<br>A father-centric group set up to encourage active and involved fathering
+in PL through purposeful activities and workshops designed to strengthen
+father-daughter relationships.</p>
+</li>
+</ol>
 <p></p>
 <p><strong>PSSG Membership drive</strong>
 </p>
