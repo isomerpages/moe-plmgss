@@ -1,8 +1,9 @@
 ---
-title: 2025 GCE ‘N’ Level Examination Results & Briefing Slides
-permalink: /2025-gce-n-level-examination-results/
-variant: tiptap
+title: GCE N Level 2025
+permalink: /accolades/national-examinations/gce-n-level-2025/
 description: ""
+third_nav_title: National Examinations
+variant: tiptap
 ---
 <p>Dear Parents &amp; PL-Lites,&nbsp;
 <br>
