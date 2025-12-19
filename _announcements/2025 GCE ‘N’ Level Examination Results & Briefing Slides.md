@@ -1,6 +1,6 @@
 ---
-title: Release of 2025 GCE N Level Examination Results
-permalink: /release-of-2025-gce-n-level-examination-results/
+title: 2025 GCE ‘N’ Level Examination Results & Briefing Slides
+permalink: /2025-gce-n-level-examination-results/
 variant: tiptap
 description: ""
 ---
@@ -14,4 +14,4 @@ N-Level Results:</p>
 </p>
 </li>
 </ol>
-<p></p>
+<p>Results will be posted soon.</p>
