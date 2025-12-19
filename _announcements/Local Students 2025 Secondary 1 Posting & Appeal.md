@@ -37,7 +37,7 @@ vacancies.
 <br>
 <br>Please refer to our&nbsp;&nbsp;for our <strong><a href="/files/Appeal_FAQ_Local_Student_in_2026.pdf" rel="noopener nofollow" target="_blank">Appeal - Frequently Asked Questions</a></strong> for
 our Cut-off AL Scores and the process. Students appealing for transfer
-after the 2025 Secondary 1 Posting should fill in the&nbsp;<strong><a href="https://form.gov.sg/65574066733e110013a27b61" rel="noopener noreferrer nofollow" target="_blank">2025 Appeal Form</a></strong>.
+after the 2025 Secondary 1 Posting should fill in the&nbsp;<strong><a href="https://go.gov.sg/plmgss-appeal-2026" rel="noopener noreferrer nofollow" target="_blank">2025 Appeal Form</a></strong>.
 &nbsp;The application for appeal is deemed to be unsuccessful if you do
 not hear from the school by <strong>9 January 2026.</strong>
 </p>
