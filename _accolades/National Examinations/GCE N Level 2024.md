@@ -5,87 +5,75 @@ description: ""
 third_nav_title: National Examinations
 variant: tiptap
 ---
-<p>Please see hyperlink for slides shared during the release of 2024 GCE
+<p>Dear Parents &amp; PL-Lites,&nbsp;
+<br>
+<br>Please see hyperlink for slides shared during the release of 2025 GCE
 N-Level Results:</p>
 <ol data-tight="true" class="tight">
 <li>
-<p><a href="/files/Admin_Briefing___2024_Release_of_N_Level_results.pdf" rel="noopener nofollow" target="_blank">Admin Briefing - 2024 Release of N Level results.pdf</a>
-</p>
-</li>
-<li>
-<p><a href="/files/Progression_Briefing___DPP__3_year_H_Nitec__PFP_for_students.pdf" rel="noopener nofollow" target="_blank">Progression Briefing - DPP, 3-year H Nitec, PFP for students.pdf</a>
+<p><a href="/files/2025_General_Briefing_Slides_for_N_Level_Results.pdf" rel="noopener nofollow" target="_blank">2025 General Briefing Slides for N Level Results</a>
 </p>
 </li>
 </ol>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Accolades/N Level2024/Slide1.jpg">
-</div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Accolades/N Level2024/Slide2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Accolades/N Level 2025/Slide1.jpg">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Accolades/N Level2024/Slide3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Accolades/N Level 2025/Slide2.jpg">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Accolades/N Level2024/Slide4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Accolades/N Level 2025/Slide3.jpg">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Accolades/N Level2024/Slide5.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Accolades/N Level 2025/Slide4.jpg">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Accolades/N Level2024/Slide6.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Accolades/N Level 2025/Slide5.jpg">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Accolades/N Level2024/Slide7.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Accolades/N Level 2025/Slide6.jpg">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Accolades/N Level2024/Slide8.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Accolades/N Level 2025/Slide7.jpg">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Accolades/N Level2024/Slide9.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Accolades/N Level 2025/Slide8.jpg">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Accolades/N Level2024/Slide10.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Accolades/N Level 2025/Slide9.jpg">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Accolades/N Level2024/Slide11.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Accolades/N Level 2025/Slide10.jpg">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Accolades/N Level2024/Slide12.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Accolades/N Level 2025/Slide11.jpg">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Accolades/N Level2024/Slide13.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Accolades/N Level 2025/Slide12.jpg">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Accolades/N Level2024/Slide14.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Accolades/N Level 2025/Slide13.jpg">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Accolades/N Level2024/Slide15.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Accolades/N Level 2025/Slide14.jpg">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Accolades/N Level2024/Slide16.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Accolades/N Level 2025/Slide15.jpg">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Accolades/N Level2024/Slide17.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Accolades/N Level 2025/Slide16.jpg">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Accolades/N Level2024/Slide18.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Accolades/N Level 2025/Slide17.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Accolades/N Level 2025/Slide18.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Accolades/N Level 2025/Slide19.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Accolades/N Level 2025/Slide20.jpg">
 </div>
 <p></p>
