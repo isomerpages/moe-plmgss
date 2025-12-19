@@ -22,10 +22,10 @@ sections:
       image: /images/pl_lite_bulb2.jpg
       alt: Image alt text
   - infopic:
-      title: Release of 2025 GCE N-Level Examination Results
+      title: 2025 GCE ‘N’ Level Examination Results & Briefing Slides
       id: infopic
       button: Click here
-      url: /release-of-2025-gce-n-level-examination-results/
+      url: /2025-gce-n-level-examination-results/
       image: /images/pl_lite_bulb2.jpg
       alt: pl lite bulb
   - infopic:
