@@ -14,4 +14,4 @@ N-Level Results:</p>
 </p>
 </li>
 </ol>
-<p></p>
+<p>Results will be posted soon.</p>
