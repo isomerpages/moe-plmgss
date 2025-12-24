@@ -91,7 +91,7 @@ the resources.</p>
 positive through it all. When we face challenging situations, it can help
 to talk to someone who can provide a listening ear and to offer you a different
 perspective.</p>
-<p><a href="https://www.healthhub.sg/programmes/170/StayWell#families-stay-healthy" rel="noopener noreferrer nofollow" target="_blank">https://www.healthhub.sg/programmes/170/StayWell#families-stay-healthy</a>
+<p><a href="https://www.healthhub.sg/programmes/aap" rel="noopener noreferrer nofollow" target="_blank">https://www.healthhub.sg/programmes/aap</a>
 </p>
 <h4>Journey to Become a Better Supporter</h4>
 <div class="isomer-image-wrapper">
