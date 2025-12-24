@@ -361,19 +361,11 @@ Sarah Wan and Regina Koh (both from Sec 4A3, Class of 2006) and two others creat
 
 ![](/images/pl_choir_facebook.jpeg)
 
-The Ministry of Education has posted an SYF snippet on the MOE&nbsp;[Facebook](https://www.facebook.com/moesingapore)&nbsp;and&nbsp;[Twitter](https://twitter.com/MOEsg), featuring PL Choir's performance at the SYF 2013.
+The Ministry of Education has posted an SYF snippet on the MOE Facebook and Twitter, featuring PL Choir’s performance at the SYF 2013.
 
   
 
-The links are as follows:
 
-**Facebook:**&nbsp;
-
-[https://www.facebook.com/photo.php?bid=10151843904997004&amp;set=a.10150100883752004.314002.6788957003&amp;type=1](https://www.facebook.com/photo.php?bid=10151843904997004&amp;set=a.10150100883752004.314002.6788957003&amp;type=1)
-
-**Twitter:**&nbsp;
-
-[https://twitter.com/MOEsg/status/324462817849774080](https://twitter.com/MOEsg/status/324462817849774080)
 
 ![](/images/new_teacher_challenge_jan2013.jpeg)
 
