@@ -12,8 +12,16 @@ sections:
       key_highlights:
         - title: Announcements & Events
           description: Click here to read more
-          url: /secondary-one-posting-and-registration-for-the-2026-intake/
+          url: /start-right-programme-2026-first-day-of-school/
       subtitle: 巴耶礼峇美以美女校（中学）
+  - infopic:
+      title: START Right Programme 2026
+      subtitle: (First Day of School)
+      id: infopic
+      button: Click here
+      url: /start-right-programme-2026-first-day-of-school/
+      image: /images/pl_lite_bulb2.jpg
+      alt: Image alt text
   - infopic:
       title: Secondary One Posting and Registration for the 2026 Intake
       id: infopic
