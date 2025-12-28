@@ -5,7 +5,7 @@ description: ""
 third_nav_title: IP Overview
 variant: tiptap
 ---
-<h4><strong>Our Beliefs About Assessment </strong>(aka Assessment in the Singapore Curriculum Philosophy)</h4>
+<h4><strong>Our Beliefs About Assessment </strong>(akin Assessment in the Singapore Curriculum Philosophy)</h4>
 <p>We believe that assessment is integral to the teaching and learning process,
 and helps our students become self-directed, lifelong learners, as they
 monitor, assess, and improve their own learning. We design assessments
