@@ -97,7 +97,8 @@ third_nav_title: Our Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p><a href="mailto:chua_siew_hui_tracy@moe.edu.sg" rel="noopener nofollow" target="_blank">Mrs Tracy Chua</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD / English Language and Literature</p>
@@ -105,8 +106,7 @@ third_nav_title: Our Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:neeraja_sangarapillai@moe.edu.sg" rel="noopener nofollow" target="_blank">Mrs Vijay Neeraja</a>
-</p>
+<p>-</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD / Humanities</p>
@@ -154,7 +154,7 @@ third_nav_title: Our Staff
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD / Science (Acting)</p>
+<p>HOD / Science</p>
 </td>
 </tr>
 <tr>
@@ -168,7 +168,7 @@ third_nav_title: Our Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lim_shi_en_shawna@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Shawna Lim</a>
+<p><a href="mailto:chan_si_ping@moe.edu.sg" rel="noopener nofollow" target="_blank">Mrs Koh Si Ping</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -177,11 +177,20 @@ third_nav_title: Our Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chan_si_ping@moe.edu.sg" rel="noopener nofollow" target="_blank">Mrs Koh Si Ping</a>
+<p><a href="mailto:wang_siqi_clarabelle@moe.edu.sg" rel="noopener nofollow" target="_blank">Mrs Clarabelle Yeo</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Year Head (Sec 3)</p>
+<p>Year Head (LS) (Acting)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:das_ruth_hannah@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Das Ruth Hannah</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Year Head (US) (Acting)</p>
 </td>
 </tr>
 </tbody>
@@ -205,29 +214,20 @@ third_nav_title: Our Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nur_zetty_abd_kadir@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Zetty Bte Abd Kadir</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Assistant Year Head (Sec 4)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:das_ruth_hannah@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Das Ruth Hannah</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Assistant Year Head (Sec 2)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><a href="mailto:navethira_r_chandran@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Navethira Chandran</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head (Acting) (Sec 1)</p>
+<p>Assistant Year Head (LS) (Acting)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:faezah_al_rashid@moe.edu.sg" rel="noopener nofollow" target="_blank">Mrs Faezah Jnad</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Assistant Year Head (US) (Acting)</p>
 </td>
 </tr>
 <tr>
@@ -254,7 +254,7 @@ third_nav_title: Our Staff
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH / Infocom Technology and Knowledge Management</p>
+<p>SH / Innovation and Data Management</p>
 </td>
 </tr>
 <tr>
@@ -304,7 +304,7 @@ third_nav_title: Our Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:wang_siqi_clarabelle@moe.edu.sg" rel="noopener nofollow" target="_blank">Mrs Clarabelle Yeo</a>
+<p><a href="mailto:nur_zetty_abd_kadir@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Nur Zetty</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -368,16 +368,16 @@ third_nav_title: Our Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:yuan_pin@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Yuan Pin</a>
+<p><a href="mailto:divakaran_kuppusamy@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Divakaran</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ST / Chinese Language</p>
+<p>ST / Mathematics</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ramesh_maria_christina@moe.edu.sg" rel="noopener nofollow" target="_blank">Mrs Christina Ramesh</a>
+<p><a href="mailto:ang_hong_ky_claudine@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Claudine Ang</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
