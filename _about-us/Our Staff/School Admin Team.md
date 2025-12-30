@@ -96,11 +96,27 @@ third_nav_title: Our Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ms Vickie Tang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Corporate Support Officer</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><a href="mailto:lim_fook_tong@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Kelvin Lim</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>STEM Educator (Workshop)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Amanda Tan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>STEM Educator (Science Lab)</p>
 </td>
 </tr>
 <tr>
