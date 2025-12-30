@@ -4,43 +4,87 @@ permalink: /about-us/year-and-termly-themes/
 description: ""
 variant: tiptap
 ---
-<h3>2025 School Theme and Theme Verse</h3>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/yeary_theme2025.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/yeartheme2026.jpg">
 </div>
-<p><strong>PLMGS Age:</strong> 109th year</p>
-<p><strong>2025 Year Theme:</strong> A Friend of All</p>
-<p><strong>2025 School Theme and Theme Verse</strong>
-<br>"<em>A Friend Loves At All Times"<br>- Proverbs 17:17a</em>
-</p>
+<p><strong>PLMGS Age:</strong>&nbsp;110th year
+<br><strong>2026 Year Theme:</strong>&nbsp;A Friend of All</p>
+<h4><strong>2026 School Theme and Theme Verse</strong></h4>
+<p>"Just as a body, though one, has many parts, but all its many parts form
+one body, so it is with Christ."
+<br>- 1 Corinthians 12:12</p>
 <p><strong>Inspiration:</strong>
-<br>Inspired by Our School Creed</p>
-<p>Stanza 2
-<br>I would be <strong>friend of all</strong>, the foe, the friendless&nbsp;
-<br>I would be giving and forget the gift
-<br>I would be humble for I know my weakness
-<br>I would look up and love and laugh and lift.</p>
-<p><strong>Theme Song:<br>A Friend Loves At All Times</strong>
+<br>In an increasingly diverse society and world, we call for “more we” and
+“less me”. We are stronger together, supporting one another despite our
+differences. We also look to Jesus Christ as the unifying force and strength.
+<br>
+<br>Verse 4 of our Theme song “<em>We Are One</em>” aptly captures what we
+hope to achieve as a school.</p>
+<p>[Verse 4]</p>
+<p>Shaped by the hands of the potter
+<br>No two pieces alike
+<br>When we build a shelter together
+<br><em>We will shine, we will shine</em>
 </p>
+<p>[Chorus]</p>
+<p>Let us draw near to each other
+<br>We are one, we are one
+<br>We are all sisters and brothers
+<br>Telling stories of our Father's love</p>
+<h4><strong>Theme Song: We Are One</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/XYAGXmyp7r4?si=_hqpBb6b5wDSrbBU"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/82t0rQDzgsk?si=YaW-wK225cWghgVM"></iframe>
 </div>
 <p>Lyrics:
-<br>A friend loves at all times
-<br>Jesus is a friend of mine
-<br>Laying down his life
-<br>A friend loves at all times
-<br>
-<br>Underneath the stars at night
-<br>When the sun shines so bright
-<br>When we jump and when we fall
-<br>Jesus loves us all
-<br>‘Cause he’s the perfect friend
-<br>
-<br>Oh, a friend loves at all times</p>
-<p></p>
-<p><strong>2025 Termly Themes</strong>
-<br>Our assembly programmes are also anchored on the following termly themes.
+<br>Let us draw near to each other
+<br>We are one, we are one
+<br>We are all sisters and brothers
+<br>Telling stories of our Father’s love</p>
+<p>You’ve got a place at the table
+<br>A family where you belong
+<br>So, open your arms if you’re able
+<br>Welcome home! Welcome home!</p>
+<p>Let us draw near to each other
+<br>We are one, we are one
+<br>We are all sisters and brothers
+<br>At the feast of our Father’s love</p>
+<p>We can come weary and burdened
+<br>With the weight of the world on our backs
+<br>We can hand it all over to Jesus
+<br>Find our rest, find our rest</p>
+<p>So, let us draw near to each other
+<br>We are one, we are one
+<br>We are all sisters and brothers
+<br>Living free in our Father’s love</p>
+<p>Travelers, misfits, and exiles
+<br>Don’t grow cold in the dark of night
+<br>Gather for hope and for comfort
+<br>In His light, in His light</p>
+<p>Let us draw near to each other
+<br>We are one, we are one
+<br>We are all sisters and brothers
+<br>Warming hands by the fire of His love</p>
+<p>We are one, one, one
+<br>By His love, love, love
+<br>We are one, one, one
+<br>By His love, love, love</p>
+<p>Shaped by the hands of the Potter
+<br>No two pieces alike
+<br>But when we build a shelter together
+<br>We will shine, we will shine</p>
+<p>Let us draw near to each other
+<br>We are one, we are one
+<br>We are all sisters and brothers
+<br>Telling stories of our Father’s love</p>
+<p>Let us draw near to each other
+<br>We are one, we are one
+<br>We are all sisters and brothers
+<br>Telling stories of our Father’s love</p>
+<p>We’ll tell the stories of our Father’s love
+<br>We’ll tell the stories of our Father’s love</p>
+<h4><strong>2026 Termly Themes</strong></h4>
+<p>Our assembly programmes are also anchored on the following termly themes.
 They seek to inspire our girls to build positive psychological resilience
 in their pursuit of a purposeful life, making a difference for themselves
 and others.</p>
@@ -51,25 +95,27 @@ and others.</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p>Term</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Theme for the term</p>
-</th>
+<td rowspan="1" colspan="1">
+<p><strong>Term</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Theme for the term</strong>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Term 1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>A friend who grows in wisdom and stature</strong>
+<p><strong>ONE PL Family Stronger Together</strong>
 </p>
-<p><em>“And Jesus grew in wisdom and stature, and in favour with God and man.” - Luke 2:52</em>
+<p><em>“The body is not made up of one part but of many ….&nbsp; the eye cannot say to the hand, ‘I don’t need you.’” – &nbsp;1 Corinthians 12:14, 21</em>
 </p>
-<p>January: I can be my best self because I’m fearfully and wonderfully made!</p>
-<p>February: Grow in wisdom and stature</p>
-<p>March: Grow in favour with God and Man</p>
+<p>January: Stronger as a Class</p>
+<p>February: Stronger as a Cohort</p>
+<p>March: Stronger as ONE PL</p>
 </td>
 </tr>
 <tr>
@@ -77,15 +123,12 @@ and others.</p>
 <p>Term 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>A friend who loves all</strong>
+<p><strong>ONE PL Family Growing Together</strong>
 </p>
-<p><em>“A friend loves at all times” - Proverbs 17:17a</em>
+<p><em>“If one part suffers, every part suffers with it; if one part is honoured, every part rejoi8ces with it.” – 1 Corinthians 12:26</em>
 </p>
-<p>April: Love with HEART
-<br>(<u>H</u>onouring one another, encouraging one another to pursue <u>E</u>xcellence)</p>
-<p>May/June: Love with HEART
-<br>(<u>A</u>dapting to differences, <u>R</u>especting one another and giving <u>T</u>hanks
-for one another)</p>
+<p>April: Growing in Favour with God</p>
+<p>May/June: Growing in Favour with man</p>
 </td>
 </tr>
 <tr>
@@ -93,13 +136,12 @@ for one another)</p>
 <p>Term 3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>A friend who serves</strong>
+<p><strong>ONE PL Family Shining Together</strong>
 </p>
-<p><em>"Don’t let anyone look down on you because you are young, but set an example for the believers in speech, in conduct, in love, in faith, and in purity." - 1 Timothy 4:12</em>
+<p><em>"Now to each one the manifestation of the Spirit is given for the common good." - 1 Corinthians 12:7</em>
 </p>
-<p>July: Serve in every way</p>
-<p>August: Serve faithfully</p>
-<p>September: Serve and be a beacon</p>
+<p>July: Shining as a school</p>
+<p>August: Shining as a nation</p>
 </td>
 </tr>
 <tr>
@@ -107,14 +149,14 @@ for one another)</p>
 <p>Term 4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>A friend who will “Look up, Lift up”</strong>
+<p><strong>ONE PL Family Rejoicing Together</strong>
 </p>
-<p><em>“I lift up my eyes to the mountains — where does my help come from? My help comes from the Lord, the Maker of heaven and earth.” - Psalms 121:1-2</em>
+<p><em>“You are the body of Christ, and each one of you is part of it.” &nbsp;- 1 Corinthians 12:27</em>
 </p>
-<p>October: Look up to God</p>
-<p>November/December: Lift up our praises</p>
+<p>September: Rejoicing Always</p>
+<p>October: Rejoicing for and with PL</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p></p>
+<p>&nbsp;</p>
