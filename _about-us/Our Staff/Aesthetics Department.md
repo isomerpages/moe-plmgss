@@ -15,10 +15,6 @@ third_nav_title: Our Staff
 <p><a href="mailto:tsang_weng_loke@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Tsang Weng Loke</a>
 </p>
 </li>
-<li>
-<p><a href="mailto:goh_zhi_yu_claudia@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Claudia Goh</a>
-</p>
-</li>
 </ul>
 <h4><strong>Design &amp; Technology</strong></h4>
 <ul data-tight="true" class="tight">
@@ -51,10 +47,6 @@ HOD / Aesthetics</p>
 </li>
 <li>
 <p><a href="mailto:liow_xiao_chun@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Liow Xiao Chun</a>
-</p>
-</li>
-<li>
-<p><a href="mailto:mong_hui_ling_jasmine_b@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Jasmine Mong</a>
 </p>
 </li>
 </ul>
