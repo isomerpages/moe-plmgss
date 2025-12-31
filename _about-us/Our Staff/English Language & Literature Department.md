@@ -8,12 +8,12 @@ third_nav_title: Our Staff
 <h4><strong>English Language</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="mailto:yan_xiuru@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Yan Xiuru</a>,
-Subject Head / English Language</p>
+<p><a href="mailto:chua_siew_hui_tracy@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Tracy Chua</a>,
+HOD / English Language &amp; Literature</p>
 </li>
 <li>
-<p><a href="mailto:lim_shi_en_shawna@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Lim Shi'en Shawna</a>,
-School Staff Developer</p>
+<p><a href="mailto:yan_xiuru@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Yan Xiuru</a>,
+Subject Head / English Language</p>
 </li>
 <li>
 <p><a href="mailto:tan_jue_ling_cheryl@moe.edu.sg" rel="noopener nofollow" target="_blank">Mrs Chew Cheryl</a>,
