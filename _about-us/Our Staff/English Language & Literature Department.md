@@ -33,7 +33,7 @@ Subject Head / 21CC</p>
 </li>
 <li>
 <p><a href="mailto:navethira_r_chandran@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Navethira R Chandran</a>,
-Assistant Year Head (LS) (Acting)</p>
+Assistant Year Head (LS)</p>
 </li>
 <li>
 <p><a href="mailto:hee_yeun_jen@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Hee Yeun Jen</a>
