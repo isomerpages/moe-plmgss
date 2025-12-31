@@ -16,10 +16,6 @@ HOD / Mother Tongue Languages</p>
 Subject Head / Chinese Language</p>
 </li>
 <li>
-<p><a href="mailto:yuan_pin@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Yuan Pin</a>,
-Senior Teacher / Chinese Language</p>
-</li>
-<li>
 <p><a href="mailto:hu_min@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Hu Min</a>
 </p>
 </li>
@@ -74,12 +70,12 @@ Senior Teacher / Chinese Language</p>
 <h4><strong>Malay Language</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="mailto:tengku_nurhudah_t_m@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Tengku Nurhudah Bte T M Khalib</a>
-</p>
+<p><a href="mailto:nur_zetty_abd_kadir@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Nur Zetty Bte Abd Kadir</a>,
+Subject Head / Student Management</p>
 </li>
 <li>
-<p><a href="mailto:nur_zetty_abd_kadir@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Nur Zetty Bte Abd Kadir</a>,
-Assistant Year Head / Sec 4</p>
+<p><a href="mailto:tengku_nurhudah_t_m@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Tengku Nurhudah Bte T M Khalib</a>
+</p>
 </li>
 <li>
 <p><a href="mailto:noor_ewanny_alwi@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Ewanny Binte Alwi</a>
