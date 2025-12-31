@@ -28,6 +28,10 @@ Subject Head / Physical Education &amp; Co-Curricular Activities</p>
 </p>
 </li>
 <li>
+<p><a href="mailto:lim_ju_lee@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Lim Ju Lee</a>
+</p>
+</li>
+<li>
 <p><a href="mailto:kwek_chin_seng@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Kwek Chin Seng</a>
 </p>
 </li>
