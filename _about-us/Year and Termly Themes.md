@@ -9,7 +9,7 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/yeartheme2026.jpg">
 </div>
 <p><strong>PLMGS Age:</strong>&nbsp;110th year
-<br><strong>2026 Year Theme:</strong>&nbsp;A Friend of All</p>
+<br><strong>2026 Year Theme:</strong>&nbsp;One Perfect 10 in Christ</p>
 <h4><strong>2026 School Theme and Theme Verse</strong></h4>
 <p>"Just as a body, though one, has many parts, but all its many parts form
 one body, so it is with Christ."
