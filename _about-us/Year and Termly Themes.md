@@ -5,7 +5,10 @@ description: ""
 variant: tiptap
 ---
 <h4>2026 Year Theme and Verse</h4>
-<p>[pl110 logo]</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PL110_Logo.jpg">
+</div>
 <p><strong>PLMGS Age:</strong>&nbsp;110th year
 <br><strong>2026 Year Theme:</strong>&nbsp;One Perfect 10 in Christ
 <br><strong>2026 Theme Verse:</strong>
