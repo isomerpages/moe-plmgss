@@ -9,7 +9,11 @@ third_nav_title: Our Staff
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="mailto:heng_ci_pei@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Heng Ci Pei</a>,
-Subject Head / Science</p>
+HOD / Science</p>
+</li>
+<li>
+<p><a href="mailto:oh_hwee_hwee@moe.edu.sg" rel="noopener nofollow" target="_blank">Mrs Low Hwee Hwee</a>,
+HOD / CCE</p>
 </li>
 <li>
 <p><a href="mailto:tek_yong_shoun@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Tek Yong Shoun</a>,
@@ -40,10 +44,6 @@ Senior Teacher / Biology</p>
 </p>
 </li>
 <li>
-<p><a href="mailto:kam_kai_lin_rachel@moe.edu.sg" rel="noopener nofollow" target="_blank">Mrs Rachel Low</a>
-</p>
-</li>
-<li>
 <p><a href="mailto:thomson@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Thomson</a>
 </p>
 </li>
@@ -56,10 +56,6 @@ Senior Teacher / Biology</p>
 </p>
 </li>
 <li>
-<p><a href="mailto:oh_hwee_hwee@moe.edu.sg" rel="noopener nofollow" target="_blank">Mrs Low Hwee Hwee</a>
-</p>
-</li>
-<li>
 <p><a href="mailto:padhmeni_sethembram@moe.edu.sg" rel="noopener nofollow" target="_blank">Mrs Rajah Padhmeni</a>
 </p>
 </li>
@@ -68,16 +64,15 @@ Senior Teacher / Biology</p>
 </p>
 </li>
 <li>
-<p><a href="mailto:ngo_mei_zhi_mabel@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Mabel Ngo</a>
-</p>
-</li>
-<li>
-<p><a href="mailto:brennan_chia_li_zhi@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Brennan Chia</a>
+<p><a href="mailto:chia_yong_koon@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Chia Yong Koon</a>
 </p>
 </li>
 <li>
 <p><a href="mailto:quek_lip_chuan@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Richard Quek</a>,
 STEM Instructor</p>
+</li>
+<li>
+<p>Ms Amanda Tan, STEM Educator</p>
 </li>
 <li>
 <p><a href="mailto:lee_chue_hoon@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Lee Chue Hoon</a>,

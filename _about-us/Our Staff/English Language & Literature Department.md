@@ -16,6 +16,10 @@ HOD / English Language &amp; Literature</p>
 Subject Head / English Language</p>
 </li>
 <li>
+<p><a href="mailto:ang_hong_ky_claudine@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Claudine Ang</a>,
+Senior Teacher / English Language</p>
+</li>
+<li>
 <p><a href="mailto:tan_jue_ling_cheryl@moe.edu.sg" rel="noopener nofollow" target="_blank">Mrs Chew Cheryl</a>,
 Subject Head / Character &amp; Citizenship Education</p>
 </li>
@@ -28,8 +32,8 @@ Assistant Year Head / Lower Sec</p>
 Subject Head / 21CC</p>
 </li>
 <li>
-<p><a href="mailto:ramesh_maria_christina@moe.edu.sg" rel="noopener nofollow" target="_blank">Mrs Ramesh Christina</a>
-</p>
+<p><a href="mailto:navethira_r_chandran@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Navethira R Chandran</a>,
+Assistant Year Head (LS)</p>
 </li>
 <li>
 <p><a href="mailto:hee_yeun_jen@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Hee Yeun Jen</a>
@@ -41,22 +45,6 @@ Subject Head / 21CC</p>
 </li>
 <li>
 <p><a href="mailto:hannah_zulaihah@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Hannah Zulaihah</a>
-</p>
-</li>
-<li>
-<p><a href="mailto:zalena_aman@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Zalena Bte Aman</a>
-</p>
-</li>
-<li>
-<p><a href="mailto:harjit_kaur_mindar_singh@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Harjit Kaur</a>
-</p>
-</li>
-<li>
-<p><a href="mailto:kirrthana_krishnamoorthy@schools.gov.sg" rel="noopener nofollow" target="_blank">Mrs Issac Kirrthana</a>
-</p>
-</li>
-<li>
-<p><a href="mailto:navethira_r_chandran@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Navethira R Chandran</a>
 </p>
 </li>
 <li>
@@ -84,11 +72,7 @@ Subject Head / 21CC</p>
 </p>
 </li>
 <li>
-<p><a href="mailto:elliya_elldyna_hisham@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Elliya Elldyna Binte Hisham</a>
-</p>
-</li>
-<li>
-<p><a href="mailto:wong_xin_yuan_mabel@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Mabel Wong</a>
+<p><a href="mailto:ng_qian_hui@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Ng Qian Hui</a>
 </p>
 </li>
 </ul>
@@ -96,15 +80,11 @@ Subject Head / 21CC</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="mailto:das_ruth_hannah@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Das Ruth Hannah</a>,
-Assistant Year Head / Lower Sec</p>
+Year Head (LS) (Acting)</p>
 </li>
 <li>
 <p><a href="mailto:pang_li_en_marie-therese@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Marie T. Pang</a>,
 Subject Head / 21CC</p>
-</li>
-<li>
-<p><a href="mailto:ramesh_maria_christina@moe.edu.sg" rel="noopener nofollow" target="_blank">Mrs Ramesh Christina</a>
-</p>
 </li>
 <li>
 <p><a href="mailto:ng_su_mei_adeline@moe.edu.sg" rel="noopener nofollow" target="_blank">Mrs Adeline Ong</a>
@@ -112,10 +92,6 @@ Subject Head / 21CC</p>
 </li>
 <li>
 <p><a href="mailto:hannah_zulaihah@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Hannah Zulaihah</a>
-</p>
-</li>
-<li>
-<p><a href="mailto:zalena_aman@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Zalena Bte Aman</a>
 </p>
 </li>
 <li>

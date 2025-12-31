@@ -218,7 +218,7 @@ third_nav_title: Our Staff
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head (LS) (Acting)</p>
+<p>Assistant Year Head (LS)</p>
 </td>
 </tr>
 <tr>
