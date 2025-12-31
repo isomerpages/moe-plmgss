@@ -4,16 +4,13 @@ permalink: /about-us/year-and-termly-themes/
 description: ""
 variant: tiptap
 ---
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/yeartheme2026.jpg">
-</div>
+<h4>2026 Year Theme and Verse</h4>
+<p>[pl110 logo]</p>
 <p><strong>PLMGS Age:</strong>&nbsp;110th year
-<br><strong>2026 Year Theme:</strong>&nbsp;One Perfect 10 in Christ</p>
-<h4><strong>2026 School Theme and Theme Verse</strong></h4>
-<p>"Just as a body, though one, has many parts, but all its many parts form
-one body, so it is with Christ."
-<br>- 1 Corinthians 12:12</p>
+<br><strong>2026 Year Theme:</strong>&nbsp;One Perfect 10 in Christ
+<br><strong>2026 Theme Verse:</strong>
+<br><em>"Just as a body, though one, has many parts, but all its many parts form one body, so it is with Christ." <br>- 1 Corinthians 12:12</em>
+</p>
 <p><strong>Inspiration:</strong>
 <br>In an increasingly diverse society and world, we call for “more we” and
 “less me”. We are stronger together, supporting one another despite our
@@ -21,68 +18,52 @@ differences. We also look to Jesus Christ as the unifying force and strength.
 <br>
 <br>Verse 4 of our Theme song “<em>We Are One</em>” aptly captures what we
 hope to achieve as a school.</p>
-<p>[Verse 4]</p>
-<p>Shaped by the hands of the potter
+<p>[Verse 4]
+<br>Shaped by the hands of the potter
 <br>No two pieces alike
 <br>When we build a shelter together
 <br><em>We will shine, we will shine</em>
 </p>
-<p>[Chorus]</p>
-<p>Let us draw near to each other
+<p>[Chorus]
+<br>Let us draw near to each other
 <br>We are one, we are one
 <br>We are all sisters and brothers
 <br>Telling stories of our Father's love</p>
 <h4><strong>Theme Song: We Are One</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/82t0rQDzgsk?si=YaW-wK225cWghgVM"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/-l9eWG8s78Q?si=ASJjSrrybHWybyS_"></iframe>
 </div>
 <p>Lyrics:
-<br>Let us draw near to each other
-<br>We are one, we are one
+<br>[Chorus]
+<br>Let us draw near to each other,
+<br>We are one, We are one
 <br>We are all sisters and brothers
-<br>Telling stories of our Father’s love</p>
-<p>You’ve got a place at the table
+<br>Telling stories of our Father's love<em> [before Verse 1]</em>
+<br><em>At the feast of our Father's love [after Verse 1]</em>
+<br><em>Living free in our Father's love [after Verse 2]</em>
+<br><em>Warming hands by the fire of His love [after Verse 3]</em>
+</p>
+<p>[Verse 1]
+<br>You've got a place at the table,
 <br>A family where you belong
-<br>So, open your arms if you’re able
-<br>Welcome home! Welcome home!</p>
-<p>Let us draw near to each other
-<br>We are one, we are one
-<br>We are all sisters and brothers
-<br>At the feast of our Father’s love</p>
-<p>We can come weary and burdened
+<br>So, open your arms if you're able,
+<br>Welcome home! Welcome home! [Chorus]</p>
+<p>[Verse 2]
+<br>We can come weary and burdened,
 <br>With the weight of the world on our backs
-<br>We can hand it all over to Jesus
-<br>Find our rest, find our rest</p>
-<p>So, let us draw near to each other
-<br>We are one, we are one
-<br>We are all sisters and brothers
-<br>Living free in our Father’s love</p>
-<p>Travelers, misfits, and exiles
-<br>Don’t grow cold in the dark of night
-<br>Gather for hope and for comfort
-<br>In His light, in His light</p>
-<p>Let us draw near to each other
-<br>We are one, we are one
-<br>We are all sisters and brothers
-<br>Warming hands by the fire of His love</p>
-<p>We are one, one, one
-<br>By His love, love, love
-<br>We are one, one, one
-<br>By His love, love, love</p>
-<p>Shaped by the hands of the Potter
+<br>We can hand it all over to Jesus,
+<br>Find our rest, find our rest [Chorus]</p>
+<p>[Verse 3]
+<br>Travellers, misfits, and exiles,
+<br>Don't grow cold in the dark of night
+<br>Gather for hope and for comfort,
+<br>In His light, in His light [Chorus]</p>
+<p>We are one, one, one, By His love, love, love [2X]</p>
+<p>Shaped by the hands of the potter,
 <br>No two pieces alike
-<br>But when we build a shelter together
-<br>We will shine, we will shine</p>
-<p>Let us draw near to each other
-<br>We are one, we are one
-<br>We are all sisters and brothers
-<br>Telling stories of our Father’s love</p>
-<p>Let us draw near to each other
-<br>We are one, we are one
-<br>We are all sisters and brothers
-<br>Telling stories of our Father’s love</p>
-<p>We’ll tell the stories of our Father’s love
-<br>We’ll tell the stories of our Father’s love</p>
+<br>When we build a shelter together,
+<br>We will shine, we will shine&nbsp; [Chorus 2X]
+<br>We'll tell the stories of our Father's love [2X]</p>
 <h4><strong>2026 Termly Themes</strong></h4>
 <p>Our assembly programmes are also anchored on the following termly themes.
 They seek to inspire our girls to build positive psychological resilience
