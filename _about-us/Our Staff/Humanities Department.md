@@ -17,7 +17,7 @@ HOD / Student Management</p>
 </li>
 <li>
 <p><a href="mailto:lim_shu_ping@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Lim Shu Ping</a>,
-Subject Head / Innovation and Knowledge Management</p>
+Subject Head / Innovation and Data Management</p>
 </li>
 <li>
 <p><a href="mailto:nur_zahira@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Nur Zahira</a>
