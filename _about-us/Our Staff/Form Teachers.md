@@ -6,9 +6,8 @@ description: ""
 third_nav_title: Our Staff
 ---
 <h4><strong>Secondary 1 Form Teachers</strong></h4>
-<table style="minWidth: 100px">
+<table style="minWidth: 75px">
 <colgroup>
-<col>
 <col>
 <col>
 <col>
@@ -24,28 +23,21 @@ third_nav_title: Our Staff
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Form Teacher</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Form Teacher</strong>
+<p><strong>&nbsp;Form Teacher</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Sec 1.1</p>
+<p>Sec 1.1&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ramesh_maria_christina@moe.edu.sg" rel="noopener nofollow" target="_blank">Mrs Christina Ramesh</a>
+<p><a href="mailto:lee_see_yeow_daniel@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Daniel Lee See Yeow</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:annie_ng_bee_hong@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Annie Ng</a>
+<p><a href="mailto:chen_wenjuan@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Chen Wenjuan</a>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -53,20 +45,146 @@ third_nav_title: Our Staff
 <p>Sec 1.2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lam_tung_ying@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Elkan Lam</a>
+<p><a href="mailto:lim_shu_ping@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Lim Shu Ping</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nur_zahira@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Nur Zahira</a>
+<p><a href="mailto:tan_tiah_hui@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Tan Tiah Hui</a>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Sec 1.3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:juliana_jamil@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Juliana Jamil</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ang_shi_han@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Ang Shi Han</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sec 1.4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:low_soo_ching@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Olivia Low</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lim_ai_jia_dawn@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Dawn Lim</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sec 1.5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:shi_fudi@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Shi Fu Di</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:noor_ewanny_alwi@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Ewanny</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sec 1.6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:cheong_chee_kong_bernard@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Bernard Cheong</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:cheong_era@moe.edu.sg" rel="noopener nofollow" target="_blank">Mrs Era Sidhu</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sec 1.7</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ee_joo_lian_julia@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Ee Julia</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:yan_xiuru@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Yan Xiuru</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sec 1.8</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:hee_yeun_jen@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Hee Yeun Jen</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:durka_kuppa_balakrishnan@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Durka</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4><strong>Secondary 2 Form Teachers</strong></h4>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Class</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Form Teacher</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>&nbsp;Form Teacher</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sec 2.1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:divakaran_kuppusamy@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Divakaran</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:annie_ng_bee_hong@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Annie Ng</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sec 2.2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lam_tung_ying@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Elkan Lam</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:nur_zahira@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Nur Zahira</a> (Sem
+1)
+<br>Ms Quek Yu Pin (Sem 2)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sec 2.3</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:leung_lok_heng@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Leung Lok Heng</a>
@@ -76,30 +194,23 @@ third_nav_title: Our Staff
 <p><a href="mailto:lim_pei_yng@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Lim Pei Yng</a>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Sec 1.4</p>
+<p>Sec 2.4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:jesumathy_christopher@moe.edu.sg" rel="noopener nofollow" target="_blank">Mrs Christopher J</a>
+<p><a href="mailto:jesumathy_christopher@moe.edu.sg" rel="noopener nofollow" target="_blank">Christopher Jes</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ang_hui_min@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Ang Hui Min</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:rosi_vijayalakshmi@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Vijayalakshmi</a>
+<p><a href="mailto:tan_weiliang@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Tan Weiliang</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Sec 1.5</p>
+<p>Sec 2.5</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lin_binchuan@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Lin Bin Chuan</a>
@@ -109,29 +220,23 @@ third_nav_title: Our Staff
 <p><a href="mailto:zhang_yongmei@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Zhang Yong Mei</a>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Sec 1.6</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:goh_sze_nee@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Goh Sze Nee</a>
-</p>
+<p>Sec 2.6&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:peterson_ramsay_colin@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Colin Peterson</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p><a href="mailto:rosi_vijayalakshmi@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Vijaya</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Sec 1.7</p>
+<p>Sec 2.7&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tai_fook_lim_jerry@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Jerry Tai</a>
@@ -141,13 +246,10 @@ third_nav_title: Our Staff
 <p><a href="mailto:leow_min_yu@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Leow Min Yu</a>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Sec 1.8</p>
+<p>Sec 2.8&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:wang_jing@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Wang Jing</a>
@@ -157,8 +259,133 @@ third_nav_title: Our Staff
 <p><a href="mailto:pang_li_en_marie-therese@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Marie-Therese Pang</a>
 </p>
 </td>
+</tr>
+</tbody>
+</table>
+<h4><strong>Secondary 3 Form Teachers</strong></h4>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p><strong>Class</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Form Teacher</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>&nbsp;Form Teacher</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sec 3.1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:hiew_yu_ting@moe.edu.sg" rel="noopener nofollow" target="_blank">Mrs Wong Yu Ting</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:liew_koi_chin@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Liew Koi Chin</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sec 3.2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tengku_nurhudah_t_m@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Tengku Nurhudah</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ong_jin_yi@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Ong Jin Yi</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sec 3.3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:koh_puay_teng@moe.edu.sg" rel="noopener nofollow" target="_blank">Mrs Tan Puay Teng</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ng_su_mei_adeline@moe.edu.sg" rel="noopener nofollow" target="_blank">Mrs Adeline Ong</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sec 3.4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:yu_ling_ling@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Yu Ling Ling</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:hu_min@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Hu Min</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sec 3.5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:deepa_patkunan@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Deepa Patkunan</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ang_hong_ky_claudine@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Claudine Ang</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sec 3.6&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:zhuang_yingmeng@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Zhuang Ying Meng</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:yap_ming_yi@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Yap Ming Yi</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sec 3.7&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:nurzakiah_zainul_abiden@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Nurzakiah</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chng_lee_yoong@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Ch'ng Lee Yoong</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sec 3.8&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chai_wee_jie@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Chai Wee Jie</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:goh_eng_lam@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Goh Eng Lam Sophia</a>
+</p>
 </td>
 </tr>
 </tbody>
@@ -220,7 +447,7 @@ third_nav_title: Our Staff
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ng_su_mei_adeline@moe.edu.sg" rel="noopener nofollow" target="_blank">Mrs Ong Adeline</a>
+<p><a href="mailto:ng_su_mei_adeline@moe.edu.sg" rel="noopener nofollow" target="_blank">Mrs Adeline Ong</a>
 </p>
 </td>
 </tr>
@@ -409,7 +636,8 @@ third_nav_title: Our Staff
 <p>Sec 3.8</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:durka_kuppa_balakrishnan@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Durka</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p><a href="mailto:durka_kuppa_balakrishnan@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Durka</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tan_jue_ling_cheryl@moe.edu.sg" rel="noopener nofollow" target="_blank">Mrs Cheryl Chew</a>
