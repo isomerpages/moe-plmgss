@@ -16,12 +16,12 @@ HOD / Mathematics</p>
 Subject Head / Mathematics)</p>
 </li>
 <li>
-<p><a href="mailto:wang_siqi_clarabelle@moe.edu.sg" rel="noopener nofollow" target="_blank">Mrs Yeo Siqi, Clarabelle (Mdm Wang)</a>,
-Subject Head / Student Management)</p>
+<p><a href="mailto:wang_siqi_clarabelle@moe.edu.sg" rel="noopener nofollow" target="_blank">Mrs Clarabelle Yeo</a>,
+Year Head (US) (Acting)</p>
 </li>
 <li>
-<p><a href="mailto:divakaran_kuppusamy@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Divakaran s/o Kuppusamy</a>
-</p>
+<p><a href="mailto:divakaran_kuppusamy@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Divakaran s/o Kuppusamy</a>,
+Senior Teacher / Mathematics</p>
 </li>
 <li>
 <p><a href="mailto:goh_eng_lam@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Goh Eng Lam Sophia</a>
