@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Our School
 variant: tiptap
 ---
-<h3>School Anthem</h3>
+<h4><strong>School Anthem</strong></h4>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/JRKM5I1jOhA?si=RpmpFr85XAz6c0gX"></iframe>
 </div>
@@ -31,7 +31,7 @@ variant: tiptap
 <br>To serve Him in every way
 <br>Glory to God we give and pray
 <br>For Paya Lebar MGS (2*)</p>
-<h3>Our School</h3>
+<h4><strong>Our School</strong></h4>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/6ro_Yzfz0T4?si=P2jZcm57T1Niz4UK"></iframe>
 </div>
@@ -53,25 +53,44 @@ variant: tiptap
 <br>Out of our school everyday</p>
 <p>For our love makes something special
 <br>Out of PL everyday</p>
-<h3>School Theme Song 2025</h3>
-<p><strong>A Friend Loves At All Times</strong>
+<h4><strong>School Theme Song 2026</strong></h4>
+<p><strong>We Are One</strong>
 </p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/XYAGXmyp7r4?si=Wk2HoYg1WNrUnCon"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/-l9eWG8s78Q?si=ASJjSrrybHWybyS_"></iframe>
 </div>
-<p>A friend loves at all times
-<br>Jesus is a friend of mine
-<br>Laying down his life
-<br>A friend loves at all times
-<br>
-<br>Underneath the stars at night
-<br>When the sun shines so bright
-<br>When we jump and when we fall
-<br>Jesus loves us all
-<br>‘Cause he’s the perfect friend
-<br>
-<br>Oh, a friend loves at all times</p>
-<h3>PL Hymn</h3>
+<p>Lyrics:
+<br>[Chorus]
+<br>Let us draw near to each other,
+<br>We are one, We are one
+<br>We are all sisters and brothers
+<br>Telling stories of our Father's love<em> [before Verse 1]</em>
+<br><em>At the feast of our Father's love [after Verse 1]</em>
+<br><em>Living free in our Father's love [after Verse 2]</em>
+<br><em>Warming hands by the fire of His love [after Verse 3]</em>
+</p>
+<p>[Verse 1]
+<br>You've got a place at the table,
+<br>A family where you belong
+<br>So, open your arms if you're able,
+<br>Welcome home! Welcome home! [Chorus]</p>
+<p>[Verse 2]
+<br>We can come weary and burdened,
+<br>With the weight of the world on our backs
+<br>We can hand it all over to Jesus,
+<br>Find our rest, find our rest [Chorus]</p>
+<p>[Verse 3]
+<br>Travellers, misfits, and exiles,
+<br>Don't grow cold in the dark of night
+<br>Gather for hope and for comfort,
+<br>In His light, in His light [Chorus]</p>
+<p>We are one, one, one, By His love, love, love [2X]</p>
+<p>Shaped by the hands of the potter,
+<br>No two pieces alike
+<br>When we build a shelter together,
+<br>We will shine, we will shine&nbsp; [Chorus 2X]
+<br>We'll tell the stories of our Father's love [2X]</p>
+<h4><strong>PL Hymn</strong></h4>
 <div class="iframe-wrapper">
 <iframe height="352" width="640" allowfullscreen="true" frameborder="0" src="https://player.vimeo.com/video/365698642?h=2e2ff83d04"></iframe>
 </div>
@@ -98,7 +117,7 @@ variant: tiptap
 <br>Let us enthrone Him as our King.
 <br>Our God has promised those who trust
 <br>His loving care and blessing.</p>
-<h3>School Creed</h3>
+<h4><strong>School Creed</strong></h4>
 <p>I would be true for there are those who trust me&nbsp;
 <br>I would be pure for there are those who care
 <br>I would be strong for there is much to suffer
