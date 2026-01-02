@@ -23,6 +23,13 @@ sections:
       image: /images/pl_lite_bulb2.jpg
       alt: Image alt text
   - infopic:
+      title: Principal's Letter to Parents
+      id: infopic
+      button: Click here
+      url: /announcements/principal-letter-to-parents
+      image: /images/pl_lite_bulb.jpg
+      alt: Image alt text
+  - infopic:
       title: Secondary One Posting and Registration for the 2026 Intake
       id: infopic
       button: Click here
@@ -36,13 +43,6 @@ sections:
       url: /2025-gce-n-level-examination-results/
       image: /images/pl_lite_bulb2.jpg
       alt: pl lite bulb
-  - infopic:
-      title: Principal's Letter to Parents
-      id: infopic
-      button: Click here
-      url: /announcements/principal-letter-to-parents
-      image: /images/pl_lite_bulb.jpg
-      alt: Image alt text
   - infopic:
       title: PL Parcel
       description: A Read Worth Your Time
