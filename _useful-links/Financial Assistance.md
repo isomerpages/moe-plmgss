@@ -43,7 +43,7 @@ starting in January 2026 through the student's school.</p>
 award for students who attend Paya Lebar Methodist Girls' School (Secondary).</p>
 </li>
 </ul>
-<p>o&nbsp;&nbsp; <strong>Find out more:</strong>  <a href="https://www.plmgss.moe.edu.sg/files/Mrs_Lee_Siew_Choo_Education_Award__Student_Application__2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Mrs Lee Siew Choo Education Award (Student Application) 2025.pdf</a>
+<p>o&nbsp;&nbsp; <strong>Find out more:</strong>  <a href="/files/Mrs_Lee_Siew_Choo_Education_Award__Student_Application__2026.pdf" rel="noopener nofollow" target="_blank">Mrs Lee Siew Choo Education Award (Student Application) 2026.pdf</a>
 </p>
 <p><strong>Home &amp; Community Assistance</strong>
 </p>
