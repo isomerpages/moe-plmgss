@@ -6,6 +6,15 @@ variant: tiptap
 ---
 <p>Dear Parents/Guardians,&nbsp;
 <br>Please click on the links below to view the Principal's Letter to Parents:</p>
+<p></p>
+<h3>Year 2026</h3>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/2026___Term_1_Principal_s_Letter_to_Parents.pdf" rel="noopener nofollow" target="_blank">2026 - Term 1 Principal's Letter to Parents.pdf</a>
+<br><a href="/files/Annexes_A_to_C__Dec_2025_.pdf" rel="noopener nofollow" target="_blank">- Annexes A - C</a>
+</p>
+</li>
+</ul>
 <h3>Year 2025</h3>
 <ul data-tight="true" class="tight">
 <li>
