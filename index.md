@@ -57,11 +57,11 @@ sections:
       image: /images/pulse_banner.jpg
       alt: PuLSE
   - infopic:
-      title: School Yearbook 2024
+      title: School Yearbook 2025
       id: infopic
       button: CLICK HERE
-      url: /school-yearbook-2024/
-      image: /images/yearbook2024_b.png
+      url: /school-yearbook-2025/
+      image: /images/yb2025_tn.png
       alt: Image alt text
   - infopic:
       title: Curriculum
