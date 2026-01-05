@@ -43,7 +43,8 @@ we look forward to another exciting year ahead.</p>
 </ul>
 <p><strong>Teachers-in-charge</strong> 
 <br>Mr Liew Koi Chin
-<br>Ms Yu Lingling</p>
+<br>Ms Yu Lingling
+<br>Mr Ang Shi Han</p>
 <p><strong>Training Schedule</strong> 
 <br>Monday &amp; Tuesday, 3.00 - 5.30 pm</p>
 <div class="iframe-wrapper">
