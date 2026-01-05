@@ -52,8 +52,6 @@ Girls 4th Place</p>
 <br>Mr Shane Tan Weiliang
 <br>Mdm Goh Eng Lam Sophia
 <br>Mr Leung Lok Heng</p>
-<p><strong>Coach</strong> 
-<br>Ms Yip Wai Man Mon</p>
 <p><strong>Training Schedule</strong> 
 <br>Monday, Tuesday &amp; Thursday, 3.00 - 5.30 pm</p>
 <div class="iframe-wrapper">
