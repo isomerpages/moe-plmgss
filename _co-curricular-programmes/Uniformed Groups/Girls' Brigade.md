@@ -98,21 +98,12 @@ Empowering and Enabling: Every Girl a Leader, Every Officer a Servant Leader.</p
 </li>
 </ul>
 <p><strong>Teachers-in-charge</strong> 
-<br>Ms Heng Ci Pei (Advisor)
-<br>Mrs Rachel Low
-<br>Mrs Kirrthana Isaac (Term 1)
-<br>Ms Annie Ng
-<br>Ms Leow Min Yu
-<br>Ms Marie-Therese Pang
 <br>Mrs Melissa Soh
-<br>Mrs Novie Tan (CMS)
-<br>Mrs Yeong Cynthia (CMS)</p>
-<p><strong>Non-teaching Officers and Warrant Officers</strong> 
-<br>Dionne Leow (Officer)
-<br>Joan Sim (Officer)
-<br>Natasha Koh (Warrant Officer)
-<br>Catherine Teo (Warrant Officer)
-<br>Chloe Yeo (Warrant Officer)</p>
+<br>Ms Annie Ng
+<br>Ms Marie-Therese Pang
+<br>Ms Dawn Lim
+<br>Mdm Zhang Yongmei
+<br>Mrs Grace Foo (CMS)</p>
 <p><strong>Training Schedule</strong> 
 <br>Tuesday (for Sec 2 to 5 cadets), 3.00 - 5.30 pm
 <br>Friday (for all cadets), 3.00 - 5.30 pm</p>

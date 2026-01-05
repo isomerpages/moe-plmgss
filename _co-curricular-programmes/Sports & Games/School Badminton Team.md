@@ -42,12 +42,9 @@ we look forward to another exciting year ahead.</p>
 </li>
 </ul>
 <p><strong>Teachers-in-charge</strong> 
-<br>Mr Liew Koi Chin (i/c)
-<br>Mrs Chong Joyce
-<br>Ms Yu Lingling</p>
-<p><strong>Coach</strong>
-<br>Mr Simon Koh Gee Boo
-<br>Mr Muhammad Syafiq Bin Muhd Abbas Lim</p>
+<br>Mr Liew Koi Chin
+<br>Ms Yu Lingling
+<br>Mr Ang Shi Han</p>
 <p><strong>Training Schedule</strong> 
 <br>Monday &amp; Tuesday, 3.00 - 5.30 pm</p>
 <div class="iframe-wrapper">

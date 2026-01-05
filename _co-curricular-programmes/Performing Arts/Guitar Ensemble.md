@@ -47,8 +47,6 @@ every opportunity that comes our way.</p>
 <p><strong>Teachers-in-charge</strong> 
 <br>Mr Tai Jerry
 <br>Ms Hannah Zulaihah</p>
-<p><strong>Instructor</strong> 
-<br>Mr Oliver Nicholas Chan</p>
 <p><strong>Training Schedule</strong> 
 <br>Monday &amp; Tuesday, 3.00 – 5.30 pm</p>
 <div class="iframe-wrapper">

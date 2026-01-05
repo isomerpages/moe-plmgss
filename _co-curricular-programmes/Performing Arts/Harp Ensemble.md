@@ -16,7 +16,6 @@ regular feedback sessions and the active guidance of student leaders, PLHE
 continues to elevate its standards and reach new heights. We take immense
 pride in our journey and the harmonious bond that unites us.</p>
 <p><strong>Vision</strong> 
-<br>
 <br>To be an outstanding harp ensemble, producing woman of fine character
 with a passion for music and learning</p>
 <p><strong>Mission</strong> 
@@ -50,10 +49,8 @@ music and learning</p>
 </li>
 </ul>
 <p><strong>Teachers-in-charge</strong> 
-<br>Mrs Faezah Jnad
-<br>Ms Ung Zi Qing</p>
-<p><strong>Instructors</strong> 
-<br>Ms Magdalene Wong</p>
+<br>Ms Ung Zi Qing
+<br>Mrs Faezah Jnad</p>
 <p><strong>Training Schedule</strong> 
 <br>Tuesday &amp; Friday, 3.00 – 5.30 pm</p>
 <div class="iframe-wrapper">

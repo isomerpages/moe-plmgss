@@ -49,8 +49,6 @@ lives with her singing</p>
 <p><strong>Teachers-in-charge</strong> 
 <br>Ms Tengku Nurhudah
 <br>Mrs Wong Yu Ting</p>
-<p><strong>Conductor</strong> 
-<br>Ms Choy Siew Woon</p>
 <p><strong>Training Schedule</strong> 
 <br>Monday &amp; Friday, 3.00 - 5.30 pm</p>
 <div class="iframe-wrapper">

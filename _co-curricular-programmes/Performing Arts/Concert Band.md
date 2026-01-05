@@ -45,15 +45,8 @@ musical memories in 2024 and 2025!</p>
 <br>Ms Kong Pei Shan
 <br>Mdm Durka
 <br>Ms Cherie Tse Hal Ye</p>
-<p><strong>Coaches</strong> 
-<br>Mr Shermann Foo
-<br>Mr Jovan Neo
-<br>Mr Gavilan Neo
-<br>Ms Angeline Wee
-<br>Mr Ronnie Quek
-<br>Mr Daniel Ong</p>
 <p><strong>Training Schedule</strong> 
-<br>Tuesday, 3.00 – 5.30 pm
+<br>Monday, 3.00 – 5.30 pm
 <br>Friday, 3.30 – 6.00 pm</p>
 <div class="iframe-wrapper">
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/10tugYN8GtBE52v_BdfFSEKUu9LE83PQWM8u0XpkbKJQ/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
