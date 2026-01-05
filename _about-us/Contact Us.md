@@ -16,7 +16,7 @@ variant: markdown
   
 
   
-[For Staff Emails, please click here](https://www.plmgss.moe.edu.sg/about-us/our-staff/staff-emails)
+[For Staff Emails, please click here](https://www.plmgss.moe.edu.sg/about-us/our-staff/form-teachers/)
 
 - Please&nbsp;[click here](https://staging.d31lf6q9623hn3.amplifyapp.com/articles/guidelines-on-parents-communication-with-the-school/)&nbsp;for&nbsp;**Guidelines on Parents’ Communication with the School**  
 
