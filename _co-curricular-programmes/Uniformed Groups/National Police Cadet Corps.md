@@ -74,9 +74,9 @@ Republic of Singapore.
 </li>
 </ul>
 <p><strong>Teachers-in-charge</strong> 
+<br>Mrs Koh Mei Chin
 <br>Mr Lam Cherng Yang
 <br>Ms Ong Rachel
-<br>Mrs Koh Mei Chin
 <br>Mrs Rajah Padhmeni
 <br>Mr Lam Elkan</p>
 <p><strong>Training Schedule</strong> 
