@@ -49,10 +49,7 @@ their craft with skills such as empathy and teamwork.</p>
 </li>
 </ul>
 <p><strong>Teachers-in-charge</strong> 
-<br>Mdm Nur Zahira
-<br>Mrs Christina Ramesh</p>
-<p><strong>Instructor</strong> 
-<br>Mr Adib Kosnan</p>
+<br>Mdm Nur Zahira</p>
 <p><strong>Training Schedule</strong> 
 <br>Monday &amp; Tuesday,&nbsp;3.00 – 5.30 pm</p>
 <div class="iframe-wrapper">
