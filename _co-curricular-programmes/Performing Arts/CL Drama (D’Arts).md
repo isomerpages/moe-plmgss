@@ -42,9 +42,6 @@ inspiring others through Chinese Drama.</p>
 <p><strong>Teachers-in-charge</strong> 
 <br>Ms Goh Sze Nee
 <br>Ms Chen Wenjuan</p>
-<p><strong>Instructor</strong> 
-<br>Ms Gu Zhiqi
-<br>Ms Chao Yuting</p>
 <p><strong>Training Schedule</strong> 
 <br>Tuesday &amp; Friday, 3.00 - 5.30 pm</p>
 <div class="iframe-wrapper">
