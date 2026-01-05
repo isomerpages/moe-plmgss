@@ -107,15 +107,8 @@ Heidi (Huang Meihui) (4.4)</p>
 <br>Mdm Nurzakiah
 <br>Mrs J Christopher
 <br>Mr Joshua Low
-<br>Mr Chai Wee Jie
+<br>Mr Lee See Yeow Daniel
 <br>Mdm Vijaya</p>
-<p><strong>Coaches</strong>
-<br>Ms Amira A R Mordiffi
-<br>Ms Celeste Choy Wei Ni
-<br>Ms Cheng Shin Yeen
-<br>Ms Maysa Ng
-<br>Ms Ilyse Quek Chin Yi
-<br>Ms Yuen Wag Glee, Phylicia</p>
 <p><strong>Training Schedule</strong> 
 <br>Friday, 3.00 - 5.30 pm</p>
 <div class="iframe-wrapper">
