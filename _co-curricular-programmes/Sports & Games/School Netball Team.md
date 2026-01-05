@@ -48,12 +48,10 @@ to excel and enjoy netball.</p>
 </li>
 </ul>
 <p><strong>Teachers-in-charge</strong> 
+<br>Mr Chai Wee Jie
 <br>Mr Divakaran
 <br>Mdm Nuraishah Kapoor
-<br>Ms Das Ruth Hannah
 <br>Ms Bai Zhaozhi</p>
-<p><strong>Coaches</strong> 
-<br>Ms Lee Kia Miang Catherine</p>
 <p><strong>Training Schedule</strong> 
 <br>Monday and Friday, 3.00 - 5.30 pm</p>
 <div class="iframe-wrapper">
