@@ -46,8 +46,6 @@ a person and an artiste</p>
 <p><strong>Teachers-in-charge</strong> 
 <br>Mrs Brenda Colleemallay
 <br>Mrs Cheryl Chew</p>
-<p><strong>Instructor / Choreographer</strong> 
-<br>Ms Stacie Leong</p>
 <p><strong>Training Schedule</strong> 
 <br>Monday, &amp; Friday (Tuesday during peak period), 3.00 – 5.30 pm</p>
 <div class="iframe-wrapper">
