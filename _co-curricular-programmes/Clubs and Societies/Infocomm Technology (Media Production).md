@@ -69,12 +69,12 @@ for innovation</p>
 </li>
 </ul>
 <p><strong>Teachers-in-charge</strong> 
-<br>Mdm Zalena
 <br>Mr Lee Yen Chai
-<br>Ms Kaur Harjit
 <br>Ms Lim Shu Ping
 <br>Mr Low Kee Heong
-<br>Mdm Yap Ming Yi</p>
+<br>Mdm Yap Ming Yi
+<br>Ms Noor Ewanny
+<br>Mrs Joyce Chong</p>
 <p><strong>Training Schedule</strong> 
 <br>Monday and Tuesday, 3.00 - 5.30 pm</p>
 <div class="iframe-wrapper">
