@@ -97,7 +97,7 @@ third_nav_title: Our Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chua_siew_hui_tracy@moe.edu.sg" rel="noopener nofollow" target="_blank">Mrs Tracy Chua</a>
+<p><a href="mailto:chua_siew_hui_tracy@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Tracy Chua</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
