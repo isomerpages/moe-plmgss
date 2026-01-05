@@ -80,9 +80,6 @@ Backstroke – Top 10</p>
 <br>Mrs Tan Puay Teng
 <br>Ms Deepa Patkunan
 <br>Ms Ang Hui Min</p>
-<p><strong>Coaches</strong> 
-<br>Coach Elsie
-<br>Coach Tanny</p>
 <p><strong>Training Schedule</strong> 
 <br>Monday, 3.30 - 5.30 pm
 <br>Friday, 3.30 – 4.30 pm</p>
