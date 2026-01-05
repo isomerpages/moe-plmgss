@@ -44,9 +44,6 @@ joyful noise unto Lord and men.</p>
 <p><strong>Teachers-in-charge</strong> 
 <br>Ms Li Hongyan
 <br>Ms Zhuang Yingmeng</p>
-<p><strong>Our Instructor and Conductor</strong> 
-<br>Lu Jie
-<br>Yin Hong Mei</p>
 <p><strong>Training Schedule</strong> 
 <br>Tuesday &amp; Friday, 3.30 - 5.30 pm</p>
 <div class="iframe-wrapper">
