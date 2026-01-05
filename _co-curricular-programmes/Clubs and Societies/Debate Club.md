@@ -63,8 +63,7 @@ Speaker</p>
 </li>
 </ul>
 <p><strong>Teachers-in-charge</strong> 
-<br>Mr Colin Peterson
-<br>Mrs Neoh Terh Ling</p>
+<br>Mr Colin Peterson</p>
 <p><strong>Training Schedule</strong>
 <br>Tuesday &amp; Friday, 3 - 5.30 pm (only for Sec 3 &amp; 4 students)</p>
 <p>From 2024 onwards, Debates will be part of the Talent Development Programme
