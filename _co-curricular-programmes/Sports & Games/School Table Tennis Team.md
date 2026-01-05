@@ -57,11 +57,9 @@ also to develop mental strength in facing challenges</p>
 </li>
 </ul>
 <p><strong>Teachers-in-charge</strong>
+<br>Mr Bernard Cheong
 <br>Mdm Low Olivia
-<br>Ms Yap Wee Cheng
-<br>Mr Bernard Cheong</p>
-<p><strong>Coaches</strong> 
-<br>Mr Gan Chia Hong and team</p>
+<br>Ms Yap Wee Cheng</p>
 <p><strong>Training Schedule</strong> 
 <br>Tuesday &amp; Friday, 3.00 - 5.30 pm</p>
 <div class="iframe-wrapper">
