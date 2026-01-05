@@ -47,8 +47,6 @@ the learning of music.</p>
 <p><strong>Teachers-in-charge</strong> 
 <br>Ms Hee Yeun Jen
 <br>Ms Juliana</p>
-<p><strong>Coach</strong> 
-<br>Ms Angela Tsugane Ikumi</p>
 <p><strong>Training Schedule</strong> 
 <br>Monday &amp; Tuesday, 3.00 – 5.30 pm</p>
 <div class="iframe-wrapper">
