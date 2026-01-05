@@ -51,6 +51,10 @@ Subject Head / Chinese Language</p>
 <p><a href="mailto:yap_wee_cheng@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Yap Wee Cheng</a>
 </p>
 </li>
+<li>
+<p><a href="mailto:yuan_pin@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Yuan Pin</a>
+</p>
+</li>
 </ul>
 <h4><strong>Tamil Language</strong></h4>
 <ul data-tight="true" class="tight">
