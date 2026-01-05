@@ -78,13 +78,9 @@ a full life!</p>
 <p><strong>Teachers-in-charge</strong> 
 <br>Mdm Lim Pei Yng
 <br>Mr Lin Bin Chuan
+<br>Ms Leow Min Yu
 <br>Ms Wu Cai Fen Rachel
 <br>Ms Nur Zetty Abd Kadir</p>
-<p><strong>Coaches</strong> 
-<br>Kenneth Khing
-<br>Sivagami Subramaniam
-<br>Chua Seng Chye John
-<br>Siti Noorimah Binte Mohd Salleh</p>
 <p><strong>Training Schedule</strong> 
 <br>Monday &amp; Friday, 3.30 - 5.30 pm</p>
 <div class="iframe-wrapper">
