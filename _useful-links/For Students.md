@@ -38,12 +38,9 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="https://goo.gl/oiafPt" rel="noopener noreferrer nofollow" target="_blank">Request for Password Reset (MIMS / PL's Email)</a>
+<p><a href="https://goo.gl/oiafPt" rel="noopener noreferrer nofollow" target="_blank">Request for MIMS or SLS Password Reset</a>
 </p>
-</li>
-<li>
-<p><a href="http://bit.ly/SLS_PLMGSS" rel="noopener noreferrer nofollow" target="_blank">Request for SLS Password Reset</a>
-</p>
+<p></p>
 </li>
 </ul>
 <p></p>
