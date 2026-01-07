@@ -6,6 +6,10 @@ variant: tiptap
 ---
 <ul>
 <li>
+<p><a href="https://plmgss.edupage.org/" rel="noopener nofollow" target="_blank">EduPage (Timetable)</a>
+</p>
+</li>
+<li>
 <p><a href="https://www.plmgss.moe.edu.sg/curriculum/cce/education-and-career-guidance/" rel="noopener noreferrer nofollow" target="_blank">Education and Career Guidance</a>
 </p>
 </li>
@@ -31,10 +35,6 @@ variant: tiptap
 </li>
 <li>
 <p><a href="http://go.gov.sg/mysfsec" rel="noopener noreferrer nofollow" target="_blank">MySkillsFuture Portal</a>
-</p>
-</li>
-<li>
-<p><a href="https://mail.google.com/a/plmgss.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Google Apps (School Email)</a>
 </p>
 </li>
 <li>
