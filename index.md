@@ -12,7 +12,7 @@ sections:
       key_highlights:
         - title: Announcements & Events
           description: Click here to read more
-          url: /start-right-programme-2026-first-day-of-school/
+          url: /release-of-2025-gce-o-level-examination-results/
       subtitle: 巴耶礼峇美以美女校（中学）
   - infopic:
       title: START Right Programme 2026
