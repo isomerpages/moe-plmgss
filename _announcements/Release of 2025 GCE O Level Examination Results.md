@@ -4,12 +4,12 @@ permalink: /release-of-2025-gce-o-level-examination-results/
 variant: tiptap
 description: ""
 ---
-<p>The results of the 2025 GCE O-Level Examinations will be released on <strong>Wednesday, 14 January 2025</strong>.</p>
+<p>The results of the 2025 GCE O-Level Examinations will be released on <strong>Wednesday, 14 January 2026</strong>.</p>
 <p><strong>Event Details</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Date:</strong> 14 January 2025 (Wednesday)</p>
+<p><strong>Date:</strong> 14 January 2026 (Wednesday)</p>
 </li>
 <li>
 <p><strong>Time of Release:</strong> 2.00 pm</p>
