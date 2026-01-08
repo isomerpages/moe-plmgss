@@ -2,6 +2,7 @@ collections:
   announcements:
     output: true
     order:
+      - Release of 2025 GCE O Level Examination Results.md
       - Meet the Parents Sessions Presentation Slides.md
       - START Right Programme 2026 (First Day of School).md
       - Principal's Letter to Parents.md
