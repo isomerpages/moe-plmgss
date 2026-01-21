@@ -4,17 +4,17 @@ permalink: /about-us/pssg/
 description: ""
 variant: tiptap
 ---
-<h2>PL Parent-School Support Group (PSSG)<br><br></h2>
+<h2>PL Parent-School Support Group (PSSG)</h2>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="20%" alt="" src="/images/PL_PSSG_2023.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/pssg_new_logo.png">
 </div>
-<h3>Our Vision:</h3>
+<h4>Our Vision:</h4>
 <p>An exciting and effective partnership between home and school</p>
-<h3>Our Mission:</h3>
+<h4>Our Mission:</h4>
 <p>To <strong>LINK</strong> up all parents to achieve the school’s mission.</p>
 <p>[<strong>LINK</strong> – <strong>L</strong>inking <strong>I</strong>ntentionally
 through <strong>N</strong>etworking and <strong>K</strong>oinonia]</p>
-<h3>Our Purpose:</h3>
+<h4>Our Purpose:</h4>
 <ol data-tight="true" class="tight">
 <li>
 <p>To provide support in various ways to help the school achieve its mission.
@@ -38,7 +38,7 @@ school.
 </p>
 </li>
 </ol>
-<h3>Our focus areas:</h3>
+<h4>Our focus areas:</h4>
 <ol data-tight="true" class="tight">
 <li>
 <p>To support school</p>
@@ -134,7 +134,7 @@ father-daughter relationships.</p>
 <br>Registration is Free!
 <br>For more information, please feel free to email&nbsp;<a href="mailto:plmgss.pssg@gmail.com" rel="noopener noreferrer nofollow" target="_blank">plmgss.pssg@gmail.com</a>
 </p>
-<h3>PSSG Executive Committee Members 2026</h3>
+<h4>PSSG Executive Committee Members 2026</h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -261,7 +261,7 @@ father-daughter relationships.</p>
 </tr>
 </tbody>
 </table>
-<h3>PSSG Videos 2025</h3>
+<h4>PSSG Videos 2025</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://drive.google.com/file/d/1Bvf2wVT54j_2g8gX2rZEVlIa94KStdEP/view?usp=drive_link" rel="noopener nofollow" target="_blank">PLMGSS Sparkle Recess 1</a>
@@ -276,8 +276,8 @@ father-daughter relationships.</p>
 </p>
 </li>
 </ul>
-<h3>PSSG Photos 2025</h3>
+<h4>PSSG Photos 2025</h4>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/13SfB5UZwSITzJPWo6h1rvS2NUQ6BR4f-7ZjtqzKpxeY/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/13SfB5UZwSITzJPWo6h1rvS2NUQ6BR4f-7ZjtqzKpxeY/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p></p>
