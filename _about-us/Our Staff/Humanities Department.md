@@ -58,8 +58,8 @@ Year Head (LS)</p>
 <h4><strong>Social Studies</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="mailto:lim_shu_ping@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Lim Shu Ping, </a>SH
-/ Innovation and Data Management</p>
+<p><a href="mailto:lim_shu_ping@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Lim Shu Ping</a>,
+Subject Head / Innovation and Data Management</p>
 </li>
 <li>
 <p><a href="mailto:Nuraishah_kapoor@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Nuraishah Kapoor</a>,
