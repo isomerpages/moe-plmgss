@@ -11,7 +11,9 @@ and helps our students become self-directed, lifelong learners, as they
 monitor, assess, and improve their own learning. We design assessments
 with clarity of purpose to gather evidence of our learners’ progress, provide
 timely and targeted feedback to them to move their learning forward, and
-to improve our teaching practices, harnessing technology where useful.</p>
+to improve our teaching practices, harnessing technology where useful.
+We help students and teachers use technology ethically, while continuing
+to value human thinking, skills, and judgement at the heart of education.</p>
 <p>In this regard, we value “Learner-Centred and Balanced Assessment”, which
 aims to</p>
 <ul data-tight="true" class="tight">
@@ -23,6 +25,23 @@ aims to</p>
 </li>
 <li>
 <p>Bring about higher achievement and greater confidence to learn</p>
+</li>
+</ul>
+<p>To support students on the use of AI for specific learning tasks/assessment,
+we are guided by the following:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>AI may be used in ways that enhance productivity and support the clear
+expression of a student’s original ideas.</p>
+</li>
+<li>
+<p>Use AI to support your learning, but this must be done carefully, responsibly,
+and with teacher guidance. When using AI, be transparent and always acknowledge
+its use.</p>
+</li>
+<li>
+<p>AI must not be used in ways that replace your own thinking, writing, or
+learning.</p>
 </li>
 </ul>
 <p>In summary, assessment practices can dynamically vary in the extent to
