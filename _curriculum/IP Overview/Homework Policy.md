@@ -30,10 +30,16 @@ learning.</p>
 <ul>
 <li>
 <p>Homework set has strong emphasis on the development of core skills and
-knowledge taught in class.</p>
+knowledge taught in class and seeks to promote student agency by encouraging
+independent thinking and decision-making.</p>
 </li>
 <li>
-<p>Differentiated assignments are set based on students’ needs and abilities.</p>
+<p>Differentiated assignments are set based on students’ needs and abilities,
+while also building students technology use through clear expectations.</p>
+</li>
+<li>
+<p>Homework can be attempted with the use of AI, if it allows for responsible
+and purposeful learning.</p>
 </li>
 </ul>
 <p><u>Student’s Role</u>
@@ -53,7 +59,11 @@ they have missed the lesson.</p>
 </li>
 <li>
 <p>All students should take pride in submitting good quality homework in
-a timely manner.</p>
+a timely manner, following school guidelines when using AI tools that allows
+them to think critically and verify AI-generated content.</p>
+</li>
+<li>
+<p>Students need to ensure that AI use supports and not diminish their learning.</p>
 </li>
 </ul>
 <p></p>
@@ -75,6 +85,10 @@ to the homework/tests/projects written on the whiteboard, to ensure students
 are not overloaded on a particular day or week. They are to remind students
 to record the homework in their student handbook.</p>
 </li>
+<li>
+<p>Clear boundaries on acceptable use of AI for homework/assignments ought
+to be communicated and enforced.</p>
+</li>
 </ul>
 <p></p>
 <p><u>Family-School Role</u>
@@ -86,12 +100,20 @@ the upbringing and education of our children to grow in resilience and
 character.</p>
 </li>
 <li>
-<p>Parents should encourage students to meet the homework assignments deadline
+<p>Parents should encourage your child to meet the homework assignments deadline
 through daily conversations and check-in.</p>
 </li>
 <li>
 <p>Parents can monitor and check the students’ handbook for the list of homework
 assignments.</p>
+</li>
+<li>
+<p>Parents can talk to your child about how AI is used in learning and explore
+possible tools with them.</p>
+</li>
+<li>
+<p>Parents to reinforce the importance of digital responsibility at home,
+reviewing the age advisory and Terms of Use.</p>
 </li>
 </ul>
 <p></p>
@@ -106,7 +128,12 @@ their various task within the week.</p>
 </ul>
 <p></p>
 <p>Norms for homework (in terms of hours):</p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
