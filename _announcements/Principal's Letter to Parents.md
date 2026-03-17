@@ -10,8 +10,8 @@ variant: tiptap
 <h3>Year 2026</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/2026___Term_1_Principal_s_Letter_to_Parents.pdf" rel="noopener nofollow" target="_blank">2026 - Term 1 Thanksgiving Principal's Letter to Parents.pdf</a>
-<br><a href="/files/Annexes_A_to_C__Dec_2025_.pdf" rel="noopener nofollow" target="_blank">- Annex 2026 CCA training</a>
+<p><a href="/files/2026___Term_1_Thanksgiving_Principal_s_Letter_to_Parents__final_.pdf" rel="noopener nofollow" target="_blank">2026 - Term 1 Thanksgiving Principal's Letter to Parents.pdf</a>
+<br><a href="/files/Annex_2026_March_Hols_CCA_Training.pdf" rel="noopener nofollow" target="_blank">- Annex 2026 CCA training</a>
 </p>
 </li>
 <li>
