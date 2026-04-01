@@ -15,19 +15,26 @@ sections:
           url: /release-of-2025-gce-o-level-examination-results/
       subtitle: 巴耶礼峇美以美女校（中学）
   - infopic:
+      title: Principal's Letter to Parents
+      id: infopic
+      button: Click here
+      url: /announcements/principal-letter-to-parents
+      image: /images/pl_lite_bulb.jpg
+      alt: Image alt text
+  - infopic:
+      title: PL Parcel
+      description: A Read Worth Your Time
+      button: Click Here
+      url: /about-us/pl-epistle/pl-parcel/
+      image: /images/PL Parcel.png
+      alt: PL Parcel
+  - infopic:
       title: START Right Programme 2026
       subtitle: (First Day of School)
       id: infopic
       button: Click here
       url: /start-right-programme-2026-first-day-of-school/
       image: /images/pl_lite_bulb2.jpg
-      alt: Image alt text
-  - infopic:
-      title: Principal's Letter to Parents
-      id: infopic
-      button: Click here
-      url: /announcements/principal-letter-to-parents
-      image: /images/pl_lite_bulb.jpg
       alt: Image alt text
   - infopic:
       title: Secondary One Posting and Registration for the 2026 Intake
@@ -43,13 +50,6 @@ sections:
       url: /2025-gce-n-level-examination-results/
       image: /images/pl_lite_bulb2.jpg
       alt: pl lite bulb
-  - infopic:
-      title: PL Parcel
-      description: A Read Worth Your Time
-      button: Click Here
-      url: /about-us/pl-epistle/pl-parcel/
-      image: /images/PL Parcel.png
-      alt: PL Parcel
   - infopic:
       title: PulSE (Student Initiated Learning)
       button: Click Here
