@@ -49,7 +49,7 @@ third_nav_title: Our Staff
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_tiah_hui@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Tan Tiah Hui</a>
+<p><a href="mailto: gloria_chong_xue_li_a@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Gloria Chong</a>
 </p>
 </td>
 </tr>
@@ -63,6 +63,9 @@ third_nav_title: Our Staff
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ang_shi_han@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Ang Shi Han</a>
+</p>
+<p></p>
+<p><a href="mailto: ang_hui_min@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Ang Hui Min</a>
 </p>
 </td>
 </tr>
@@ -88,7 +91,7 @@ third_nav_title: Our Staff
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:noor_ewanny_alwi@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Ewanny</a>
+<p><a href="mailto: tan_shi_wei@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Tan Shi Wei</a>
 </p>
 </td>
 </tr>
@@ -101,7 +104,7 @@ third_nav_title: Our Staff
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:cheong_era@moe.edu.sg" rel="noopener nofollow" target="_blank">Mrs Era Sidhu</a>
+<p><a href="mailto: beth_tham_ming_min@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Beth Tham</a>
 </p>
 </td>
 </tr>
@@ -357,7 +360,10 @@ third_nav_title: Our Staff
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:yap_ming_yi@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Yap Ming Yi</a>
+<p><a href="mailto: choo_mei_yan_melissa@moe.edu.sg" rel="noopener nofollow" target="_blank">Mrs Melissa Soh</a>
+</p>
+<p></p>
+<p><a href="mailto: kong_pei_shan@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Kong Pei Shan</a>
 </p>
 </td>
 </tr>
@@ -415,7 +421,7 @@ third_nav_title: Our Staff
 <p>Sec 4.2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nuraishah_kapoor@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Nuraishah</a>
+<p><a href="mailto: lim_shu_ping@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Lim Shu Ping</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -506,12 +512,11 @@ third_nav_title: Our Staff
 <p>Sec 5.1&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ang_hui_min@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Ang Hui Min</a>
+<p><a href="mailto:chan_si_ping@moe.edu.sg" rel="noopener nofollow" target="_blank">Mrs Koh Si Ping</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chan_si_ping@moe.edu.sg" rel="noopener nofollow" target="_blank">Mrs Koh Si Ping</a>
-</p>
+<p></p>
 </td>
 </tr>
 </tbody>
