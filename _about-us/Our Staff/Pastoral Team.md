@@ -51,16 +51,8 @@ third_nav_title: Our Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:rajeswary_rajaindern@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Rajeswary D/O Rajaindem</a>
+<p><a href="mailto:chiam_che_lin_grace@moe.edu.sg" rel="noopener nofollow" target="_blank">Mrs Grace Foo</a>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Student Welfare Officer</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mrs Grace Foo</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Christian Ministry Staff</p>
