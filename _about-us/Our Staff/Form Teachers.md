@@ -421,7 +421,7 @@ third_nav_title: Our Staff
 <p>Sec 4.2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto: lim_shu_ping@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Lim Shu Ping</a>
+<p><a href="mailto:chan_si_ping@moe.edu.sg" rel="noopener nofollow" target="_blank">Mrs Koh Si Ping</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
