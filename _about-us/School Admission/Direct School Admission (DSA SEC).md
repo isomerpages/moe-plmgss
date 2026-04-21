@@ -288,10 +288,7 @@ in the activities related to the talent they are selected for from Secondary
 are encouraged to choose schools wisely based on the student’s aptitudes
 and strengths, bearing in mind the school’s academic and non-academic requirements,
 and the programmes available to develop the area of talent.&nbsp;</p>
-<p>&nbsp;</p>
-<p><strong>Schedule for DSA-Sec Exercise</strong>
-</p>
-<p>&nbsp;</p>
+<h4><strong>Schedule for DSA-Sec Exercise</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
