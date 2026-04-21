@@ -279,7 +279,8 @@ Exercise for International Students (AEIS).</p>
 </li>
 </ul>
 <p>6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; All applicants will
-be informed of the outcome of their DSA application via email between&nbsp;<u>21 August 2026</u> and <u>28 August 2026</u>.</p>
+be informed of the outcome of their DSA application via email between&nbsp;21
+August 2026 and 28 August 2026.</p>
 <p>7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Students admitted through
 DSA are expected to honour their commitment to the school and participate
 in the activities related to the talent they are selected for from Secondary
