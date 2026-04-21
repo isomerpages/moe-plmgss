@@ -12,8 +12,16 @@ sections:
       key_highlights:
         - title: Announcements & Events
           description: Click here to read more
-          url: /release-of-2025-gce-o-level-examination-results/
+          url: /dsa-information-session-online/
       subtitle: 巴耶礼峇美以美女校（中学）
+  - infopic:
+      title: DSA E-Information Session
+      id: infopic
+      description: 9 May 2026 (Saturday), 10 am - 11 am (ONLINE)
+      button: Click here
+      url: /dsa-information-session-online/
+      image: /images/pl_lite_bulb.jpg
+      alt: Image alt text
   - infopic:
       title: Principal's Letter to Parents
       id: infopic
@@ -28,28 +36,6 @@ sections:
       url: /about-us/pl-epistle/pl-parcel/
       image: /images/PL Parcel.png
       alt: PL Parcel
-  - infopic:
-      title: START Right Programme 2026
-      subtitle: (First Day of School)
-      id: infopic
-      button: Click here
-      url: /start-right-programme-2026-first-day-of-school/
-      image: /images/pl_lite_bulb2.jpg
-      alt: Image alt text
-  - infopic:
-      title: Secondary One Posting and Registration for the 2026 Intake
-      id: infopic
-      button: Click here
-      url: /secondary-one-posting-and-registration-for-the-2026-intake/
-      image: /images/pl_lite_bulb2.jpg
-      alt: Image alt text
-  - infopic:
-      title: 2025 GCE ‘N’ Level Examination Results & Briefing Slides
-      id: infopic
-      button: Click here
-      url: /2025-gce-n-level-examination-results/
-      image: /images/pl_lite_bulb2.jpg
-      alt: pl lite bulb
   - infopic:
       title: PulSE (Student Initiated Learning)
       button: Click Here
