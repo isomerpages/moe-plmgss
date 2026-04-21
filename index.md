@@ -29,28 +29,6 @@ sections:
       image: /images/PL Parcel.png
       alt: PL Parcel
   - infopic:
-      title: START Right Programme 2026
-      subtitle: (First Day of School)
-      id: infopic
-      button: Click here
-      url: /start-right-programme-2026-first-day-of-school/
-      image: /images/pl_lite_bulb2.jpg
-      alt: Image alt text
-  - infopic:
-      title: Secondary One Posting and Registration for the 2026 Intake
-      id: infopic
-      button: Click here
-      url: /secondary-one-posting-and-registration-for-the-2026-intake/
-      image: /images/pl_lite_bulb2.jpg
-      alt: Image alt text
-  - infopic:
-      title: 2025 GCE ‘N’ Level Examination Results & Briefing Slides
-      id: infopic
-      button: Click here
-      url: /2025-gce-n-level-examination-results/
-      image: /images/pl_lite_bulb2.jpg
-      alt: pl lite bulb
-  - infopic:
       title: PulSE (Student Initiated Learning)
       button: Click Here
       url: https://sites.google.com/moe.edu.sg/pl-sil-pulse
