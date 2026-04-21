@@ -16,5 +16,5 @@ description: ""
 <p>Meeting ID: 486 660 378 929 16
 <br>Passcode: Ps2q6Gm3
 <br>
-<br><a href="https://www.plmgss.moe.edu.sg/about-us/school-admission/direct-school-admission-dsa-sec/" rel="noopener nofollow" target="_blank">Click here</a><strong> for more information on our school's Direct School Admission.</strong>
+<br><strong><a href="https://www.plmgss.moe.edu.sg/about-us/school-admission/direct-school-admission-dsa-sec/" rel="noopener nofollow" target="_blank">Click here</a> for more information on our school's Direct School Admission.</strong>
 </p>
