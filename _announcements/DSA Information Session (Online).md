@@ -5,12 +5,15 @@ variant: tiptap
 description: ""
 ---
 <h4><strong>DSA E-Information Session</strong></h4>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/edsa2026.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/edsa2026b.jpg">
 </div>
-<p>Date: 9 May 2026 (Saturday), 10 am - 11 am (<em>ONLINE)</em>
-<br>Hosted on Microsoft Teams</p>
-<p><strong>Microsoft Teams meeting</strong>
+<p>Date: 9 May 2026 (Saturday), 10 am - 11 am
+<br>(Hosted on Microsoft Teams<em>)</em>
+<br>
+</p>
+<p><strong>Microsoft Teams meeting information</strong>
 <br><strong>Join: </strong><a href="https://teams.microsoft.com/meet/48666037892916?p=Bjz2V3XQ8NXFtPi9WY" rel="noopener noreferrer nofollow" target="_blank"><u>https://teams.microsoft.com/meet/48666037892916?p=Bjz2V3XQ8NXFtPi9WY</u></a>
 </p>
 <p>Meeting ID: 486 660 378 929 16
