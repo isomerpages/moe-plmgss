@@ -12,14 +12,14 @@ sections:
       key_highlights:
         - title: Announcements & Events
           description: Click here to read more
-          url: /release-of-2025-gce-o-level-examination-results/
+          url: /dsa-information-session-online/
       subtitle: 巴耶礼峇美以美女校（中学）
   - infopic:
       title: DSA E-Information Session
       id: infopic
       description: 9 May 2026 (Saturday), 10 am - 11 am (ONLINE)
       button: Click here
-      url: plmgss
+      url: /dsa-information-session-online/
       image: /images/pl_lite_bulb.jpg
       alt: Image alt text
   - infopic:
