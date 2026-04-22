@@ -7,7 +7,7 @@ description: ""
 <h4><strong>DSA E-Information Session</strong></h4>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/edsa2026b.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/edsa2026c.jpg">
 </div>
 <p>Date: 9 May 2026 (Saturday), 10 am - 11 am
 <br>(Hosted on Microsoft Teams<em>)</em>
