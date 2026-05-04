@@ -33,6 +33,15 @@ third_nav_title: Our Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><a href="mailto:chua_lee_ying_sophia@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Chua Lee Ying Sophia</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>School Counsellor</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><a href="mailto:syarfa_nur_izyan@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Syarfa’ Nur Izyan</a>
 </p>
 </td>
