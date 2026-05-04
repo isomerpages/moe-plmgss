@@ -51,7 +51,7 @@ third_nav_title: Our Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="lim_hui_ching_a@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Lim Hui Ching</a>
+<p><a href="mailto:lim_hui_ching_a@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Lim Hui Ching</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
