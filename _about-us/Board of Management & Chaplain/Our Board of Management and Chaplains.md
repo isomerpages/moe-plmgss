@@ -27,11 +27,11 @@ variant: tiptap
 <p>Mrs Joyce Ang</p>
 <h3>Members</h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Pastor_Wilfred_Leow.png">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Pastor_Wilfred_Leow.png">
 </div>
 <p>Pastor Wilfred Leow</p>
 <div class="isomer-image-wrapper">
-<img style="width:40%" height="auto" width="100%" src="/images/Rev_Dr_Kow_Shih_Ming2.jpg">
+<img style="width: 40%;" height="auto" width="100%" src="/images/Rev_Dr_Kow_Shih_Ming2.jpg">
 </div>
 <p>Rev Kow Shih Ming</p>
 <div class="isomer-image-wrapper">
