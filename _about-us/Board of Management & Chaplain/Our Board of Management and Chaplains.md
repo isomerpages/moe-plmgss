@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Board of Management & Chaplain
 variant: tiptap
 ---
-<h3>Chairman</h3>
+<h3>Chairmanf</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 40%;" height="auto" width="100%" src="/images/Mr_Jonathan_Lim.jpg">
 </div>
