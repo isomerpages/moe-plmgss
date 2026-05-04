@@ -7,7 +7,7 @@ variant: tiptap
 ---
 <h3>Chairman</h3>
 <div class="isomer-image-wrapper">
-<img style="width:40%" height="auto" width="100%" src="/images/Mr_Jonathan_Lim.jpg">
+<img style="width: 40%;" height="auto" width="100%" src="/images/Mr_Jonathan_Lim.jpg">
 </div>
 <p>Mr Jonathan Lim</p>
 <h3>Vice-Chairman</h3>
