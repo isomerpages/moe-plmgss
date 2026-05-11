@@ -23,7 +23,7 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-yvtv">Honorary Treasurer<br></td>
-    <td class="tg-fwnj"><img alt="face_amy_quek.jpg" src="/images/alu24_04.jpg" style="width:50%"><br>Ms Veronica Seetho</td>
+    <td class="tg-fwnj"><img alt="face_amy_quek.jpg" src="/images/Ms_Jean_Ong.jpg" style="width:50%"><br>Ms Jean Ong</td>
   </tr>
   <tr>
     <td class="tg-sdzj">Honorary Assistant Treasurer<br></td>
