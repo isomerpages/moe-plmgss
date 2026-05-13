@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/PLMGS_Girls_copy_7.jpg
+      background: /images/PLMGS_Girls_copy_10.jpg
       key_highlights:
         - title: Announcements & Events
           description: Click here to read more
