@@ -7,13 +7,12 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Paya Lebar Methodist Girls' School (Secondary)
-      background: /images/school_hero_banner.jpg
+      background: /images/PLMGS_Girls_copy_9.jpg
       key_highlights:
         - title: Announcements & Events
           description: Click here to read more
           url: /dsa-information-session-online/
-      subtitle: 巴耶礼峇美以美女校（中学）
+      variant: image
   - infopic:
       title: DSA E-Information Session
       id: infopic
