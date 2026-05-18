@@ -4,7 +4,28 @@ permalink: /2027-secondary-3-subject-options/
 variant: tiptap
 description: ""
 ---
-<h4><strong>(24 April 2026) Sec 2 ECG &amp; Subject Option Briefing</strong></h4>
+<h4><strong>(15 May 2026) Sec 2 ECG and Subject Combination Talk</strong></h4>
+<p>Dear Parents/Guardians,
+<br>
+<br>Thank you for attending the ECG and Subject Combination Talk on 15 May
+2026.
+<br>
+<br>Please find below the materials for your reference:</p>
+<ol data-tight="true" class="tight">
+<li>
+<p><a href="/files/2026_S2_ECG_Talk___Sharing_by_Principal.pdf" rel="noopener nofollow" target="_blank">2026 S2 ECG Talk - Sharing by Principal.pdf</a>
+</p>
+</li>
+<li>
+<p><a href="/files/2026_S2_ECG_Talk___Sharing_by_ECG_counsellor.pdf" rel="noopener nofollow" target="_blank">2026 S2 ECG Talk - Sharing by ECG counsellor.pdf</a>
+</p>
+</li>
+<li>
+<p><a href="/files/2026_S2_ECG_Talk___FAQs.pdf" rel="noopener nofollow" target="_blank">2026 S2 ECG Talk - FAQs</a>
+</p>
+</li>
+</ol>
+<h4><br><strong>(24 April 2026) Sec 2 ECG &amp; Subject Option Briefing</strong></h4>
 <p>Dear Parents/Guardians,</p>
 <p>Your daughter/ward was briefed on the 2027 Secondary 3 Subject Options
 on 24 April 2026.&nbsp;
