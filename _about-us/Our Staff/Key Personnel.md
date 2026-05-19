@@ -106,7 +106,8 @@ third_nav_title: Our Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p><a href="mailto:foo_wen_xian_delia@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Delia Foo</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD / Humanities</p>
