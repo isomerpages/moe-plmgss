@@ -28,7 +28,7 @@ third_nav_title: Our Staff
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Administrative Manager</p>
+<p>Administration Manager</p>
 </td>
 </tr>
 <tr>
