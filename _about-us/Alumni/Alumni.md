@@ -17,22 +17,20 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width:50%" height="auto" width="100%" alt="face_sulynn.jpg" src="/images/alu24_01.jpg">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/alu24_08.jpg">
 </div>
-<p>Mrs Quahe-Lim Su-Lynn</p>
+<p>Ms Joy Chia</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Vice President
-<br>
-</p>
+<p>Vice President</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width:50%" height="auto" width="100%" alt="face_tanchorhiang.jpg" src="/images/alu24_02.jpg">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/alu24_12.jpg">
 </div>
-<p>Dr Tan Chor Hiang</p>
+<p>Dr Amy Quek</p>
 </td>
 </tr>
 <tr>
@@ -43,7 +41,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width:50%" height="auto" width="100%" alt="face_amy_quek.jpg" src="/images/alu24_03.jpg">
+<img style="width: 40%;" height="auto" width="100%" alt="face_amy_quek.jpg" src="/images/alu24_03.jpg">
 </div>
 <p>Ms Catherine Foo</p>
 </td>
@@ -56,7 +54,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width:50%" height="auto" width="100%" alt="face_amy_quek.jpg" src="/images/Ms_Jean_Ong.jpg">
+<img style="width: 40%;" height="auto" width="100%" alt="face_amy_quek.jpg" src="/images/Ms_Jean_Ong.jpg">
 </div>
 <p>Ms Jean Ong</p>
 </td>
@@ -69,7 +67,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width:50%" height="auto" width="100%" alt="face_seahyanghee.jpg" src="/images/alu24_05.jpg">
+<img style="width: 40%;" height="auto" width="100%" alt="face_seahyanghee.jpg" src="/images/alu24_05.jpg">
 </div>
 <p>Ms Gladys Goh</p>
 </td>
@@ -82,7 +80,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width:50%" height="auto" width="100%" alt="face_winnietan.jpg" src="/images/alu24_06.jpg">
+<img style="width: 40%;" height="auto" width="100%" alt="face_winnietan.jpg" src="/images/alu24_06.jpg">
 </div>
 <p>Mrs Winnie Tan</p>
 </td>
@@ -95,39 +93,37 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width:50%" height="auto" width="100%" alt="face_seahyanghee.jpg" src="/images/alu24_07.jpg">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/alu24_01.jpg">
+</div>
+<p>Mrs Quahe-Lim Su-Lynn</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/alu24_02.jpg">
+</div>
+<p>Dr Tan Chor Hiang</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="face_seahyanghee.jpg" src="/images/alu24_07.jpg">
 </div>
 <p>Ms Amelia Champion
 <br>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width:50%" height="auto" width="100%" src="/images/alu24_08.jpg">
-</div>
-<p>Ms Joy Chia
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:50%" height="auto" width="100%" src="/images/alu24_09.jpg">
+<img style="width: 40%;" height="auto" width="100%" src="/images/alu24_09.jpg">
 </div>
 <p>Ms Angela Tan
 <br>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width:50%" height="auto" width="100%" alt="face_seahyanghee.jpg" src="/images/alu24_10.jpg">
+<img style="width: 40%;" height="auto" width="100%" alt="face_seahyanghee.jpg" src="/images/alu24_10.jpg">
 </div>
 <p>Ms Ginny Tan
 <br>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width:50%" height="auto" width="100%" alt="face_seebeowtuan.jpg" src="/images/alu24_11.jpg">
+<img style="width: 40%;" height="auto" width="100%" alt="face_seebeowtuan.jpg" src="/images/alu24_11.jpg">
 </div>
-<p>Ms See Beow Tuan
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:50%" height="auto" width="100%" alt="face_annieteo.jpg" src="/images/alu24_12.jpg">
-</div>
-<p>Dr Amy Quek</p>
+<p>Ms See Beow Tuan</p>
 </td>
 </tr>
 <tr>
@@ -146,7 +142,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width:50%" height="auto" width="100%" alt="amy_ng2.jpg" src="/images/Mrs_Joyce_Ang.jpg">
+<img style="width: 40%;" height="auto" width="100%" alt="amy_ng2.jpg" src="/images/Mrs_Joyce_Ang.jpg">
 </div>
 <p>Mrs Joyce Ang</p>
 </td>
@@ -159,7 +155,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width:50%" height="auto" width="100%" alt="amy_ng2.jpg" src="/images/Ms_Amy_Ng.jpg">
+<img style="width: 40%;" height="auto" width="100%" alt="amy_ng2.jpg" src="/images/Ms_Amy_Ng.jpg">
 </div>
 <p>Ms Amy Ng</p>
 </td>
