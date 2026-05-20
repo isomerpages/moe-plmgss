@@ -182,7 +182,7 @@ third_nav_title: Our Staff
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Year Head (LS) (Acting)</p>
+<p>Year Head (LS) (Internal)</p>
 </td>
 </tr>
 <tr>
@@ -191,7 +191,7 @@ third_nav_title: Our Staff
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Year Head (US) (Acting)</p>
+<p>Year Head (US) (Internal)</p>
 </td>
 </tr>
 </tbody>
@@ -228,7 +228,7 @@ third_nav_title: Our Staff
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head (US) (Acting)</p>
+<p>Assistant Year Head (US) (Internal)</p>
 </td>
 </tr>
 <tr>
