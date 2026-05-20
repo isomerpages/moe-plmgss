@@ -8,9 +8,9 @@ variant: markdown
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-fwnj"><span style="font-weight:normal">President</span></th>
-    <th class="tg-fwnj"><img alt="face_sulynn.jpg" src="/images/alu24_01.jpg" style="width:50%"><br><span style="font-weight:normal">Mrs Quahe-Lim Su-Lynn</span><br></th>
-  </tr>
+    <td class="tg-yvtv">President
+   </td><td class="tg-iual"><img alt="face_sulynn.jpg" src="/images/alu24_01.jpg" style="width:50%"><br>Mrs Quahe-Lim Su-Lynn<br>
+  </td></tr>
 </thead>
 <tbody>
   <tr>
