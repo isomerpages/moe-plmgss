@@ -29,11 +29,11 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Pastor_Wilfred_Leow.png">
 </div>
-<p>Pastor Wilfred Leow</p>
+<p>Rev. Wilfred Leow</p>
 <div class="isomer-image-wrapper">
 <img style="width: 40%;" height="auto" width="100%" src="/images/Rev_Dr_Kow_Shih_Ming2.jpg">
 </div>
-<p>Rev Kow Shih Ming</p>
+<p>Rev Dr Kow Shih Ming</p>
 <div class="isomer-image-wrapper">
 <img style="width: 40%;" height="auto" width="100%" src="/images/Guan%20Yeow%20Kwang.jpg">
 </div>
