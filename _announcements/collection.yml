@@ -2,9 +2,9 @@ collections:
   announcements:
     output: true
     order:
+      - Principal's Letter to Parents.md
       - 2027 Secondary 3 Subject Options.md
       - DSA Information Session (Online).md
-      - Principal's Letter to Parents.md
       - Meet the Parents Sessions Presentation Slides.md
       - School Yearbook 2025.md
       - PLMGS(Sec) Booklist for 2026.md
