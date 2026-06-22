@@ -79,8 +79,7 @@ third_nav_title: Our Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ng_eng_kee@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Ng Eng Kee</a>
-</p>
+<p>-</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD / Aesthetics</p>
