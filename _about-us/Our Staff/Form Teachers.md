@@ -62,9 +62,6 @@ third_nav_title: Our Staff
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ang_shi_han@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Ang Shi Han</a>
-</p>
-<p></p>
 <p><a href="mailto: ang_hui_min@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Ang Hui Min</a>
 </p>
 </td>
@@ -180,8 +177,7 @@ third_nav_title: Our Staff
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nur_zahira@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Nur Zahira</a>
-</p>
+<p>Ms Yu Pin</p>
 </td>
 </tr>
 <tr>
@@ -260,6 +256,8 @@ third_nav_title: Our Staff
 <td rowspan="1" colspan="1">
 <p><a href="mailto:pang_li_en_marie-therese@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Marie-Therese Pang</a>
 </p>
+<p>
+<br>Mr Chia Yong Koon</p>
 </td>
 </tr>
 </tbody>
@@ -477,8 +475,7 @@ third_nav_title: Our Staff
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lam_cherng_yang@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Lam Cherng Yang</a>
-</p>
+<p>Ms Zetty</p>
 </td>
 </tr>
 <tr>
