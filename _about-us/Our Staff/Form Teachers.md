@@ -257,7 +257,8 @@ third_nav_title: Our Staff
 <p><a href="mailto:pang_li_en_marie-therese@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Marie-Therese Pang</a>
 </p>
 <p>
-<br>Mr Chia Yong Koon</p>
+<br><a href="mailto:chia_yong_koon@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Chia Yong Koon</a>
+</p>
 </td>
 </tr>
 </tbody>
@@ -419,7 +420,7 @@ third_nav_title: Our Staff
 <p>Sec 4.2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chan_si_ping@moe.edu.sg" rel="noopener nofollow" target="_blank">Mrs Koh Si Ping</a>
+<p><a href="mailto: nuraishah_kapoor@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Nuraishah Kapoor</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -475,7 +476,8 @@ third_nav_title: Our Staff
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Zetty</p>
+<p><a href="mailto:nur_zetty_abd_kadir@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Nur Zetty</a>
+</p>
 </td>
 </tr>
 <tr>
