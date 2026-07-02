@@ -326,7 +326,7 @@ and the programmes available to develop the area of talent.&nbsp;</p>
 <p>Notification of shortlisted applicants for Audition/Trial/Interview</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3 July 2026</p>
+<p>3 July 2026 - 8 July 2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>An email will be sent.</p>
@@ -350,7 +350,7 @@ and the programmes available to develop the area of talent.&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>21 August 2026 –</p>
-<p>28 September 2026</p>
+<p>28 August 2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>An email will be sent.</p>
