@@ -2,6 +2,8 @@ collections:
   announcements:
     output: true
     order:
+      - N Level Preliminary Examination Timetable & Instructions.md
+      - Term 3 Night Study Programme Schedule.md
       - Principal's Letter to Parents.md
       - 2027 Secondary 3 Subject Options.md
       - DSA Information Session (Online).md
