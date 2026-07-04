@@ -11,16 +11,8 @@ sections:
       key_highlights:
         - title: Announcements & Events
           description: Click here to read more
-          url: /dsa-information-session-online/
+          url: /n-level-preliminary-examination-timetable-instructions/
       variant: image
-  - infopic:
-      title: DSA E-Information Session
-      id: infopic
-      description: 9 May 2026 (Saturday), 10 am - 11 am (ONLINE)
-      button: Click here
-      url: /dsa-information-session-online/
-      image: /images/pl_lite_bulb.jpg
-      alt: Image alt text
   - infopic:
       title: Principal's Letter to Parents
       id: infopic
