@@ -2,6 +2,7 @@ collections:
   announcements:
     output: true
     order:
+      - Term 3 Night Study Programme Schedule.md
       - Principal's Letter to Parents.md
       - 2027 Secondary 3 Subject Options.md
       - DSA Information Session (Online).md
