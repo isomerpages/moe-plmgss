@@ -11,7 +11,7 @@ sections:
       key_highlights:
         - title: Announcements & Events
           description: Click here to read more
-          url: /n-level-preliminary-examination-timetable-instructions/
+          url: /2026-secondary-4e-5n-prelim-examination-timetable/
       variant: image
   - infopic:
       title: Principal's Letter to Parents
