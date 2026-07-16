@@ -8,7 +8,7 @@ description: ""
 and instructions to candidates below.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Timetable___Sec_4G3___5G2_Prelim_Exam_Timetable_2026.pdf" rel="noopener nofollow" target="_blank">Sec 4G3 &amp; 5G2 (4.1 to 4.8) Preliminary Examination Timetable 2026</a>
+<p><a href="/files/Sec_4G3___5G2_Prelim_Exam_Timetable_2026_13_July_26_v2.pdf" rel="noopener nofollow" target="_blank">Sec 4G3 &amp; 5G2 (4.1 to 4.8) Preliminary Examination Timetable 2026 (dated 13 July 2026)</a>
 </p>
 </li>
 <li>
