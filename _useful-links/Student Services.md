@@ -17,8 +17,6 @@ variant: tiptap
 <br>Operating Hours: Monday to Friday, 8.00 am to 3.00 pm, during School Term</p>
 <p>Items Available: Stationery &amp; Textbooks, School socks / shorts, PE
 / PL-Lite / House T-shirt</p>
-<h5>School Canteen</h5>
-<p>Operating Hours: Monday to Friday, 8.00 am to 3.00 pm, during School Term</p>
 <h5>School Dentist at PLMGS (Primary)</h5>
 <p>Contact Number: 8940 7082
 <br>Operating Hours: Wednesday &amp; Thursday, 8.00 am to 5.30 pm; Friday,
