@@ -2,6 +2,7 @@ collections:
   announcements:
     output: true
     order:
+      - MOE Edusave Character & EAGLES 21CC Award Nomination.md
       - 2026 Secondary 4E & 5N Prelim Examination Timetable.md
       - N Level Preliminary Examination Timetable & Instructions.md
       - Term 3 Night Study Programme Schedule.md
