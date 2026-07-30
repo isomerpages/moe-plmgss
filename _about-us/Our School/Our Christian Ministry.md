@@ -83,14 +83,14 @@ to start the new year</p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/plcm01.jpg">
 </div>
-<p><sup><sub>It was an inspiring morning as Dr Tan Lai Yong, a renowned Singaporean medical doctor, educator, and missionary, shared God’s Word at Chapel today. Recognized for his work with marginalized communities and his dedication to teaching about ‘compassion’, Dr Tan shared with the PL-Lites about - The Value of a Friend </sub></sup>
-<br><sup><sub>“Two are better than one, Because they have a good reward for their labor. For if they fall, one will lift up his companion. But woe to him who is alone when he falls, For he has no one to help him up.”</sub></sup>
+<p><sup>It was an inspiring morning as Dr Tan Lai Yong, a renowned Singaporean medical doctor, educator, and missionary, shared God’s Word at Chapel today. Recognized for his work with marginalized communities and his dedication to teaching about ‘compassion’, Dr Tan shared with the PL-Lites about - The Value of a Friend </sup>
+<br><sup>“Two are better than one, Because they have a good reward for their labor. For if they fall, one will lift up his companion. But woe to him who is alone when he falls, For he has no one to help him up.”</sup>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/plcm02.jpg">
 </div>
-<p><sup><sub>Chapel @ PL: What a privilege for our PL-Lites and staff to hear from Ms Lam Bao Yan and Mr Rudy Taslim, about their work among the war refugees in Ukraine. It’s about showing up, meeting needs and extending the love of Jesus!</sub></sup>
+<p><sup>Chapel @ PL: What a privilege for our PL-Lites and staff to hear from Ms Lam Bao Yan and Mr Rudy Taslim, about their work among the war refugees in Ukraine. It’s about showing up, meeting needs and extending the love of Jesus!</sup>
 </p>
 <p><strong>Baccalaureate Services through the years</strong>
 </p>
