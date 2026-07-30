@@ -90,7 +90,11 @@ to start the new year</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/plcm02.jpg">
 </div>
-<p><sup><sub>Chapel @ PL: What a privilege for our PL-Lites and staff to hear from Ms Lam Bao Yan and Mr Rudy Taslim, about their work among the war refugees in Ukraine.  It’s about showing up, meeting needs and extending the love of Jesus!  </sub></sup>
+<p><sup><sub>Chapel @ PL: What a privilege for our PL-Lites and staff to hear from Ms Lam Bao Yan and Mr Rudy Taslim, about their work among the war refugees in Ukraine. It’s about showing up, meeting needs and extending the love of Jesus!</sub></sup>
 </p>
-<p></p>
+<p><strong>Baccalaureate Services through the years</strong>
+</p>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/1j-camxecBBFVstE_jg9z8aL7C1M0r2ef_K9jr7ugEP8/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
 <p></p>
