@@ -89,8 +89,88 @@ formats—narrative, expository, and practical writing.</p>
 across all key skill areas.</p>
 </li>
 </ul>
+<h4><strong>Enrichment and Competitions</strong></h4>
+<p>Our department provides students with diverse opportunities to participate
+in language and cultural competitions at the cluster and national levels.
+Through writing, translation, public speaking, performance, media production
+and language-based challenges, students apply their Mother Tongue Languages
+meaningfully beyond the classroom. These experiences build their confidence
+as communicators, develop creativity and critical thinking, and deepen
+their appreciation of their respective languages and cultural heritage.</p>
+<p><strong>Chinese Language</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>《我来报新闻》挑战赛</p>
+</li>
+<li>
+<p>华文大比拼</p>
+</li>
+<li>
+<p>“与声剧来”中文广播剧创作比赛</p>
+</li>
+<li>
+<p>新蕾奖写作比赛</p>
+</li>
+<li>
+<p>中小学课文朗诵比赛</p>
+</li>
+<li>
+<p>中英文互译比赛</p>
+</li>
+<li>
+<p>全国中学生灯谜比赛</p>
+</li>
+</ul>
+<p><strong>Malay Language</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Rakan Bahasa – Pertandingan TeeVers</p>
+</li>
+<li>
+<p>E5 Cluster Pertandingan Sajak Maya (Virtual Poetry Recitation)</p>
+</li>
+<li>
+<p>3T Translation Competition (Terjemah. Tutur. Tepat.)</p>
+</li>
+<li>
+<p>MLLPC Malay Language Fiesta – <em>1, 2, 3 Aksi!</em> Short Skit Competition</p>
+</li>
+<li>
+<p>E5 Cluster Language and Culture Quiz</p>
+</li>
+<li>
+<p>Berita Harian TikTok Competition</p>
+</li>
+<li>
+<p>Bisikan Pena</p>
+</li>
+<li>
+<p>EDN Peraduan Mengarang&nbsp;</p>
+</li>
+</ul>
+<p><strong>Tamil Language</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Essay Writing Competition</p>
+</li>
+<li>
+<p>Singing Competition</p>
+</li>
+<li>
+<p>Quiz Competition</p>
+</li>
+<li>
+<p>Oratorical Competition</p>
+</li>
+<li>
+<p>National Tamil Debate Series</p>
+</li>
+</ul>
 <h4><strong>Gallery</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/1HerNWM3OGDjUHrU7EM9GkauWk2PlVAZtzLxK6Y23tsI/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/1HerNWM3OGDjUHrU7EM9GkauWk2PlVAZtzLxK6Y23tsI/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p></p>
